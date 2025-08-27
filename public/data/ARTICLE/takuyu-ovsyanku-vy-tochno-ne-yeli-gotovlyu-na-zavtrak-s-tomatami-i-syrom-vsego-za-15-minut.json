@@ -1,0 +1,484 @@
+{
+  "material": {
+    "id": 777816,
+    "editDate": 1756217636906,
+    "title": "Такую овсянку вы точно не ели: готовлю на завтрак с томатами и сыром всего за 15 минут",
+    "type": "ARTICLE",
+    "publishDate": 1756136031920,
+    "urn": "takuyu-ovsyanku-vy-tochno-ne-yeli-gotovlyu-na-zavtrak-s-tomatami-i-syrom-vsego-za-15-minut",
+    "uriFormatVersion": 1,
+    "leadAnnouncement": "Вкусно, как в ресторане!",
+    "tags": [
+      14182
+    ],
+    "rubricId": 154,
+    "previewImage": {
+      "copyright": "shutterstock.com",
+      "image": "27f4/bb38/93c2/4da4/900c/96b7/8246/5b4a/1600_900.jpeg",
+      "imageForMobile": "cd69/acf6/c818/445d/9821/648d/8161/f6a1/900_900.png",
+      "tags": []
+    },
+    "hideInReadBanner": false,
+    "hideComments": false,
+    "advertisingPartnerMaterial": false,
+    "socialNetworkImages": {
+      "vkImage": "e295/742d/bdb2/4686/b80d/5cef/8bc5/54d2/537_302.jpeg",
+      "image": "cd39/3988/79da/4f8d/804d/8baa/19bc/c446/1200_675.jpeg"
+    },
+    "seoTitle": "Такую овсянку вы точно не ели: готовлю на завтрак с томатами и сыром всего за 15 минут",
+    "authors": [
+      {
+        "name": "Евгения",
+        "surname": "Гаева",
+        "image": "7dbb/ba14/3481/4f21/969d/327a/d1e4/772f/160_160.jpeg",
+        "urn": "evgeniya-gaeva",
+        "id": 352
+      }
+    ],
+    "content": [
+      [
+        "p",
+        [
+          [
+            "Привет, на связи Евгения Гаева — кулинарный эксперт Sport24, дипломированный нутрициолог и амбассадор вкусных завтраков. Я люблю экспериментировать, поэтому решила попробовать приготовить нашумевшую несладкую овсянку — с томатами и сыром. Это сочетание сложно представить, но поверьте, вы останетесь в восторге, а ваши вкусовые рецепторы скажут вам спасибо."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "Такое блюдо часто подают в ресторанах, ну а вы можете с легкостью воспроизвести этот шедевр на своей кухне. Для этого, по сути, вам понадобится всего 3 простых и доступных ингредиента и 15 минут свободного времени."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "Такой завтрак надолго обеспечит чувство сытости, даст заряд бодрости и хорошего настроения, а также не вызовет скачков инсулина, в отличие от сладких каш. Пробуйте!"
+          ]
+        ],
+        {}
+      ],
+      [
+        "h3",
+        [
+          [
+            "Овсянка с томатами и сыром: калорийность"
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "Белки — 4,5 г."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "Жиры — 9,5 г."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "Углеводы — 6,5 г."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "Калорийность — 128 г."
+          ]
+        ],
+        {}
+      ],
+      [
+        "h2",
+        [
+          [
+            "Овсянка с томатами и сыром: пошаговый рецепт"
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "img",
+            [],
+            {
+              "src": "56b7/5472/c0b4/47cc/84a6/fcf0/80e3/b029/1600_1067.jpeg",
+              "title": "shutterstock.com",
+              "width": 1600,
+              "notMaxWidth": false
+            }
+          ]
+        ],
+        {}
+      ],
+      [
+        "h4",
+        [
+          [
+            "Ингредиенты"
+          ]
+        ],
+        {}
+      ],
+      [
+        "ul",
+        [
+          [
+            "li",
+            [
+              [
+                "Овсянка — 100 грамм."
+              ]
+            ],
+            {}
+          ],
+          [
+            "li",
+            [
+              [
+                "Сыр твердый (лучше выдержанный) — 50 грамм."
+              ]
+            ],
+            {}
+          ],
+          [
+            "li",
+            [
+              [
+                "Помидоры черри — 10 штук."
+              ]
+            ],
+            {}
+          ],
+          [
+            "li",
+            [
+              [
+                "Чеснок — 1 зубчик."
+              ]
+            ],
+            {}
+          ],
+          [
+            "li",
+            [
+              [
+                "Томатная паста — 1 чайная ложка."
+              ]
+            ],
+            {}
+          ],
+          [
+            "li",
+            [
+              [
+                "Оливковое масло — 2 столовые ложки."
+              ]
+            ],
+            {}
+          ],
+          [
+            "li",
+            [
+              [
+                "Смесь сухих трав — по вкусу."
+              ]
+            ],
+            {}
+          ],
+          [
+            "li",
+            [
+              [
+                "Соль, перец — по вкусу."
+              ]
+            ],
+            {}
+          ]
+        ],
+        {}
+      ],
+      [
+        "h4",
+        [
+          [
+            "Процесс приготовления"
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "1. Овсянку промойте в сотейнике до прозрачной воды, а затем залейте чистой водой так, чтобы она была немного выше крупы. Варите на среднем огне до полуготовности (если на упаковке написано, что крупа варится 20 минут, варите в течение 10 минут)."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "img",
+            [],
+            {
+              "src": "2d7e/dfc7/242b/4ae5/90c3/db1a/90b7/9462/1600_1067.jpeg",
+              "title": "shutterstock.com",
+              "width": 1600,
+              "notMaxWidth": false
+            }
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "2. Пока варится каша, разогрейте на сковороде оливковое масло."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "3. Плоской стороной ножа раздавите очищенный зубчик чеснока — отправьте его на разогретое масло и слегка обжарьте, чтобы он дал аромат. После этого уберите и выкиньте."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "4. Помидоры черри нарежьте на половинки или четвертинки и обжарьте их в чесночном масле буквально пару минут."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "img",
+            [],
+            {
+              "src": "6446/29fc/0cda/422e/989d/2a34/1d02/27d0/1600_1068.jpeg",
+              "title": "shutterstock.com",
+              "width": 1600,
+              "notMaxWidth": false
+            }
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "5. К помидорам добавьте отваренную овсянку, томатную пасту, соль, перец и ароматные травы. Хорошо перемешайте и накройте крышкой — готовьте на медленном огне 5 минут."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "6. Готовую овсянку переложите в тарелки и посыпьте натертым на мелкой терке сыром. По желанию украсьте зеленью."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "7. Также можно подать это блюдо с яйцом пашот (но готовить его лучше одновременно с кашей)."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "strong",
+            [
+              [
+                "Приятного аппетита!"
+              ]
+            ],
+            {}
+          ]
+        ],
+        {}
+      ],
+      [
+        "news",
+        [],
+        {
+          "header": "Готовлю тушеную капусту по рецепту из СССР: вкусно, как в столовой",
+          "newsList": [
+            {
+              "urn": "774671-gotovlyu-tushenuyu-kapustu-po-retseptu-iz-sssr-vkusno-kak-v-stolovoy",
+              "uriFormatVersion": 1,
+              "type": "ARTICLE",
+              "title": "Готовлю тушеную капусту по рецепту из СССР: вкусно, как в столовой",
+              "image": "e1a0/e3e4/406c/43f6/90e9/4028/ca3f/9c8c/1600_900.jpeg",
+              "rubricId": 154
+            }
+          ]
+        }
+      ],
+      [
+        "news",
+        [],
+        {
+          "header": "Как выбрать спелый и сладкий арбуз, не выбросив деньги на ветер: лайфхаки и советы",
+          "newsList": [
+            {
+              "urn": "kak-vybrat-spelyy-i-sladkiy-arbuz-ne-vybrosiv-dengi-na-veter-layfkhaki-i-sovety",
+              "uriFormatVersion": 1,
+              "type": "ARTICLE",
+              "title": "Как выбрать спелый и сладкий арбуз, не выбросив деньги на ветер: лайфхаки и советы",
+              "image": "4a98/b7ca/2c34/4076/9b08/54b9/b0d6/3f8f/1600_900.jpeg",
+              "rubricId": 154
+            }
+          ]
+        }
+      ]
+    ],
+    "rubrics": [
+      154
+    ],
+    "hyperlinkActive": true,
+    "matchbarIncluded": true
+  },
+  "tags": {
+    "items": [
+      {
+        "id": 14182,
+        "editDate": 1714203318580,
+        "creationDate": 1606740714301,
+        "published": true,
+        "archived": false,
+        "title": "Рецепты",
+        "titleShort": "Рецепты",
+        "urn": "diety-retcepty",
+        "rubricId": 154,
+        "tagType": "SIMPLE",
+        "frontConfig": {
+          "hideMatchbar": false,
+          "hideThirdPartyAds": false
+        },
+        "subscribable": true,
+        "hidden": false
+      }
+    ]
+  },
+  "rubrics": {
+    "items": [
+      {
+        "id": 154,
+        "editDate": 1748518204676,
+        "creationDate": 1633531971851,
+        "published": true,
+        "urn": "lifestyle",
+        "name": "Lifestyle",
+        "color": "#64f3c7",
+        "backgroundImageUri": "b541/a1be/a6d0/478d/be57/d66a/222e/c90d/3200_600.jpeg",
+        "mobileBackgroundImageUri": "4cb6/bc5e/4639/44dd/8dc6/33ab/232e/2a26/786_851.jpeg",
+        "videoPagePublished": false,
+        "frontConfig": {
+          "logoSvg": "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M25 7.08001C25 6.40001 24.46 5.85001 23.8 5.85001C23.42 5.85001 23.07 5.67001 22.84 5.36001L21.85 4.01001H10.15L9.16 5.36001C8.93 5.67001 8.58 5.85001 8.2 5.85001C7.54 5.85001 7 6.40001 7 7.08001V8.16001H8.05L10.15 27.02C14.65 28.34 17.35 28.34 21.84 27.02L23.94 8.16001H24.99V7.08001H25ZM20.62 25.93C18.85 26.4 17.41 26.62 16 26.62C14.59 26.62 13.15 26.4 11.38 25.93L9.41 8.15001H22.59L20.62 25.93ZM15.95 19.23C17.94 19.23 19.55 17.58 19.55 15.54C19.55 13.5 17.94 11.85 15.95 11.85C13.96 11.85 12.35 13.5 12.35 15.54C12.35 17.58 13.96 19.23 15.95 19.23ZM15.95 13.23C17.19 13.23 18.2 14.26 18.2 15.54C18.2 16.82 17.19 17.85 15.95 17.85C14.71 17.85 13.7 16.82 13.7 15.54C13.7 14.26 14.71 13.23 15.95 13.23Z\" fill=\"currentColor\"/>\n</svg>\n"
+        }
+      }
+    ]
+  },
+  "hyperlinks": [],
+  "banners": [
+    {
+      "id": 226,
+      "bannerPlace": "BEFORE_FIRST_NEWS_DESKTOP",
+      "bannerType": "HTML",
+      "html": "<div class=\"translation-container\" style=\"display:flex;flex-direction:column;background-color:#F9FBFF;padding:8px;border-radius:4px;position:relative;z-index:0;\">\n    <div style=\"content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 4px; padding: 2px; background: linear-gradient(135deg, #E76005 0%, #FDC626 21%, #EE7907 34%, #FDC626 46%, #C73605 58%, #F4930F 74%, #DD651A 100%);-webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: destination-out; mask-composite: exclude; z-index: -1;\"> </div>\n    <div class=\"translation-title\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top;\"><img src=\"{MEDIA_BASE_URL}/m/6b9e/ce37/a5ae/444b/bdd1/c22f/abcf/f85d.png\" alt=\"play\" style=\"width: 16.29px; height: 16px; color: black; margin-right: 3px;\"/>Владислав Радимов объяснил рискованный прогноз на матч «Балтика» — ЦСКА: «Поэтому я рискну…»</div>\n    <div class=\"translation-title-second\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top; margin-top: -1px;\"></div>\n    <div class=\"translation-info\" style=\"display: flex; font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; font-size: .75rem; margin-top: 6px;\">\n        <div class=\"translation-sport\" style=\"margin-right: 10px; color: #08995c;\">\n            Футбол. Прогноз на Кубок России\n        </div>\n        <div class=\"translation-time\" style=\"color: #A3A3A3;\">\n            13:31\n        </div>\n    </div>\n</div>",
+      "link": "https://sport24.ru/football/news-778704-vladislav-radimov-obyasnil-riskovannyy-prognoz-na-match-baltika-tsska-poetomu-ya-risknu",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    },
+    {
+      "id": 227,
+      "bannerPlace": "BEFORE_FIRST_NEWS_MOBILE",
+      "bannerType": "HTML",
+      "html": "<div class=\"translation-container\" style=\"display:flex;flex-direction:column;background-color:#F9FBFF;padding:8px;border-radius:4px;position:relative;z-index:0;\">\n    <div style=\"content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 4px; padding: 2px; background: linear-gradient(135deg, #E76005 0%, #FDC626 21%, #EE7907 34%, #FDC626 46%, #C73605 58%, #F4930F 74%, #DD651A 100%);-webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: destination-out; mask-composite: exclude; z-index: -1;\"> </div>\n    <div class=\"translation-title\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top;\"><img src=\"{MEDIA_BASE_URL}/m/6b9e/ce37/a5ae/444b/bdd1/c22f/abcf/f85d.png\" alt=\"play\" style=\"width: 16.29px; height: 16px; color: black; margin-right: 3px;\"/>Владислав Радимов объяснил рискованный прогноз на матч «Балтика» — ЦСКА: «Поэтому я рискну…»</div>\n    <div class=\"translation-title-second\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top; margin-top: -1px;\"></div>\n    <div class=\"translation-info\" style=\"display: flex; font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; font-size: .75rem; margin-top: 6px;\">\n        <div class=\"translation-sport\" style=\"margin-right: 10px; color: #08995c;\">\n            Футбол. Прогноз на Кубок России\n        </div>\n        <div class=\"translation-time\" style=\"color: #A3A3A3;\">\n            13:31\n        </div>\n    </div>\n</div>",
+      "link": "https://sport24.ru/football/news-778704-vladislav-radimov-obyasnil-riskovannyy-prognoz-na-match-baltika-tsska-poetomu-ya-risknu",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    },
+    {
+      "id": 228,
+      "bannerPlace": "BEFORE_NEWS_DESKTOP",
+      "bannerType": "HTML",
+      "imageUri": "d7ef/0bb2/9dee/4891/970d/8007/0c81/c1ee/1220_48.png",
+      "html": "<div class=\"doit\">\n  <p style=\"display: none;\">\n   Реклама 18+. erid: F7NfYUJCUneP6Uy8NGYY</p>\n</div>\n\n<style>\n.doit \n  { \nbackground-image: url({MEDIA_BASE_URL}/m/d7ef/0bb2/9dee/4891/970d/8007/0c81/c1ee.png); \nbackground-position: 50% 50%;            \nbackground-repeat:no-repeat;\nmin-block-size: 48px;\nmax-width: 1220px;\nborder-radius: 6px;\nbackground-size: cover\n}\n</style>",
+      "link": "https://p.winline.ru/s/S3DyRJ6_rp?statid=1879_sport24&sub=sport24&sub2=w-center&sub3=mainpage&sub4=football&sub5={YM_CLIENT_ID}&promocode=SPORT24",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    },
+    {
+      "id": 229,
+      "bannerPlace": "BEFORE_NEWS_MOBILE",
+      "bannerType": "HTML",
+      "imageUri": "dabc/f30b/4da6/417f/aa0b/77a8/a1f3/740f/1220_49.png",
+      "html": "<div class=\"doit\">\n  <p style=\"display: none;\">\n   Реклама 18+. erid: F7NfYUJCUneP6Uy8NGYY</p>\n</div>\n\n<style>\n.doit \n  { \nbackground-image: url({MEDIA_BASE_URL}/m/dabc/f30b/4da6/417f/aa0b/77a8/a1f3/740f.png); \nbackground-position: 50% 50%;            \nbackground-repeat:no-repeat;\nmin-block-size: 48px;\nmax-width: 1220px;\nborder-radius: 6px;\nbackground-size: cover\n}\n</style>",
+      "link": "https://p.winline.ru/s/S3DyRJ6_rp?statid=1879_sport24&sub=sport24&sub2=w-center&sub3=mainpage&sub4=football&sub5={YM_CLIENT_ID}&promocode=SPORT24",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    }
+  ],
+  "statistics": {
+    "associations": [],
+    "players": [],
+    "teams": [],
+    "competitions": []
+  },
+  "bookmakers": []
+}

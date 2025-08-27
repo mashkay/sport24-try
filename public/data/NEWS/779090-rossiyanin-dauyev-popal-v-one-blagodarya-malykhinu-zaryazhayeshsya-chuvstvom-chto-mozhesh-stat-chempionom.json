@@ -1,0 +1,475 @@
+{
+  "material": {
+    "id": 779090,
+    "editDate": 1756284555979,
+    "title": "Россиянин Дауев попал в ONE благодаря Малыхину: «Заряжаешься чувством, что можешь стать чемпионом»",
+    "type": "NEWS",
+    "publishDate": 1756283814117,
+    "urn": "779090-rossiyanin-dauyev-popal-v-one-blagodarya-malykhinu-zaryazhayeshsya-chuvstvom-chto-mozhesh-stat-chempionom",
+    "uriFormatVersion": 1,
+    "tags": [
+      25072,
+      13746,
+      25100
+    ],
+    "rubricId": 58,
+    "previewImage": {
+      "copyright": "@anmalykhin",
+      "image": "8e7b/0d07/546b/4189/9293/bd48/8c93/2a67/1600_1081.jpeg",
+      "tags": [
+        25072
+      ]
+    },
+    "hidePreviewImage": true,
+    "hideInReadBanner": false,
+    "hideComments": false,
+    "advertisingPartnerMaterial": false,
+    "superCache": false,
+    "socialNetworkImages": {
+      "vkImage": "ddb1/041e/83ec/4c58/b684/dc23/7ff9/99ce/537_240.png",
+      "image": "2a8b/88e1/8c0c/484d/a8d9/e6db/a9db/e190/1200_630.png"
+    },
+    "authors": [],
+    "content": [
+      [
+        "p",
+        [
+          [
+            "Российский боец ММА Ибрагим Дауев рассказал о своих отношениях с чемпионом ONE Анатолием Малыхиным."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "5 сентября Дауев проведет поединок против Акбара Абдуллаева из Киргизии на турнире ONE Fight Night 35."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "«Я перебрался в Таиланд для тренировок и обратился к Анатолию за помощью. Я попросил вывести меня на кого-нибудь из ONE, он сразу же ответил. В итоге он и его жена Анита помогли мне оказаться в этой лиге."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "Он классный наставник, постоянно дает советы. Его наставления очень на меня повлияли. На тренировках он закаляет твой характер, а по жизни показывает, что важнее всего в любой ситуации оставаться человеком. Тренироваться рядом с чемпионом очень приятно. Так ты заряжаешься ощущением, что сам можешь стать чемпионом», — цитирует Дауева пресс-служба ONE."
+          ]
+        ],
+        {}
+      ]
+    ],
+    "rubrics": [
+      58
+    ],
+    "hyperlinkActive": true,
+    "matchbarIncluded": true
+  },
+  "tags": {
+    "items": [
+      {
+        "id": 25072,
+        "editDate": 1669989651666,
+        "creationDate": 1669989651666,
+        "published": true,
+        "archived": false,
+        "title": "Анатолий Малыхин",
+        "urn": "anatolij-malyhin",
+        "rubricId": 58,
+        "tagType": "PLAYER",
+        "subscribable": true,
+        "hidden": false
+      },
+      {
+        "id": 13746,
+        "editDate": 1669106347377,
+        "creationDate": 1499414204144,
+        "published": true,
+        "archived": false,
+        "title": "ММА",
+        "urn": "mma",
+        "rubricId": 58,
+        "tagType": "SIMPLE",
+        "subscribable": true,
+        "hidden": false
+      },
+      {
+        "id": 25100,
+        "editDate": 1670424191755,
+        "creationDate": 1670423499726,
+        "published": true,
+        "archived": false,
+        "title": "ONE Championship",
+        "urn": "one-fc",
+        "rubricId": 58,
+        "tagType": "COMPETITION",
+        "subscribable": true,
+        "hidden": false
+      }
+    ]
+  },
+  "rubrics": {
+    "items": [
+      {
+        "id": 58,
+        "editDate": 1748518307111,
+        "creationDate": 1489133749383,
+        "published": true,
+        "urn": "mma",
+        "name": "ММА",
+        "color": "#E65050",
+        "logoImageUri": "fbb8/30a8/92ba/3dee/7f56/0b34/f4c6/c8a4/70_70.png",
+        "backgroundImageUri": "2b25/de94/a0b0/2180/c43c/8eed/94e0/09e3/6000_691.jpeg",
+        "mobileBackgroundImageUri": "aa4e/256b/bc50/0e85/a78e/1379/4091/322f/786_851.png",
+        "siteMobileBackgroundImageUri": "9c7b/bb6f/dde0/4af0/bd19/a21c/7f97/4292/3200_369.png",
+        "videoPagePublished": true,
+        "videoPagePriority": 3,
+        "frontConfig": {
+          "logoSvg": "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.66 12.92C25.35 11.15 22.74 9.83 21 9.39C20.46 9.39 19.9 9.45 19.33 9.57L19.69 8.51L14.01 5C9.22001 5 5.30001 8.08 3.99001 11.6V14.24L9.22001 16.88L9.89001 16.53C9.75001 19.3 10.1 21.48 11.83 23.92L14.88 26.56H15.76L16.19 27C19.68 27 24.91 24.81 27.53 21.72C28.42 19.03 27.96 15.12 26.65 12.93L26.66 12.92ZM9.07001 15.33L5.30001 13.43V11.86C6.45001 9.02 9.67001 6.47 13.66 6.33L17.32 8.61C15.78 8.89 14.22 9.64 12.93 10.59C11.27 11.79 9.78001 13.47 9.07001 15.33ZM15.38 25.24L12.82 23.02C12.7 22.85 12.62 22.69 12.51 22.53C13.12 21.97 14 21.52 14.81 21.19C15.63 22.18 15.8 24 15.81 25.24H15.37H15.38ZM26.38 21.06C25.23 22.33 23.53 23.48 21.66 24.32C20.09 25.03 18.48 25.48 17.12 25.63C17.13 25.19 17.12 24.67 17.07 24.08C17.02 23.39 16.89 22.6 16.64 21.86C16.39 21.13 15.97 20.33 15.25 19.79H15.22L11.68 17.27C12.37 15.7 13.63 14.18 15.2 12.98C17 11.61 19.06 10.77 20.84 10.72C21.56 10.92 22.47 11.3 23.35 11.8C23.86 12.1 24.33 12.44 24.74 12.79C23.51 12.97 22.13 13.43 20.83 14.06C19.15 14.88 17.51 16.04 16.55 17.37L17.61 18.15C18.39 17.06 19.81 16.02 21.4 15.25C22.97 14.48 24.59 14.04 25.76 14.03C26.18 14.89 26.5 16.02 26.63 17.28C26.77 18.64 26.68 19.99 26.38 21.07V21.06Z\" fill=\"currentColor\"/>\n</svg>\n"
+        }
+      }
+    ]
+  },
+  "hyperlinks": [
+    {
+      "id": 3874,
+      "title": "Тест Угадай бойца по прозвищу Фонбет",
+      "content": [
+        [
+          "quiz",
+          [],
+          {
+            "urn": "ugaday-boytsa-ufc-test-f"
+          }
+        ]
+      ],
+      "cooldown": 20,
+      "type": "FOOTER",
+      "maxPriority": true,
+      "frontConfig": {}
+    },
+    {
+      "id": 3944,
+      "title": "Анкалаев - Перейра, слайдер Винлайн (доп)",
+      "content": [
+        [
+          "slider",
+          [],
+          {
+            "id": "2001",
+            "question": "Кто победит в реванше?",
+            "leftOptionBefore": "Анкалаев",
+            "rightOptionBefore": "Перейра",
+            "leftLogoImageUri": "65f6/8dfa/b53a/431d/8853/2524/3ccf/ae2d/160_160.png",
+            "rightLogoImageUri": "75d4/f76c/fd96/4097/8a59/6961/b33d/4677/160_160.png",
+            "answer": "Уверен? Тогда забирай бонусные 3000 рублей и ставь на бой!",
+            "buttonText": "СДЕЛАТЬ СТАВКУ С БОНУСОМ",
+            "buttonUrl": "https://p.winline.ru/s/S3DyRJ6_rp?statid=1879_sport24&sub=sport24&sub2=test&sub3=registration&sub4=mmatest010825&sub5=%7BYM_CLIENT_ID%7D&promocode=SPORT24",
+            "leftOptionAfter": "1.40",
+            "rightOptionAfter": "2.59",
+            "leftOptionAfterNotChosen": "1.40",
+            "rightOptionAfterNotChosen": "2.59",
+            "branding": {
+              "logo": "d914/4a0e/5f89/4993/8634/7c82/1d1a/6ec4/231_56.png",
+              "btnBgColor1": "#ef4d02",
+              "btnBgColor2": "#ff9900",
+              "btnTextColor": "#000000",
+              "afterHandlerIcon": "3294/4043/79b1/4748/b39a/5681/d0f1/3015/31_31.png",
+              "beforeHandlerIcon": null,
+              "btnBgGradientDirection": 0
+            },
+            "advertiserCampaignId": 2
+          }
+        ]
+      ],
+      "cooldown": 10,
+      "type": "FOOTER",
+      "maxPriority": true,
+      "frontConfig": {}
+    },
+    {
+      "id": 3945,
+      "title": "Махачев - Маддалена, 3 исхода Олимпбет",
+      "content": [
+        [
+          "threesome",
+          [],
+          {
+            "id": "334",
+            "title": "Как закончится бой Махачева и Маддалены?",
+            "buttonText": "Получить бонус!",
+            "buttonLink": "https://go.sport24.ru/mmatest010825",
+            "leftOption": {
+              "logo": "fe64/4e35/abba/441a/952a/6418/6243/dda8/160_160.png",
+              "title": "ПОБЕДОЙ МАХАЧЕВА",
+              "outcome": "1.33",
+              "result": 77
+            },
+            "middleOption": {
+              "logo": "661b/f14f/0335/47f2/8117/19f4/ce5f/9039/1000_750.png",
+              "title": "НИЧЬЕЙ",
+              "outcome": "70",
+              "result": 9
+            },
+            "rightOption": {
+              "logo": "1b5e/5daa/8243/4ce6/b9cc/afe5/19eb/4ddd/160_160.png",
+              "title": "ПОБЕДОЙ МАДДАЛЕНЫ",
+              "outcome": "3.5",
+              "result": 14
+            },
+            "branding": {
+              "logo": null,
+              "btnBgColor": null,
+              "btnTextColor": null,
+              "scaleBgColor": null
+            },
+            "eventId": null,
+            "loadCoefficient": false,
+            "advertiserCampaignId": 7
+          }
+        ]
+      ],
+      "cooldown": 10,
+      "type": "FOOTER",
+      "maxPriority": true,
+      "frontConfig": {}
+    },
+    {
+      "id": 3537,
+      "title": "SMM. Культура бития",
+      "content": [
+        [
+          "p",
+          [
+            [
+              "strong",
+              [
+                [
+                  "👊 "
+                ]
+              ],
+              {}
+            ],
+            [
+              "a",
+              [
+                [
+                  "strong",
+                  [
+                    [
+                      "Бои — в октагоне, разборы — у нас. Всё самое интересное из мира ММА и бокса: мемы, жаркие обсуждения и эксклюзивные видео. Залетай в Telegram-канал «Культура бития»."
+                    ]
+                  ],
+                  {}
+                ]
+              ],
+              {
+                "href": "https://t.me/+1gVXWotH7dpkYjBi"
+              }
+            ]
+          ],
+          {}
+        ]
+      ],
+      "cooldown": 2500,
+      "type": "FOOTER",
+      "maxPriority": false,
+      "frontConfig": {}
+    }
+  ],
+  "banners": [
+    {
+      "id": 113,
+      "bannerPlace": "MATERIALS_FEED_SECOND_ROW_MOBILE",
+      "bannerType": "HTML",
+      "html": "<style>\n  .bookmaker-rating {\n    display: flex;\n    flex-direction: column;\n    gap: 10px;\n    background-color: #fff;\n  }\n\n  .bookmaker-rating .item {\n    border-radius: 16px;\n    padding: 7px;\n    display: flex;\n    gap: 8px;\n    border: 2px solid var(--bookmaker-color);\n    font-size: 11px;\n    height: 78px;\n  }\n\n  .bookmaker-rating .item:hover {\n    box-shadow: inset 0px 0px 0px 2px var(--bookmaker-color);\n  }\n\n  .bookmaker-rating .item.animated:hover>.arrow svg {\n    animation: moveRightLeft 0.75s infinite linear;\n  }\n\n  .bookmaker-rating .item .logo {\n    flex-shrink: 0;\n  }\n\n  .bookmaker-rating .item .ranking {\n    flex-shrink: 0;\n    position: relative;\n    width: 20px;\n    height: 16px;\n    display: flex;\n    justify-content: center;\n    padding-top: 3px;\n    isolation: isolate;\n    transform: translateY(-7px);\n  }\n\n  .bookmaker-rating .item .ranking svg {\n    position: absolute;\n    top: 0;\n    left: 0;\n  }\n\n  .bookmaker-rating .item .ranking span {\n    font-size: 16px;\n    line-height: 1;\n    font-weight: bold;\n    color: #fff;\n    z-index: 1;\n  }\n\n  .bookmaker-rating .item .review {\n    border-radius: 4px;\n    border: 1px solid #A3A3A3;\n    width: 46px;\n    height: 16px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  .bookmaker-rating .item .review:hover {\n    background-color: #F1BD00;\n    border-color: #000;\n  }\n\n  .bookmaker-rating .item .offer {\n    display: block;\n    line-height: 1.09;\n  }\n\n  .bookmaker-rating .item .rating {\n    border-radius: 4px;\n    border: 1px solid #E99D0F;\n    width: 38px;\n    height: 16px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 2px;\n  }\n\n  .bookmaker-rating .item .arrow {\n    align-self: center;\n    margin-left: auto;\n  }\n\n  @keyframes moveRightLeft {\n    0% {\n      transform: translateX(0);\n    }\n\n    25% {\n      transform: translateX(3px);\n    }\n\n    75% {\n      transform: translateX(-3px);\n    }\n\n    100% {\n      transform: translateX(0);\n    }\n  }\n</style>\n<div class=\"bookmaker-rating\">\n  <div style=\"font-size: 16px;line-height: 1.125;font-weight: bold;margin-bottom: 2px;\">Лучшие букмекеры</div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker1_url%>') window.open('<%=bookmaker1_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker1_color%>\" class=\"item animated\">\n    <div class=\"logo\">\n      <%~bookmaker1_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>1</span>\n        </div>\n        <%=YANDEX_METRICA_ID%>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker1_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && '<%=bookmaker1_urlReview%>') { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker1_urlReview%>', '_blank'); }\" onclick=\"if('<%=bookmaker1_urlReview%>') {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker1_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px;line-height: 1.143;\"><%=bookmaker1_title%></div>\n      <div class=\"offer\"><%=bookmaker1_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker2_url%>') window.open('<%=bookmaker2_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker2_color%>\" class=\"item\">\n    <div class=\"logo\">\n      <%~bookmaker2_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>2</span>\n        </div>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker2_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && '<%=bookmaker2_urlReview%>') { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker2_urlReview%>', '_blank'); }\" onclick=\"if('<%=bookmaker2_urlReview%>') {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker2_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px; line-height: 1.143;\"><%=bookmaker2_title%></div>\n      <div class=\"offer\"><%=bookmaker2_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker3_url%>') window.open('<%=bookmaker3_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker3_color%>\" class=\"item\">\n    <div class=\"logo\">\n      <%~bookmaker3_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>3</span>\n        </div>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker3_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && !['null', 'undefined'].includes('<%=bookmaker3_urlReview%>')) { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker3_urlReview%>', '_blank'); }\" onclick=\"if(!['null', 'undefined'].includes('<%=bookmaker3_urlReview%>')) {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker3_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px; line-height: 1.143;\"><%=bookmaker3_title%></div>\n      <div class=\"offer\"><%=bookmaker3_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n</div>",
+      "link": "https://sport24.ru/tags/top-bookmakers",
+      "frontConfig": {
+        "variables": {
+          "bookmaker1_url": "https://clicks.af-ru2e2e.com/click?offer_id=125&partner_id=11177&landing_id=4898&utm_medium=affiliate&sub_1={sport24}&sub_2={rating_main}&sub_3={vidjet}&sub_4={fb_15k}",
+          "bookmaker2_url": "https://sport24.ru/tags/top-bookmakers",
+          "bookmaker3_url": "https://sport24.ru/tags/top-bookmakers",
+          "bookmaker1_logo": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" fill=\"#E80024\"/>\n<rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" stroke=\"#E80024\" stroke-width=\"3\"/>\n<path d=\"M23.1514 45.8152C23.022 45.9407 22.7019 46 22.1911 46H15.8539C15.1695 46 14.8937 45.6967 15.0367 45.0831L20.1582 22.6866C20.417 21.564 20.8154 20.4798 21.3432 19.4617C21.8745 18.4158 22.5827 17.4745 23.4307 16.6761C24.3365 15.8359 25.3887 15.177 26.5329 14.7342C27.8711 14.2252 29.2877 13.9742 30.7145 14.0021H44.2947C44.6523 14.0021 44.8702 14.0579 44.9519 14.166C45.0337 14.274 45.0098 14.5843 44.8906 15.1003L43.7124 20.2671C43.6682 20.5634 43.5456 20.8424 43.3515 21.0655C43.1437 21.2189 42.8883 21.2921 42.633 21.2712H31.6033C31.0959 21.2537 30.5919 21.3409 30.1186 21.5222C29.7645 21.6582 29.441 21.8673 29.1719 22.1393C28.9404 22.3764 28.7565 22.6553 28.6237 22.9621C28.4977 23.2584 28.3989 23.5617 28.324 23.8755L27.6804 26.7099H39.4252C39.7827 26.7099 39.9973 26.7727 40.0756 26.8912C40.1539 27.0097 40.1301 27.334 40.0109 27.8534L38.9246 32.6054C38.7646 33.3061 38.4036 33.6582 37.8383 33.6582H26.097L23.4817 45.0831C23.4409 45.355 23.3285 45.606 23.1582 45.8152\" fill=\"white\"/>\n</svg>",
+          "bookmaker2_logo": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_861_2)\">\n<g clip-path=\"url(#clip1_861_2)\">\n<path d=\"M60 12.3648V47.6244C60 54.462 54.462 60 47.6268 60H12.3732C12.0588 60 11.754 59.9904 11.4504 59.97C11.2176 59.9496 10.9944 59.9292 10.7604 59.898C10.1904 59.8236 9.6324 59.7108 9.0888 59.562C3.8472 58.122 0 53.3232 0 47.6244V12.3648C0 6.08641 4.6656 0.902412 10.7196 0.102012C10.7304 0.102012 11.2176 0.0408125 11.4504 0.0300125C11.7552 0.00961246 12.0588 1.24622e-05 12.3636 1.24622e-05H47.6172C54.462 -0.00958754 60 5.52841 60 12.3648Z\" fill=\"#141419\"/>\n<path d=\"M44.2692 29.9952C44.2692 45.84 32.028 58.8132 16.5012 60H12.3732C12.0588 60 11.754 59.9904 11.4504 59.97C11.2176 59.9496 10.9944 59.9292 10.7604 59.898C10.1904 59.8236 9.6324 59.7108 9.0888 59.562C3.8472 58.122 0 53.3232 0 47.6244V12.3648C0 6.0864 4.6656 0.9024 10.7196 0.102C10.7304 0.102 11.2176 0.0408 11.4504 0.03C11.7552 0.0096 12.0588 0 12.3636 0H16.4904C32.028 1.1772 44.2692 14.1504 44.2692 29.9952Z\" fill=\"#FF6A13\"/>\n<path d=\"M60.0001 44.1456V15.8448H19.1629C11.2801 15.8448 4.89966 22.1845 4.89966 29.9952C4.89966 37.806 11.2897 44.1456 19.1629 44.1456H60.0001Z\" fill=\"#141419\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M19.1796 17.1959H60V13.9991H19.1796C10.3596 13.9991 3.19678 21.1631 3.19678 29.9843C3.19678 38.8055 10.2444 45.8663 18.9732 45.9815H60V42.7715H19.1796C12.1188 42.7715 6.39358 37.0439 6.39358 29.9831C6.39358 22.9223 12.1188 17.1947 19.1796 17.1947V17.1959Z\" fill=\"white\"/>\n<path d=\"M38.0076 37.6871H35.958C35.5008 37.6871 35.2044 37.3163 35.2908 36.8711L37.7232 23.1287C37.8096 22.6715 38.2416 22.3127 38.6988 22.3127H40.7484C41.2056 22.3127 41.502 22.6835 41.4156 23.1287L38.9832 36.8711C38.8968 37.3163 38.4528 37.6871 38.0076 37.6871Z\" fill=\"white\"/>\n<path d=\"M53.0964 23.1168L51.6516 31.3104L48.762 23.0676C48.6012 22.5984 48.1692 22.314 47.6388 22.314H45.2184C44.7612 22.314 44.3292 22.6848 44.2428 23.13L41.8104 36.8724C41.724 37.3296 42.0204 37.6884 42.4776 37.6884H44.5272C44.9844 37.6884 45.4164 37.3176 45.5028 36.8724L46.9476 28.6908L49.7508 36.9336C49.9116 37.4028 50.3436 37.6872 50.874 37.6872H53.3928C53.85 37.6872 54.282 37.3164 54.3684 36.8712L56.7888 23.1288C56.8752 22.6716 56.5788 22.3128 56.1216 22.3128H54.06C53.616 22.3008 53.1828 22.6584 53.0964 23.1156V23.1168Z\" fill=\"white\"/>\n<path d=\"M27.7692 32.2859V22.9547C27.7692 22.5959 27.4728 22.3115 27.1272 22.3115H24.5964C24.2748 22.3115 23.9796 22.4963 23.8428 22.7939L19.5708 32.2487V22.9547C19.5708 22.5959 19.2864 22.3115 18.9288 22.3115H16.5336C16.176 22.3115 15.8916 22.5959 15.8916 22.9547V37.0439C15.8916 37.4027 16.176 37.6871 16.5336 37.6871H19.8672C20.1888 37.6871 20.484 37.4891 20.6208 37.1927L24.708 27.8867V37.0439C24.708 37.4027 24.9924 37.6871 25.35 37.6871H28.4856C28.8072 37.6871 29.0904 37.5023 29.226 37.2179L35.7456 23.2283C35.9436 22.7963 35.634 22.3139 35.1648 22.3139H32.8188C32.4972 22.3139 32.202 22.4987 32.0652 22.7963L27.768 32.2871L27.7692 32.2859Z\" fill=\"white\"/>\n</g>\n</g>\n<defs>\n<clippath id=\"clip0_861_2\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clippath>\n<clippath id=\"clip1_861_2\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clippath>\n</defs>\n</svg>\n",
+          "bookmaker3_logo": "      <svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" stroke=\"#FFBB00\" stroke-width=\"3\" />\n        <path d=\"M13.4932 19.3946C13.2934 19.2505 13.0027 19.3226 12.8936 19.5566L10.2409 25.9654C9.75036 27.1535 10.0229 28.5217 10.9314 29.4218L15.6735 34.1563H11.0767C10.8042 34.1563 10.6043 34.4264 10.7133 34.6964L13.5659 41.5012C13.9111 42.3293 14.6016 42.9774 15.4555 43.2654L29.0098 47.838C29.6457 48.054 30.3361 48.054 30.9902 47.838L44.5445 43.2654C45.3984 42.9774 46.0889 42.3473 46.4341 41.5012L49.2867 34.6964C49.3957 34.4444 49.214 34.1563 48.9233 34.1563H44.3265L49.0686 29.4398C49.9771 28.5397 50.2496 27.1715 49.7591 25.9834L47.1064 19.5746C47.0155 19.3406 46.7248 19.2505 46.5068 19.4126L43.309 21.8069L43.2726 17.7384C43.2726 16.4782 42.5095 15.3441 41.3649 14.858L34.6968 12.0317C34.4424 11.9237 34.1517 12.1037 34.1517 12.3917V15.056C34.1517 16.0282 34.6059 16.9643 35.369 17.5583L42.2552 22.869V34.1563L29.9909 44.9036L17.7448 34.1563V22.869L24.631 17.5583C25.3941 16.9643 25.8483 16.0462 25.8483 15.056V12.3917C25.8483 12.1037 25.5576 11.9237 25.3032 12.0317L18.6351 14.858C17.4905 15.3441 16.7455 16.4782 16.7274 17.7384L16.691 21.8069L13.4932 19.4126V19.3946Z\" fill=\"#F42525\" />\n      </svg>",
+          "bookmaker1_color": "#DA001B",
+          "bookmaker1_offer": "Фрибет до 15 000 ₽",
+          "bookmaker1_title": "Fonbet",
+          "bookmaker2_color": "#FF6A13",
+          "bookmaker2_offer": "Фрибет 3000 новым игрокам",
+          "bookmaker2_title": "Winline",
+          "bookmaker3_color": "#FFBB00",
+          "bookmaker3_offer": "Фрибет 8 000 ₽ новичкам",
+          "bookmaker3_title": "Olimpbet",
+          "YANDEX_METRICA_ID": "",
+          "bookmaker1_rating": "9.5",
+          "bookmaker2_rating": "8.9",
+          "bookmaker3_rating": "8.9",
+          "bookmaker1_urlReview": "https://sport24.ru/tags/FONBET",
+          "bookmaker2_urlReview": "https://sport24.ru/tags/Winline",
+          "bookmaker3_urlReview": "https://sport24.ru/tags/OLIMPBET"
+        },
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 81
+    },
+    {
+      "id": 114,
+      "bannerPlace": "MATERIALS_FEED_SECOND_ROW_DESKTOP",
+      "bannerType": "HTML",
+      "html": "<style>\n  .bookmaker-rating {\n    display: flex;\n    flex-direction: column;\n    gap: 10px;\n    background-color: #fff;\n  }\n\n  .bookmaker-rating .item {\n    border-radius: 16px;\n    padding: 7px;\n    display: flex;\n    gap: 8px;\n    border: 2px solid var(--bookmaker-color);\n    font-size: 11px;\n    height: 78px;\n  }\n\n  .bookmaker-rating .item:hover {\n    box-shadow: inset 0px 0px 0px 2px var(--bookmaker-color);\n  }\n\n  .bookmaker-rating .item.animated:hover>.arrow svg {\n    animation: moveRightLeft 0.75s infinite linear;\n  }\n\n  .bookmaker-rating .item .logo {\n    flex-shrink: 0;\n  }\n\n  .bookmaker-rating .item .ranking {\n    flex-shrink: 0;\n    position: relative;\n    width: 20px;\n    height: 16px;\n    display: flex;\n    justify-content: center;\n    padding-top: 3px;\n    isolation: isolate;\n    transform: translateY(-7px);\n  }\n\n  .bookmaker-rating .item .ranking svg {\n    position: absolute;\n    top: 0;\n    left: 0;\n  }\n\n  .bookmaker-rating .item .ranking span {\n    font-size: 16px;\n    line-height: 1;\n    font-weight: bold;\n    color: #fff;\n    z-index: 1;\n  }\n\n  .bookmaker-rating .item .review {\n    border-radius: 4px;\n    border: 1px solid #A3A3A3;\n    width: 46px;\n    height: 16px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  .bookmaker-rating .item .review:hover {\n    background-color: #F1BD00;\n    border-color: #000;\n  }\n\n  .bookmaker-rating .item .offer {\n    display: block;\n    line-height: 1.09;\n  }\n\n  .bookmaker-rating .item .rating {\n    border-radius: 4px;\n    border: 1px solid #E99D0F;\n    width: 38px;\n    height: 16px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 2px;\n  }\n\n  .bookmaker-rating .item .arrow {\n    align-self: center;\n    margin-left: auto;\n  }\n\n  @keyframes moveRightLeft {\n    0% {\n      transform: translateX(0);\n    }\n\n    25% {\n      transform: translateX(3px);\n    }\n\n    75% {\n      transform: translateX(-3px);\n    }\n\n    100% {\n      transform: translateX(0);\n    }\n  }\n</style>\n<div class=\"bookmaker-rating\">\n  <div style=\"font-size: 16px;line-height: 1.125;font-weight: bold;margin-bottom: 2px;\">Лучшие букмекеры</div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker1_url%>') window.open('<%=bookmaker1_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker1_color%>\" class=\"item animated\">\n    <div class=\"logo\">\n      <%~bookmaker1_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>1</span>\n        </div>\n        <%=YANDEX_METRICA_ID%>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker1_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && '<%=bookmaker1_urlReview%>') { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker1_urlReview%>', '_blank'); }\" onclick=\"if('<%=bookmaker1_urlReview%>') {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker1_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px;line-height: 1.143;\"><%=bookmaker1_title%></div>\n      <div class=\"offer\"><%=bookmaker1_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker2_url%>') window.open('<%=bookmaker2_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker2_color%>\" class=\"item\">\n    <div class=\"logo\">\n      <%~bookmaker2_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>2</span>\n        </div>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker2_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && '<%=bookmaker2_urlReview%>') { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker2_urlReview%>', '_blank'); }\" onclick=\"if('<%=bookmaker2_urlReview%>') {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker2_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px; line-height: 1.143;\"><%=bookmaker2_title%></div>\n      <div class=\"offer\"><%=bookmaker2_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker3_url%>') window.open('<%=bookmaker3_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker3_color%>\" class=\"item\">\n    <div class=\"logo\">\n      <%~bookmaker3_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>3</span>\n        </div>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker3_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && !['null', 'undefined'].includes('<%=bookmaker3_urlReview%>')) { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker3_urlReview%>', '_blank'); }\" onclick=\"if(!['null', 'undefined'].includes('<%=bookmaker3_urlReview%>')) {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker3_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px; line-height: 1.143;\"><%=bookmaker3_title%></div>\n      <div class=\"offer\"><%=bookmaker3_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n</div>",
+      "link": "https://sport24.ru/tags/top-bookmakers",
+      "frontConfig": {
+        "variables": {
+          "bookmaker1_url": "https://clicks.af-ru2e2e.com/click?offer_id=125&partner_id=11177&landing_id=4898&utm_medium=affiliate&sub_1={sport24}&sub_2={rating_main}&sub_3={vidjet}&sub_4={fb_15k}",
+          "bookmaker2_url": "https://sport24.ru/tags/top-bookmakers",
+          "bookmaker3_url": "https://sport24.ru/tags/top-bookmakers",
+          "bookmaker1_logo": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" fill=\"#E80024\"/>\n<rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" stroke=\"#E80024\" stroke-width=\"3\"/>\n<path d=\"M23.1514 45.8152C23.022 45.9407 22.7019 46 22.1911 46H15.8539C15.1695 46 14.8937 45.6967 15.0367 45.0831L20.1582 22.6866C20.417 21.564 20.8154 20.4798 21.3432 19.4617C21.8745 18.4158 22.5827 17.4745 23.4307 16.6761C24.3365 15.8359 25.3887 15.177 26.5329 14.7342C27.8711 14.2252 29.2877 13.9742 30.7145 14.0021H44.2947C44.6523 14.0021 44.8702 14.0579 44.9519 14.166C45.0337 14.274 45.0098 14.5843 44.8906 15.1003L43.7124 20.2671C43.6682 20.5634 43.5456 20.8424 43.3515 21.0655C43.1437 21.2189 42.8883 21.2921 42.633 21.2712H31.6033C31.0959 21.2537 30.5919 21.3409 30.1186 21.5222C29.7645 21.6582 29.441 21.8673 29.1719 22.1393C28.9404 22.3764 28.7565 22.6553 28.6237 22.9621C28.4977 23.2584 28.3989 23.5617 28.324 23.8755L27.6804 26.7099H39.4252C39.7827 26.7099 39.9973 26.7727 40.0756 26.8912C40.1539 27.0097 40.1301 27.334 40.0109 27.8534L38.9246 32.6054C38.7646 33.3061 38.4036 33.6582 37.8383 33.6582H26.097L23.4817 45.0831C23.4409 45.355 23.3285 45.606 23.1582 45.8152\" fill=\"white\"/>\n</svg>",
+          "bookmaker2_logo": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_861_2)\">\n<g clip-path=\"url(#clip1_861_2)\">\n<path d=\"M60 12.3648V47.6244C60 54.462 54.462 60 47.6268 60H12.3732C12.0588 60 11.754 59.9904 11.4504 59.97C11.2176 59.9496 10.9944 59.9292 10.7604 59.898C10.1904 59.8236 9.6324 59.7108 9.0888 59.562C3.8472 58.122 0 53.3232 0 47.6244V12.3648C0 6.08641 4.6656 0.902412 10.7196 0.102012C10.7304 0.102012 11.2176 0.0408125 11.4504 0.0300125C11.7552 0.00961246 12.0588 1.24622e-05 12.3636 1.24622e-05H47.6172C54.462 -0.00958754 60 5.52841 60 12.3648Z\" fill=\"#141419\"/>\n<path d=\"M44.2692 29.9952C44.2692 45.84 32.028 58.8132 16.5012 60H12.3732C12.0588 60 11.754 59.9904 11.4504 59.97C11.2176 59.9496 10.9944 59.9292 10.7604 59.898C10.1904 59.8236 9.6324 59.7108 9.0888 59.562C3.8472 58.122 0 53.3232 0 47.6244V12.3648C0 6.0864 4.6656 0.9024 10.7196 0.102C10.7304 0.102 11.2176 0.0408 11.4504 0.03C11.7552 0.0096 12.0588 0 12.3636 0H16.4904C32.028 1.1772 44.2692 14.1504 44.2692 29.9952Z\" fill=\"#FF6A13\"/>\n<path d=\"M60.0001 44.1456V15.8448H19.1629C11.2801 15.8448 4.89966 22.1845 4.89966 29.9952C4.89966 37.806 11.2897 44.1456 19.1629 44.1456H60.0001Z\" fill=\"#141419\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M19.1796 17.1959H60V13.9991H19.1796C10.3596 13.9991 3.19678 21.1631 3.19678 29.9843C3.19678 38.8055 10.2444 45.8663 18.9732 45.9815H60V42.7715H19.1796C12.1188 42.7715 6.39358 37.0439 6.39358 29.9831C6.39358 22.9223 12.1188 17.1947 19.1796 17.1947V17.1959Z\" fill=\"white\"/>\n<path d=\"M38.0076 37.6871H35.958C35.5008 37.6871 35.2044 37.3163 35.2908 36.8711L37.7232 23.1287C37.8096 22.6715 38.2416 22.3127 38.6988 22.3127H40.7484C41.2056 22.3127 41.502 22.6835 41.4156 23.1287L38.9832 36.8711C38.8968 37.3163 38.4528 37.6871 38.0076 37.6871Z\" fill=\"white\"/>\n<path d=\"M53.0964 23.1168L51.6516 31.3104L48.762 23.0676C48.6012 22.5984 48.1692 22.314 47.6388 22.314H45.2184C44.7612 22.314 44.3292 22.6848 44.2428 23.13L41.8104 36.8724C41.724 37.3296 42.0204 37.6884 42.4776 37.6884H44.5272C44.9844 37.6884 45.4164 37.3176 45.5028 36.8724L46.9476 28.6908L49.7508 36.9336C49.9116 37.4028 50.3436 37.6872 50.874 37.6872H53.3928C53.85 37.6872 54.282 37.3164 54.3684 36.8712L56.7888 23.1288C56.8752 22.6716 56.5788 22.3128 56.1216 22.3128H54.06C53.616 22.3008 53.1828 22.6584 53.0964 23.1156V23.1168Z\" fill=\"white\"/>\n<path d=\"M27.7692 32.2859V22.9547C27.7692 22.5959 27.4728 22.3115 27.1272 22.3115H24.5964C24.2748 22.3115 23.9796 22.4963 23.8428 22.7939L19.5708 32.2487V22.9547C19.5708 22.5959 19.2864 22.3115 18.9288 22.3115H16.5336C16.176 22.3115 15.8916 22.5959 15.8916 22.9547V37.0439C15.8916 37.4027 16.176 37.6871 16.5336 37.6871H19.8672C20.1888 37.6871 20.484 37.4891 20.6208 37.1927L24.708 27.8867V37.0439C24.708 37.4027 24.9924 37.6871 25.35 37.6871H28.4856C28.8072 37.6871 29.0904 37.5023 29.226 37.2179L35.7456 23.2283C35.9436 22.7963 35.634 22.3139 35.1648 22.3139H32.8188C32.4972 22.3139 32.202 22.4987 32.0652 22.7963L27.768 32.2871L27.7692 32.2859Z\" fill=\"white\"/>\n</g>\n</g>\n<defs>\n<clippath id=\"clip0_861_2\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clippath>\n<clippath id=\"clip1_861_2\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clippath>\n</defs>\n</svg>\n",
+          "bookmaker3_logo": "      <svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" stroke=\"#FFBB00\" stroke-width=\"3\" />\n        <path d=\"M13.4932 19.3946C13.2934 19.2505 13.0027 19.3226 12.8936 19.5566L10.2409 25.9654C9.75036 27.1535 10.0229 28.5217 10.9314 29.4218L15.6735 34.1563H11.0767C10.8042 34.1563 10.6043 34.4264 10.7133 34.6964L13.5659 41.5012C13.9111 42.3293 14.6016 42.9774 15.4555 43.2654L29.0098 47.838C29.6457 48.054 30.3361 48.054 30.9902 47.838L44.5445 43.2654C45.3984 42.9774 46.0889 42.3473 46.4341 41.5012L49.2867 34.6964C49.3957 34.4444 49.214 34.1563 48.9233 34.1563H44.3265L49.0686 29.4398C49.9771 28.5397 50.2496 27.1715 49.7591 25.9834L47.1064 19.5746C47.0155 19.3406 46.7248 19.2505 46.5068 19.4126L43.309 21.8069L43.2726 17.7384C43.2726 16.4782 42.5095 15.3441 41.3649 14.858L34.6968 12.0317C34.4424 11.9237 34.1517 12.1037 34.1517 12.3917V15.056C34.1517 16.0282 34.6059 16.9643 35.369 17.5583L42.2552 22.869V34.1563L29.9909 44.9036L17.7448 34.1563V22.869L24.631 17.5583C25.3941 16.9643 25.8483 16.0462 25.8483 15.056V12.3917C25.8483 12.1037 25.5576 11.9237 25.3032 12.0317L18.6351 14.858C17.4905 15.3441 16.7455 16.4782 16.7274 17.7384L16.691 21.8069L13.4932 19.4126V19.3946Z\" fill=\"#F42525\" />\n      </svg>",
+          "bookmaker1_color": "#DA001B",
+          "bookmaker1_offer": "Фрибет до 15 000 ₽",
+          "bookmaker1_title": "Fonbet",
+          "bookmaker2_color": "#FF6A13",
+          "bookmaker2_offer": "Фрибет 3000 новым игрокам",
+          "bookmaker2_title": "Winline",
+          "bookmaker3_color": "#FFBB00",
+          "bookmaker3_offer": "Фрибет 8 000 ₽ новичкам",
+          "bookmaker3_title": "Olimpbet",
+          "YANDEX_METRICA_ID": "",
+          "bookmaker1_rating": "9.5",
+          "bookmaker2_rating": "8.9",
+          "bookmaker3_rating": "8.9",
+          "bookmaker1_urlReview": "https://sport24.ru/tags/FONBET",
+          "bookmaker2_urlReview": "https://sport24.ru/tags/Winline",
+          "bookmaker3_urlReview": "https://sport24.ru/tags/OLIMPBET"
+        },
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 81
+    }
+  ],
+  "statistics": {
+    "associations": [],
+    "players": [
+      {
+        "id": 168387,
+        "urn": "anatolij-malyhin",
+        "firstName": "Анатолий ",
+        "lastName": "Малыхин",
+        "logos": {
+          "default": "9b1d/06dc/c53a/4e1e/a4c8/6c80/e043/5e39/160_160.png"
+        },
+        "citizenships": [
+          {
+            "titleRu": "Россия",
+            "alpha2": "RU",
+            "alpha3": "RUS",
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.AreaStateConfig",
+              "logos": {
+                "default": "ed07/bba5/aa3c/d2f0/528c/fb14/94d8/f7c6/1024_683.png"
+              },
+              "alwaysUseLogo": false
+            },
+            "id": 225
+          }
+        ],
+        "fullName": "Анатолий Малыхин",
+        "gender": "MALE",
+        "region": {
+          "thumbnail": "ed07/bba5/aa3c/d2f0/528c/fb14/94d8/f7c6/1024_683.png",
+          "iso": "RU",
+          "title": "Россия",
+          "alwaysUseLogo": false
+        },
+        "teams": [],
+        "sport": {
+          "id": 4,
+          "urn": "mma",
+          "titleRu": "ММА",
+          "priority": 96
+        }
+      }
+    ],
+    "teams": [],
+    "competitions": [
+      {
+        "id": 1458,
+        "urn": "one-fc",
+        "title": "ONE Championship",
+        "titleShort": "ONE Championship",
+        "leagueType": "COMBAT",
+        "longTitle": "ONE Championship",
+        "sport": {
+          "id": 4,
+          "title": "ММА",
+          "urn": "mma",
+          "name": "ММА",
+          "frontConfig": {
+            "logos": {
+              "default": "a5e2/25df/dc06/442a/b013/2eb3/8929/10c5/500_500.png"
+            },
+            "@class": "ru.sport24.hub.repository.model.config.CompetitionConfig",
+            "socials": {},
+            "fakeLive": false,
+            "siteBackgrounds": {
+              "default": "e9a0/6744/a9c0/457e/b246/7d98/557d/a7dd/3200_600.png"
+            },
+            "mobileBackgrounds": {
+              "default": "be23/7c4e/60e7/47f6/b681/aaf3/c354/aca8/786_851.png"
+            },
+            "publishedTopWidget": false,
+            "publishedStatisticsTab": false,
+            "publishedHomeAwayStatistics": true
+          }
+        },
+        "seasons": [
+          {
+            "id": 12232,
+            "urn": "one-champinship-2022",
+            "title": "ONE Championship",
+            "year": "2022/24",
+            "actual": true,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {
+                "default": "12fc/85a5/ccdb/407b/a1a2/796d/8016/4a22/147_147.png"
+              },
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          }
+        ],
+        "frontConfig": {
+          "@class": "ru.sport24.hub.repository.model.config.CompetitionConfig",
+          "logos": {
+            "default": "a5e2/25df/dc06/442a/b013/2eb3/8929/10c5/500_500.png"
+          },
+          "mobileBackgrounds": {
+            "default": "be23/7c4e/60e7/47f6/b681/aaf3/c354/aca8/786_851.png"
+          },
+          "siteBackgrounds": {
+            "default": "e9a0/6744/a9c0/457e/b246/7d98/557d/a7dd/3200_600.png"
+          },
+          "socials": {},
+          "publishedTopWidget": false,
+          "publishedStatisticsTab": false,
+          "fakeLive": false,
+          "publishedHomeAwayStatistics": true,
+          "playoffSeries": false
+        }
+      }
+    ]
+  },
+  "bookmakers": []
+}

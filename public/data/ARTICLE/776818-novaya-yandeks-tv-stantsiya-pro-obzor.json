@@ -1,0 +1,454 @@
+{
+  "material": {
+    "id": 776818,
+    "editDate": 1756068080651,
+    "title": "Новая Яндекс ТВ Станция Про — теперь у нее 144-герцевый MiniLED экран, акустика 50 Вт и поддержка Zigbee-устройств",
+    "type": "ARTICLE",
+    "publishDate": 1756065777710,
+    "urn": "776818-novaya-yandeks-tv-stantsiya-pro-obzor",
+    "uriFormatVersion": 1,
+    "leadAnnouncement": "А еще улучшенный софт с AI-функциями.",
+    "tags": [
+      13895,
+      27070
+    ],
+    "rubricId": 64,
+    "previewImage": {
+      "copyright": "Sport24",
+      "image": "583d/27b3/386b/40ad/9c35/0c30/6f8b/dfe0/1600_900.jpeg",
+      "imageForMobile": "2dbf/c913/6b04/494f/ad20/36da/5011/2679/900_900.png",
+      "tags": []
+    },
+    "hideInReadBanner": false,
+    "hideComments": false,
+    "advertisingPartnerMaterial": false,
+    "socialNetworkImages": {
+      "vkImage": "ec0b/bbfb/b3a6/4d6c/b573/3599/5e61/3de3/537_302.jpeg",
+      "image": "9a83/fc29/7c98/407c/bc72/fc10/4d52/b892/1200_675.jpeg"
+    },
+    "seoTitle": "Яндекс ТВ Станция Про MiniLED — обзор смарт тв, характеристики, цена",
+    "authors": [
+      {
+        "name": "Антон",
+        "surname": "Быков",
+        "image": "345f/d7bb/f293/ec9f/e013/07fb/2db3/258a/56_56.jpeg",
+        "urn": "anton-bykov",
+        "id": 276
+      }
+    ],
+    "content": [
+      [
+        "p",
+        [
+          [
+            "За три года с момента появления первой ТВ Станции от Яндекса вышло множество ее вариаций и масштабных обновлений. Производитель движется от обычных Смарт ТВ в сторону многофункциональных устройств, которые объединяют в себе возможности AI-телевизора и умной колонки с Алисой. Новая MiniLED Станция Про получила яркий экран с игровой частотой, мощную аудиосистему и самую большую в сегменте диагональ. У нее прокачан софт и добавлены удобные элементы управления, что позволяет ей выполнять роль мультимедийного центра и хаба умного дома. Выясняем все ее фишки и особенности."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "img",
+            [],
+            {
+              "src": "5ffd/1a88/8425/4b19/879b/f103/2197/490a/1600_900.jpeg",
+              "title": "@Яндекс",
+              "width": 1600,
+              "notMaxWidth": false
+            }
+          ]
+        ],
+        {}
+      ],
+      [
+        "h2",
+        [
+          [
+            "Характеристики Яндекс ТВ Станция Про MiniLED"
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "Новинка предлагает размерный ряд из трех диагоналей: 55, 65 и 75 дюймов. Толщина устройства не превышает 7,9 см, а вес варьируется от 12,8 до 24,9 кг в зависимости от размера. Любой из аппаратов можно установить на комплектные ножки или повесить на стену при помощи крепления VESA 300х300 или 400х300 мм."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "img",
+            [],
+            {
+              "src": "6446/3853/d3f1/40d3/83ba/e91b/5b98/d78b/1600_1255.jpeg",
+              "title": "Sport24",
+              "width": 1600,
+              "notMaxWidth": false
+            }
+          ]
+        ],
+        {}
+      ],
+      [
+        "h3",
+        [
+          [
+            "Экран"
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "В новой станции впервые установлена MiniLED-панель с ультраплавной частотой 144 Гц и впечатляющей яркостью до 1300 нит у старших моделей. Экран с разрешением 4K Ultra HD использует VA-матрицу и поддерживает формат Dolby Vision. Это дает высокую контрастность 5000:1 и насыщенную, но в то же время реалистичную цветопередачу, а подсветка KSF QLED расширяет цветовой охват до 93% P3. За оптимизацию изображения отвечает фирменная технология AI PQ от Яндекса. С помощью искусственного интеллекта она анализирует свойства контента и автоматически меняет настройки его отображения. Также есть функция MEMC, которая обеспечивает четкую картинку в динамичных сценах."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "img",
+            [],
+            {
+              "src": "31c3/1721/ae08/49d3/a5c5/b47c/8466/7090/1600_1019.jpeg",
+              "title": "Sport24",
+              "width": 1600,
+              "notMaxWidth": false
+            }
+          ]
+        ],
+        {}
+      ],
+      [
+        "h3",
+        [
+          [
+            "Звук и подключения"
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "В Станции Про MiniLED серьезно прокачали акустическую систему, опираясь на опыт создания умных колонок. Стереозвук обеспечивают 4 динамика c Dolby Audio — по 2 широкополосных и высокочастотных — и 20-ваттный сабвуфер для насыщенных басов. Общая мощность встроенной аудиосистемы составляет 50 Вт, а фирменная технология Yandex AQ следит за сбалансированным звучанием. Корпус телевизора претерпел конструктивные изменения для безупречной работы столь мощной акустики. Доступ к голосовому управлению из любой точки комнаты обеспечивают 4 микрофона дальнего поля, которые при необходимости можно аппаратно отключать. Набор разъемов состоит из трех входов HDMI 2.1, двух USB-A, Ethernet-порта для подключения интернета через кабель и миниджека для наушников. Есть оптический аудиовыход, через который можно вывести звук на внешние колонки или домашний кинотеатр. За беспроводные соединения отвечают Wi-Fi 5 и BT 5.1."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "img",
+            [],
+            {
+              "src": "9bb4/aec4/c035/4a58/ae10/dd0d/2879/ff33/1600_1080.jpeg",
+              "title": "Sport24",
+              "width": 1600,
+              "notMaxWidth": false
+            }
+          ]
+        ],
+        {}
+      ],
+      [
+        "h3",
+        [
+          [
+            "AI-функции"
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "Станция Про MiniLED работает на платформе YaOS X с обновленным функционалом. Теперь с помощью голосовых команд можно управлять сторонними приложениями и интерфейсом. Нейропроцессор и AI-ассистент анализируют контекст речи и происходящее на экране, что позволяет совершать намного больше пользовательских действий. Алиса использует нейросеть YandexGPT и способна к взаимодействию. Она поможет вспомнить название фильма и обсудит с вами просмотренную передачу, а также предложит ребенку отвлечься от мультиков на полезный интерактив. Спортивные трансляции собраны в отдельный раздел «Спорт» в боковом меню, а еще появились новые виджеты. Теперь за показаниями датчиков умного дома можно следить на главном экране в режиме реального времени. За производительность устройства отвечают 4 ГБ оперативной памяти, а для хранения приложений доступны 32 ГБ на борту."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "img",
+            [],
+            {
+              "src": "fda2/0c85/5def/4569/bfb1/e8be/3642/1b12/1600_1396.jpeg",
+              "title": "Sport24",
+              "width": 1600,
+              "notMaxWidth": false
+            }
+          ]
+        ],
+        {}
+      ],
+      [
+        "h3",
+        [
+          [
+            "Фишки для геймеров"
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "Алиса теперь разбирается в играх. Она понимает, во что вы сейчас играете, анализирует происходящее в реальном времени и дает подсказки. AI-ассистент по запросу поможет пройти уровень, выбрать оптимальную стратегию, разобраться с навигацией, крафтом и персонажами. Есть функция перевода текста с английского на русский язык прямо с экрана. Помощник совместим с игровыми консолями PS, Xbox и Nintendo Switch, а также с облачными платформами VK Play Cloud и МТС FOG Play. Пока этот раздел софта работает в beta-версии, но при последующих обновлениях будет прокачан. Планируется поддержка ПК-игр через HDMI-подключение и расширение списка доступных команд."
+          ]
+        ],
+        {}
+      ],
+      [
+        "h2",
+        [
+          [
+            "Цена ТВ-Станции"
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "Новинка только что появилась в продаже на Яндекс.Маркете во всех трех диагоналях. При покупке действует "
+          ],
+          [
+            "strong",
+            [
+              [
+                "промокод NOW500"
+              ]
+            ],
+            {}
+          ],
+          [
+            " на скидку, а также система рассрочки платежей без переплаты. Сейчас "
+          ],
+          [
+            "a",
+            [
+              [
+                "Станция Про MiniLED в младшем размере 55 дюймов стоит 74 999 рублей"
+              ]
+            ],
+            {
+              "href": "https://market.yandex.ru/cc/7SSr3R?erid=5jtCeReNx12oajvGYVGWkz5"
+            }
+          ],
+          [
+            ". 65-дюймовая панель обойдется в 100 тысяч, а флагмана линейки с огромным экраном в 75 дюймов оценили в 126 332 рубля. Покупатели получают годовую гарантию на работу устройства."
+          ]
+        ],
+        {}
+      ],
+      [
+        "yamarket",
+        [],
+        {
+          "yaParams": {
+            "type": "offers",
+            "params": {
+              "clid": 2717128,
+              "erid": "5jtCeReNx12oajvGYVGWkz5",
+              "themeId": 2,
+              "searchSkuIds": [
+                "103768164785"
+              ]
+            },
+            "containerId": "marketWidget"
+          }
+        }
+      ],
+      [
+        "news",
+        [],
+        {
+          "header": "Яндекс ТВ-Станции «Бейсик» и «Про»",
+          "newsList": [
+            {
+              "urn": "704364-yandeks-tv-stantsiya-beysik-43-50-55-65-dyuymov-obzor-kharakteristiki-tsena",
+              "uriFormatVersion": 1,
+              "type": "ARTICLE",
+              "title": "Новую Яндекс ТВ Станцию Бейсик предлагают от 27800: экран 4К от 43 до 65 дюймов с мощным звуком, Алисой и YandexGPT",
+              "image": "aa46/0916/8577/44ac/bb78/24c9/4862/054d/1600_900.jpeg",
+              "rubricId": 64
+            },
+            {
+              "urn": "yandeks-tv-stantsiya-pro-55-obzor-kharakteristiki-tsena-kupit-otzyvy",
+              "uriFormatVersion": 1,
+              "type": "ARTICLE",
+              "title": "Топовая Яндекс ТВ Станция Про: больше, чем просто смарт ТВ — QLED-экран, 3 ГБ ОЗУ и управление с Алисой без пульта",
+              "image": "181c/70b6/3fa7/4bf6/a5e0/5662/3522/310d/1600_900.jpeg",
+              "rubricId": 154
+            }
+          ]
+        }
+      ],
+      [
+        "p",
+        [
+          [
+            "Реклама. ООО «Яндекс Маркет», ИНН 9 704 254 424, erid: 5jtCeReNx12oajvGYVGWkz5"
+          ]
+        ],
+        {
+          "small": true
+        }
+      ]
+    ],
+    "rubrics": [
+      64,
+      154
+    ],
+    "hyperlinkActive": true,
+    "matchbarIncluded": true
+  },
+  "tags": {
+    "items": [
+      {
+        "id": 13895,
+        "editDate": 1670756907986,
+        "creationDate": 1606740750905,
+        "published": true,
+        "archived": false,
+        "title": "Гаджеты",
+        "urn": "gadzhety",
+        "rubricId": 154,
+        "tagType": "SIMPLE",
+        "subscribable": true,
+        "hidden": false
+      },
+      {
+        "id": 27070,
+        "editDate": 1711875581817,
+        "creationDate": 1711875581817,
+        "published": true,
+        "archived": false,
+        "title": "Смарт ТВ",
+        "titleShort": "Смарт ТВ",
+        "urn": "smart-tv",
+        "rubricId": 154,
+        "tagType": "SIMPLE",
+        "frontConfig": {
+          "hideMatchbar": true,
+          "hideThirdPartyAds": false
+        },
+        "subscribable": true,
+        "hidden": false
+      }
+    ]
+  },
+  "rubrics": {
+    "items": [
+      {
+        "id": 64,
+        "editDate": 1748518440831,
+        "creationDate": 1488742908840,
+        "published": true,
+        "urn": "cybersport",
+        "name": "Игры и киберспорт",
+        "color": "#5F29CC",
+        "logoImageUri": "e601/e4d9/b9d6/8e42/bd27/fd3d/b5f0/4c56/70_70.png",
+        "backgroundImageUri": "be13/124f/4e18/c64a/235f/ba72/3cff/da32/2732_313.jpeg",
+        "videoPagePublished": false,
+        "frontConfig": {
+          "logoSvg": "<svg id=\"_Слой_1\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\">\n  <path class=\"cls-1\" d=\"M25.17,10.16c-.26-.52-.79-.85-1.13-1.04-.4-.22-.87-.42-1.32-.57-.45-.16-.92-.29-1.33-.38-.39-.09-.81-.16-1.14-.16-.59,0-1.1.32-1.36.51-.33.23-.65.52-.91.78-.22.22-.43.44-.59.62h-2.8c-.16-.18-.36-.4-.59-.62-.26-.26-.58-.55-.91-.78-.27-.19-.77-.51-1.36-.51-.33,0-.75.07-1.14.16-.41.09-.88.22-1.33.38s-.92.35-1.32.57c-.34.19-.86.52-1.13,1.04-1.63,3.22-2.83,6.72-2.83,9.27,0,.42.12.9.26,1.31.15.44.36.9.62,1.34.25.43.58.87.96,1.22.37.33.93.7,1.64.7h.45l3.87-3.43h8.4l3.87,3.43h.45c.71,0,1.27-.37,1.64-.7.39-.35.71-.79.96-1.22.26-.43.47-.9.62-1.34.14-.42.26-.89.26-1.31,0-2.56-1.2-6.06-2.83-9.27h.02ZM24.52,22.86l-3.87-3.43h-9.29l-3.87,3.43c-1.16,0-2.32-2.46-2.32-3.43,0-2.29,1.1-5.59,2.71-8.76.39-.76,3.1-1.52,3.87-1.52s2.32,1.9,2.32,1.9h3.87s1.55-1.9,2.32-1.9,3.48.76,3.87,1.52c1.61,3.17,2.71,6.48,2.71,8.76,0,.97-1.16,3.43-2.32,3.43h0ZM10.77,14.48c-.96,0-1.74-.77-1.74-1.71s.78-1.71,1.74-1.71,1.74.77,1.74,1.71-.78,1.71-1.74,1.71ZM18.71,14.86c-.96,0-1.74.77-1.74,1.71s.78,1.71,1.74,1.71,1.74-.77,1.74-1.71-.78-1.71-1.74-1.71ZM18.71,17.14c-.32,0-.58-.26-.58-.57s.26-.57.58-.57.58.26.58.57-.26.57-.58.57ZM14.06,16h1.16v1.14h-1.16v1.14h-1.16v-1.14h-1.16v-1.14h1.16v-1.14h1.16v1.14ZM20.26,11.05c0-.42.35-.76.77-.76s.77.34.77.76-.35.76-.77.76-.77-.34-.77-.76ZM21.81,14.1c0,.42-.35.76-.77.76s-.77-.34-.77-.76.35-.76.77-.76.77.34.77.76ZM18.71,12.57c0-.42.35-.76.77-.76s.77.34.77.76-.35.76-.77.76-.77-.34-.77-.76ZM23.36,12.57c0,.42-.35.76-.77.76s-.77-.34-.77-.76.35-.76.77-.76.77.34.77.76Z\"/>\n</svg>"
+        }
+      },
+      {
+        "id": 154,
+        "editDate": 1748518204676,
+        "creationDate": 1633531971851,
+        "published": true,
+        "urn": "lifestyle",
+        "name": "Lifestyle",
+        "color": "#64f3c7",
+        "backgroundImageUri": "b541/a1be/a6d0/478d/be57/d66a/222e/c90d/3200_600.jpeg",
+        "mobileBackgroundImageUri": "4cb6/bc5e/4639/44dd/8dc6/33ab/232e/2a26/786_851.jpeg",
+        "videoPagePublished": false,
+        "frontConfig": {
+          "logoSvg": "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M25 7.08001C25 6.40001 24.46 5.85001 23.8 5.85001C23.42 5.85001 23.07 5.67001 22.84 5.36001L21.85 4.01001H10.15L9.16 5.36001C8.93 5.67001 8.58 5.85001 8.2 5.85001C7.54 5.85001 7 6.40001 7 7.08001V8.16001H8.05L10.15 27.02C14.65 28.34 17.35 28.34 21.84 27.02L23.94 8.16001H24.99V7.08001H25ZM20.62 25.93C18.85 26.4 17.41 26.62 16 26.62C14.59 26.62 13.15 26.4 11.38 25.93L9.41 8.15001H22.59L20.62 25.93ZM15.95 19.23C17.94 19.23 19.55 17.58 19.55 15.54C19.55 13.5 17.94 11.85 15.95 11.85C13.96 11.85 12.35 13.5 12.35 15.54C12.35 17.58 13.96 19.23 15.95 19.23ZM15.95 13.23C17.19 13.23 18.2 14.26 18.2 15.54C18.2 16.82 17.19 17.85 15.95 17.85C14.71 17.85 13.7 16.82 13.7 15.54C13.7 14.26 14.71 13.23 15.95 13.23Z\" fill=\"currentColor\"/>\n</svg>\n"
+        }
+      }
+    ]
+  },
+  "hyperlinks": [],
+  "banners": [
+    {
+      "id": 226,
+      "bannerPlace": "BEFORE_FIRST_NEWS_DESKTOP",
+      "bannerType": "HTML",
+      "html": "<div class=\"translation-container\" style=\"display:flex;flex-direction:column;background-color:#F9FBFF;padding:8px;border-radius:4px;position:relative;z-index:0;\">\n    <div style=\"content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 4px; padding: 2px; background: linear-gradient(135deg, #E76005 0%, #FDC626 21%, #EE7907 34%, #FDC626 46%, #C73605 58%, #F4930F 74%, #DD651A 100%);-webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: destination-out; mask-composite: exclude; z-index: -1;\"> </div>\n    <div class=\"translation-title\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top;\"><img src=\"{MEDIA_BASE_URL}/m/6b9e/ce37/a5ae/444b/bdd1/c22f/abcf/f85d.png\" alt=\"play\" style=\"width: 16.29px; height: 16px; color: black; margin-right: 3px;\"/>Владислав Радимов объяснил рискованный прогноз на матч «Балтика» — ЦСКА: «Поэтому я рискну…»</div>\n    <div class=\"translation-title-second\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top; margin-top: -1px;\"></div>\n    <div class=\"translation-info\" style=\"display: flex; font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; font-size: .75rem; margin-top: 6px;\">\n        <div class=\"translation-sport\" style=\"margin-right: 10px; color: #08995c;\">\n            Футбол. Прогноз на Кубок России\n        </div>\n        <div class=\"translation-time\" style=\"color: #A3A3A3;\">\n            13:31\n        </div>\n    </div>\n</div>",
+      "link": "https://sport24.ru/football/news-778704-vladislav-radimov-obyasnil-riskovannyy-prognoz-na-match-baltika-tsska-poetomu-ya-risknu",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    },
+    {
+      "id": 227,
+      "bannerPlace": "BEFORE_FIRST_NEWS_MOBILE",
+      "bannerType": "HTML",
+      "html": "<div class=\"translation-container\" style=\"display:flex;flex-direction:column;background-color:#F9FBFF;padding:8px;border-radius:4px;position:relative;z-index:0;\">\n    <div style=\"content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 4px; padding: 2px; background: linear-gradient(135deg, #E76005 0%, #FDC626 21%, #EE7907 34%, #FDC626 46%, #C73605 58%, #F4930F 74%, #DD651A 100%);-webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: destination-out; mask-composite: exclude; z-index: -1;\"> </div>\n    <div class=\"translation-title\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top;\"><img src=\"{MEDIA_BASE_URL}/m/6b9e/ce37/a5ae/444b/bdd1/c22f/abcf/f85d.png\" alt=\"play\" style=\"width: 16.29px; height: 16px; color: black; margin-right: 3px;\"/>Владислав Радимов объяснил рискованный прогноз на матч «Балтика» — ЦСКА: «Поэтому я рискну…»</div>\n    <div class=\"translation-title-second\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top; margin-top: -1px;\"></div>\n    <div class=\"translation-info\" style=\"display: flex; font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; font-size: .75rem; margin-top: 6px;\">\n        <div class=\"translation-sport\" style=\"margin-right: 10px; color: #08995c;\">\n            Футбол. Прогноз на Кубок России\n        </div>\n        <div class=\"translation-time\" style=\"color: #A3A3A3;\">\n            13:31\n        </div>\n    </div>\n</div>",
+      "link": "https://sport24.ru/football/news-778704-vladislav-radimov-obyasnil-riskovannyy-prognoz-na-match-baltika-tsska-poetomu-ya-risknu",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    },
+    {
+      "id": 228,
+      "bannerPlace": "BEFORE_NEWS_DESKTOP",
+      "bannerType": "HTML",
+      "imageUri": "d7ef/0bb2/9dee/4891/970d/8007/0c81/c1ee/1220_48.png",
+      "html": "<div class=\"doit\">\n  <p style=\"display: none;\">\n   Реклама 18+. erid: F7NfYUJCUneP6Uy8NGYY</p>\n</div>\n\n<style>\n.doit \n  { \nbackground-image: url({MEDIA_BASE_URL}/m/d7ef/0bb2/9dee/4891/970d/8007/0c81/c1ee.png); \nbackground-position: 50% 50%;            \nbackground-repeat:no-repeat;\nmin-block-size: 48px;\nmax-width: 1220px;\nborder-radius: 6px;\nbackground-size: cover\n}\n</style>",
+      "link": "https://p.winline.ru/s/S3DyRJ6_rp?statid=1879_sport24&sub=sport24&sub2=w-center&sub3=mainpage&sub4=football&sub5={YM_CLIENT_ID}&promocode=SPORT24",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    },
+    {
+      "id": 229,
+      "bannerPlace": "BEFORE_NEWS_MOBILE",
+      "bannerType": "HTML",
+      "imageUri": "dabc/f30b/4da6/417f/aa0b/77a8/a1f3/740f/1220_49.png",
+      "html": "<div class=\"doit\">\n  <p style=\"display: none;\">\n   Реклама 18+. erid: F7NfYUJCUneP6Uy8NGYY</p>\n</div>\n\n<style>\n.doit \n  { \nbackground-image: url({MEDIA_BASE_URL}/m/dabc/f30b/4da6/417f/aa0b/77a8/a1f3/740f.png); \nbackground-position: 50% 50%;            \nbackground-repeat:no-repeat;\nmin-block-size: 48px;\nmax-width: 1220px;\nborder-radius: 6px;\nbackground-size: cover\n}\n</style>",
+      "link": "https://p.winline.ru/s/S3DyRJ6_rp?statid=1879_sport24&sub=sport24&sub2=w-center&sub3=mainpage&sub4=football&sub5={YM_CLIENT_ID}&promocode=SPORT24",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    }
+  ],
+  "statistics": {
+    "associations": [],
+    "players": [],
+    "teams": [],
+    "competitions": []
+  },
+  "bookmakers": []
+}
