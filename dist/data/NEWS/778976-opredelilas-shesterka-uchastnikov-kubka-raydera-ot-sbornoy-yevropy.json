@@ -1,0 +1,196 @@
+{
+  "material": {
+    "id": 778976,
+    "editDate": 1756241082851,
+    "title": "Определилась шестерка участников Кубка Райдера от сборной Европы",
+    "type": "NEWS",
+    "publishDate": 1756240369502,
+    "urn": "778976-opredelilas-shesterka-uchastnikov-kubka-raydera-ot-sbornoy-yevropy",
+    "uriFormatVersion": 1,
+    "tags": [
+      14842,
+      8729
+    ],
+    "rubricId": 49,
+    "hidePreviewImage": true,
+    "hideInReadBanner": false,
+    "hideComments": false,
+    "advertisingPartnerMaterial": false,
+    "superCache": false,
+    "socialNetworkImages": {
+      "vkImage": "c568/72a8/91e3/4dfb/8752/ffcf/d79c/fbd9/537_240.png",
+      "image": "6427/d457/f7f3/41ef/afcb/bb1f/a155/df43/1200_630.png"
+    },
+    "authors": [],
+    "content": [
+      [
+        "p",
+        [
+          [
+            "Определились шесть гольфистов, которые выступят от сборной Европы в Кубке Райдера. По рейтинговым очкам напрямую в команду попали североирландец Рори Макилрой, англичане Томми Флитвуд, Джастин Роуз и Тирелл Хэттон, шотландец Роберт Макинтайр и датчанин Расмус Хойгард."
+          ],
+          [
+            "br",
+            [],
+            {}
+          ],
+          [
+            "br",
+            [],
+            {}
+          ],
+          [
+            "Остальных шестерых гольфистов выберет капитан команды Люк Дональд. Турнир должен пройти в штате Нью-Йорк с 26 по 28 сентября."
+          ]
+        ],
+        {}
+      ]
+    ],
+    "rubrics": [
+      49
+    ],
+    "hyperlinkActive": true,
+    "matchbarIncluded": true
+  },
+  "tags": {
+    "items": [
+      {
+        "id": 14842,
+        "editDate": 1669106347377,
+        "creationDate": 1551345689768,
+        "published": true,
+        "archived": false,
+        "title": "Гольф",
+        "urn": "golf",
+        "rubricId": 49,
+        "tagType": "SIMPLE",
+        "subscribable": true,
+        "hidden": false
+      },
+      {
+        "id": 8729,
+        "editDate": 1669106347377,
+        "creationDate": 1578519719080,
+        "published": true,
+        "archived": false,
+        "title": "Рори Макилрой",
+        "urn": "rori-makilroy",
+        "rubricId": 49,
+        "tagType": "PLAYER",
+        "subscribable": true,
+        "hidden": false
+      }
+    ]
+  },
+  "rubrics": {
+    "items": [
+      {
+        "id": 49,
+        "editDate": 1748518267076,
+        "creationDate": 1551079705616,
+        "published": true,
+        "urn": "golf",
+        "name": "Гольф",
+        "color": "#000000",
+        "logoImageUri": "843b/6f08/057b/42c9/8fe7/4ada/9745/776d/70_70.png",
+        "backgroundImageUri": "9782/ccbb/ea33/4c40/8c35/4ad4/0a46/2499/2832_325.jpeg",
+        "videoPagePublished": false,
+        "frontConfig": {
+          "logoSvg": "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21.68 19.27C19.96 19.27 18.49 20.29 17.79 21.75C16.55 21.3 15.02 21.01 13.35 21.01C10.84 21.01 8.62 21.61 7.3 22.52V13C8.58 12.62 10.34 12.62 11.62 13V13.69C15.73 15.42 18.75 12.49 20.48 10.34C20.82 9.91004 21.11 9.52004 21.35 9.19004C21.43 9.08004 21.5 8.98004 21.57 8.89004C21.22 9.01004 20.63 9.06004 19.87 9.00004C18.1 8.86004 15.44 8.12004 12.92 6.12004V4.96004C11.62 3.65004 7.3 3.65004 6 4.96004V24.49C6 26.41 9.28 27.97 13.34 27.97C15.49 27.97 17.42 27.54 18.77 26.83C19.54 27.53 20.55 27.97 21.67 27.97C24.06 27.97 25.99 26.02 25.99 23.61C25.99 21.2 24.05 19.25 21.67 19.25L21.68 19.27ZM17.2 9.84004C17.79 10.02 18.36 10.14 18.89 10.23C18.42 10.76 17.89 11.28 17.28 11.74C16.04 12.67 14.61 13.21 12.92 12.78V7.78004C14.38 8.80004 15.87 9.45004 17.2 9.85004V9.84004ZM9.46 5.31004C10.07 5.31004 10.66 5.38004 11.14 5.51004C11.34 5.56004 11.5 5.62004 11.62 5.68004V11.66C10.93 11.49 10.19 11.42 9.46 11.42C8.73 11.42 7.98 11.5 7.3 11.66V5.68004C7.43 5.62004 7.59 5.57004 7.78 5.51004C8.26 5.38004 8.85 5.31004 9.46 5.31004ZM8.7 25.8C7.48 25.21 7.3 24.67 7.3 24.52C7.3 24.37 7.48 23.81 8.7 23.24C9.83 22.7 11.46 22.34 13.34 22.34C14.93 22.34 16.33 22.61 17.41 23.02C17.38 23.23 17.35 23.44 17.35 23.65C17.35 24.45 17.58 25.18 17.95 25.83C16.84 26.34 15.21 26.7 13.35 26.7C11.49 26.7 9.83 26.33 8.71 25.81L8.7 25.8ZM21.68 26.69C20.01 26.69 18.65 25.32 18.65 23.64C18.65 21.96 20.01 20.59 21.68 20.59C23.35 20.59 24.71 21.96 24.71 23.64C24.71 25.32 23.35 26.69 21.68 26.69Z\" fill=\"currentColor\"/>\n</svg>\n"
+        }
+      }
+    ]
+  },
+  "hyperlinks": [
+    {
+      "id": 3539,
+      "title": "SMM Срочный ",
+      "content": [
+        [
+          "p",
+          [
+            [
+              "strong",
+              [
+                [
+                  "⚡ "
+                ]
+              ],
+              {}
+            ],
+            [
+              "a",
+              [
+                [
+                  "strong",
+                  [
+                    [
+                      "Спорт меняется каждый час — не пропустите самое важное! Подписывайтесь на Telegram-канал «Срочный спорт»."
+                    ]
+                  ],
+                  {}
+                ]
+              ],
+              {
+                "href": "https://t.me/+jV6iCi_JkT85NWJi"
+              }
+            ]
+          ],
+          {}
+        ]
+      ],
+      "cooldown": 2000,
+      "type": "FOOTER",
+      "maxPriority": false,
+      "frontConfig": {}
+    }
+  ],
+  "banners": [],
+  "statistics": {
+    "associations": [],
+    "players": [
+      {
+        "id": 210395,
+        "urn": "rori-makilroy",
+        "firstName": "Рори",
+        "lastName": "Макилрой",
+        "logos": {
+          "default": "3415/162d/377c/4c36/b30e/9c7a/975f/c4af/160_160.png"
+        },
+        "citizenships": [
+          {
+            "titleRu": "Северная Ирландия",
+            "alpha2": "GB-NIR",
+            "alpha3": "NIR",
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.AreaStateConfig",
+              "logos": {
+                "default": "c603/6e5d/50e0/4840/874b/7a9b/a477/4167/600_300.png"
+              },
+              "alwaysUseLogo": false
+            },
+            "id": 191
+          }
+        ],
+        "fullName": "Рори Дэниел Макилрой",
+        "gender": "MALE",
+        "region": {
+          "thumbnail": "c603/6e5d/50e0/4840/874b/7a9b/a477/4167/600_300.png",
+          "iso": "GB-NIR",
+          "title": "Северная Ирландия",
+          "alwaysUseLogo": false
+        },
+        "teams": [],
+        "sport": {
+          "id": 10,
+          "urn": "golf",
+          "titleRu": "Гольф",
+          "priority": 90
+        }
+      }
+    ],
+    "teams": [],
+    "competitions": []
+  },
+  "bookmakers": []
+}

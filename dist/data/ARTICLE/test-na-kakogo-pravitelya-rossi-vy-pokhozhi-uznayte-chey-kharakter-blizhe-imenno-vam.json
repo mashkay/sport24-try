@@ -1,0 +1,227 @@
+{
+  "material": {
+    "id": 778621,
+    "editDate": 1756276033474,
+    "title": "Тест: на какого правителя России вы похожи? Узнайте, чей характер ближе именно вам",
+    "type": "ARTICLE",
+    "publishDate": 1756275600000,
+    "urn": "test-na-kakogo-pravitelya-rossi-vy-pokhozhi-uznayte-chey-kharakter-blizhe-imenno-vam",
+    "uriFormatVersion": 1,
+    "leadAnnouncement": "Это любопытно. ",
+    "tags": [
+      25589
+    ],
+    "rubricId": 154,
+    "previewImage": {
+      "copyright": "Изображение сгенерировано нейросетью",
+      "image": "abd0/17bc/0f27/4d15/93ee/798d/cdec/ff7c/1600_900.jpeg",
+      "tags": []
+    },
+    "hideInReadBanner": false,
+    "hideComments": false,
+    "advertisingPartnerMaterial": false,
+    "socialNetworkImages": {
+      "vkImage": "842a/e702/699f/4fce/9ee0/e0f3/79f5/62e6/537_302.jpeg",
+      "image": "946a/307e/1656/4b55/9be1/329d/285e/51f4/1200_675.jpeg"
+    },
+    "seoTitle": "Тест: на какого правителя Росси вы похожи, узнайте, чей характер ближе именно вам",
+    "authors": [
+      {
+        "name": "Анастасия",
+        "surname": "Шабалина",
+        "image": "8e36/7759/e49c/4533/b20d/695a/a3d6/a051/200_200.jpeg",
+        "urn": "anastasia-shabalina",
+        "id": 631
+      }
+    ],
+    "content": [
+      [
+        "p",
+        [
+          [
+            "История России богата выдающимися личностями, каждая из которых оставила заметный след в развитии страны. Правители по-разному подходили к управлению: одни стремились к реформам и нововведениям, другие делали ставку на сохранение порядка и стабильности, третьи умели находить компромиссы и поддерживать равновесие в сложных условиях. Характеры этих людей во многом определяли не только их стиль руководства, но и общий ход событий."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "Сравнивая разные эпохи, можно заметить, что за внешними различиями скрываются устойчивые черты: стремление к преобразованиям или, напротив, к осторожности, решительность или мягкость, умение принимать волевые решения или склонность к поиску согласия. Эти качества не принадлежат исключительно правителям — они находят отражение и в обычной жизни, помогая понять, каким образом человек взаимодействует с окружающими и какие принципы считает для себя основными."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "Мы подготовили тест, который позволит определить, к какому историческому образу вы ближе всего по характеру. Ответив на вопросы, вы сможете узнать, напоминает ли ваш стиль поведения реформатора, защитника строгого порядка, хранителя устойчивости, мягкого дипломата, организатора с четким контролем или человека, стремящегося к согласному взаимодействию."
+          ]
+        ],
+        {}
+      ],
+      [
+        "iframe",
+        [],
+        {
+          "url": "https://www.riddle.com/view/IHmRrTZ2",
+          "transparent": false
+        }
+      ],
+      [
+        "news",
+        [],
+        {
+          "header": "Еще больше интересных тестов:",
+          "newsList": [
+            {
+              "urn": "test-ugadayte-pravitelya-rossii-po-yego-prozvishchu-uvereny-chto-khorosho-razbirayetes-v-istorii",
+              "uriFormatVersion": 1,
+              "type": "ARTICLE",
+              "title": "Тест: угадайте правителя России по его прозвищу. Уверены, что хорошо разбираетесь в истории?",
+              "image": "dd30/e1de/c55f/484a/b19c/89bf/fd44/1e10/1600_900.jpeg",
+              "rubricId": 154
+            },
+            {
+              "urn": "test-na-eruditsiyu-i-pronitsatelnost-ugadayte-istoricheskuyu-lichnost-po-yego-detskoy-fotografii",
+              "uriFormatVersion": 1,
+              "type": "ARTICLE",
+              "title": "Тест: угадайте историческую личность по его детской фотографии. Догадаетесь, кто на снимках?",
+              "image": "46c2/766c/c6a1/47ca/8064/b5ff/975b/3758/1600_900.jpeg",
+              "rubricId": 154
+            },
+            {
+              "urn": "test-dlya-erudirovannykh-chitateley-ugadayte-pravitelya-rossii-po-opisaniyu",
+              "uriFormatVersion": 1,
+              "type": "ARTICLE",
+              "title": "Тест для эрудированных читателей: угадайте правителя России по описанию",
+              "image": "5bb6/3717/05f4/4495/8fd7/1278/0a37/a839/1600_900.jpeg",
+              "rubricId": 154
+            }
+          ]
+        }
+      ]
+    ],
+    "rubrics": [
+      154,
+      153
+    ],
+    "hyperlinkActive": true,
+    "matchbarIncluded": true
+  },
+  "tags": {
+    "items": [
+      {
+        "id": 25589,
+        "editDate": 1679126065149,
+        "creationDate": 1679126065149,
+        "published": true,
+        "archived": false,
+        "title": "Тесты",
+        "titleShort": "Тесты",
+        "urn": "test",
+        "rubricId": 154,
+        "tagType": "SIMPLE",
+        "subscribable": true,
+        "hidden": false
+      }
+    ]
+  },
+  "rubrics": {
+    "items": [
+      {
+        "id": 154,
+        "editDate": 1748518204676,
+        "creationDate": 1633531971851,
+        "published": true,
+        "urn": "lifestyle",
+        "name": "Lifestyle",
+        "color": "#64f3c7",
+        "backgroundImageUri": "b541/a1be/a6d0/478d/be57/d66a/222e/c90d/3200_600.jpeg",
+        "mobileBackgroundImageUri": "4cb6/bc5e/4639/44dd/8dc6/33ab/232e/2a26/786_851.jpeg",
+        "videoPagePublished": false,
+        "frontConfig": {
+          "logoSvg": "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M25 7.08001C25 6.40001 24.46 5.85001 23.8 5.85001C23.42 5.85001 23.07 5.67001 22.84 5.36001L21.85 4.01001H10.15L9.16 5.36001C8.93 5.67001 8.58 5.85001 8.2 5.85001C7.54 5.85001 7 6.40001 7 7.08001V8.16001H8.05L10.15 27.02C14.65 28.34 17.35 28.34 21.84 27.02L23.94 8.16001H24.99V7.08001H25ZM20.62 25.93C18.85 26.4 17.41 26.62 16 26.62C14.59 26.62 13.15 26.4 11.38 25.93L9.41 8.15001H22.59L20.62 25.93ZM15.95 19.23C17.94 19.23 19.55 17.58 19.55 15.54C19.55 13.5 17.94 11.85 15.95 11.85C13.96 11.85 12.35 13.5 12.35 15.54C12.35 17.58 13.96 19.23 15.95 19.23ZM15.95 13.23C17.19 13.23 18.2 14.26 18.2 15.54C18.2 16.82 17.19 17.85 15.95 17.85C14.71 17.85 13.7 16.82 13.7 15.54C13.7 14.26 14.71 13.23 15.95 13.23Z\" fill=\"currentColor\"/>\n</svg>\n"
+        }
+      },
+      {
+        "id": 153,
+        "editDate": 1748518955234,
+        "creationDate": 1632069327757,
+        "published": true,
+        "urn": "life",
+        "name": "Жизнь",
+        "color": "#fce906",
+        "backgroundImageUri": "ce68/1896/60ad/4cb2/aa93/2c16/1e30/f432/3200_600.png",
+        "mobileBackgroundImageUri": "f043/35f6/b229/4bb4/b9b3/a29f/4d7e/9849/786_851.png",
+        "siteMobileBackgroundImageUri": "dd78/71ee/9e87/48c1/844b/e9ae/2ee1/1436/786_851.png",
+        "videoPagePublished": false,
+        "frontConfig": {
+          "logoSvg": "<svg id=\"_Слой_1\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\">\n  <path class=\"cls-1\" d=\"M16,4c-6.62,0-12,5.38-12,12s5.38,12,12,12,12-5.38,12-12-5.38-12-12-12ZM16,26.62c-2.8,0-5.35-1.1-7.25-2.88l.42-1.37-.57-4.06-2.76-1.38-.4.23c-.04-.38-.07-.77-.07-1.16,0-.53.05-1.04.13-1.55l1.36-.81,2.55-4.75-.31-.96c1.86-1.59,4.26-2.55,6.89-2.55h0l-.46.92-4.62,2.77.69,1.84h1.16l1.07-1.4,5.86,1.87-.47,1.38,1.45,2.3,2.7-1.84,2.31,1.84.77-.77c.09.56.15,1.12.15,1.7,0,5.85-4.76,10.62-10.61,10.62h0ZM21.55,16.46l-1.86,1.86-.47,4.75-2.58,1.19-1.58-3.17.21-1.36-.66-2.66-2.77.32-1.38-.93.06-1.98,1.2-2.74,6.01,1.5,1.97,2.53,1.86.69h-.01ZM21.98,19.24l.47,1.32-.12.32-.64,1.27-1.29-.44.21-1.09,1.37-1.37h0Z\"/>\n</svg>"
+        }
+      }
+    ]
+  },
+  "hyperlinks": [],
+  "banners": [
+    {
+      "id": 226,
+      "bannerPlace": "BEFORE_FIRST_NEWS_DESKTOP",
+      "bannerType": "HTML",
+      "html": "<div class=\"translation-container\" style=\"display:flex;flex-direction:column;background-color:#F9FBFF;padding:8px;border-radius:4px;position:relative;z-index:0;\">\n    <div style=\"content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 4px; padding: 2px; background: linear-gradient(135deg, #E76005 0%, #FDC626 21%, #EE7907 34%, #FDC626 46%, #C73605 58%, #F4930F 74%, #DD651A 100%);-webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: destination-out; mask-composite: exclude; z-index: -1;\"> </div>\n    <div class=\"translation-title\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top;\"><img src=\"{MEDIA_BASE_URL}/m/6b9e/ce37/a5ae/444b/bdd1/c22f/abcf/f85d.png\" alt=\"play\" style=\"width: 16.29px; height: 16px; color: black; margin-right: 3px;\"/>Владислав Радимов объяснил рискованный прогноз на матч «Балтика» — ЦСКА: «Поэтому я рискну…»</div>\n    <div class=\"translation-title-second\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top; margin-top: -1px;\"></div>\n    <div class=\"translation-info\" style=\"display: flex; font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; font-size: .75rem; margin-top: 6px;\">\n        <div class=\"translation-sport\" style=\"margin-right: 10px; color: #08995c;\">\n            Футбол. Прогноз на Кубок России\n        </div>\n        <div class=\"translation-time\" style=\"color: #A3A3A3;\">\n            13:31\n        </div>\n    </div>\n</div>",
+      "link": "https://sport24.ru/football/news-778704-vladislav-radimov-obyasnil-riskovannyy-prognoz-na-match-baltika-tsska-poetomu-ya-risknu",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    },
+    {
+      "id": 227,
+      "bannerPlace": "BEFORE_FIRST_NEWS_MOBILE",
+      "bannerType": "HTML",
+      "html": "<div class=\"translation-container\" style=\"display:flex;flex-direction:column;background-color:#F9FBFF;padding:8px;border-radius:4px;position:relative;z-index:0;\">\n    <div style=\"content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 4px; padding: 2px; background: linear-gradient(135deg, #E76005 0%, #FDC626 21%, #EE7907 34%, #FDC626 46%, #C73605 58%, #F4930F 74%, #DD651A 100%);-webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: destination-out; mask-composite: exclude; z-index: -1;\"> </div>\n    <div class=\"translation-title\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top;\"><img src=\"{MEDIA_BASE_URL}/m/6b9e/ce37/a5ae/444b/bdd1/c22f/abcf/f85d.png\" alt=\"play\" style=\"width: 16.29px; height: 16px; color: black; margin-right: 3px;\"/>Владислав Радимов объяснил рискованный прогноз на матч «Балтика» — ЦСКА: «Поэтому я рискну…»</div>\n    <div class=\"translation-title-second\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top; margin-top: -1px;\"></div>\n    <div class=\"translation-info\" style=\"display: flex; font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; font-size: .75rem; margin-top: 6px;\">\n        <div class=\"translation-sport\" style=\"margin-right: 10px; color: #08995c;\">\n            Футбол. Прогноз на Кубок России\n        </div>\n        <div class=\"translation-time\" style=\"color: #A3A3A3;\">\n            13:31\n        </div>\n    </div>\n</div>",
+      "link": "https://sport24.ru/football/news-778704-vladislav-radimov-obyasnil-riskovannyy-prognoz-na-match-baltika-tsska-poetomu-ya-risknu",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    },
+    {
+      "id": 228,
+      "bannerPlace": "BEFORE_NEWS_DESKTOP",
+      "bannerType": "HTML",
+      "imageUri": "d7ef/0bb2/9dee/4891/970d/8007/0c81/c1ee/1220_48.png",
+      "html": "<div class=\"doit\">\n  <p style=\"display: none;\">\n   Реклама 18+. erid: F7NfYUJCUneP6Uy8NGYY</p>\n</div>\n\n<style>\n.doit \n  { \nbackground-image: url({MEDIA_BASE_URL}/m/d7ef/0bb2/9dee/4891/970d/8007/0c81/c1ee.png); \nbackground-position: 50% 50%;            \nbackground-repeat:no-repeat;\nmin-block-size: 48px;\nmax-width: 1220px;\nborder-radius: 6px;\nbackground-size: cover\n}\n</style>",
+      "link": "https://p.winline.ru/s/S3DyRJ6_rp?statid=1879_sport24&sub=sport24&sub2=w-center&sub3=mainpage&sub4=football&sub5={YM_CLIENT_ID}&promocode=SPORT24",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    },
+    {
+      "id": 229,
+      "bannerPlace": "BEFORE_NEWS_MOBILE",
+      "bannerType": "HTML",
+      "imageUri": "dabc/f30b/4da6/417f/aa0b/77a8/a1f3/740f/1220_49.png",
+      "html": "<div class=\"doit\">\n  <p style=\"display: none;\">\n   Реклама 18+. erid: F7NfYUJCUneP6Uy8NGYY</p>\n</div>\n\n<style>\n.doit \n  { \nbackground-image: url({MEDIA_BASE_URL}/m/dabc/f30b/4da6/417f/aa0b/77a8/a1f3/740f.png); \nbackground-position: 50% 50%;            \nbackground-repeat:no-repeat;\nmin-block-size: 48px;\nmax-width: 1220px;\nborder-radius: 6px;\nbackground-size: cover\n}\n</style>",
+      "link": "https://p.winline.ru/s/S3DyRJ6_rp?statid=1879_sport24&sub=sport24&sub2=w-center&sub3=mainpage&sub4=football&sub5={YM_CLIENT_ID}&promocode=SPORT24",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    }
+  ],
+  "statistics": {
+    "associations": [],
+    "players": [],
+    "teams": [],
+    "competitions": []
+  },
+  "bookmakers": []
+}

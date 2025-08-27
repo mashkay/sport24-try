@@ -1,0 +1,1232 @@
+{
+  "material": {
+    "id": 779065,
+    "editDate": 1756275607360,
+    "title": "Капитан «Зенита» Дуглас Сантос отреагировал на вызов в сборную Бразилии",
+    "type": "NEWS",
+    "publishDate": 1756276080000,
+    "urn": "779065-kapitan-zenita-duglas-santos-otreagiroval-na-vyzov-v-sbornuyu-brazilii",
+    "uriFormatVersion": 1,
+    "tags": [
+      11670,
+      15341,
+      15288,
+      13853,
+      14010
+    ],
+    "rubricId": 48,
+    "previewImage": {
+      "copyright": "Евгений Семенов, Sport24",
+      "image": "bea6/0364/5b7d/454b/acbb/14c0/5f6e/4321/1600_900.jpeg",
+      "imageForMobile": "e2bb/6cff/af4c/4a7e/8ca1/2549/475b/a93f/900_900.jpeg",
+      "tags": [
+        11670
+      ]
+    },
+    "hidePreviewImage": true,
+    "hideInReadBanner": false,
+    "hideComments": false,
+    "advertisingPartnerMaterial": false,
+    "superCache": false,
+    "socialNetworkImages": {
+      "vkImage": "de25/4783/7a2b/4a03/aac4/8205/55f7/1552/537_240.png",
+      "image": "566c/b4c5/8534/43af/bf2a/8c3c/7b3d/ea62/1200_630.png"
+    },
+    "authors": [],
+    "content": [
+      [
+        "p",
+        [
+          [
+            "Капитан «Зенита» Дуглас Сантос заявил, что рад получить приглашение в сборную Бразилии."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "31-летний левый защитник, имеющий российский паспорт, был вызван в национальную команду на матчи отборочного турнира чемпионата мира 2026 года против Чили и Боливии, которые пройдут в сентябре."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "«Я очень счастлив этому вызову, и для меня всегда будет честью служить сборной Бразилии. Я могу только поблагодарить Бога за эту возможность!» — написал Сантос в социальных сетях."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "На счету Дугласа один товарищеский матч за сборную Бразилии в 2016 году."
+          ]
+        ],
+        {}
+      ],
+      [
+        "news",
+        [],
+        {
+          "newsList": [
+            {
+              "urn": "778877-agent-o-tom-chto-santos-stanet-legionerom-yesli-sygrayet-za-braziliyu-on-sportsmen-s-kontraktom-a-ne-soldat",
+              "uriFormatVersion": 1,
+              "type": "NEWS",
+              "title": "Агент — о том, что Сантос станет легионером, если сыграет за Бразилию: «Он спортсмен с контрактом, а не солдат»",
+              "image": "f897/5dfb/478d/4cc9/9df9/e4c7/497e/0307/1600_900.jpeg",
+              "rubricId": 48
+            }
+          ]
+        }
+      ]
+    ],
+    "rubrics": [
+      48
+    ],
+    "hyperlinkActive": true,
+    "matchbarIncluded": true
+  },
+  "tags": {
+    "items": [
+      {
+        "id": 11670,
+        "editDate": 1669106347377,
+        "creationDate": 1534779205357,
+        "published": true,
+        "archived": false,
+        "title": "Дуглас Сантос",
+        "urn": "duglas-santos",
+        "logoImageUri": "abbc/c84a/dca1/41d2/a5b6/2ecf/6598/bab6/160_160.png",
+        "rubricId": 48,
+        "tagType": "PLAYER",
+        "subscribable": true,
+        "hidden": false
+      },
+      {
+        "id": 15341,
+        "editDate": 1724488719278,
+        "creationDate": 1487639337268,
+        "published": true,
+        "archived": false,
+        "title": "ФК Зенит СПб",
+        "urn": "zenit",
+        "logoImageUri": "5cf4/14a7/fbd0/4539/fdb3/e474/b08a/4eea/500_500.png",
+        "rubricId": 48,
+        "tagType": "TEAM",
+        "frontConfig": {
+          "hideMatchbar": false,
+          "hideThirdPartyAds": false
+        },
+        "subscribable": true,
+        "hidden": false
+      },
+      {
+        "id": 15288,
+        "editDate": 1669106347377,
+        "creationDate": 1497536947097,
+        "published": true,
+        "archived": false,
+        "title": "Сборная Бразилии по футболу",
+        "urn": "brazil",
+        "logoImageUri": "377b/127e/83e0/f29e/b75b/2919/351d/71cc/2560_1792.png",
+        "rubricId": 48,
+        "tagType": "TEAM",
+        "subscribable": true,
+        "hidden": false
+      },
+      {
+        "id": 13853,
+        "editDate": 1754568130161,
+        "creationDate": 1491473171270,
+        "published": true,
+        "archived": false,
+        "title": "РПЛ",
+        "urn": "rpl",
+        "rubricId": 48,
+        "tagType": "COMPETITION",
+        "frontConfig": {
+          "hideMatchbar": false,
+          "hideThirdPartyAds": false
+        },
+        "subscribable": true,
+        "hidden": false
+      },
+      {
+        "id": 14010,
+        "editDate": 1669106347377,
+        "creationDate": 1606482143677,
+        "published": true,
+        "archived": false,
+        "title": "Квалификация ЧМ (Южная Америка)",
+        "urn": "world-cup-qualification-south-america",
+        "logoImageUri": "a7ea/ec35/0c34/4cb4/b2f6/d725/a25a/a953/500_500.png",
+        "rubricId": 48,
+        "tagType": "COMPETITION",
+        "subscribable": true,
+        "hidden": false
+      }
+    ]
+  },
+  "rubrics": {
+    "items": [
+      {
+        "id": 48,
+        "editDate": 1748518882111,
+        "creationDate": 1487549876753,
+        "published": true,
+        "urn": "football",
+        "name": "Футбол",
+        "color": "#08995C",
+        "logoImageUri": "1b54/c17c/2a30/02ae/4bd0/f984/0849/fbc8/70_70.png",
+        "backgroundImageUri": "c546/851c/dfc4/0b32/c784/6a3f/d597/db35/2708_1250.jpeg",
+        "mobileBackgroundImageUri": "12d9/5a4e/25c6/443a/99e5/21ed/274b/3ae3/786_851.png",
+        "siteMobileBackgroundImageUri": "fb61/d310/2bd8/43c7/b238/8f7b/0be5/f39f/1280_591.webp",
+        "videoPagePublished": true,
+        "videoPagePriority": 1,
+        "frontConfig": {
+          "logoSvg": "<svg id=\"_Слой_1\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\">\n  <path class=\"cls-1\" d=\"M16,4c-6.63,0-12,5.37-12,12s5.37,12,12,12,12-5.37,12-12-5.37-12-12-12ZM20.6,8.65l-2.5-3.05c2.74.55,5.09,2.15,6.62,4.37l-4.13-1.31h.01ZM25.96,12.34v.03c.43,1.13.65,2.36.65,3.63,0,1.57-.34,3.07-.96,4.41h-1.46l-.26-4.58,2.03-3.49ZM22.42,22.82l-.92,2.26c-1.6.97-3.49,1.54-5.5,1.54-.42,0-.83-.02-1.24-.07l-1.38-2.5,4.97-2.91,4.07,1.68ZM10.56,22.65l-2.91-.1c-1.42-1.8-2.26-4.08-2.26-6.55v-.02l1.14-2.26,4.03,3.1v5.82h0ZM7.53,11.26l-.42-1.06c1.6-2.45,4.18-4.19,7.18-4.68l-1.71,3.35-5.05,2.38h0ZM19.79,9.96l2.51,5.25-4.17,4.1-5.36-3.18,1.29-5.78s5.73-.39,5.73-.39Z\"/>\n</svg>"
+        }
+      }
+    ]
+  },
+  "hyperlinks": [
+    {
+      "id": 3873,
+      "title": "Тест Отгадай трофей по силуэту Фонбет",
+      "content": [
+        [
+          "quiz",
+          [],
+          {
+            "urn": "guess-the-cup-f"
+          }
+        ]
+      ],
+      "cooldown": 20,
+      "type": "FOOTER",
+      "maxPriority": true,
+      "frontConfig": {}
+    },
+    {
+      "id": 3946,
+      "title": "Кто выиграет ЛЧ, 3 исхода Олимпбет (доп)",
+      "content": [
+        [
+          "threesome",
+          [],
+          {
+            "id": "335",
+            "title": "Кто выиграет Лигу чемпионов?",
+            "buttonText": "ЗАБРАТЬ БОНУС",
+            "buttonLink": "https://go.sport24.ru/mmatest010825",
+            "leftOption": {
+              "logo": "83fb/d471/098d/4f01/a4a9/4684/fb4f/9818/160_160.png",
+              "title": "ПСЖ",
+              "outcome": "6",
+              "result": 22
+            },
+            "middleOption": {
+              "logo": "9622/07e4/63e8/4377/b471/cf5e/c3d9/d1f4/160_160.png",
+              "title": "ЛИВЕРПУЛЬ",
+              "outcome": "7",
+              "result": 35
+            },
+            "rightOption": {
+              "logo": "48d0/9060/dce7/45d9/a625/ffe5/9f54/c224/160_160.png",
+              "title": "РЕАЛ",
+              "outcome": "8",
+              "result": 43
+            },
+            "branding": {
+              "logo": "428c/b7d2/3e64/4a79/931a/5976/49ea/d277/173_42.png",
+              "btnBgColor": "#e80024",
+              "btnTextColor": "#ffffff",
+              "scaleBgColor": "#bcc0cf"
+            },
+            "eventId": null,
+            "loadCoefficient": false,
+            "advertiserCampaignId": 7
+          }
+        ]
+      ],
+      "cooldown": 10,
+      "type": "FOOTER",
+      "maxPriority": true,
+      "frontConfig": {}
+    },
+    {
+      "id": 3868,
+      "title": "Winline Следующий матч",
+      "content": [
+        [
+          "p",
+          [
+            [
+              "a",
+              [
+                [
+                  "strong",
+                  [
+                    [
+                      "⚽︎ "
+                    ]
+                  ],
+                  {}
+                ],
+                [
+                  "Поставь на матч с фрибетом "
+                ],
+                [
+                  "strong",
+                  [
+                    [
+                      "3000 рублей"
+                    ]
+                  ],
+                  {}
+                ],
+                [
+                  "! Скачивай приложение WINLINE, вводи промокод "
+                ],
+                [
+                  "strong",
+                  [
+                    [
+                      "SPORT24"
+                    ]
+                  ],
+                  {}
+                ],
+                [
+                  " и забирай свой подарок "
+                ],
+                [
+                  "strong",
+                  [
+                    [
+                      "⚽︎"
+                    ]
+                  ],
+                  {}
+                ]
+              ],
+              {
+                "href": "https://partners2.winline.ru/s/SnKnXZak6b?statid=1879_sport24&sub=sport24&sub2=nextmatch&sub3=link&sub4=football&sub5=sport24"
+              }
+            ]
+          ],
+          {}
+        ],
+        [
+          "express",
+          [],
+          {
+            "id": "496",
+            "title": "WINLINE Следующий матч",
+            "events": [],
+            "buttonLink": "https://p.winline.ru/s/SnKnXZak6b?statid=1879_sport24&sub=sport24&sub2=nextmatch&sub3=link&sub4=football&sub5={YM_CLIENT_ID}&promocode=SPORT24",
+            "advertiserCampaignId": 2,
+            "frontConfig": {
+              "type": "AUTO_EVENTS",
+              "bookmaker": null,
+              "matchType": null,
+              "background": {
+                "color1": "#ebecf2",
+                "color2": null,
+                "direction": 0
+              },
+              "buttonText": "СДЕЛАТЬ СТАВКУ",
+              "urlWebcast": "https://p.winline.ru/s/SnKnXZak6b?statid=1879_sport24&sub=sport24&sub2=nextmatch&sub3=broadcast&sub4=football&sub5={YM_CLIENT_ID}&promocode=SPORT24",
+              "footerImageUri": "8a19/5d25/8ea5/4756/961a/1e80/5782/73e4/160_26.png",
+              "headerImageUri": "50dd/86dd/ba50/4479/b086/4b35/ffa8/04bd/688_47.png",
+              "searchDuration": 999
+            },
+            "branding": {
+              "bet": {
+                "titleColor": "#000000",
+                "valueColor": "#000058",
+                "mathSymbolColor": null
+              },
+              "coef": {
+                "titleBg": {
+                  "color1": "#ff6a13"
+                },
+                "valueBg": {
+                  "color1": "#e1e1e1"
+                },
+                "titleColor": "#ffffff",
+                "valueColor": "#000058",
+                "valueActiveBg": {
+                  "color1": "#000058"
+                },
+                "valueActiveColor": "#ffffff"
+              },
+              "link": {
+                "color": "#ffffff",
+                "background": {
+                  "color1": "#ff6a13"
+                },
+                "borderColor": "#ffffff",
+                "disabledColor": "#e1e1e1",
+                "disabledBorder": "#e1e1e1",
+                "disabledBackground": {
+                  "color1": "#ffffff"
+                }
+              },
+              "logo": "f23a/7f35/3dfc/40c7/8251/2b48/5213/6efa/64_64.png",
+              "title": {
+                "font": null,
+                "color": "#ef4d02"
+              },
+              "background": {
+                "color1": "#d9d9ea"
+              }
+            }
+          }
+        ]
+      ],
+      "cooldown": null,
+      "type": "FOOTER",
+      "maxPriority": true,
+      "frontConfig": {}
+    },
+    {
+      "id": 3540,
+      "title": "SMM 11х11",
+      "content": [
+        [
+          "telegram",
+          [],
+          {
+            "url": "https://t.me/ftbl11/63225",
+            "postId": "ftbl11/63225"
+          }
+        ]
+      ],
+      "cooldown": 500,
+      "type": "FOOTER",
+      "maxPriority": false,
+      "frontConfig": {}
+    }
+  ],
+  "banners": [
+    {
+      "id": 113,
+      "bannerPlace": "MATERIALS_FEED_SECOND_ROW_MOBILE",
+      "bannerType": "HTML",
+      "html": "<style>\n  .bookmaker-rating {\n    display: flex;\n    flex-direction: column;\n    gap: 10px;\n    background-color: #fff;\n  }\n\n  .bookmaker-rating .item {\n    border-radius: 16px;\n    padding: 7px;\n    display: flex;\n    gap: 8px;\n    border: 2px solid var(--bookmaker-color);\n    font-size: 11px;\n    height: 78px;\n  }\n\n  .bookmaker-rating .item:hover {\n    box-shadow: inset 0px 0px 0px 2px var(--bookmaker-color);\n  }\n\n  .bookmaker-rating .item.animated:hover>.arrow svg {\n    animation: moveRightLeft 0.75s infinite linear;\n  }\n\n  .bookmaker-rating .item .logo {\n    flex-shrink: 0;\n  }\n\n  .bookmaker-rating .item .ranking {\n    flex-shrink: 0;\n    position: relative;\n    width: 20px;\n    height: 16px;\n    display: flex;\n    justify-content: center;\n    padding-top: 3px;\n    isolation: isolate;\n    transform: translateY(-7px);\n  }\n\n  .bookmaker-rating .item .ranking svg {\n    position: absolute;\n    top: 0;\n    left: 0;\n  }\n\n  .bookmaker-rating .item .ranking span {\n    font-size: 16px;\n    line-height: 1;\n    font-weight: bold;\n    color: #fff;\n    z-index: 1;\n  }\n\n  .bookmaker-rating .item .review {\n    border-radius: 4px;\n    border: 1px solid #A3A3A3;\n    width: 46px;\n    height: 16px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  .bookmaker-rating .item .review:hover {\n    background-color: #F1BD00;\n    border-color: #000;\n  }\n\n  .bookmaker-rating .item .offer {\n    display: block;\n    line-height: 1.09;\n  }\n\n  .bookmaker-rating .item .rating {\n    border-radius: 4px;\n    border: 1px solid #E99D0F;\n    width: 38px;\n    height: 16px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 2px;\n  }\n\n  .bookmaker-rating .item .arrow {\n    align-self: center;\n    margin-left: auto;\n  }\n\n  @keyframes moveRightLeft {\n    0% {\n      transform: translateX(0);\n    }\n\n    25% {\n      transform: translateX(3px);\n    }\n\n    75% {\n      transform: translateX(-3px);\n    }\n\n    100% {\n      transform: translateX(0);\n    }\n  }\n</style>\n<div class=\"bookmaker-rating\">\n  <div style=\"font-size: 16px;line-height: 1.125;font-weight: bold;margin-bottom: 2px;\">Лучшие букмекеры</div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker1_url%>') window.open('<%=bookmaker1_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker1_color%>\" class=\"item animated\">\n    <div class=\"logo\">\n      <%~bookmaker1_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>1</span>\n        </div>\n        <%=YANDEX_METRICA_ID%>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker1_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && '<%=bookmaker1_urlReview%>') { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker1_urlReview%>', '_blank'); }\" onclick=\"if('<%=bookmaker1_urlReview%>') {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker1_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px;line-height: 1.143;\"><%=bookmaker1_title%></div>\n      <div class=\"offer\"><%=bookmaker1_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker2_url%>') window.open('<%=bookmaker2_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker2_color%>\" class=\"item\">\n    <div class=\"logo\">\n      <%~bookmaker2_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>2</span>\n        </div>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker2_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && '<%=bookmaker2_urlReview%>') { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker2_urlReview%>', '_blank'); }\" onclick=\"if('<%=bookmaker2_urlReview%>') {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker2_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px; line-height: 1.143;\"><%=bookmaker2_title%></div>\n      <div class=\"offer\"><%=bookmaker2_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker3_url%>') window.open('<%=bookmaker3_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker3_color%>\" class=\"item\">\n    <div class=\"logo\">\n      <%~bookmaker3_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>3</span>\n        </div>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker3_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && !['null', 'undefined'].includes('<%=bookmaker3_urlReview%>')) { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker3_urlReview%>', '_blank'); }\" onclick=\"if(!['null', 'undefined'].includes('<%=bookmaker3_urlReview%>')) {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker3_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px; line-height: 1.143;\"><%=bookmaker3_title%></div>\n      <div class=\"offer\"><%=bookmaker3_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n</div>",
+      "link": "https://sport24.ru/tags/top-bookmakers",
+      "frontConfig": {
+        "variables": {
+          "bookmaker1_url": "https://clicks.af-ru2e2e.com/click?offer_id=125&partner_id=11177&landing_id=4898&utm_medium=affiliate&sub_1={sport24}&sub_2={rating_main}&sub_3={vidjet}&sub_4={fb_15k}",
+          "bookmaker2_url": "https://sport24.ru/tags/top-bookmakers",
+          "bookmaker3_url": "https://sport24.ru/tags/top-bookmakers",
+          "bookmaker1_logo": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" fill=\"#E80024\"/>\n<rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" stroke=\"#E80024\" stroke-width=\"3\"/>\n<path d=\"M23.1514 45.8152C23.022 45.9407 22.7019 46 22.1911 46H15.8539C15.1695 46 14.8937 45.6967 15.0367 45.0831L20.1582 22.6866C20.417 21.564 20.8154 20.4798 21.3432 19.4617C21.8745 18.4158 22.5827 17.4745 23.4307 16.6761C24.3365 15.8359 25.3887 15.177 26.5329 14.7342C27.8711 14.2252 29.2877 13.9742 30.7145 14.0021H44.2947C44.6523 14.0021 44.8702 14.0579 44.9519 14.166C45.0337 14.274 45.0098 14.5843 44.8906 15.1003L43.7124 20.2671C43.6682 20.5634 43.5456 20.8424 43.3515 21.0655C43.1437 21.2189 42.8883 21.2921 42.633 21.2712H31.6033C31.0959 21.2537 30.5919 21.3409 30.1186 21.5222C29.7645 21.6582 29.441 21.8673 29.1719 22.1393C28.9404 22.3764 28.7565 22.6553 28.6237 22.9621C28.4977 23.2584 28.3989 23.5617 28.324 23.8755L27.6804 26.7099H39.4252C39.7827 26.7099 39.9973 26.7727 40.0756 26.8912C40.1539 27.0097 40.1301 27.334 40.0109 27.8534L38.9246 32.6054C38.7646 33.3061 38.4036 33.6582 37.8383 33.6582H26.097L23.4817 45.0831C23.4409 45.355 23.3285 45.606 23.1582 45.8152\" fill=\"white\"/>\n</svg>",
+          "bookmaker2_logo": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_861_2)\">\n<g clip-path=\"url(#clip1_861_2)\">\n<path d=\"M60 12.3648V47.6244C60 54.462 54.462 60 47.6268 60H12.3732C12.0588 60 11.754 59.9904 11.4504 59.97C11.2176 59.9496 10.9944 59.9292 10.7604 59.898C10.1904 59.8236 9.6324 59.7108 9.0888 59.562C3.8472 58.122 0 53.3232 0 47.6244V12.3648C0 6.08641 4.6656 0.902412 10.7196 0.102012C10.7304 0.102012 11.2176 0.0408125 11.4504 0.0300125C11.7552 0.00961246 12.0588 1.24622e-05 12.3636 1.24622e-05H47.6172C54.462 -0.00958754 60 5.52841 60 12.3648Z\" fill=\"#141419\"/>\n<path d=\"M44.2692 29.9952C44.2692 45.84 32.028 58.8132 16.5012 60H12.3732C12.0588 60 11.754 59.9904 11.4504 59.97C11.2176 59.9496 10.9944 59.9292 10.7604 59.898C10.1904 59.8236 9.6324 59.7108 9.0888 59.562C3.8472 58.122 0 53.3232 0 47.6244V12.3648C0 6.0864 4.6656 0.9024 10.7196 0.102C10.7304 0.102 11.2176 0.0408 11.4504 0.03C11.7552 0.0096 12.0588 0 12.3636 0H16.4904C32.028 1.1772 44.2692 14.1504 44.2692 29.9952Z\" fill=\"#FF6A13\"/>\n<path d=\"M60.0001 44.1456V15.8448H19.1629C11.2801 15.8448 4.89966 22.1845 4.89966 29.9952C4.89966 37.806 11.2897 44.1456 19.1629 44.1456H60.0001Z\" fill=\"#141419\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M19.1796 17.1959H60V13.9991H19.1796C10.3596 13.9991 3.19678 21.1631 3.19678 29.9843C3.19678 38.8055 10.2444 45.8663 18.9732 45.9815H60V42.7715H19.1796C12.1188 42.7715 6.39358 37.0439 6.39358 29.9831C6.39358 22.9223 12.1188 17.1947 19.1796 17.1947V17.1959Z\" fill=\"white\"/>\n<path d=\"M38.0076 37.6871H35.958C35.5008 37.6871 35.2044 37.3163 35.2908 36.8711L37.7232 23.1287C37.8096 22.6715 38.2416 22.3127 38.6988 22.3127H40.7484C41.2056 22.3127 41.502 22.6835 41.4156 23.1287L38.9832 36.8711C38.8968 37.3163 38.4528 37.6871 38.0076 37.6871Z\" fill=\"white\"/>\n<path d=\"M53.0964 23.1168L51.6516 31.3104L48.762 23.0676C48.6012 22.5984 48.1692 22.314 47.6388 22.314H45.2184C44.7612 22.314 44.3292 22.6848 44.2428 23.13L41.8104 36.8724C41.724 37.3296 42.0204 37.6884 42.4776 37.6884H44.5272C44.9844 37.6884 45.4164 37.3176 45.5028 36.8724L46.9476 28.6908L49.7508 36.9336C49.9116 37.4028 50.3436 37.6872 50.874 37.6872H53.3928C53.85 37.6872 54.282 37.3164 54.3684 36.8712L56.7888 23.1288C56.8752 22.6716 56.5788 22.3128 56.1216 22.3128H54.06C53.616 22.3008 53.1828 22.6584 53.0964 23.1156V23.1168Z\" fill=\"white\"/>\n<path d=\"M27.7692 32.2859V22.9547C27.7692 22.5959 27.4728 22.3115 27.1272 22.3115H24.5964C24.2748 22.3115 23.9796 22.4963 23.8428 22.7939L19.5708 32.2487V22.9547C19.5708 22.5959 19.2864 22.3115 18.9288 22.3115H16.5336C16.176 22.3115 15.8916 22.5959 15.8916 22.9547V37.0439C15.8916 37.4027 16.176 37.6871 16.5336 37.6871H19.8672C20.1888 37.6871 20.484 37.4891 20.6208 37.1927L24.708 27.8867V37.0439C24.708 37.4027 24.9924 37.6871 25.35 37.6871H28.4856C28.8072 37.6871 29.0904 37.5023 29.226 37.2179L35.7456 23.2283C35.9436 22.7963 35.634 22.3139 35.1648 22.3139H32.8188C32.4972 22.3139 32.202 22.4987 32.0652 22.7963L27.768 32.2871L27.7692 32.2859Z\" fill=\"white\"/>\n</g>\n</g>\n<defs>\n<clippath id=\"clip0_861_2\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clippath>\n<clippath id=\"clip1_861_2\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clippath>\n</defs>\n</svg>\n",
+          "bookmaker3_logo": "      <svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" stroke=\"#FFBB00\" stroke-width=\"3\" />\n        <path d=\"M13.4932 19.3946C13.2934 19.2505 13.0027 19.3226 12.8936 19.5566L10.2409 25.9654C9.75036 27.1535 10.0229 28.5217 10.9314 29.4218L15.6735 34.1563H11.0767C10.8042 34.1563 10.6043 34.4264 10.7133 34.6964L13.5659 41.5012C13.9111 42.3293 14.6016 42.9774 15.4555 43.2654L29.0098 47.838C29.6457 48.054 30.3361 48.054 30.9902 47.838L44.5445 43.2654C45.3984 42.9774 46.0889 42.3473 46.4341 41.5012L49.2867 34.6964C49.3957 34.4444 49.214 34.1563 48.9233 34.1563H44.3265L49.0686 29.4398C49.9771 28.5397 50.2496 27.1715 49.7591 25.9834L47.1064 19.5746C47.0155 19.3406 46.7248 19.2505 46.5068 19.4126L43.309 21.8069L43.2726 17.7384C43.2726 16.4782 42.5095 15.3441 41.3649 14.858L34.6968 12.0317C34.4424 11.9237 34.1517 12.1037 34.1517 12.3917V15.056C34.1517 16.0282 34.6059 16.9643 35.369 17.5583L42.2552 22.869V34.1563L29.9909 44.9036L17.7448 34.1563V22.869L24.631 17.5583C25.3941 16.9643 25.8483 16.0462 25.8483 15.056V12.3917C25.8483 12.1037 25.5576 11.9237 25.3032 12.0317L18.6351 14.858C17.4905 15.3441 16.7455 16.4782 16.7274 17.7384L16.691 21.8069L13.4932 19.4126V19.3946Z\" fill=\"#F42525\" />\n      </svg>",
+          "bookmaker1_color": "#DA001B",
+          "bookmaker1_offer": "Фрибет до 15 000 ₽",
+          "bookmaker1_title": "Fonbet",
+          "bookmaker2_color": "#FF6A13",
+          "bookmaker2_offer": "Фрибет 3000 новым игрокам",
+          "bookmaker2_title": "Winline",
+          "bookmaker3_color": "#FFBB00",
+          "bookmaker3_offer": "Фрибет 8 000 ₽ новичкам",
+          "bookmaker3_title": "Olimpbet",
+          "YANDEX_METRICA_ID": "",
+          "bookmaker1_rating": "9.5",
+          "bookmaker2_rating": "8.9",
+          "bookmaker3_rating": "8.9",
+          "bookmaker1_urlReview": "https://sport24.ru/tags/FONBET",
+          "bookmaker2_urlReview": "https://sport24.ru/tags/Winline",
+          "bookmaker3_urlReview": "https://sport24.ru/tags/OLIMPBET"
+        },
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 81
+    },
+    {
+      "id": 114,
+      "bannerPlace": "MATERIALS_FEED_SECOND_ROW_DESKTOP",
+      "bannerType": "HTML",
+      "html": "<style>\n  .bookmaker-rating {\n    display: flex;\n    flex-direction: column;\n    gap: 10px;\n    background-color: #fff;\n  }\n\n  .bookmaker-rating .item {\n    border-radius: 16px;\n    padding: 7px;\n    display: flex;\n    gap: 8px;\n    border: 2px solid var(--bookmaker-color);\n    font-size: 11px;\n    height: 78px;\n  }\n\n  .bookmaker-rating .item:hover {\n    box-shadow: inset 0px 0px 0px 2px var(--bookmaker-color);\n  }\n\n  .bookmaker-rating .item.animated:hover>.arrow svg {\n    animation: moveRightLeft 0.75s infinite linear;\n  }\n\n  .bookmaker-rating .item .logo {\n    flex-shrink: 0;\n  }\n\n  .bookmaker-rating .item .ranking {\n    flex-shrink: 0;\n    position: relative;\n    width: 20px;\n    height: 16px;\n    display: flex;\n    justify-content: center;\n    padding-top: 3px;\n    isolation: isolate;\n    transform: translateY(-7px);\n  }\n\n  .bookmaker-rating .item .ranking svg {\n    position: absolute;\n    top: 0;\n    left: 0;\n  }\n\n  .bookmaker-rating .item .ranking span {\n    font-size: 16px;\n    line-height: 1;\n    font-weight: bold;\n    color: #fff;\n    z-index: 1;\n  }\n\n  .bookmaker-rating .item .review {\n    border-radius: 4px;\n    border: 1px solid #A3A3A3;\n    width: 46px;\n    height: 16px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  .bookmaker-rating .item .review:hover {\n    background-color: #F1BD00;\n    border-color: #000;\n  }\n\n  .bookmaker-rating .item .offer {\n    display: block;\n    line-height: 1.09;\n  }\n\n  .bookmaker-rating .item .rating {\n    border-radius: 4px;\n    border: 1px solid #E99D0F;\n    width: 38px;\n    height: 16px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 2px;\n  }\n\n  .bookmaker-rating .item .arrow {\n    align-self: center;\n    margin-left: auto;\n  }\n\n  @keyframes moveRightLeft {\n    0% {\n      transform: translateX(0);\n    }\n\n    25% {\n      transform: translateX(3px);\n    }\n\n    75% {\n      transform: translateX(-3px);\n    }\n\n    100% {\n      transform: translateX(0);\n    }\n  }\n</style>\n<div class=\"bookmaker-rating\">\n  <div style=\"font-size: 16px;line-height: 1.125;font-weight: bold;margin-bottom: 2px;\">Лучшие букмекеры</div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker1_url%>') window.open('<%=bookmaker1_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker1_color%>\" class=\"item animated\">\n    <div class=\"logo\">\n      <%~bookmaker1_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>1</span>\n        </div>\n        <%=YANDEX_METRICA_ID%>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker1_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && '<%=bookmaker1_urlReview%>') { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker1_urlReview%>', '_blank'); }\" onclick=\"if('<%=bookmaker1_urlReview%>') {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker1_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px;line-height: 1.143;\"><%=bookmaker1_title%></div>\n      <div class=\"offer\"><%=bookmaker1_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker2_url%>') window.open('<%=bookmaker2_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker2_color%>\" class=\"item\">\n    <div class=\"logo\">\n      <%~bookmaker2_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>2</span>\n        </div>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker2_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && '<%=bookmaker2_urlReview%>') { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker2_urlReview%>', '_blank'); }\" onclick=\"if('<%=bookmaker2_urlReview%>') {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker2_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px; line-height: 1.143;\"><%=bookmaker2_title%></div>\n      <div class=\"offer\"><%=bookmaker2_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker3_url%>') window.open('<%=bookmaker3_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker3_color%>\" class=\"item\">\n    <div class=\"logo\">\n      <%~bookmaker3_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>3</span>\n        </div>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker3_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && !['null', 'undefined'].includes('<%=bookmaker3_urlReview%>')) { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker3_urlReview%>', '_blank'); }\" onclick=\"if(!['null', 'undefined'].includes('<%=bookmaker3_urlReview%>')) {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker3_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px; line-height: 1.143;\"><%=bookmaker3_title%></div>\n      <div class=\"offer\"><%=bookmaker3_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n</div>",
+      "link": "https://sport24.ru/tags/top-bookmakers",
+      "frontConfig": {
+        "variables": {
+          "bookmaker1_url": "https://clicks.af-ru2e2e.com/click?offer_id=125&partner_id=11177&landing_id=4898&utm_medium=affiliate&sub_1={sport24}&sub_2={rating_main}&sub_3={vidjet}&sub_4={fb_15k}",
+          "bookmaker2_url": "https://sport24.ru/tags/top-bookmakers",
+          "bookmaker3_url": "https://sport24.ru/tags/top-bookmakers",
+          "bookmaker1_logo": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" fill=\"#E80024\"/>\n<rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" stroke=\"#E80024\" stroke-width=\"3\"/>\n<path d=\"M23.1514 45.8152C23.022 45.9407 22.7019 46 22.1911 46H15.8539C15.1695 46 14.8937 45.6967 15.0367 45.0831L20.1582 22.6866C20.417 21.564 20.8154 20.4798 21.3432 19.4617C21.8745 18.4158 22.5827 17.4745 23.4307 16.6761C24.3365 15.8359 25.3887 15.177 26.5329 14.7342C27.8711 14.2252 29.2877 13.9742 30.7145 14.0021H44.2947C44.6523 14.0021 44.8702 14.0579 44.9519 14.166C45.0337 14.274 45.0098 14.5843 44.8906 15.1003L43.7124 20.2671C43.6682 20.5634 43.5456 20.8424 43.3515 21.0655C43.1437 21.2189 42.8883 21.2921 42.633 21.2712H31.6033C31.0959 21.2537 30.5919 21.3409 30.1186 21.5222C29.7645 21.6582 29.441 21.8673 29.1719 22.1393C28.9404 22.3764 28.7565 22.6553 28.6237 22.9621C28.4977 23.2584 28.3989 23.5617 28.324 23.8755L27.6804 26.7099H39.4252C39.7827 26.7099 39.9973 26.7727 40.0756 26.8912C40.1539 27.0097 40.1301 27.334 40.0109 27.8534L38.9246 32.6054C38.7646 33.3061 38.4036 33.6582 37.8383 33.6582H26.097L23.4817 45.0831C23.4409 45.355 23.3285 45.606 23.1582 45.8152\" fill=\"white\"/>\n</svg>",
+          "bookmaker2_logo": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_861_2)\">\n<g clip-path=\"url(#clip1_861_2)\">\n<path d=\"M60 12.3648V47.6244C60 54.462 54.462 60 47.6268 60H12.3732C12.0588 60 11.754 59.9904 11.4504 59.97C11.2176 59.9496 10.9944 59.9292 10.7604 59.898C10.1904 59.8236 9.6324 59.7108 9.0888 59.562C3.8472 58.122 0 53.3232 0 47.6244V12.3648C0 6.08641 4.6656 0.902412 10.7196 0.102012C10.7304 0.102012 11.2176 0.0408125 11.4504 0.0300125C11.7552 0.00961246 12.0588 1.24622e-05 12.3636 1.24622e-05H47.6172C54.462 -0.00958754 60 5.52841 60 12.3648Z\" fill=\"#141419\"/>\n<path d=\"M44.2692 29.9952C44.2692 45.84 32.028 58.8132 16.5012 60H12.3732C12.0588 60 11.754 59.9904 11.4504 59.97C11.2176 59.9496 10.9944 59.9292 10.7604 59.898C10.1904 59.8236 9.6324 59.7108 9.0888 59.562C3.8472 58.122 0 53.3232 0 47.6244V12.3648C0 6.0864 4.6656 0.9024 10.7196 0.102C10.7304 0.102 11.2176 0.0408 11.4504 0.03C11.7552 0.0096 12.0588 0 12.3636 0H16.4904C32.028 1.1772 44.2692 14.1504 44.2692 29.9952Z\" fill=\"#FF6A13\"/>\n<path d=\"M60.0001 44.1456V15.8448H19.1629C11.2801 15.8448 4.89966 22.1845 4.89966 29.9952C4.89966 37.806 11.2897 44.1456 19.1629 44.1456H60.0001Z\" fill=\"#141419\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M19.1796 17.1959H60V13.9991H19.1796C10.3596 13.9991 3.19678 21.1631 3.19678 29.9843C3.19678 38.8055 10.2444 45.8663 18.9732 45.9815H60V42.7715H19.1796C12.1188 42.7715 6.39358 37.0439 6.39358 29.9831C6.39358 22.9223 12.1188 17.1947 19.1796 17.1947V17.1959Z\" fill=\"white\"/>\n<path d=\"M38.0076 37.6871H35.958C35.5008 37.6871 35.2044 37.3163 35.2908 36.8711L37.7232 23.1287C37.8096 22.6715 38.2416 22.3127 38.6988 22.3127H40.7484C41.2056 22.3127 41.502 22.6835 41.4156 23.1287L38.9832 36.8711C38.8968 37.3163 38.4528 37.6871 38.0076 37.6871Z\" fill=\"white\"/>\n<path d=\"M53.0964 23.1168L51.6516 31.3104L48.762 23.0676C48.6012 22.5984 48.1692 22.314 47.6388 22.314H45.2184C44.7612 22.314 44.3292 22.6848 44.2428 23.13L41.8104 36.8724C41.724 37.3296 42.0204 37.6884 42.4776 37.6884H44.5272C44.9844 37.6884 45.4164 37.3176 45.5028 36.8724L46.9476 28.6908L49.7508 36.9336C49.9116 37.4028 50.3436 37.6872 50.874 37.6872H53.3928C53.85 37.6872 54.282 37.3164 54.3684 36.8712L56.7888 23.1288C56.8752 22.6716 56.5788 22.3128 56.1216 22.3128H54.06C53.616 22.3008 53.1828 22.6584 53.0964 23.1156V23.1168Z\" fill=\"white\"/>\n<path d=\"M27.7692 32.2859V22.9547C27.7692 22.5959 27.4728 22.3115 27.1272 22.3115H24.5964C24.2748 22.3115 23.9796 22.4963 23.8428 22.7939L19.5708 32.2487V22.9547C19.5708 22.5959 19.2864 22.3115 18.9288 22.3115H16.5336C16.176 22.3115 15.8916 22.5959 15.8916 22.9547V37.0439C15.8916 37.4027 16.176 37.6871 16.5336 37.6871H19.8672C20.1888 37.6871 20.484 37.4891 20.6208 37.1927L24.708 27.8867V37.0439C24.708 37.4027 24.9924 37.6871 25.35 37.6871H28.4856C28.8072 37.6871 29.0904 37.5023 29.226 37.2179L35.7456 23.2283C35.9436 22.7963 35.634 22.3139 35.1648 22.3139H32.8188C32.4972 22.3139 32.202 22.4987 32.0652 22.7963L27.768 32.2871L27.7692 32.2859Z\" fill=\"white\"/>\n</g>\n</g>\n<defs>\n<clippath id=\"clip0_861_2\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clippath>\n<clippath id=\"clip1_861_2\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clippath>\n</defs>\n</svg>\n",
+          "bookmaker3_logo": "      <svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" stroke=\"#FFBB00\" stroke-width=\"3\" />\n        <path d=\"M13.4932 19.3946C13.2934 19.2505 13.0027 19.3226 12.8936 19.5566L10.2409 25.9654C9.75036 27.1535 10.0229 28.5217 10.9314 29.4218L15.6735 34.1563H11.0767C10.8042 34.1563 10.6043 34.4264 10.7133 34.6964L13.5659 41.5012C13.9111 42.3293 14.6016 42.9774 15.4555 43.2654L29.0098 47.838C29.6457 48.054 30.3361 48.054 30.9902 47.838L44.5445 43.2654C45.3984 42.9774 46.0889 42.3473 46.4341 41.5012L49.2867 34.6964C49.3957 34.4444 49.214 34.1563 48.9233 34.1563H44.3265L49.0686 29.4398C49.9771 28.5397 50.2496 27.1715 49.7591 25.9834L47.1064 19.5746C47.0155 19.3406 46.7248 19.2505 46.5068 19.4126L43.309 21.8069L43.2726 17.7384C43.2726 16.4782 42.5095 15.3441 41.3649 14.858L34.6968 12.0317C34.4424 11.9237 34.1517 12.1037 34.1517 12.3917V15.056C34.1517 16.0282 34.6059 16.9643 35.369 17.5583L42.2552 22.869V34.1563L29.9909 44.9036L17.7448 34.1563V22.869L24.631 17.5583C25.3941 16.9643 25.8483 16.0462 25.8483 15.056V12.3917C25.8483 12.1037 25.5576 11.9237 25.3032 12.0317L18.6351 14.858C17.4905 15.3441 16.7455 16.4782 16.7274 17.7384L16.691 21.8069L13.4932 19.4126V19.3946Z\" fill=\"#F42525\" />\n      </svg>",
+          "bookmaker1_color": "#DA001B",
+          "bookmaker1_offer": "Фрибет до 15 000 ₽",
+          "bookmaker1_title": "Fonbet",
+          "bookmaker2_color": "#FF6A13",
+          "bookmaker2_offer": "Фрибет 3000 новым игрокам",
+          "bookmaker2_title": "Winline",
+          "bookmaker3_color": "#FFBB00",
+          "bookmaker3_offer": "Фрибет 8 000 ₽ новичкам",
+          "bookmaker3_title": "Olimpbet",
+          "YANDEX_METRICA_ID": "",
+          "bookmaker1_rating": "9.5",
+          "bookmaker2_rating": "8.9",
+          "bookmaker3_rating": "8.9",
+          "bookmaker1_urlReview": "https://sport24.ru/tags/FONBET",
+          "bookmaker2_urlReview": "https://sport24.ru/tags/Winline",
+          "bookmaker3_urlReview": "https://sport24.ru/tags/OLIMPBET"
+        },
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 81
+    },
+    {
+      "id": 226,
+      "bannerPlace": "BEFORE_FIRST_NEWS_DESKTOP",
+      "bannerType": "HTML",
+      "html": "<div class=\"translation-container\" style=\"display:flex;flex-direction:column;background-color:#F9FBFF;padding:8px;border-radius:4px;position:relative;z-index:0;\">\n    <div style=\"content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 4px; padding: 2px; background: linear-gradient(135deg, #E76005 0%, #FDC626 21%, #EE7907 34%, #FDC626 46%, #C73605 58%, #F4930F 74%, #DD651A 100%);-webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: destination-out; mask-composite: exclude; z-index: -1;\"> </div>\n    <div class=\"translation-title\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top;\"><img src=\"{MEDIA_BASE_URL}/m/6b9e/ce37/a5ae/444b/bdd1/c22f/abcf/f85d.png\" alt=\"play\" style=\"width: 16.29px; height: 16px; color: black; margin-right: 3px;\"/>Владислав Радимов объяснил рискованный прогноз на матч «Балтика» — ЦСКА: «Поэтому я рискну…»</div>\n    <div class=\"translation-title-second\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top; margin-top: -1px;\"></div>\n    <div class=\"translation-info\" style=\"display: flex; font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; font-size: .75rem; margin-top: 6px;\">\n        <div class=\"translation-sport\" style=\"margin-right: 10px; color: #08995c;\">\n            Футбол. Прогноз на Кубок России\n        </div>\n        <div class=\"translation-time\" style=\"color: #A3A3A3;\">\n            13:31\n        </div>\n    </div>\n</div>",
+      "link": "https://sport24.ru/football/news-778704-vladislav-radimov-obyasnil-riskovannyy-prognoz-na-match-baltika-tsska-poetomu-ya-risknu",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    },
+    {
+      "id": 227,
+      "bannerPlace": "BEFORE_FIRST_NEWS_MOBILE",
+      "bannerType": "HTML",
+      "html": "<div class=\"translation-container\" style=\"display:flex;flex-direction:column;background-color:#F9FBFF;padding:8px;border-radius:4px;position:relative;z-index:0;\">\n    <div style=\"content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 4px; padding: 2px; background: linear-gradient(135deg, #E76005 0%, #FDC626 21%, #EE7907 34%, #FDC626 46%, #C73605 58%, #F4930F 74%, #DD651A 100%);-webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: destination-out; mask-composite: exclude; z-index: -1;\"> </div>\n    <div class=\"translation-title\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top;\"><img src=\"{MEDIA_BASE_URL}/m/6b9e/ce37/a5ae/444b/bdd1/c22f/abcf/f85d.png\" alt=\"play\" style=\"width: 16.29px; height: 16px; color: black; margin-right: 3px;\"/>Владислав Радимов объяснил рискованный прогноз на матч «Балтика» — ЦСКА: «Поэтому я рискну…»</div>\n    <div class=\"translation-title-second\" style=\"font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; line-height: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: top; margin-top: -1px;\"></div>\n    <div class=\"translation-info\" style=\"display: flex; font-family: -apple-system, 'Helvetica Neue', 'Arial', sans-serif; font-size: .75rem; margin-top: 6px;\">\n        <div class=\"translation-sport\" style=\"margin-right: 10px; color: #08995c;\">\n            Футбол. Прогноз на Кубок России\n        </div>\n        <div class=\"translation-time\" style=\"color: #A3A3A3;\">\n            13:31\n        </div>\n    </div>\n</div>",
+      "link": "https://sport24.ru/football/news-778704-vladislav-radimov-obyasnil-riskovannyy-prognoz-na-match-baltika-tsska-poetomu-ya-risknu",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    },
+    {
+      "id": 228,
+      "bannerPlace": "BEFORE_NEWS_DESKTOP",
+      "bannerType": "HTML",
+      "imageUri": "d7ef/0bb2/9dee/4891/970d/8007/0c81/c1ee/1220_48.png",
+      "html": "<div class=\"doit\">\n  <p style=\"display: none;\">\n   Реклама 18+. erid: F7NfYUJCUneP6Uy8NGYY</p>\n</div>\n\n<style>\n.doit \n  { \nbackground-image: url({MEDIA_BASE_URL}/m/d7ef/0bb2/9dee/4891/970d/8007/0c81/c1ee.png); \nbackground-position: 50% 50%;            \nbackground-repeat:no-repeat;\nmin-block-size: 48px;\nmax-width: 1220px;\nborder-radius: 6px;\nbackground-size: cover\n}\n</style>",
+      "link": "https://p.winline.ru/s/S3DyRJ6_rp?statid=1879_sport24&sub=sport24&sub2=w-center&sub3=mainpage&sub4=football&sub5={YM_CLIENT_ID}&promocode=SPORT24",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    },
+    {
+      "id": 229,
+      "bannerPlace": "BEFORE_NEWS_MOBILE",
+      "bannerType": "HTML",
+      "imageUri": "dabc/f30b/4da6/417f/aa0b/77a8/a1f3/740f/1220_49.png",
+      "html": "<div class=\"doit\">\n  <p style=\"display: none;\">\n   Реклама 18+. erid: F7NfYUJCUneP6Uy8NGYY</p>\n</div>\n\n<style>\n.doit \n  { \nbackground-image: url({MEDIA_BASE_URL}/m/dabc/f30b/4da6/417f/aa0b/77a8/a1f3/740f.png); \nbackground-position: 50% 50%;            \nbackground-repeat:no-repeat;\nmin-block-size: 48px;\nmax-width: 1220px;\nborder-radius: 6px;\nbackground-size: cover\n}\n</style>",
+      "link": "https://p.winline.ru/s/S3DyRJ6_rp?statid=1879_sport24&sub=sport24&sub2=w-center&sub3=mainpage&sub4=football&sub5={YM_CLIENT_ID}&promocode=SPORT24",
+      "frontConfig": {
+        "variables": {},
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 149
+    }
+  ],
+  "statistics": {
+    "associations": [],
+    "players": [
+      {
+        "id": 80815,
+        "urn": "duglas-santos",
+        "firstName": "Дуглас",
+        "lastName": "Сантос",
+        "logos": {
+          "default": "abbc/c84a/dca1/41d2/a5b6/2ecf/6598/bab6/160_160.png"
+        },
+        "citizenships": [
+          {
+            "titleRu": "Россия",
+            "alpha2": "RU",
+            "alpha3": "RUS",
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.AreaStateConfig",
+              "logos": {
+                "default": "ed07/bba5/aa3c/d2f0/528c/fb14/94d8/f7c6/1024_683.png"
+              },
+              "alwaysUseLogo": false
+            },
+            "id": 225
+          },
+          {
+            "titleRu": "Бразилия",
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.AreaStateConfig",
+              "logos": {
+                "default": "1ccb/8846/80bd/323b/9a0b/46ea/bf6b/c35a/550_385.jpeg"
+              },
+              "alwaysUseLogo": false
+            },
+            "id": 95
+          }
+        ],
+        "fullName": "Дуглас дос Сантос Жустино де Мело",
+        "gender": "MALE",
+        "region": {
+          "thumbnail": "ed07/bba5/aa3c/d2f0/528c/fb14/94d8/f7c6/1024_683.png",
+          "iso": "RU",
+          "title": "Россия",
+          "alwaysUseLogo": false
+        },
+        "region2": {
+          "thumbnail": "1ccb/8846/80bd/323b/9a0b/46ea/bf6b/c35a/550_385.jpeg",
+          "iso": "BR",
+          "title": "Бразилия",
+          "alwaysUseLogo": false
+        },
+        "teams": [
+          {
+            "team": {
+              "id": 12120,
+              "urn": "zenit",
+              "title": "Зенит",
+              "alwaysUseLogo": false,
+              "national": false,
+              "smallThumbnail": "138b/64fb/0756/4105/9154/50b8/8d4b/4773/500_500.png",
+              "thumbnail": "138b/64fb/0756/4105/9154/50b8/8d4b/4773/500_500.png",
+              "image": "6da3/f987/f74d/45cc/951c/4b41/8a58/4099/3415_1600.png"
+            },
+            "jerseyNumber": "3",
+            "position": "DEFENDER"
+          }
+        ],
+        "sport": {
+          "id": 1,
+          "urn": "football",
+          "titleRu": "Футбол",
+          "priority": 1
+        }
+      }
+    ],
+    "teams": [
+      {
+        "urn": "brazil",
+        "title": "Бразилия",
+        "national": true,
+        "thumbnail": "377b/127e/83e0/f29e/b75b/2919/351d/71cc/2560_1792.png",
+        "image": "347f/d741/7ea5/78ee/668b/93b6/3589/6d65/2560_1792.png",
+        "region": {
+          "iso": "BR",
+          "title": "Бразилия"
+        },
+        "virtual": false,
+        "sportUrn": "football",
+        "sport": {
+          "id": 1,
+          "title": "Футбол",
+          "urn": "football",
+          "name": "Футбол",
+          "frontConfig": {
+            "color": "#08995C",
+            "logos": {
+              "default": "1b54/c17c/2a30/02ae/4bd0/f984/0849/fbc8/70_70.png"
+            },
+            "@class": "ru.sport24.hub.repository.model.config.SportConfig",
+            "logoSvg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.333 12a8.667 8.667 0 1 1 17.334 0 8.667 8.667 0 0 1-17.334 0Z\" fill=\"currentColor\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 4.333a7.667 7.667 0 1 0 0 15.333 7.667 7.667 0 0 0 0-15.333Zm0-1a8.667 8.667 0 1 0 0 17.333 8.667 8.667 0 0 0 0-17.333Z\" fill=\"#000\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.199 3.63 9.544 6.87 5.87 8.6l-.651-1.65 1.97-2.047 4.01-1.272ZM5.152 10.327l2.937 2.262v4.234l-2.958-.104-1.2-1.597-.204-1.98 1.425-2.815ZM13.46 4.442l.602-.81 2.577 1.066 3.128 3.424-4.453-1.415-1.853-2.265ZM14.75 7.62l1.824 3.82-3.034 2.978-3.898-2.314.94-4.203 4.168-.281ZM13.694 15.689l2.97 1.228-1.142 2.8-4.046.607-1.396-2.52 3.614-2.115ZM19.198 9.317l1.438 2.773-.826 3.116h-1.905l-.193-3.332 1.486-2.557Z\" fill=\"#000\"/>\n</svg>",
+            "siteBackgrounds": {
+              "default": "c546/851c/dfc4/0b32/c784/6a3f/d597/db35/2708_1250.jpeg"
+            },
+            "mobileBackgrounds": {
+              "default": "12d9/5a4e/25c6/443a/99e5/21ed/274b/3ae3/786_851.png"
+            }
+          }
+        },
+        "id": "12412"
+      },
+      {
+        "urn": "zenit",
+        "title": "Зенит",
+        "national": false,
+        "thumbnail": "138b/64fb/0756/4105/9154/50b8/8d4b/4773/500_500.png",
+        "image": "6da3/f987/f74d/45cc/951c/4b41/8a58/4099/3415_1600.png",
+        "region": {
+          "iso": "RU",
+          "title": "Россия"
+        },
+        "city": {
+          "title": "Санкт-Петербург"
+        },
+        "virtual": false,
+        "sportUrn": "football",
+        "sport": {
+          "id": 1,
+          "title": "Футбол",
+          "urn": "football",
+          "name": "Футбол",
+          "frontConfig": {
+            "color": "#08995C",
+            "logos": {
+              "default": "1b54/c17c/2a30/02ae/4bd0/f984/0849/fbc8/70_70.png"
+            },
+            "@class": "ru.sport24.hub.repository.model.config.SportConfig",
+            "logoSvg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.333 12a8.667 8.667 0 1 1 17.334 0 8.667 8.667 0 0 1-17.334 0Z\" fill=\"currentColor\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 4.333a7.667 7.667 0 1 0 0 15.333 7.667 7.667 0 0 0 0-15.333Zm0-1a8.667 8.667 0 1 0 0 17.333 8.667 8.667 0 0 0 0-17.333Z\" fill=\"#000\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.199 3.63 9.544 6.87 5.87 8.6l-.651-1.65 1.97-2.047 4.01-1.272ZM5.152 10.327l2.937 2.262v4.234l-2.958-.104-1.2-1.597-.204-1.98 1.425-2.815ZM13.46 4.442l.602-.81 2.577 1.066 3.128 3.424-4.453-1.415-1.853-2.265ZM14.75 7.62l1.824 3.82-3.034 2.978-3.898-2.314.94-4.203 4.168-.281ZM13.694 15.689l2.97 1.228-1.142 2.8-4.046.607-1.396-2.52 3.614-2.115ZM19.198 9.317l1.438 2.773-.826 3.116h-1.905l-.193-3.332 1.486-2.557Z\" fill=\"#000\"/>\n</svg>",
+            "siteBackgrounds": {
+              "default": "c546/851c/dfc4/0b32/c784/6a3f/d597/db35/2708_1250.jpeg"
+            },
+            "mobileBackgrounds": {
+              "default": "12d9/5a4e/25c6/443a/99e5/21ed/274b/3ae3/786_851.png"
+            }
+          }
+        },
+        "id": "12120"
+      }
+    ],
+    "competitions": [
+      {
+        "id": 107,
+        "urn": "rpl",
+        "title": "Российская Премьер-Лига",
+        "titleShort": "РПЛ",
+        "leagueType": "NATIONAL",
+        "longTitle": "Российская Премьер-Лига",
+        "sport": {
+          "id": 1,
+          "title": "Футбол",
+          "urn": "football",
+          "name": "Футбол",
+          "frontConfig": {
+            "logos": {
+              "default": "41f5/a642/9297/4349/bc5b/9385/dd5e/29e8/500_500.png"
+            },
+            "@class": "ru.sport24.hub.repository.model.config.CompetitionConfig",
+            "socials": {
+              "site": "https://premierliga.ru/",
+              "twitter": "",
+              "instagram": ""
+            },
+            "fakeLive": false,
+            "siteBackgrounds": {
+              "default": "7374/0b97/afa4/48a9/9698/4a0f/b530/c90e/1600_900.png"
+            },
+            "mobileBackgrounds": {
+              "default": "45db/01cc/546f/4078/8994/2545/967d/b21c/1600_900.png"
+            },
+            "publishedTopWidget": true,
+            "publishedStatisticsTab": true,
+            "publishedHomeAwayStatistics": true
+          }
+        },
+        "seasons": [
+          {
+            "id": 15825,
+            "urn": "2025-26",
+            "title": "Мир Российская Премьер-Лига",
+            "year": "2025/26",
+            "actual": true,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "mobileBackgrounds": {},
+              "siteBackgrounds": {},
+              "fakeLive": false,
+              "subtractionRules": {},
+              "clubLogoInsteadOfCountry": false
+            }
+          },
+          {
+            "id": 14325,
+            "urn": "2024-25",
+            "title": "Мир Российская Премьер-Лига",
+            "year": "2024/25",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "mobileBackgrounds": {},
+              "siteBackgrounds": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 12906,
+            "urn": "2023-24",
+            "title": "Мир Российская Премьер-Лига",
+            "year": "2023/24",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 11638,
+            "urn": "2022-23",
+            "title": "Мир Российская Премьер-Лига",
+            "year": "2022/23",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 10195,
+            "urn": "2021-22",
+            "title": "Тинькофф Российская Премьер-лига",
+            "year": "2021/22",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1827,
+            "urn": "premier-league-2021",
+            "title": "Тинькофф Российская Премьер-лига",
+            "year": "2020/21",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1898,
+            "urn": "201920",
+            "title": "Тинькофф Российская Премьер-лига",
+            "year": "2019/20",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1830,
+            "urn": "201819",
+            "title": "Российская Премьер-Лига",
+            "year": "2018/19",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1826,
+            "urn": "201718",
+            "title": "Росгосстрах Чемпионат России",
+            "year": "2017/18",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1574,
+            "urn": "201617",
+            "title": "Росгосстрах Чемпионат России",
+            "year": "2016/17",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1825,
+            "urn": "201516",
+            "title": "Росгосстрах Чемпионат России",
+            "year": "2015/16",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1611,
+            "urn": "201415",
+            "title": "СОГАЗ чемпионат России",
+            "year": "2014/15",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 5812,
+            "urn": "2013-14",
+            "title": "Премьер Лига",
+            "year": "2013/14",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 5815,
+            "urn": "2012-13",
+            "title": "Премьер Лига",
+            "year": "2012/13",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 5817,
+            "urn": "2011-12",
+            "title": "Премьер Лига",
+            "year": "2011/12",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 5813,
+            "urn": "2010",
+            "title": "Премьер Лига",
+            "year": "2010",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 5818,
+            "urn": "2009",
+            "title": "Премьер Лига",
+            "year": "2009",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 5811,
+            "urn": "2008",
+            "title": "Премьер Лига",
+            "year": "2008",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 5816,
+            "urn": "2007",
+            "title": "Премьер Лига",
+            "year": "2007",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 5814,
+            "urn": "2006",
+            "title": "Высшая Лига",
+            "year": "2006",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 5809,
+            "urn": "2005",
+            "title": "Высшая Лига",
+            "year": "2005",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 5808,
+            "urn": "2004",
+            "title": "Высшая Лига",
+            "year": "2004",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 5810,
+            "urn": "2003",
+            "title": "Высшая Лига",
+            "year": "2003",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          }
+        ],
+        "officialSite": "https://premierliga.ru/",
+        "frontConfig": {
+          "@class": "ru.sport24.hub.repository.model.config.CompetitionConfig",
+          "logos": {
+            "default": "41f5/a642/9297/4349/bc5b/9385/dd5e/29e8/500_500.png"
+          },
+          "mobileBackgrounds": {
+            "default": "45db/01cc/546f/4078/8994/2545/967d/b21c/1600_900.png"
+          },
+          "siteBackgrounds": {
+            "default": "7374/0b97/afa4/48a9/9698/4a0f/b530/c90e/1600_900.png"
+          },
+          "socials": {
+            "site": "https://premierliga.ru/",
+            "twitter": "",
+            "instagram": ""
+          },
+          "publishedTopWidget": true,
+          "publishedStatisticsTab": true,
+          "fakeLive": false,
+          "publishedHomeAwayStatistics": true,
+          "playoffSeries": false
+        }
+      },
+      {
+        "id": 69,
+        "urn": "world-cup-qualification-south-america",
+        "title": "Квалификация ЧМ - Южная Америка",
+        "titleShort": "Квал. ЧМ - Юж. Америка",
+        "leagueType": "INTERNATIONAL",
+        "longTitle": "Квалификация ЧМ - Южная Америка",
+        "sport": {
+          "id": 1,
+          "title": "Футбол",
+          "urn": "football",
+          "name": "Футбол",
+          "frontConfig": {
+            "logos": {
+              "default": "a7ea/ec35/0c34/4cb4/b2f6/d725/a25a/a953/500_500.png"
+            },
+            "@class": "ru.sport24.hub.repository.model.config.CompetitionConfig",
+            "socials": {
+              "site": "https://www.conmebol.com/eliminatorias-sudamericanas-mundial-2026/",
+              "twitter": "",
+              "instagram": ""
+            },
+            "fakeLive": false,
+            "siteBackgrounds": {
+              "default": "fa8e/d646/3216/4822/9b0f/f7cd/8a55/3b53/1600_900.png"
+            },
+            "mobileBackgrounds": {
+              "default": "2557/4d88/1de6/4812/b141/fc76/7cba/0d50/1600_900.png"
+            },
+            "publishedTopWidget": true,
+            "publishedStatisticsTab": true,
+            "publishedHomeAwayStatistics": true
+          }
+        },
+        "seasons": [
+          {
+            "id": 13162,
+            "urn": "2026",
+            "title": "Квалификация ЧМ - Южная Америка",
+            "year": "2026",
+            "actual": true,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "mobileBackgrounds": {},
+              "siteBackgrounds": {},
+              "fakeLive": false,
+              "subtractionRules": {},
+              "clubLogoInsteadOfCountry": false
+            }
+          },
+          {
+            "id": 1505,
+            "urn": "kubok-mira-kvalifikatsiya-konmebol-2022",
+            "title": "Квалификация ЧМ - Южная Америка",
+            "year": "2022",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1449,
+            "urn": "chempionat-mira-kvalifikatsiya-konmebol-2018",
+            "title": "Квалификация ЧМ - Южная Америка",
+            "year": "2018",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1485,
+            "urn": "kubok-mira-kvalifikatsiya-konmebol-2011-2013",
+            "title": "Квалификация ЧМ - Южная Америка",
+            "year": "2014",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1414,
+            "urn": "chempionat-mira-2010-kvalifikatsiya-yuzhnaya-amerikakonmebol",
+            "title": "Квалификация ЧМ - Южная Америка",
+            "year": "2010",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1452,
+            "urn": "kvalifikatsiya-k-chempionatu-mira-2006-yuzhnaya-amerika",
+            "title": "Квалификация ЧМ - Южная Америка",
+            "year": "2006",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          }
+        ],
+        "officialSite": "https://www.conmebol.com/eliminatorias-sudamericanas-mundial-2026/",
+        "parent": {
+          "id": 105,
+          "urn": "worldcup",
+          "title": "Чемпионат мира",
+          "titleShort": "ЧМ",
+          "leagueType": "INTERNATIONAL",
+          "longTitle": "Чемпионат мира",
+          "sport": {
+            "id": 1,
+            "title": "Футбол",
+            "urn": "football",
+            "name": "Футбол",
+            "frontConfig": {
+              "logos": {
+                "default": "0152/980f/cd58/ca1e/3290/178d/9fa3/d24e/500_500.png"
+              },
+              "@class": "ru.sport24.hub.repository.model.config.CompetitionConfig",
+              "socials": {
+                "site": "https://fifa.com/worldcup/",
+                "twitter": "",
+                "instagram": ""
+              },
+              "fakeLive": false,
+              "siteBackgrounds": {
+                "default": "9c74/d3aa/7f40/45ed/a0da/a15f/26f0/bc73/1600_900.png"
+              },
+              "mobileBackgrounds": {
+                "default": "3729/20e8/830c/461c/bfe7/f1f0/15c6/6d2e/1600_900.png"
+              },
+              "publishedTopWidget": true,
+              "publishedStatisticsTab": true,
+              "publishedHomeAwayStatistics": false
+            }
+          },
+          "officialSite": "https://fifa.com/worldcup/",
+          "frontConfig": {
+            "@class": "ru.sport24.hub.repository.model.config.CompetitionConfig",
+            "logos": {
+              "default": "0152/980f/cd58/ca1e/3290/178d/9fa3/d24e/500_500.png"
+            },
+            "mobileBackgrounds": {
+              "default": "3729/20e8/830c/461c/bfe7/f1f0/15c6/6d2e/1600_900.png"
+            },
+            "siteBackgrounds": {
+              "default": "9c74/d3aa/7f40/45ed/a0da/a15f/26f0/bc73/1600_900.png"
+            },
+            "socials": {
+              "site": "https://fifa.com/worldcup/",
+              "twitter": "",
+              "instagram": ""
+            },
+            "publishedTopWidget": true,
+            "publishedStatisticsTab": true,
+            "fakeLive": false,
+            "publishedHomeAwayStatistics": false,
+            "playoffSeries": false
+          }
+        },
+        "frontConfig": {
+          "@class": "ru.sport24.hub.repository.model.config.CompetitionConfig",
+          "logos": {
+            "default": "a7ea/ec35/0c34/4cb4/b2f6/d725/a25a/a953/500_500.png"
+          },
+          "mobileBackgrounds": {
+            "default": "2557/4d88/1de6/4812/b141/fc76/7cba/0d50/1600_900.png"
+          },
+          "siteBackgrounds": {
+            "default": "fa8e/d646/3216/4822/9b0f/f7cd/8a55/3b53/1600_900.png"
+          },
+          "socials": {
+            "site": "https://www.conmebol.com/eliminatorias-sudamericanas-mundial-2026/",
+            "twitter": "",
+            "instagram": ""
+          },
+          "publishedTopWidget": true,
+          "publishedStatisticsTab": true,
+          "fakeLive": false,
+          "publishedHomeAwayStatistics": true,
+          "playoffSeries": false
+        }
+      }
+    ]
+  },
+  "bookmakers": []
+}

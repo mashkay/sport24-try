@@ -1,0 +1,2418 @@
+{
+  "material": {
+    "id": 779094,
+    "editDate": 1756285042747,
+    "title": "Тренер «Авангарда» оценил сравнения Гуляева с Макаром: «Зачем давить на парня?»",
+    "type": "NEWS",
+    "publishDate": 1756285042747,
+    "urn": "779094-trener-avangarda-otsenil-sravneniya-gulyayeva-s-makarom-zachem-davit-na-parnya",
+    "uriFormatVersion": 1,
+    "tags": [
+      26003,
+      13739,
+      14374,
+      15782,
+      28175,
+      26177,
+      15167
+    ],
+    "rubricId": 73,
+    "previewImage": {
+      "copyright": "Getty Images",
+      "image": "ef7a/0c49/6af1/426a/a368/e391/dab5/43c1/1600_900.jpeg",
+      "tags": [
+        26177
+      ]
+    },
+    "hidePreviewImage": true,
+    "hideInReadBanner": false,
+    "hideComments": false,
+    "advertisingPartnerMaterial": false,
+    "superCache": false,
+    "socialNetworkImages": {
+      "vkImage": "b3c6/bb59/f9a4/4d2b/8122/46ff/c4d1/ccf8/537_240.png",
+      "image": "5240/f6f8/6f55/456a/81c3/48db/53f9/3f63/1200_630.png"
+    },
+    "authors": [],
+    "content": [
+      [
+        "p",
+        [
+          [
+            "Главный тренер «Авангарда» Ги Буше высказал свое мнение насчет защитника Михаила Гуляева."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "По мнению Буше, Гуляева на данном этапе его карьеры не следует сравнивать со звездой НХЛ Кейлом Макаром. 20-летний Гуляев был выбран «Колорадо» на драфте НХЛ-2023. Макар выступает именно за «Эвеланш», где становился обладателем Кубка Стэнли и признавался лучшим защитником сезона."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "«Зачем давить на парня такими сравнениями? Макар сейчас на другом уровне. А у Гуляева есть потенциал стать самим собой. Молодых хоккеистов часто сдерживают сравнения со звездами, им нужно развиваться своим путем. У Макара и Гуляева разный стиль игры, в другом виде спорта они бы играли на разных позициях."
+          ]
+        ],
+        {}
+      ],
+      [
+        "p",
+        [
+          [
+            "В НХЛ нельзя быть атакующим защитником без навыков блокировать, отбирать шайбу и вытеснять противников. Если ты это умеешь, то тогда тебе разрешат вносить вклад в атаку. У Гули отменная скорость, он умеет придумать что-то из ничего. Но для выступлений в НХЛ ему нужно добавить во многих аспектах. Там ему придется обороняться против Маккиннона и Макдэвида, так что Гуляеву предстоит многому научиться», — цитирует Буше "
+          ],
+          [
+            "a",
+            [
+              [
+                "RG.org"
+              ]
+            ],
+            {
+              "href": "https://rg.org/news/hockey/avalanche-prospect-mikhail-gulyayev-plays-forward-eyes-2026-nhl-move"
+            }
+          ],
+          [
+            "."
+          ]
+        ],
+        {}
+      ]
+    ],
+    "rubrics": [
+      73
+    ],
+    "hyperlinkActive": true,
+    "matchbarIncluded": true
+  },
+  "tags": {
+    "items": [
+      {
+        "id": 26003,
+        "editDate": 1691251812650,
+        "creationDate": 1691251812650,
+        "published": true,
+        "archived": false,
+        "title": "Михаил Гуляев",
+        "urn": "mikhail-gulyayev-2005-04-26",
+        "rubricId": 73,
+        "tagType": "PLAYER",
+        "subscribable": true,
+        "hidden": false
+      },
+      {
+        "id": 13739,
+        "editDate": 1669106347377,
+        "creationDate": 1492423992333,
+        "published": true,
+        "archived": false,
+        "title": "НХЛ",
+        "urn": "nhl",
+        "logoImageUri": "3be6/ebc1/e4e1/410b/8766/d064/f3ce/993f/500_500.png",
+        "rubricId": 73,
+        "tagType": "COMPETITION",
+        "subscribable": true,
+        "hidden": false
+      },
+      {
+        "id": 14374,
+        "editDate": 1670931666212,
+        "creationDate": 1492440142028,
+        "published": true,
+        "archived": false,
+        "title": "КХЛ",
+        "urn": "khl",
+        "logoImageUri": "1e96/c5cf/9617/4c86/84f1/b01c/f96c/5089/500_500.png",
+        "rubricId": 73,
+        "tagType": "COMPETITION",
+        "subscribable": true,
+        "hidden": false
+      },
+      {
+        "id": 15782,
+        "editDate": 1669106347377,
+        "creationDate": 1490352227775,
+        "published": true,
+        "archived": false,
+        "title": "ХК Авангард",
+        "urn": "avangard",
+        "logoImageUri": "43cd/f7c9/bc60/44e2/1e6b/9fca/8aeb/0596/500_500.png",
+        "rubricId": 73,
+        "tagType": "TEAM",
+        "subscribable": true,
+        "hidden": false
+      },
+      {
+        "id": 28175,
+        "editDate": 1732720209659,
+        "creationDate": 1732720209659,
+        "published": true,
+        "archived": false,
+        "title": "Ги Буше",
+        "urn": "boucher-guy",
+        "rubricId": 73,
+        "tagType": "PLAYER",
+        "frontConfig": {
+          "hideMatchbar": false,
+          "hideThirdPartyAds": false
+        },
+        "subscribable": true,
+        "hidden": false
+      },
+      {
+        "id": 26177,
+        "editDate": 1697107140915,
+        "creationDate": 1697107140915,
+        "published": true,
+        "archived": false,
+        "title": "Кейл Макар",
+        "urn": "makar-cale",
+        "rubricId": 73,
+        "tagType": "PLAYER",
+        "subscribable": true,
+        "hidden": false
+      },
+      {
+        "id": 15167,
+        "editDate": 1669106347377,
+        "creationDate": 1499189977513,
+        "published": true,
+        "archived": false,
+        "title": "ХК Колорадо Эвеланш",
+        "urn": "kolorado_evelansh",
+        "logoImageUri": "70e3/ea08/4391/3fa9/9dba/8643/f8b9/90b7/500_500.png",
+        "rubricId": 73,
+        "tagType": "TEAM",
+        "subscribable": true,
+        "hidden": false
+      }
+    ]
+  },
+  "rubrics": {
+    "items": [
+      {
+        "id": 73,
+        "editDate": 1748518370621,
+        "creationDate": 1488445523705,
+        "published": true,
+        "urn": "hockey",
+        "name": "Хоккей",
+        "color": "#2284E6",
+        "logoImageUri": "0833/f695/8d75/bfcf/674a/8ca9/c522/04bb/70_70.png",
+        "backgroundImageUri": "9e67/0df9/36e5/7642/4024/ab14/160b/2c62/6000_691.jpeg",
+        "mobileBackgroundImageUri": "b36d/eafd/9d24/e3d5/cea7/c80e/daee/dcb6/786_851.png",
+        "siteMobileBackgroundImageUri": "8495/5a4e/6b27/43ff/9cb3/af51/60ce/0cd0/3200_369.png",
+        "videoPagePublished": true,
+        "videoPagePriority": 2,
+        "frontConfig": {
+          "logoSvg": "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M24.93 13.89C25.6 12.13 26.24 10.42 26.69 9.15C26.92 8.52 28 5.5 28 5.5H24.38C24.38 5.5 22.79 9.68 22.26 10.84C21.63 12.19 21.03 13.34 20.46 14.24C19.62 15.56 19.07 16 18.81 16.15C18.33 16.43 17.6 16.62 16.64 16.72C15.78 16.81 14.75 16.83 13.5 16.77C12.39 16.72 11.28 16.63 10.26 16.55C9.27 16.46 8.42 16.39 7.79 16.39C7.35 16.39 6.92 16.58 6.53 16.95C6.3 17.17 6.05 17.45 5.81 17.83C5.42 18.43 5.02 19.21 4.68 20.05C4.34 20.9 4.11 21.71 4.03 22.34C3.97 22.78 3.98 23.16 4.08 23.47C4.16 23.76 4.3 24.01 4.51 24.19C4.78 24.44 5.11 24.56 5.47 24.56C8.59 24.56 11.79 24.42 14.24 24.16C14.7 24.11 15.12 24.06 15.53 24V24.75V24.87L15.64 25.11C15.71 25.22 15.81 25.33 15.94 25.43C16.2 25.64 16.58 25.83 17.06 25.99C18.04 26.32 19.35 26.5 20.75 26.5C22.15 26.5 23.46 26.32 24.44 25.99C24.92 25.83 25.3 25.64 25.56 25.43C25.69 25.33 25.84 25.21 25.91 25.08V21.34L25.81 20.9C25.74 20.79 25.64 20.68 25.51 20.57C25.25 20.36 24.88 20.17 24.4 20.01C23.87 19.83 23.23 19.7 22.54 19.62C22.64 19.41 22.74 19.19 22.85 18.95C23.43 17.63 24.14 15.93 24.93 13.89ZM13.2 17.92C13.28 17.92 14.05 17.96 14.34 17.96L12.27 23.15C11.89 23.18 11.49 23.2 11.09 23.22L13.21 17.91L13.2 17.92ZM5.3 23.33C5.3 23.33 5.22 23.22 5.2 23.14C5.15 22.98 5.15 22.75 5.19 22.47C5.26 21.94 5.47 21.23 5.77 20.46C6.07 19.69 6.43 18.98 6.79 18.45C6.98 18.17 7.15 17.95 7.32 17.78C7.49 17.62 7.66 17.53 7.8 17.53C8.26 17.53 8.9 17.57 9.62 17.64L7.35 23.35C6.73 23.36 6.11 23.37 5.49 23.37C5.42 23.37 5.36 23.35 5.32 23.31L5.3 23.33ZM24.81 22.32V24.54C24.81 24.54 24.23 25.26 20.73 25.26C17.23 25.26 16.68 24.54 16.68 24.54V22.32C16.68 22.32 17.51 22.99 20.72 22.99C23.93 22.99 24.8 22.31 24.8 22.31L24.81 22.32ZM24.37 21.25C24.37 21.25 23.77 21.81 20.75 21.81C17.73 21.81 17.1 21.25 17.1 21.25C17.1 21.25 18.2 20.63 20.75 20.63C23.3 20.63 24.37 21.25 24.37 21.25ZM17.24 19.97L18.17 17.64C18.65 17.52 19.06 17.36 19.39 17.17C20 16.81 20.7 16.04 21.44 14.87C22.03 13.92 22.66 12.73 23.31 11.33C23.76 10.33 24.79 7.65 25.18 6.66H26.35C26.09 7.36 25.75 8.36 25.6 8.75C25.15 10.01 24.52 11.71 23.84 13.46C23.06 15.48 22.38 17.17 21.79 18.47C21.61 18.86 21.45 19.21 21.3 19.53C19.85 19.48 18.35 19.62 17.25 19.96L17.24 19.97Z\" fill=\"currentColor\"/>\n</svg>\n"
+        }
+      }
+    ]
+  },
+  "hyperlinks": [
+    {
+      "id": 3947,
+      "title": "Побьет ли Овечкин рекорд Гретцки по голам, слайдер Олимпбет (доп)",
+      "content": [
+        [
+          "slider",
+          [],
+          {
+            "id": "2002",
+            "question": "Побьет ли Овечкин рекорд Гретцки по голам в истории?",
+            "leftOptionBefore": "Да! Осталось немного",
+            "rightOptionBefore": "Нет, не успеет",
+            "leftLogoImageUri": "600e/982e/62a5/41e6/ad60/f4b6/1153/fb60/400_400.png",
+            "rightLogoImageUri": "fecf/ba71/15db/48f0/a0bf/75b2/cad0/41e2/400_400.png",
+            "answer": "Уверен? Ставь на битву легенд НХЛ с бонусом 8000 рублей!",
+            "buttonText": "СДЕЛАТЬ СТАВКУ С БОНУСОМ",
+            "buttonUrl": "https://go.sport24.ru/mmatest010825",
+            "leftOptionAfter": "1.84",
+            "rightOptionAfter": "1.85",
+            "leftOptionAfterNotChosen": "1.84",
+            "rightOptionAfterNotChosen": "1.85",
+            "branding": {
+              "logo": "9858/1574/ca8a/48ae/b911/4a03/61e3/8ff7/187_40.png",
+              "btnBgColor1": "#ffcc00",
+              "btnBgColor2": null,
+              "btnTextColor": "#1a1a1a",
+              "afterHandlerIcon": null,
+              "beforeHandlerIcon": null,
+              "btnBgGradientDirection": 0
+            },
+            "advertiserCampaignId": 7
+          }
+        ]
+      ],
+      "cooldown": 10,
+      "type": "FOOTER",
+      "maxPriority": true,
+      "frontConfig": {}
+    }
+  ],
+  "banners": [
+    {
+      "id": 113,
+      "bannerPlace": "MATERIALS_FEED_SECOND_ROW_MOBILE",
+      "bannerType": "HTML",
+      "html": "<style>\n  .bookmaker-rating {\n    display: flex;\n    flex-direction: column;\n    gap: 10px;\n    background-color: #fff;\n  }\n\n  .bookmaker-rating .item {\n    border-radius: 16px;\n    padding: 7px;\n    display: flex;\n    gap: 8px;\n    border: 2px solid var(--bookmaker-color);\n    font-size: 11px;\n    height: 78px;\n  }\n\n  .bookmaker-rating .item:hover {\n    box-shadow: inset 0px 0px 0px 2px var(--bookmaker-color);\n  }\n\n  .bookmaker-rating .item.animated:hover>.arrow svg {\n    animation: moveRightLeft 0.75s infinite linear;\n  }\n\n  .bookmaker-rating .item .logo {\n    flex-shrink: 0;\n  }\n\n  .bookmaker-rating .item .ranking {\n    flex-shrink: 0;\n    position: relative;\n    width: 20px;\n    height: 16px;\n    display: flex;\n    justify-content: center;\n    padding-top: 3px;\n    isolation: isolate;\n    transform: translateY(-7px);\n  }\n\n  .bookmaker-rating .item .ranking svg {\n    position: absolute;\n    top: 0;\n    left: 0;\n  }\n\n  .bookmaker-rating .item .ranking span {\n    font-size: 16px;\n    line-height: 1;\n    font-weight: bold;\n    color: #fff;\n    z-index: 1;\n  }\n\n  .bookmaker-rating .item .review {\n    border-radius: 4px;\n    border: 1px solid #A3A3A3;\n    width: 46px;\n    height: 16px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  .bookmaker-rating .item .review:hover {\n    background-color: #F1BD00;\n    border-color: #000;\n  }\n\n  .bookmaker-rating .item .offer {\n    display: block;\n    line-height: 1.09;\n  }\n\n  .bookmaker-rating .item .rating {\n    border-radius: 4px;\n    border: 1px solid #E99D0F;\n    width: 38px;\n    height: 16px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 2px;\n  }\n\n  .bookmaker-rating .item .arrow {\n    align-self: center;\n    margin-left: auto;\n  }\n\n  @keyframes moveRightLeft {\n    0% {\n      transform: translateX(0);\n    }\n\n    25% {\n      transform: translateX(3px);\n    }\n\n    75% {\n      transform: translateX(-3px);\n    }\n\n    100% {\n      transform: translateX(0);\n    }\n  }\n</style>\n<div class=\"bookmaker-rating\">\n  <div style=\"font-size: 16px;line-height: 1.125;font-weight: bold;margin-bottom: 2px;\">Лучшие букмекеры</div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker1_url%>') window.open('<%=bookmaker1_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker1_color%>\" class=\"item animated\">\n    <div class=\"logo\">\n      <%~bookmaker1_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>1</span>\n        </div>\n        <%=YANDEX_METRICA_ID%>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker1_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && '<%=bookmaker1_urlReview%>') { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker1_urlReview%>', '_blank'); }\" onclick=\"if('<%=bookmaker1_urlReview%>') {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker1_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px;line-height: 1.143;\"><%=bookmaker1_title%></div>\n      <div class=\"offer\"><%=bookmaker1_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker2_url%>') window.open('<%=bookmaker2_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker2_color%>\" class=\"item\">\n    <div class=\"logo\">\n      <%~bookmaker2_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>2</span>\n        </div>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker2_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && '<%=bookmaker2_urlReview%>') { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker2_urlReview%>', '_blank'); }\" onclick=\"if('<%=bookmaker2_urlReview%>') {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker2_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px; line-height: 1.143;\"><%=bookmaker2_title%></div>\n      <div class=\"offer\"><%=bookmaker2_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker3_url%>') window.open('<%=bookmaker3_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker3_color%>\" class=\"item\">\n    <div class=\"logo\">\n      <%~bookmaker3_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>3</span>\n        </div>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker3_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && !['null', 'undefined'].includes('<%=bookmaker3_urlReview%>')) { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker3_urlReview%>', '_blank'); }\" onclick=\"if(!['null', 'undefined'].includes('<%=bookmaker3_urlReview%>')) {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker3_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px; line-height: 1.143;\"><%=bookmaker3_title%></div>\n      <div class=\"offer\"><%=bookmaker3_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n</div>",
+      "link": "https://sport24.ru/tags/top-bookmakers",
+      "frontConfig": {
+        "variables": {
+          "bookmaker1_url": "https://clicks.af-ru2e2e.com/click?offer_id=125&partner_id=11177&landing_id=4898&utm_medium=affiliate&sub_1={sport24}&sub_2={rating_main}&sub_3={vidjet}&sub_4={fb_15k}",
+          "bookmaker2_url": "https://sport24.ru/tags/top-bookmakers",
+          "bookmaker3_url": "https://sport24.ru/tags/top-bookmakers",
+          "bookmaker1_logo": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" fill=\"#E80024\"/>\n<rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" stroke=\"#E80024\" stroke-width=\"3\"/>\n<path d=\"M23.1514 45.8152C23.022 45.9407 22.7019 46 22.1911 46H15.8539C15.1695 46 14.8937 45.6967 15.0367 45.0831L20.1582 22.6866C20.417 21.564 20.8154 20.4798 21.3432 19.4617C21.8745 18.4158 22.5827 17.4745 23.4307 16.6761C24.3365 15.8359 25.3887 15.177 26.5329 14.7342C27.8711 14.2252 29.2877 13.9742 30.7145 14.0021H44.2947C44.6523 14.0021 44.8702 14.0579 44.9519 14.166C45.0337 14.274 45.0098 14.5843 44.8906 15.1003L43.7124 20.2671C43.6682 20.5634 43.5456 20.8424 43.3515 21.0655C43.1437 21.2189 42.8883 21.2921 42.633 21.2712H31.6033C31.0959 21.2537 30.5919 21.3409 30.1186 21.5222C29.7645 21.6582 29.441 21.8673 29.1719 22.1393C28.9404 22.3764 28.7565 22.6553 28.6237 22.9621C28.4977 23.2584 28.3989 23.5617 28.324 23.8755L27.6804 26.7099H39.4252C39.7827 26.7099 39.9973 26.7727 40.0756 26.8912C40.1539 27.0097 40.1301 27.334 40.0109 27.8534L38.9246 32.6054C38.7646 33.3061 38.4036 33.6582 37.8383 33.6582H26.097L23.4817 45.0831C23.4409 45.355 23.3285 45.606 23.1582 45.8152\" fill=\"white\"/>\n</svg>",
+          "bookmaker2_logo": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_861_2)\">\n<g clip-path=\"url(#clip1_861_2)\">\n<path d=\"M60 12.3648V47.6244C60 54.462 54.462 60 47.6268 60H12.3732C12.0588 60 11.754 59.9904 11.4504 59.97C11.2176 59.9496 10.9944 59.9292 10.7604 59.898C10.1904 59.8236 9.6324 59.7108 9.0888 59.562C3.8472 58.122 0 53.3232 0 47.6244V12.3648C0 6.08641 4.6656 0.902412 10.7196 0.102012C10.7304 0.102012 11.2176 0.0408125 11.4504 0.0300125C11.7552 0.00961246 12.0588 1.24622e-05 12.3636 1.24622e-05H47.6172C54.462 -0.00958754 60 5.52841 60 12.3648Z\" fill=\"#141419\"/>\n<path d=\"M44.2692 29.9952C44.2692 45.84 32.028 58.8132 16.5012 60H12.3732C12.0588 60 11.754 59.9904 11.4504 59.97C11.2176 59.9496 10.9944 59.9292 10.7604 59.898C10.1904 59.8236 9.6324 59.7108 9.0888 59.562C3.8472 58.122 0 53.3232 0 47.6244V12.3648C0 6.0864 4.6656 0.9024 10.7196 0.102C10.7304 0.102 11.2176 0.0408 11.4504 0.03C11.7552 0.0096 12.0588 0 12.3636 0H16.4904C32.028 1.1772 44.2692 14.1504 44.2692 29.9952Z\" fill=\"#FF6A13\"/>\n<path d=\"M60.0001 44.1456V15.8448H19.1629C11.2801 15.8448 4.89966 22.1845 4.89966 29.9952C4.89966 37.806 11.2897 44.1456 19.1629 44.1456H60.0001Z\" fill=\"#141419\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M19.1796 17.1959H60V13.9991H19.1796C10.3596 13.9991 3.19678 21.1631 3.19678 29.9843C3.19678 38.8055 10.2444 45.8663 18.9732 45.9815H60V42.7715H19.1796C12.1188 42.7715 6.39358 37.0439 6.39358 29.9831C6.39358 22.9223 12.1188 17.1947 19.1796 17.1947V17.1959Z\" fill=\"white\"/>\n<path d=\"M38.0076 37.6871H35.958C35.5008 37.6871 35.2044 37.3163 35.2908 36.8711L37.7232 23.1287C37.8096 22.6715 38.2416 22.3127 38.6988 22.3127H40.7484C41.2056 22.3127 41.502 22.6835 41.4156 23.1287L38.9832 36.8711C38.8968 37.3163 38.4528 37.6871 38.0076 37.6871Z\" fill=\"white\"/>\n<path d=\"M53.0964 23.1168L51.6516 31.3104L48.762 23.0676C48.6012 22.5984 48.1692 22.314 47.6388 22.314H45.2184C44.7612 22.314 44.3292 22.6848 44.2428 23.13L41.8104 36.8724C41.724 37.3296 42.0204 37.6884 42.4776 37.6884H44.5272C44.9844 37.6884 45.4164 37.3176 45.5028 36.8724L46.9476 28.6908L49.7508 36.9336C49.9116 37.4028 50.3436 37.6872 50.874 37.6872H53.3928C53.85 37.6872 54.282 37.3164 54.3684 36.8712L56.7888 23.1288C56.8752 22.6716 56.5788 22.3128 56.1216 22.3128H54.06C53.616 22.3008 53.1828 22.6584 53.0964 23.1156V23.1168Z\" fill=\"white\"/>\n<path d=\"M27.7692 32.2859V22.9547C27.7692 22.5959 27.4728 22.3115 27.1272 22.3115H24.5964C24.2748 22.3115 23.9796 22.4963 23.8428 22.7939L19.5708 32.2487V22.9547C19.5708 22.5959 19.2864 22.3115 18.9288 22.3115H16.5336C16.176 22.3115 15.8916 22.5959 15.8916 22.9547V37.0439C15.8916 37.4027 16.176 37.6871 16.5336 37.6871H19.8672C20.1888 37.6871 20.484 37.4891 20.6208 37.1927L24.708 27.8867V37.0439C24.708 37.4027 24.9924 37.6871 25.35 37.6871H28.4856C28.8072 37.6871 29.0904 37.5023 29.226 37.2179L35.7456 23.2283C35.9436 22.7963 35.634 22.3139 35.1648 22.3139H32.8188C32.4972 22.3139 32.202 22.4987 32.0652 22.7963L27.768 32.2871L27.7692 32.2859Z\" fill=\"white\"/>\n</g>\n</g>\n<defs>\n<clippath id=\"clip0_861_2\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clippath>\n<clippath id=\"clip1_861_2\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clippath>\n</defs>\n</svg>\n",
+          "bookmaker3_logo": "      <svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" stroke=\"#FFBB00\" stroke-width=\"3\" />\n        <path d=\"M13.4932 19.3946C13.2934 19.2505 13.0027 19.3226 12.8936 19.5566L10.2409 25.9654C9.75036 27.1535 10.0229 28.5217 10.9314 29.4218L15.6735 34.1563H11.0767C10.8042 34.1563 10.6043 34.4264 10.7133 34.6964L13.5659 41.5012C13.9111 42.3293 14.6016 42.9774 15.4555 43.2654L29.0098 47.838C29.6457 48.054 30.3361 48.054 30.9902 47.838L44.5445 43.2654C45.3984 42.9774 46.0889 42.3473 46.4341 41.5012L49.2867 34.6964C49.3957 34.4444 49.214 34.1563 48.9233 34.1563H44.3265L49.0686 29.4398C49.9771 28.5397 50.2496 27.1715 49.7591 25.9834L47.1064 19.5746C47.0155 19.3406 46.7248 19.2505 46.5068 19.4126L43.309 21.8069L43.2726 17.7384C43.2726 16.4782 42.5095 15.3441 41.3649 14.858L34.6968 12.0317C34.4424 11.9237 34.1517 12.1037 34.1517 12.3917V15.056C34.1517 16.0282 34.6059 16.9643 35.369 17.5583L42.2552 22.869V34.1563L29.9909 44.9036L17.7448 34.1563V22.869L24.631 17.5583C25.3941 16.9643 25.8483 16.0462 25.8483 15.056V12.3917C25.8483 12.1037 25.5576 11.9237 25.3032 12.0317L18.6351 14.858C17.4905 15.3441 16.7455 16.4782 16.7274 17.7384L16.691 21.8069L13.4932 19.4126V19.3946Z\" fill=\"#F42525\" />\n      </svg>",
+          "bookmaker1_color": "#DA001B",
+          "bookmaker1_offer": "Фрибет до 15 000 ₽",
+          "bookmaker1_title": "Fonbet",
+          "bookmaker2_color": "#FF6A13",
+          "bookmaker2_offer": "Фрибет 3000 новым игрокам",
+          "bookmaker2_title": "Winline",
+          "bookmaker3_color": "#FFBB00",
+          "bookmaker3_offer": "Фрибет 8 000 ₽ новичкам",
+          "bookmaker3_title": "Olimpbet",
+          "YANDEX_METRICA_ID": "",
+          "bookmaker1_rating": "9.5",
+          "bookmaker2_rating": "8.9",
+          "bookmaker3_rating": "8.9",
+          "bookmaker1_urlReview": "https://sport24.ru/tags/FONBET",
+          "bookmaker2_urlReview": "https://sport24.ru/tags/Winline",
+          "bookmaker3_urlReview": "https://sport24.ru/tags/OLIMPBET"
+        },
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 81
+    },
+    {
+      "id": 114,
+      "bannerPlace": "MATERIALS_FEED_SECOND_ROW_DESKTOP",
+      "bannerType": "HTML",
+      "html": "<style>\n  .bookmaker-rating {\n    display: flex;\n    flex-direction: column;\n    gap: 10px;\n    background-color: #fff;\n  }\n\n  .bookmaker-rating .item {\n    border-radius: 16px;\n    padding: 7px;\n    display: flex;\n    gap: 8px;\n    border: 2px solid var(--bookmaker-color);\n    font-size: 11px;\n    height: 78px;\n  }\n\n  .bookmaker-rating .item:hover {\n    box-shadow: inset 0px 0px 0px 2px var(--bookmaker-color);\n  }\n\n  .bookmaker-rating .item.animated:hover>.arrow svg {\n    animation: moveRightLeft 0.75s infinite linear;\n  }\n\n  .bookmaker-rating .item .logo {\n    flex-shrink: 0;\n  }\n\n  .bookmaker-rating .item .ranking {\n    flex-shrink: 0;\n    position: relative;\n    width: 20px;\n    height: 16px;\n    display: flex;\n    justify-content: center;\n    padding-top: 3px;\n    isolation: isolate;\n    transform: translateY(-7px);\n  }\n\n  .bookmaker-rating .item .ranking svg {\n    position: absolute;\n    top: 0;\n    left: 0;\n  }\n\n  .bookmaker-rating .item .ranking span {\n    font-size: 16px;\n    line-height: 1;\n    font-weight: bold;\n    color: #fff;\n    z-index: 1;\n  }\n\n  .bookmaker-rating .item .review {\n    border-radius: 4px;\n    border: 1px solid #A3A3A3;\n    width: 46px;\n    height: 16px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  .bookmaker-rating .item .review:hover {\n    background-color: #F1BD00;\n    border-color: #000;\n  }\n\n  .bookmaker-rating .item .offer {\n    display: block;\n    line-height: 1.09;\n  }\n\n  .bookmaker-rating .item .rating {\n    border-radius: 4px;\n    border: 1px solid #E99D0F;\n    width: 38px;\n    height: 16px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 2px;\n  }\n\n  .bookmaker-rating .item .arrow {\n    align-self: center;\n    margin-left: auto;\n  }\n\n  @keyframes moveRightLeft {\n    0% {\n      transform: translateX(0);\n    }\n\n    25% {\n      transform: translateX(3px);\n    }\n\n    75% {\n      transform: translateX(-3px);\n    }\n\n    100% {\n      transform: translateX(0);\n    }\n  }\n</style>\n<div class=\"bookmaker-rating\">\n  <div style=\"font-size: 16px;line-height: 1.125;font-weight: bold;margin-bottom: 2px;\">Лучшие букмекеры</div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker1_url%>') window.open('<%=bookmaker1_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker1_color%>\" class=\"item animated\">\n    <div class=\"logo\">\n      <%~bookmaker1_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>1</span>\n        </div>\n        <%=YANDEX_METRICA_ID%>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker1_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && '<%=bookmaker1_urlReview%>') { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker1_urlReview%>', '_blank'); }\" onclick=\"if('<%=bookmaker1_urlReview%>') {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker1_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px;line-height: 1.143;\"><%=bookmaker1_title%></div>\n      <div class=\"offer\"><%=bookmaker1_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker2_url%>') window.open('<%=bookmaker2_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker2_color%>\" class=\"item\">\n    <div class=\"logo\">\n      <%~bookmaker2_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>2</span>\n        </div>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker2_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && '<%=bookmaker2_urlReview%>') { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker2_urlReview%>', '_blank'); }\" onclick=\"if('<%=bookmaker2_urlReview%>') {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker2_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px; line-height: 1.143;\"><%=bookmaker2_title%></div>\n      <div class=\"offer\"><%=bookmaker2_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n  <div onclick=\"event.preventDefault();event.stopPropagation();if('<%=bookmaker3_url%>') window.open('<%=bookmaker3_url%>', '_blank')\" onauxclick=\"if(event.button === 1) { this.onclick(event); }\" style=\"--bookmaker-color: <%=bookmaker3_color%>\" class=\"item\">\n    <div class=\"logo\">\n      <%~bookmaker3_logo%>\n    </div>\n    <div>\n      <div style=\"display: flex;gap: 8px; margin-bottom: 6px;\">\n        <div class=\"ranking\">\n          <svg width=\"20\" height=\"27\" viewBox=\"0 0 20 27\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M10 24L1.28735 26.6138C0.645736 26.8063 0 26.3258 0 25.656V0H20V25.656C20 26.3258 19.3543 26.8063 18.7127 26.6138L10 24Z\" fill=\"var(--bookmaker-color)\" />\n          </svg>\n          <span>3</span>\n        </div>\n        <div class=\"rating\">\n          <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M5.99998 0.769165L7.65518 4.15677L11.2308 4.76515L8.67815 7.46718L9.23279 11.2308L5.99998 9.51312L2.76716 11.2308L3.3218 7.46718L0.769165 4.76515L4.34477 4.15677L5.99998 0.769165Z\" fill=\"#E99D0F\" />\n          </svg>\n          <span><%=bookmaker3_rating%></span>\n        </div>\n        <div onauxclick=\"if(event.button === 1 && !['null', 'undefined'].includes('<%=bookmaker3_urlReview%>')) { event.preventDefault();event.stopPropagation();window.open('<%=bookmaker3_urlReview%>', '_blank'); }\" onclick=\"if(!['null', 'undefined'].includes('<%=bookmaker3_urlReview%>')) {event.preventDefault();event.stopPropagation();window.location.href='<%=bookmaker3_urlReview%>'}\" class=\"review\">Обзор</div>\n      </div>\n      <div style=\"font-weight: bold;font-size: 14px; line-height: 1.143;\"><%=bookmaker3_title%></div>\n      <div class=\"offer\"><%=bookmaker3_offer%></div>\n    </div>\n    <div class=\"arrow\">\n      <svg width=\"19\" height=\"18\" viewBox=\"0 0 19 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0.937405 9C0.937405 9.32203 1.06012 9.63068 1.27728 9.85826C1.38311 9.97001 1.5105 10.0591 1.65175 10.1202C1.79301 10.1813 1.94519 10.2132 2.0991 10.2138H15.0302L10.0406 15.425C9.82265 15.6526 9.69994 15.962 9.69994 16.284C9.69994 16.6068 9.82265 16.9162 10.0406 17.1438C10.1465 17.2558 10.2741 17.3451 10.4157 17.4064C10.5572 17.4676 10.7097 17.4995 10.8639 17.5C11.1718 17.5 11.4678 17.3713 11.6864 17.143L18.6581 9.85974C18.7671 9.74594 18.8529 9.61208 18.9109 9.46557C19.0297 9.16655 19.0297 8.83345 18.9109 8.53443C18.8514 8.38717 18.7659 8.2533 18.6581 8.14026L11.6864 0.856243C11.5805 0.744299 11.4531 0.655007 11.3117 0.593773C11.1703 0.532539 11.0179 0.500637 10.8639 0.5C10.5552 0.5 10.2592 0.628664 10.0406 0.856987C9.82265 1.08457 9.69994 1.39321 9.69994 1.71599C9.69994 2.03802 9.82265 2.34815 10.0413 2.57573L15.0302 7.78625H2.09984C1.79194 7.78625 1.49668 7.91417 1.27803 8.14174C1.06012 8.36932 0.937405 8.67797 0.937405 9Z\" fill=\"var(--bookmaker-color)\" />\n      </svg>\n    </div>\n  </div>\n</div>",
+      "link": "https://sport24.ru/tags/top-bookmakers",
+      "frontConfig": {
+        "variables": {
+          "bookmaker1_url": "https://clicks.af-ru2e2e.com/click?offer_id=125&partner_id=11177&landing_id=4898&utm_medium=affiliate&sub_1={sport24}&sub_2={rating_main}&sub_3={vidjet}&sub_4={fb_15k}",
+          "bookmaker2_url": "https://sport24.ru/tags/top-bookmakers",
+          "bookmaker3_url": "https://sport24.ru/tags/top-bookmakers",
+          "bookmaker1_logo": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" fill=\"#E80024\"/>\n<rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" stroke=\"#E80024\" stroke-width=\"3\"/>\n<path d=\"M23.1514 45.8152C23.022 45.9407 22.7019 46 22.1911 46H15.8539C15.1695 46 14.8937 45.6967 15.0367 45.0831L20.1582 22.6866C20.417 21.564 20.8154 20.4798 21.3432 19.4617C21.8745 18.4158 22.5827 17.4745 23.4307 16.6761C24.3365 15.8359 25.3887 15.177 26.5329 14.7342C27.8711 14.2252 29.2877 13.9742 30.7145 14.0021H44.2947C44.6523 14.0021 44.8702 14.0579 44.9519 14.166C45.0337 14.274 45.0098 14.5843 44.8906 15.1003L43.7124 20.2671C43.6682 20.5634 43.5456 20.8424 43.3515 21.0655C43.1437 21.2189 42.8883 21.2921 42.633 21.2712H31.6033C31.0959 21.2537 30.5919 21.3409 30.1186 21.5222C29.7645 21.6582 29.441 21.8673 29.1719 22.1393C28.9404 22.3764 28.7565 22.6553 28.6237 22.9621C28.4977 23.2584 28.3989 23.5617 28.324 23.8755L27.6804 26.7099H39.4252C39.7827 26.7099 39.9973 26.7727 40.0756 26.8912C40.1539 27.0097 40.1301 27.334 40.0109 27.8534L38.9246 32.6054C38.7646 33.3061 38.4036 33.6582 37.8383 33.6582H26.097L23.4817 45.0831C23.4409 45.355 23.3285 45.606 23.1582 45.8152\" fill=\"white\"/>\n</svg>",
+          "bookmaker2_logo": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_861_2)\">\n<g clip-path=\"url(#clip1_861_2)\">\n<path d=\"M60 12.3648V47.6244C60 54.462 54.462 60 47.6268 60H12.3732C12.0588 60 11.754 59.9904 11.4504 59.97C11.2176 59.9496 10.9944 59.9292 10.7604 59.898C10.1904 59.8236 9.6324 59.7108 9.0888 59.562C3.8472 58.122 0 53.3232 0 47.6244V12.3648C0 6.08641 4.6656 0.902412 10.7196 0.102012C10.7304 0.102012 11.2176 0.0408125 11.4504 0.0300125C11.7552 0.00961246 12.0588 1.24622e-05 12.3636 1.24622e-05H47.6172C54.462 -0.00958754 60 5.52841 60 12.3648Z\" fill=\"#141419\"/>\n<path d=\"M44.2692 29.9952C44.2692 45.84 32.028 58.8132 16.5012 60H12.3732C12.0588 60 11.754 59.9904 11.4504 59.97C11.2176 59.9496 10.9944 59.9292 10.7604 59.898C10.1904 59.8236 9.6324 59.7108 9.0888 59.562C3.8472 58.122 0 53.3232 0 47.6244V12.3648C0 6.0864 4.6656 0.9024 10.7196 0.102C10.7304 0.102 11.2176 0.0408 11.4504 0.03C11.7552 0.0096 12.0588 0 12.3636 0H16.4904C32.028 1.1772 44.2692 14.1504 44.2692 29.9952Z\" fill=\"#FF6A13\"/>\n<path d=\"M60.0001 44.1456V15.8448H19.1629C11.2801 15.8448 4.89966 22.1845 4.89966 29.9952C4.89966 37.806 11.2897 44.1456 19.1629 44.1456H60.0001Z\" fill=\"#141419\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M19.1796 17.1959H60V13.9991H19.1796C10.3596 13.9991 3.19678 21.1631 3.19678 29.9843C3.19678 38.8055 10.2444 45.8663 18.9732 45.9815H60V42.7715H19.1796C12.1188 42.7715 6.39358 37.0439 6.39358 29.9831C6.39358 22.9223 12.1188 17.1947 19.1796 17.1947V17.1959Z\" fill=\"white\"/>\n<path d=\"M38.0076 37.6871H35.958C35.5008 37.6871 35.2044 37.3163 35.2908 36.8711L37.7232 23.1287C37.8096 22.6715 38.2416 22.3127 38.6988 22.3127H40.7484C41.2056 22.3127 41.502 22.6835 41.4156 23.1287L38.9832 36.8711C38.8968 37.3163 38.4528 37.6871 38.0076 37.6871Z\" fill=\"white\"/>\n<path d=\"M53.0964 23.1168L51.6516 31.3104L48.762 23.0676C48.6012 22.5984 48.1692 22.314 47.6388 22.314H45.2184C44.7612 22.314 44.3292 22.6848 44.2428 23.13L41.8104 36.8724C41.724 37.3296 42.0204 37.6884 42.4776 37.6884H44.5272C44.9844 37.6884 45.4164 37.3176 45.5028 36.8724L46.9476 28.6908L49.7508 36.9336C49.9116 37.4028 50.3436 37.6872 50.874 37.6872H53.3928C53.85 37.6872 54.282 37.3164 54.3684 36.8712L56.7888 23.1288C56.8752 22.6716 56.5788 22.3128 56.1216 22.3128H54.06C53.616 22.3008 53.1828 22.6584 53.0964 23.1156V23.1168Z\" fill=\"white\"/>\n<path d=\"M27.7692 32.2859V22.9547C27.7692 22.5959 27.4728 22.3115 27.1272 22.3115H24.5964C24.2748 22.3115 23.9796 22.4963 23.8428 22.7939L19.5708 32.2487V22.9547C19.5708 22.5959 19.2864 22.3115 18.9288 22.3115H16.5336C16.176 22.3115 15.8916 22.5959 15.8916 22.9547V37.0439C15.8916 37.4027 16.176 37.6871 16.5336 37.6871H19.8672C20.1888 37.6871 20.484 37.4891 20.6208 37.1927L24.708 27.8867V37.0439C24.708 37.4027 24.9924 37.6871 25.35 37.6871H28.4856C28.8072 37.6871 29.0904 37.5023 29.226 37.2179L35.7456 23.2283C35.9436 22.7963 35.634 22.3139 35.1648 22.3139H32.8188C32.4972 22.3139 32.202 22.4987 32.0652 22.7963L27.768 32.2871L27.7692 32.2859Z\" fill=\"white\"/>\n</g>\n</g>\n<defs>\n<clippath id=\"clip0_861_2\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clippath>\n<clippath id=\"clip1_861_2\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clippath>\n</defs>\n</svg>\n",
+          "bookmaker3_logo": "      <svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect x=\"1.5\" y=\"1.5\" width=\"57\" height=\"57\" rx=\"8.5\" stroke=\"#FFBB00\" stroke-width=\"3\" />\n        <path d=\"M13.4932 19.3946C13.2934 19.2505 13.0027 19.3226 12.8936 19.5566L10.2409 25.9654C9.75036 27.1535 10.0229 28.5217 10.9314 29.4218L15.6735 34.1563H11.0767C10.8042 34.1563 10.6043 34.4264 10.7133 34.6964L13.5659 41.5012C13.9111 42.3293 14.6016 42.9774 15.4555 43.2654L29.0098 47.838C29.6457 48.054 30.3361 48.054 30.9902 47.838L44.5445 43.2654C45.3984 42.9774 46.0889 42.3473 46.4341 41.5012L49.2867 34.6964C49.3957 34.4444 49.214 34.1563 48.9233 34.1563H44.3265L49.0686 29.4398C49.9771 28.5397 50.2496 27.1715 49.7591 25.9834L47.1064 19.5746C47.0155 19.3406 46.7248 19.2505 46.5068 19.4126L43.309 21.8069L43.2726 17.7384C43.2726 16.4782 42.5095 15.3441 41.3649 14.858L34.6968 12.0317C34.4424 11.9237 34.1517 12.1037 34.1517 12.3917V15.056C34.1517 16.0282 34.6059 16.9643 35.369 17.5583L42.2552 22.869V34.1563L29.9909 44.9036L17.7448 34.1563V22.869L24.631 17.5583C25.3941 16.9643 25.8483 16.0462 25.8483 15.056V12.3917C25.8483 12.1037 25.5576 11.9237 25.3032 12.0317L18.6351 14.858C17.4905 15.3441 16.7455 16.4782 16.7274 17.7384L16.691 21.8069L13.4932 19.4126V19.3946Z\" fill=\"#F42525\" />\n      </svg>",
+          "bookmaker1_color": "#DA001B",
+          "bookmaker1_offer": "Фрибет до 15 000 ₽",
+          "bookmaker1_title": "Fonbet",
+          "bookmaker2_color": "#FF6A13",
+          "bookmaker2_offer": "Фрибет 3000 новым игрокам",
+          "bookmaker2_title": "Winline",
+          "bookmaker3_color": "#FFBB00",
+          "bookmaker3_offer": "Фрибет 8 000 ₽ новичкам",
+          "bookmaker3_title": "Olimpbet",
+          "YANDEX_METRICA_ID": "",
+          "bookmaker1_rating": "9.5",
+          "bookmaker2_rating": "8.9",
+          "bookmaker3_rating": "8.9",
+          "bookmaker1_urlReview": "https://sport24.ru/tags/FONBET",
+          "bookmaker2_urlReview": "https://sport24.ru/tags/Winline",
+          "bookmaker3_urlReview": "https://sport24.ru/tags/OLIMPBET"
+        },
+        "imageWidth": null
+      },
+      "adfoxliteAdvertiserCampaignId": 81
+    }
+  ],
+  "statistics": {
+    "associations": [],
+    "players": [
+      {
+        "id": 114340,
+        "urn": "boucher-guy",
+        "firstName": "Ги",
+        "lastName": "Буше",
+        "logos": {
+          "default": "e6f3/59ee/fd5e/41d1/921a/03cb/d693/b52a/160_160.png"
+        },
+        "citizenships": [
+          {
+            "titleRu": "Канада",
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.AreaStateConfig",
+              "logos": {
+                "default": "7cb6/793a/2bfb/eb56/4979/f690/8778/af5f/800_400.png"
+              },
+              "alwaysUseLogo": false
+            },
+            "id": 157
+          }
+        ],
+        "fullName": "Ги Буше",
+        "gender": "MALE",
+        "region": {
+          "thumbnail": "7cb6/793a/2bfb/eb56/4979/f690/8778/af5f/800_400.png",
+          "iso": "CA",
+          "title": "Канада",
+          "alwaysUseLogo": false
+        },
+        "teams": [
+          {
+            "team": {
+              "id": 8389,
+              "urn": "avangard",
+              "title": "Авангард",
+              "alwaysUseLogo": false,
+              "national": false,
+              "smallThumbnail": "43cd/f7c9/bc60/44e2/1e6b/9fca/8aeb/0596/500_500.png",
+              "thumbnail": "43cd/f7c9/bc60/44e2/1e6b/9fca/8aeb/0596/500_500.png",
+              "image": "c430/575e/8137/b6f9/5ea6/9a71/93af/7290/2786_1426.png"
+            },
+            "position": "MANAGER"
+          }
+        ],
+        "sport": {
+          "id": 2,
+          "urn": "hockey",
+          "titleRu": "Хоккей",
+          "priority": 3
+        }
+      },
+      {
+        "id": 101010,
+        "urn": "makar-cale",
+        "firstName": "Кейл",
+        "lastName": "Макар",
+        "logos": {
+          "default": "446b/051a/8f3a/e3cd/cb3f/9019/6351/1efa/160_160.png"
+        },
+        "citizenships": [
+          {
+            "titleRu": "Канада",
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.AreaStateConfig",
+              "logos": {
+                "default": "7cb6/793a/2bfb/eb56/4979/f690/8778/af5f/800_400.png"
+              },
+              "alwaysUseLogo": false
+            },
+            "id": 157
+          }
+        ],
+        "fullName": "Кейл Дуглас Макар",
+        "gender": "MALE",
+        "region": {
+          "thumbnail": "7cb6/793a/2bfb/eb56/4979/f690/8778/af5f/800_400.png",
+          "iso": "CA",
+          "title": "Канада",
+          "alwaysUseLogo": false
+        },
+        "teams": [
+          {
+            "team": {
+              "id": 13898,
+              "urn": "kolorado_evelansh",
+              "title": "Колорадо Эвеланш",
+              "alwaysUseLogo": false,
+              "national": false,
+              "smallThumbnail": "70e3/ea08/4391/3fa9/9dba/8643/f8b9/90b7/500_500.png",
+              "thumbnail": "70e3/ea08/4391/3fa9/9dba/8643/f8b9/90b7/500_500.png",
+              "image": "c5f4/ecaf/fc7c/ccaf/31fb/1d75/cf96/5f3c/1497_1235.png"
+            },
+            "jerseyNumber": "8",
+            "position": "D"
+          }
+        ],
+        "sport": {
+          "id": 2,
+          "urn": "hockey",
+          "titleRu": "Хоккей",
+          "priority": 3
+        }
+      },
+      {
+        "id": 165474,
+        "urn": "mikhail-gulyayev-2005-04-26",
+        "firstName": "Михаил",
+        "lastName": "Гуляев",
+        "logos": {
+          "default": "91da/dcde/014a/4635/852c/03ab/5ec6/d494/160_160.png"
+        },
+        "citizenships": [
+          {
+            "titleRu": "Россия",
+            "alpha2": "RU",
+            "alpha3": "RUS",
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.AreaStateConfig",
+              "logos": {
+                "default": "ed07/bba5/aa3c/d2f0/528c/fb14/94d8/f7c6/1024_683.png"
+              },
+              "alwaysUseLogo": false
+            },
+            "id": 225
+          }
+        ],
+        "fullName": "Михаил Александрович Гуляев",
+        "gender": "MALE",
+        "region": {
+          "thumbnail": "ed07/bba5/aa3c/d2f0/528c/fb14/94d8/f7c6/1024_683.png",
+          "iso": "RU",
+          "title": "Россия",
+          "alwaysUseLogo": false
+        },
+        "teams": [
+          {
+            "team": {
+              "id": 8389,
+              "urn": "avangard",
+              "title": "Авангард",
+              "alwaysUseLogo": false,
+              "national": false,
+              "smallThumbnail": "43cd/f7c9/bc60/44e2/1e6b/9fca/8aeb/0596/500_500.png",
+              "thumbnail": "43cd/f7c9/bc60/44e2/1e6b/9fca/8aeb/0596/500_500.png",
+              "image": "c430/575e/8137/b6f9/5ea6/9a71/93af/7290/2786_1426.png"
+            },
+            "jerseyNumber": "84",
+            "position": "D"
+          }
+        ],
+        "sport": {
+          "id": 2,
+          "urn": "hockey",
+          "titleRu": "Хоккей",
+          "priority": 3
+        }
+      }
+    ],
+    "teams": [
+      {
+        "urn": "avangard",
+        "title": "Авангард",
+        "national": false,
+        "thumbnail": "43cd/f7c9/bc60/44e2/1e6b/9fca/8aeb/0596/500_500.png",
+        "image": "c430/575e/8137/b6f9/5ea6/9a71/93af/7290/2786_1426.png",
+        "region": {
+          "iso": "RU",
+          "title": "Россия"
+        },
+        "city": {
+          "title": "Омск"
+        },
+        "virtual": false,
+        "sportUrn": "hockey",
+        "sport": {
+          "id": 2,
+          "title": "Хоккей",
+          "urn": "hockey",
+          "name": "Хоккей",
+          "frontConfig": {
+            "color": "#2284E6",
+            "logos": {
+              "default": "0833/f695/8d75/bfcf/674a/8ca9/c522/04bb/70_70.png"
+            },
+            "@class": "ru.sport24.hub.repository.model.config.SportConfig",
+            "logoSvg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 18c-1 0 1-5 2-5 2 0 7.666 1 10-.333 2.333-1.333 5-9 5-9h1S17 15 15.666 16.334C14.333 17.667 7.333 18 3 18Z\" fill=\"currentColor\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.943 4 21 3.667h-1s-.39 1.12-1.001 2.578c-.989 2.357-2.558 5.598-4 6.422-1.748.999-5.367.688-7.914.47C6.233 13.062 5.501 13 5 13c-1 0-3 5-2 5 4.333 0 11.333-.333 12.666-1.666.893-.893 2.98-6.266 4.263-9.722a237.324 237.324 0 0 0 .96-2.635l.11-.31.944.333-.046.13a156.565 156.565 0 0 1-.604 1.672 214.878 214.878 0 0 1-1.528 4.06 95.17 95.17 0 0 1-1.79 4.34 26.332 26.332 0 0 1-.817 1.68c-.237.437-.504.878-.784 1.159-.3.3-.691.511-1.072.67a8.915 8.915 0 0 1-1.335.418c-.973.234-2.158.406-3.408.533C8.055 18.917 5.185 19 3 19c-.29 0-.588-.098-.828-.318a1.33 1.33 0 0 1-.376-.622c-.096-.338-.074-.7-.037-.973.078-.585.298-1.296.562-1.958.268-.669.61-1.36.972-1.902a4.16 4.16 0 0 1 .615-.747C4.104 12.299 4.485 12 5 12c.544 0 1.31.066 2.124.136l.04.003c.851.074 1.799.155 2.753.196.957.04 1.891.038 2.712-.048.838-.088 1.469-.256 1.875-.488.355-.204.85-.747 1.418-1.639.544-.852 1.074-1.89 1.544-2.91a49.004 49.004 0 0 0 1.583-3.893l.005-.015.001-.003.234-.672h3.124L21.943 4Z\" fill=\"#000\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"m6.76 12.608-2.226 5.553 3.236-.12 2.225-5.552-3.236.12ZM10.941 12.608l-2.225 5.553 3.236-.12 2.225-5.552-3.236.12Z\" fill=\"#000\"/>\n  <path d=\"M16.167 20.667c-2.485 0-4.5-.672-4.5-1.5v-3c0-.828 2.015-1.5 4.5-1.5s4.5.672 4.5 1.5v3c0 .828-2.015 1.5-4.5 1.5Z\" fill=\"currentColor\"/>\n  <path d=\"M20.667 16.167c0-.828-2.015-1.5-4.5-1.5s-4.5.672-4.5 1.5 2.015 1.5 4.5 1.5 4.5-.672 4.5-1.5Z\" fill=\"currentColor\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"m12.595 18.926.005.005a.035.035 0 0 0-.005-.005Zm.072.06c.11.08.314.186.634.293.688.23 1.7.388 2.866.388 1.165 0 2.178-.159 2.866-.388.32-.107.523-.214.634-.293v-2.638c-.11-.08-.314-.186-.634-.293-.688-.23-1.7-.388-2.866-.388-1.165 0-2.178.159-2.866.388-.32.107-.524.214-.634.293v2.638Zm-.072-2.578.005-.005a.03.03 0 0 0-.005.005Zm7.144 0-.005-.005a.026.026 0 0 0 .005.005Zm0 2.518-.005.005a.041.041 0 0 0 .005-.005Zm-8.072.241c0 .828 2.015 1.5 4.5 1.5s4.5-.672 4.5-1.5v-3c0-.828-2.015-1.5-4.5-1.5s-4.5.672-4.5 1.5v3Z\" fill=\"#000\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"m19.739 16.408-.005-.005a.026.026 0 0 0 .005.005Zm-.41-.241a3.784 3.784 0 0 1-.296.112c-.688.23-1.7.388-2.866.388-1.165 0-2.178-.159-2.866-.388a3.796 3.796 0 0 1-.296-.112c.084-.037.183-.074.296-.112.688-.23 1.7-.388 2.866-.388 1.165 0 2.178.159 2.866.388.113.038.211.076.296.112Zm-6.734.241.005-.005a.03.03 0 0 0-.005.005Zm0-.482.005.005a.035.035 0 0 0-.005-.005Zm7.139.005a.041.041 0 0 0 .005-.005l-.005.005Zm-3.567-1.264c2.485 0 4.5.672 4.5 1.5s-2.015 1.5-4.5 1.5-4.5-.672-4.5-1.5 2.015-1.5 4.5-1.5Z\" fill=\"#000\"/>\n</svg>",
+            "siteBackgrounds": {
+              "default": "9e67/0df9/36e5/7642/4024/ab14/160b/2c62/6000_691.jpeg"
+            },
+            "mobileBackgrounds": {
+              "default": "b36d/eafd/9d24/e3d5/cea7/c80e/daee/dcb6/786_851.png"
+            }
+          }
+        },
+        "id": "8389"
+      },
+      {
+        "urn": "kolorado_evelansh",
+        "title": "Колорадо Эвеланш",
+        "national": false,
+        "thumbnail": "70e3/ea08/4391/3fa9/9dba/8643/f8b9/90b7/500_500.png",
+        "image": "c5f4/ecaf/fc7c/ccaf/31fb/1d75/cf96/5f3c/1497_1235.png",
+        "region": {
+          "iso": "US",
+          "title": "США"
+        },
+        "city": {
+          "title": "Денвер"
+        },
+        "virtual": false,
+        "sportUrn": "hockey",
+        "sport": {
+          "id": 2,
+          "title": "Хоккей",
+          "urn": "hockey",
+          "name": "Хоккей",
+          "frontConfig": {
+            "color": "#2284E6",
+            "logos": {
+              "default": "0833/f695/8d75/bfcf/674a/8ca9/c522/04bb/70_70.png"
+            },
+            "@class": "ru.sport24.hub.repository.model.config.SportConfig",
+            "logoSvg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 18c-1 0 1-5 2-5 2 0 7.666 1 10-.333 2.333-1.333 5-9 5-9h1S17 15 15.666 16.334C14.333 17.667 7.333 18 3 18Z\" fill=\"currentColor\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.943 4 21 3.667h-1s-.39 1.12-1.001 2.578c-.989 2.357-2.558 5.598-4 6.422-1.748.999-5.367.688-7.914.47C6.233 13.062 5.501 13 5 13c-1 0-3 5-2 5 4.333 0 11.333-.333 12.666-1.666.893-.893 2.98-6.266 4.263-9.722a237.324 237.324 0 0 0 .96-2.635l.11-.31.944.333-.046.13a156.565 156.565 0 0 1-.604 1.672 214.878 214.878 0 0 1-1.528 4.06 95.17 95.17 0 0 1-1.79 4.34 26.332 26.332 0 0 1-.817 1.68c-.237.437-.504.878-.784 1.159-.3.3-.691.511-1.072.67a8.915 8.915 0 0 1-1.335.418c-.973.234-2.158.406-3.408.533C8.055 18.917 5.185 19 3 19c-.29 0-.588-.098-.828-.318a1.33 1.33 0 0 1-.376-.622c-.096-.338-.074-.7-.037-.973.078-.585.298-1.296.562-1.958.268-.669.61-1.36.972-1.902a4.16 4.16 0 0 1 .615-.747C4.104 12.299 4.485 12 5 12c.544 0 1.31.066 2.124.136l.04.003c.851.074 1.799.155 2.753.196.957.04 1.891.038 2.712-.048.838-.088 1.469-.256 1.875-.488.355-.204.85-.747 1.418-1.639.544-.852 1.074-1.89 1.544-2.91a49.004 49.004 0 0 0 1.583-3.893l.005-.015.001-.003.234-.672h3.124L21.943 4Z\" fill=\"#000\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"m6.76 12.608-2.226 5.553 3.236-.12 2.225-5.552-3.236.12ZM10.941 12.608l-2.225 5.553 3.236-.12 2.225-5.552-3.236.12Z\" fill=\"#000\"/>\n  <path d=\"M16.167 20.667c-2.485 0-4.5-.672-4.5-1.5v-3c0-.828 2.015-1.5 4.5-1.5s4.5.672 4.5 1.5v3c0 .828-2.015 1.5-4.5 1.5Z\" fill=\"currentColor\"/>\n  <path d=\"M20.667 16.167c0-.828-2.015-1.5-4.5-1.5s-4.5.672-4.5 1.5 2.015 1.5 4.5 1.5 4.5-.672 4.5-1.5Z\" fill=\"currentColor\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"m12.595 18.926.005.005a.035.035 0 0 0-.005-.005Zm.072.06c.11.08.314.186.634.293.688.23 1.7.388 2.866.388 1.165 0 2.178-.159 2.866-.388.32-.107.523-.214.634-.293v-2.638c-.11-.08-.314-.186-.634-.293-.688-.23-1.7-.388-2.866-.388-1.165 0-2.178.159-2.866.388-.32.107-.524.214-.634.293v2.638Zm-.072-2.578.005-.005a.03.03 0 0 0-.005.005Zm7.144 0-.005-.005a.026.026 0 0 0 .005.005Zm0 2.518-.005.005a.041.041 0 0 0 .005-.005Zm-8.072.241c0 .828 2.015 1.5 4.5 1.5s4.5-.672 4.5-1.5v-3c0-.828-2.015-1.5-4.5-1.5s-4.5.672-4.5 1.5v3Z\" fill=\"#000\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"m19.739 16.408-.005-.005a.026.026 0 0 0 .005.005Zm-.41-.241a3.784 3.784 0 0 1-.296.112c-.688.23-1.7.388-2.866.388-1.165 0-2.178-.159-2.866-.388a3.796 3.796 0 0 1-.296-.112c.084-.037.183-.074.296-.112.688-.23 1.7-.388 2.866-.388 1.165 0 2.178.159 2.866.388.113.038.211.076.296.112Zm-6.734.241.005-.005a.03.03 0 0 0-.005.005Zm0-.482.005.005a.035.035 0 0 0-.005-.005Zm7.139.005a.041.041 0 0 0 .005-.005l-.005.005Zm-3.567-1.264c2.485 0 4.5.672 4.5 1.5s-2.015 1.5-4.5 1.5-4.5-.672-4.5-1.5 2.015-1.5 4.5-1.5Z\" fill=\"#000\"/>\n</svg>",
+            "siteBackgrounds": {
+              "default": "9e67/0df9/36e5/7642/4024/ab14/160b/2c62/6000_691.jpeg"
+            },
+            "mobileBackgrounds": {
+              "default": "b36d/eafd/9d24/e3d5/cea7/c80e/daee/dcb6/786_851.png"
+            }
+          }
+        },
+        "id": "13898"
+      }
+    ],
+    "competitions": [
+      {
+        "id": 110,
+        "urn": "nhl",
+        "title": "Национальная хоккейная лига",
+        "titleShort": "НХЛ",
+        "leagueType": "NATIONAL",
+        "longTitle": "Национальная хоккейная лига",
+        "sport": {
+          "id": 2,
+          "title": "Хоккей",
+          "urn": "hockey",
+          "name": "Хоккей",
+          "frontConfig": {
+            "logos": {
+              "default": "47c1/c0b4/1ab2/433f/947c/2740/b286/1680/500_500.png"
+            },
+            "@class": "ru.sport24.hub.repository.model.config.CompetitionConfig",
+            "socials": {
+              "site": "http://nhl.com/"
+            },
+            "fakeLive": false,
+            "playoffSeries": true,
+            "siteBackgrounds": {
+              "default": "9fe9/4aa9/4645/44c3/83dd/2167/5dff/b4b7/1600_900.png"
+            },
+            "mobileBackgrounds": {
+              "default": "2f7d/1935/dee6/4e28/8bbf/363d/b75b/fc18/1600_900.png"
+            },
+            "publishedTopWidget": true,
+            "publishedStatisticsTab": true,
+            "publishedHomeAwayStatistics": true
+          }
+        },
+        "seasons": [
+          {
+            "id": 16004,
+            "urn": "2025-26",
+            "title": "Национальная хоккейная лига",
+            "year": "2025/26",
+            "actual": true,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "mobileBackgrounds": {},
+              "siteBackgrounds": {},
+              "fakeLive": false,
+              "subtractionRules": {},
+              "clubLogoInsteadOfCountry": false
+            }
+          },
+          {
+            "id": 14402,
+            "urn": "2024-25",
+            "title": "Национальная хоккейная лига",
+            "year": "2024/25",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "mobileBackgrounds": {},
+              "siteBackgrounds": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 12928,
+            "urn": "2023-24",
+            "title": "Национальная хоккейная лига",
+            "year": "2023/24",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 11744,
+            "urn": "2022-23",
+            "title": "Национальная хоккейная лига",
+            "year": "2022/23",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 10429,
+            "urn": "2021-22",
+            "title": "Национальная хоккейная лига",
+            "year": "2021/22",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1314,
+            "urn": "nkhl-2021",
+            "title": "Национальная хоккейная лига",
+            "year": "2020/21",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1807,
+            "urn": "201920",
+            "title": "Национальная хоккейная лига",
+            "year": "2019/20",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1566,
+            "urn": "201819",
+            "title": "Национальная хоккейная лига",
+            "year": "2018/19",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1842,
+            "urn": "201718",
+            "title": "Национальная хоккейная лига",
+            "year": "2017/18",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1897,
+            "urn": "201617",
+            "title": "Национальная хоккейная лига",
+            "year": "2016/17",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1476,
+            "urn": "201516",
+            "title": "Национальная хоккейная лига",
+            "year": "2015/16",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1481,
+            "urn": "201415",
+            "title": "Национальная хоккейная лига",
+            "year": "2014/15",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6518,
+            "urn": "2013-14",
+            "title": "Национальная хоккейная лига",
+            "year": "2013/14",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6543,
+            "urn": "2012-13",
+            "title": "Национальная хоккейная лига",
+            "year": "2012/13",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6454,
+            "urn": "2011-12",
+            "title": "Национальная хоккейная лига",
+            "year": "2011/12",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6545,
+            "urn": "2010-11",
+            "title": "Национальная хоккейная лига",
+            "year": "2010/11",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6506,
+            "urn": "2009-10",
+            "title": "Национальная хоккейная лига",
+            "year": "2009/10",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6516,
+            "urn": "2008-09",
+            "title": "Национальная хоккейная лига",
+            "year": "2008/09",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6495,
+            "urn": "2007-08",
+            "title": "Национальная хоккейная лига",
+            "year": "2007/08",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6485,
+            "urn": "2006-07",
+            "title": "Национальная хоккейная лига",
+            "year": "2006/07",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6474,
+            "urn": "2005-06",
+            "title": "Национальная хоккейная лига",
+            "year": "2005/06",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6541,
+            "urn": "2003-04",
+            "title": "Национальная хоккейная лига",
+            "year": "2003/04",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6513,
+            "urn": "2002-03",
+            "title": "Национальная хоккейная лига",
+            "year": "2002/03",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6537,
+            "urn": "2001-02",
+            "title": "Национальная хоккейная лига",
+            "year": "2001/02",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6515,
+            "urn": "2000-01",
+            "title": "Национальная хоккейная лига",
+            "year": "2000/01",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6512,
+            "urn": "1999-00",
+            "title": "Национальная хоккейная лига",
+            "year": "1999/00",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6514,
+            "urn": "1998-99",
+            "title": "Национальная хоккейная лига",
+            "year": "1998/99",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6511,
+            "urn": "1997-98",
+            "title": "Национальная хоккейная лига",
+            "year": "1997/98",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6509,
+            "urn": "1996-97",
+            "title": "Национальная хоккейная лига",
+            "year": "1996/97",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6535,
+            "urn": "1995-96",
+            "title": "Национальная хоккейная лига",
+            "year": "1995/96",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6478,
+            "urn": "1994-95",
+            "title": "Национальная хоккейная лига",
+            "year": "1994/95",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6532,
+            "urn": "1993-94",
+            "title": "Национальная хоккейная лига",
+            "year": "1993/94",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6476,
+            "urn": "1992-93",
+            "title": "Национальная хоккейная лига",
+            "year": "1992/93",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6468,
+            "urn": "1991-92",
+            "title": "Национальная хоккейная лига",
+            "year": "1991/92",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6465,
+            "urn": "1990-91",
+            "title": "Национальная хоккейная лига",
+            "year": "1990/91",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6461,
+            "urn": "1989-90",
+            "title": "Национальная хоккейная лига",
+            "year": "1989/90",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6494,
+            "urn": "1988-89",
+            "title": "Национальная хоккейная лига",
+            "year": "1988/89",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6510,
+            "urn": "1987-88",
+            "title": "Национальная хоккейная лига",
+            "year": "1987/88",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6492,
+            "urn": "1986-87",
+            "title": "Национальная хоккейная лига",
+            "year": "1986/87",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6508,
+            "urn": "1985-86",
+            "title": "Национальная хоккейная лига",
+            "year": "1985/86",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6459,
+            "urn": "1984-85",
+            "title": "Национальная хоккейная лига",
+            "year": "1984/85",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6527,
+            "urn": "1983-84",
+            "title": "Национальная хоккейная лига",
+            "year": "1983/84",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6452,
+            "urn": "1982-83",
+            "title": "Национальная хоккейная лига",
+            "year": "1982/83",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6507,
+            "urn": "1981-82",
+            "title": "Национальная хоккейная лига",
+            "year": "1981/82",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6525,
+            "urn": "1980-81",
+            "title": "Национальная хоккейная лига",
+            "year": "1980/81",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6521,
+            "urn": "1979-80",
+            "title": "Национальная хоккейная лига",
+            "year": "1979/80",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6451,
+            "urn": "1978-79",
+            "title": "Национальная хоккейная лига",
+            "year": "1978/79",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6538,
+            "urn": "1977-78",
+            "title": "Национальная хоккейная лига",
+            "year": "1977/78",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6490,
+            "urn": "1976-77",
+            "title": "Национальная хоккейная лига",
+            "year": "1976/77",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6493,
+            "urn": "1975-76",
+            "title": "Национальная хоккейная лига",
+            "year": "1975/76",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6505,
+            "urn": "1974-75",
+            "title": "Национальная хоккейная лига",
+            "year": "1974/75",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6458,
+            "urn": "1973-74",
+            "title": "Национальная хоккейная лига",
+            "year": "1973/74",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6491,
+            "urn": "1972-73",
+            "title": "Национальная хоккейная лига",
+            "year": "1972/73",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6456,
+            "urn": "1971-72",
+            "title": "Национальная хоккейная лига",
+            "year": "1971/72",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6504,
+            "urn": "1970-71",
+            "title": "Национальная хоккейная лига",
+            "year": "1970/71",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6523,
+            "urn": "1969-70",
+            "title": "Национальная хоккейная лига",
+            "year": "1969/70",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6520,
+            "urn": "1968-69",
+            "title": "Национальная хоккейная лига",
+            "year": "1968/69",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6530,
+            "urn": "1967-68",
+            "title": "Национальная хоккейная лига",
+            "year": "1967/68",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6522,
+            "urn": "1966-67",
+            "title": "Национальная хоккейная лига",
+            "year": "1966/67",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6488,
+            "urn": "1965-66",
+            "title": "Национальная хоккейная лига",
+            "year": "1965/66",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6460,
+            "urn": "1964-65",
+            "title": "Национальная хоккейная лига",
+            "year": "1964/65",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6502,
+            "urn": "1963-64",
+            "title": "Национальная хоккейная лига",
+            "year": "1963/64",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6483,
+            "urn": "1962-63",
+            "title": "Национальная хоккейная лига",
+            "year": "1962/63",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6519,
+            "urn": "1961-62",
+            "title": "Национальная хоккейная лига",
+            "year": "1961/62",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6503,
+            "urn": "1960-61",
+            "title": "Национальная хоккейная лига",
+            "year": "1960/61",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6536,
+            "urn": "1959-60",
+            "title": "Национальная хоккейная лига",
+            "year": "1959/60",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6501,
+            "urn": "1958-59",
+            "title": "Национальная хоккейная лига",
+            "year": "1958/59",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6499,
+            "urn": "1957-58",
+            "title": "Национальная хоккейная лига",
+            "year": "1957/58",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6497,
+            "urn": "1956-57",
+            "title": "Национальная хоккейная лига",
+            "year": "1956/57",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6489,
+            "urn": "1955-56",
+            "title": "Национальная хоккейная лига",
+            "year": "1955/56",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6496,
+            "urn": "1954-55",
+            "title": "Национальная хоккейная лига",
+            "year": "1954/55",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6467,
+            "urn": "1953-54",
+            "title": "Национальная хоккейная лига",
+            "year": "1953/54",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6487,
+            "urn": "1952-53",
+            "title": "Национальная хоккейная лига",
+            "year": "1952/53",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6466,
+            "urn": "1951-52",
+            "title": "Национальная хоккейная лига",
+            "year": "1951/52",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6481,
+            "urn": "1950-51",
+            "title": "Национальная хоккейная лига",
+            "year": "1950/51",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6464,
+            "urn": "1949-50",
+            "title": "Национальная хоккейная лига",
+            "year": "1949/50",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6498,
+            "urn": "1948-49",
+            "title": "Национальная хоккейная лига",
+            "year": "1948/49",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6517,
+            "urn": "1947-48",
+            "title": "Национальная хоккейная лига",
+            "year": "1947/48",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6479,
+            "urn": "1946-47",
+            "title": "Национальная хоккейная лига",
+            "year": "1946/47",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6529,
+            "urn": "1945-46",
+            "title": "Национальная хоккейная лига",
+            "year": "1945/46",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6486,
+            "urn": "1944-45",
+            "title": "Национальная хоккейная лига",
+            "year": "1944/45",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6539,
+            "urn": "1943-44",
+            "title": "Национальная хоккейная лига",
+            "year": "1943/44",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6528,
+            "urn": "1942-43",
+            "title": "Национальная хоккейная лига",
+            "year": "1942/43",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6477,
+            "urn": "1941-42",
+            "title": "Национальная хоккейная лига",
+            "year": "1941/42",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6471,
+            "urn": "1940-41",
+            "title": "Национальная хоккейная лига",
+            "year": "1940/41",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6526,
+            "urn": "1939-40",
+            "title": "Национальная хоккейная лига",
+            "year": "1939/40",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6450,
+            "urn": "1938-39",
+            "title": "Национальная хоккейная лига",
+            "year": "1938/39",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6484,
+            "urn": "1937-38",
+            "title": "Национальная хоккейная лига",
+            "year": "1937/38",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6462,
+            "urn": "1936-37",
+            "title": "Национальная хоккейная лига",
+            "year": "1936/37",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6449,
+            "urn": "1935-36",
+            "title": "Национальная хоккейная лига",
+            "year": "1935/36",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6444,
+            "urn": "1934-35",
+            "title": "Национальная хоккейная лига",
+            "year": "1934/35",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6457,
+            "urn": "1933-34",
+            "title": "Национальная хоккейная лига",
+            "year": "1933/34",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6500,
+            "urn": "1932-33",
+            "title": "Национальная хоккейная лига",
+            "year": "1932/33",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6448,
+            "urn": "1931-32",
+            "title": "Национальная хоккейная лига",
+            "year": "1931/32",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6463,
+            "urn": "1930-31",
+            "title": "Национальная хоккейная лига",
+            "year": "1930/31",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6524,
+            "urn": "1929-30",
+            "title": "Национальная хоккейная лига",
+            "year": "1929/30",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6472,
+            "urn": "1928-29",
+            "title": "Национальная хоккейная лига",
+            "year": "1928/29",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6482,
+            "urn": "1927-28",
+            "title": "Национальная хоккейная лига",
+            "year": "1927/28",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6480,
+            "urn": "1926-27",
+            "title": "Национальная хоккейная лига",
+            "year": "1926/27",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6475,
+            "urn": "1925-26",
+            "title": "Национальная хоккейная лига",
+            "year": "1925/26",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6469,
+            "urn": "1924-25",
+            "title": "Национальная хоккейная лига",
+            "year": "1924/25",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6473,
+            "urn": "1923-24",
+            "title": "Национальная хоккейная лига",
+            "year": "1923/24",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6470,
+            "urn": "1922-23",
+            "title": "Национальная хоккейная лига",
+            "year": "1922/23",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6446,
+            "urn": "1921-22",
+            "title": "Национальная хоккейная лига",
+            "year": "1921/22",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6445,
+            "urn": "1920-21",
+            "title": "Национальная хоккейная лига",
+            "year": "1920/21",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6455,
+            "urn": "1919-20",
+            "title": "Национальная хоккейная лига",
+            "year": "1919/20",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6447,
+            "urn": "1918-19",
+            "title": "Национальная хоккейная лига",
+            "year": "1918/19",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 6453,
+            "urn": "1917-18",
+            "title": "Национальная хоккейная лига",
+            "year": "1917/18",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          }
+        ],
+        "officialSite": "http://nhl.com/",
+        "frontConfig": {
+          "@class": "ru.sport24.hub.repository.model.config.CompetitionConfig",
+          "logos": {
+            "default": "47c1/c0b4/1ab2/433f/947c/2740/b286/1680/500_500.png"
+          },
+          "mobileBackgrounds": {
+            "default": "2f7d/1935/dee6/4e28/8bbf/363d/b75b/fc18/1600_900.png"
+          },
+          "siteBackgrounds": {
+            "default": "9fe9/4aa9/4645/44c3/83dd/2167/5dff/b4b7/1600_900.png"
+          },
+          "socials": {
+            "site": "http://nhl.com/"
+          },
+          "publishedTopWidget": true,
+          "publishedStatisticsTab": true,
+          "fakeLive": false,
+          "publishedHomeAwayStatistics": true,
+          "playoffSeries": true
+        }
+      },
+      {
+        "id": 100,
+        "urn": "khl",
+        "title": "Континентальная хоккейная лига",
+        "titleShort": "КХЛ",
+        "leagueType": "NATIONAL",
+        "longTitle": "Континентальная хоккейная лига",
+        "sport": {
+          "id": 2,
+          "title": "Хоккей",
+          "urn": "hockey",
+          "name": "Хоккей",
+          "frontConfig": {
+            "logos": {
+              "default": "4deb/e090/e2ba/4050/be08/c987/7d16/6ccd/500_500.png"
+            },
+            "@class": "ru.sport24.hub.repository.model.config.CompetitionConfig",
+            "socials": {
+              "site": "https://khl.ru/"
+            },
+            "fakeLive": false,
+            "playoffSeries": true,
+            "siteBackgrounds": {
+              "default": "8b61/55c9/80f8/46b6/8d3a/3d5b/200a/ed8f/1600_900.png"
+            },
+            "mobileBackgrounds": {
+              "default": "4db9/9bda/8b25/41c2/8ee7/c259/c078/2fb6/1600_900.png"
+            },
+            "publishedTopWidget": true,
+            "publishedStatisticsTab": true,
+            "publishedHomeAwayStatistics": true
+          }
+        },
+        "seasons": [
+          {
+            "id": 15955,
+            "urn": "2025-26",
+            "title": "Континентальная хоккейная лига",
+            "year": "2025/26",
+            "actual": true,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {
+                "default": "0864/4865/b607/4dfe/a3f0/b930/8412/9bf9/500_500.png"
+              },
+              "mobileBackgrounds": {},
+              "siteBackgrounds": {},
+              "fakeLive": false,
+              "subtractionRules": {},
+              "clubLogoInsteadOfCountry": false
+            }
+          },
+          {
+            "id": 14274,
+            "urn": "2024-25",
+            "title": "Континентальная хоккейная лига",
+            "year": "2024/25",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {
+                "default": "55d8/98f7/6ade/476b/b6de/e6e2/ac49/e928/500_500.png"
+              },
+              "mobileBackgrounds": {},
+              "siteBackgrounds": {},
+              "fakeLive": false,
+              "subtractionRules": {},
+              "clubLogoInsteadOfCountry": false
+            }
+          },
+          {
+            "id": 12923,
+            "urn": "2023-24",
+            "title": "Континентальная хоккейная лига",
+            "year": "2023/24",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {
+                "default": "5fa9/002f/348e/4951/9d68/0ba9/ea5b/b423/500_500.png"
+              },
+              "mobileBackgrounds": {},
+              "siteBackgrounds": {},
+              "fakeLive": false,
+              "subtractionRules": {},
+              "clubLogoInsteadOfCountry": false
+            }
+          },
+          {
+            "id": 11835,
+            "urn": "2022-23",
+            "title": "Континентальная хоккейная лига",
+            "year": "2022/23",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {
+                "default": "efd9/393b/e354/4f82/bc63/e673/6acc/51c4/500_500.png"
+              },
+              "mobileBackgrounds": {},
+              "siteBackgrounds": {},
+              "fakeLive": false,
+              "subtractionRules": {},
+              "clubLogoInsteadOfCountry": false
+            }
+          },
+          {
+            "id": 10341,
+            "urn": "2021-22",
+            "title": "Континентальная хоккейная лига",
+            "year": "2021/22",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {
+                "default": "996c/0f8f/e390/4570/8cd3/ac60/6657/5bb1/500_500.png"
+              },
+              "mobileBackgrounds": {},
+              "siteBackgrounds": {},
+              "fakeLive": false,
+              "subtractionRules": {},
+              "clubLogoInsteadOfCountry": false
+            }
+          },
+          {
+            "id": 1874,
+            "urn": "kkhl-2021",
+            "title": "Континентальная хоккейная лига",
+            "year": "2020/21",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1817,
+            "urn": "kkhl-1920",
+            "title": "Континентальная хоккейная лига",
+            "year": "2019/20",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1879,
+            "urn": "201819",
+            "title": "Континентальная хоккейная лига",
+            "year": "2018/19",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1554,
+            "urn": "201718",
+            "title": "Континентальная хоккейная лига",
+            "year": "2017/18",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1555,
+            "urn": "201617",
+            "title": "Континентальная хоккейная лига",
+            "year": "2016/17",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1871,
+            "urn": "201516",
+            "title": "Континентальная хоккейная лига",
+            "year": "2015/16",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 1852,
+            "urn": "201415",
+            "title": "Континентальная хоккейная лига",
+            "year": "2014/15",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 7159,
+            "urn": "2013-14",
+            "title": "Континентальная хоккейная лига",
+            "year": "2013/14",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {
+                "default": "ec55/4bb4/96d2/432f/9ec0/a476/581e/ff60/500_500.png"
+              },
+              "mobileBackgrounds": {},
+              "siteBackgrounds": {},
+              "fakeLive": false,
+              "subtractionRules": {},
+              "clubLogoInsteadOfCountry": false
+            }
+          },
+          {
+            "id": 7158,
+            "urn": "2012-13",
+            "title": "Континентальная хоккейная лига",
+            "year": "2012/13",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {
+                "default": "ccfd/d72a/bace/4449/ab2a/74ab/70e0/b0ef/500_500.png"
+              },
+              "mobileBackgrounds": {},
+              "siteBackgrounds": {},
+              "fakeLive": false,
+              "subtractionRules": {},
+              "clubLogoInsteadOfCountry": false
+            }
+          },
+          {
+            "id": 7157,
+            "urn": "2011-12",
+            "title": "Континентальная хоккейная лига",
+            "year": "2011/12",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {
+                "default": "7ae3/1178/d9cf/4099/88bc/d2c4/706e/43a1/500_500.png"
+              },
+              "mobileBackgrounds": {},
+              "siteBackgrounds": {},
+              "fakeLive": false,
+              "subtractionRules": {},
+              "clubLogoInsteadOfCountry": false
+            }
+          },
+          {
+            "id": 7154,
+            "urn": "2010-11",
+            "title": "Континентальная хоккейная лига",
+            "year": "2010/11",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 7156,
+            "urn": "2009-10",
+            "title": "Континентальная хоккейная лига",
+            "year": "2009/10",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {
+                "default": "59a3/c38b/15be/439d/b136/a378/1733/6d46/500_500.png"
+              },
+              "mobileBackgrounds": {},
+              "siteBackgrounds": {},
+              "fakeLive": false,
+              "subtractionRules": {},
+              "clubLogoInsteadOfCountry": false
+            }
+          },
+          {
+            "id": 7150,
+            "urn": "2008-09",
+            "title": "Континентальная хоккейная лига",
+            "year": "2008/09",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 7151,
+            "urn": "2007-08",
+            "title": "Суперлига",
+            "year": "2007/08",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 7155,
+            "urn": "2006-07",
+            "title": "Суперлига",
+            "year": "2006/07",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 7152,
+            "urn": "2005-06",
+            "title": "Суперлига",
+            "year": "2005/06",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 7153,
+            "urn": "2004-05",
+            "title": "Суперлига",
+            "year": "2004/05",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          },
+          {
+            "id": 7149,
+            "urn": "2003-04",
+            "title": "Суперлига",
+            "year": "2003/04",
+            "actual": false,
+            "frontConfig": {
+              "@class": "ru.sport24.hub.repository.model.config.SeasonConfig",
+              "logos": {},
+              "fakeLive": false,
+              "subtractionRules": {}
+            }
+          }
+        ],
+        "officialSite": "https://khl.ru/",
+        "frontConfig": {
+          "@class": "ru.sport24.hub.repository.model.config.CompetitionConfig",
+          "logos": {
+            "default": "4deb/e090/e2ba/4050/be08/c987/7d16/6ccd/500_500.png"
+          },
+          "mobileBackgrounds": {
+            "default": "4db9/9bda/8b25/41c2/8ee7/c259/c078/2fb6/1600_900.png"
+          },
+          "siteBackgrounds": {
+            "default": "8b61/55c9/80f8/46b6/8d3a/3d5b/200a/ed8f/1600_900.png"
+          },
+          "socials": {
+            "site": "https://khl.ru/"
+          },
+          "publishedTopWidget": true,
+          "publishedStatisticsTab": true,
+          "fakeLive": false,
+          "publishedHomeAwayStatistics": true,
+          "playoffSeries": true
+        }
+      }
+    ]
+  },
+  "bookmakers": []
+}

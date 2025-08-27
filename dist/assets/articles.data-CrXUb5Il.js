@@ -1,0 +1,1 @@
+import{getImageUrl as a}from"./images-Cmze_Z55.js";const o=async()=>(await(await fetch("/data/ARTICLE.json")).json()).items.map(t=>({id:t.id,urn:t.urn,title:t.title,subTitle:t.leadAnnouncement,image:a(t)}));export{o as fetchArticles};
