@@ -1,1 +1,0 @@
-const o=e=>{if(e&&e.previewImage&&e.previewImage.image)return g(e.previewImage.image);if(e&&e.socialNetworkImages){if(e.socialNetworkImages.image)return g(e.socialNetworkImages.image);if(e.socialNetworkImages.vkImage)return g(e.socialNetworkImages.vkImage)}return null},g=e=>{const r="https://cdn-m.sport24.ru/m/";return e?r+e:null};export{g as createImageUrl,o as getImageUrl};
