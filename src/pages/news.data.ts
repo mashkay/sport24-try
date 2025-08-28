@@ -9,7 +9,7 @@ export interface ArticleInterface {
 }
 
 export const fetchArticles = async (): Promise<ArticleInterface[]> => {
-    const response = await fetch('/data/NEWS.json');
+    const response = await fetch('/sport24-try/data/NEWS.json');
     const data = await response.json();
     return data.items.map((item: any) => ({
         id: item.id,

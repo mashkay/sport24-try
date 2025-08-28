@@ -4,7 +4,7 @@ import { Content } from '../../components/Content';
 import { getImageUrl } from '../images';
 
 const fetchArticle = async (urn: string) => {
-    const response = await fetch(`/data/ARTICLE/${urn}.json`);
+    const response = await fetch(`/sport24-try/data/ARTICLE/${urn}.json`);
     return response.json();
 };
 
