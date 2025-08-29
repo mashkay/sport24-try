@@ -1,0 +1,125 @@
+{
+  "id": 779677,
+  "editDate": 1756465517555,
+  "title": "Звездный легионер «Локо» думал, что Миранчуки — один человек: «Не понимал, почему он каждые 5 секунд меняет бутсы»",
+  "type": "NEWS",
+  "publishDate": 1756465517555,
+  "urn": "779677-zvezdnyy-legioner-loko-dumal-chto-miranchuki-odin-chelovek-ne-ponimal-pochemu-on-kazhdyye-5-sekund-menyayet-butsy",
+  "uriFormatVersion": 1,
+  "tags": [
+    12007,
+    11479,
+    10870,
+    15095,
+    13853
+  ],
+  "rubricId": 48,
+  "previewImage": {
+    "copyright": "Александр Мысякин, Sport24",
+    "image": "c518/2a56/2358/2d7f/372d/9e62/e38e/041e/1600_900.jpeg",
+    "imageForMobile": "69b9/26d4/0f1a/484b/80fe/5bb1/3b32/3c59/900_900.jpeg",
+    "tags": [
+      11479,
+      12007,
+      15095
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "2f99/5a1a/cf97/4d85/be96/b85c/a3b1/4369/537_240.png",
+    "image": "9020/8558/1915/4bca/aba7/0ede/3366/b4fc/1200_630.png"
+  },
+  "authors": [
+    {
+      "name": "Андрей",
+      "surname": "Бабич",
+      "image": "263e/7b4c/fb63/4f6f/8807/4948/52c9/19ae/189_189.jpeg",
+      "urn": "andrey-babich",
+      "id": 445
+    }
+  ],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Бывший футболист «Локомотива» Мануэл Фернандеш в интервью корреспонденту Sport24 Андрею Бабичу рассказал, как на начальном этапе думал, что Антон и Алексей Миранчук — это один человек."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "strong",
+          [
+            [
+              "— Ты правда первое время в «Локомотиве» думал, что Миранчук — это один человек?"
+            ]
+          ],
+          {}
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "— Это так, ха-ха! Не понимал, почему один человек находится в разных местах одновременно. Особенно на базе — видел Миранчука в одном месте, а спустя 10 секунд он находился на противоположной стороне. А еще не понимал, почему Миранчук каждые пять секунд меняет бутсы."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "strong",
+          [
+            [
+              "— Самый талантливый футболист, с кем ты играл в России?"
+            ]
+          ],
+          {}
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "— Миранчуки, Касаев, Фарфан, Буссуфа."
+        ]
+      ],
+      {}
+    ],
+    [
+      "news",
+      [],
+      {
+        "newsList": [
+          {
+            "urn": "779516-yesliby-ne-dengi-ne-yekhalby-v-rossiyu-galitskiy-slezhka-smorodskoy-sud-za-6-mln-otkrovennoye-intervyu-byvshego-futbolista-lokomotiva-i-krasnodara-manuela-fernandesha",
+            "uriFormatVersion": 1,
+            "type": "ARTICLE",
+            "title": "«Россия присоединила Крым, и я отказался подписывать контракт в рублях». Горячее интервью звезды «Локомотива»",
+            "image": "099c/5689/cfa1/4375/bab6/b516/d39a/855a/1600_900.jpeg",
+            "rubricId": 48
+          }
+        ]
+      }
+    ]
+  ],
+  "rubrics": [
+    48
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

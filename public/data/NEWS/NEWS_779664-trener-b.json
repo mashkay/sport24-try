@@ -1,0 +1,108 @@
+{
+  "id": 779664,
+  "editDate": 1756461561267,
+  "title": "«Тренер был жертвой». Фернандеш прокомментировал слова о том, что у Черевченко не было своего мнения в «Локомотиве»",
+  "type": "NEWS",
+  "publishDate": 1756461561267,
+  "urn": "779664-trener-byl-zhertvoy-fernandesh-prokommentiroval-slova-o-tom-chto-u-cherevchenko-ne-bylo-svoyego-mneniya-v-lokomotive",
+  "uriFormatVersion": 1,
+  "tags": [
+    10870,
+    15095,
+    13853,
+    14955,
+    13112
+  ],
+  "rubricId": 48,
+  "previewImage": {
+    "copyright": "Александр Мысякин, Sport24",
+    "image": "d530/caf8/0537/47fe/b1e7/3d63/cb7b/38ea/1600_1000.jpeg",
+    "imageForMobile": "e888/5eae/1b8a/4dee/8f16/d585/6c60/2bab/555_1000.jpeg",
+    "tags": [
+      13112
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "daff/5434/572a/4e57/8b20/d50c/dd24/b0bc/537_240.png",
+    "image": "9f36/9a88/389f/411a/8a16/b555/cf7f/dba9/1200_630.png"
+  },
+  "authors": [
+    {
+      "name": "Андрей",
+      "surname": "Бабич",
+      "image": "263e/7b4c/fb63/4f6f/8807/4948/52c9/19ae/189_189.jpeg",
+      "urn": "andrey-babich",
+      "id": 445
+    }
+  ],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Бывший футболист «Локомотива» Мануэл Фернандеш в интервью корреспонденту Sport24 Андрею Бабичу рассказал, что экс-главный тренер москвичей Игорь Черевченко не имел собственного мнения при президенте клуба Ольге Смородской."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "strong",
+          [
+            [
+              "— Ты говорил, что у тренера «Локомотива» Черевченко не было своего мнения из-за Смородской."
+            ]
+          ],
+          {}
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "— Я действительно так думал. Но оказалось, что Игорь тоже был жертвой. После моих слов мы встретились. Черевченко был обижен. Я сказал: «Игорь, не хотел тебя оскорбить. Это просто мое мнение. Как и у тебя может быть свое». Но есть факт: во втором сезоне в «Локо» я играл только в матчах Лиги Европы, а в РПЛ сидел на банке."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Игорь Черевченко работал в «Локомотиве» с 2008 по 2016 год. Сейчас 51-летний тренер возглавляет «Истиклол»."
+        ]
+      ],
+      {}
+    ],
+    [
+      "news",
+      [],
+      {
+        "newsList": [
+          {
+            "urn": "779516-yesliby-ne-dengi-ne-yekhalby-v-rossiyu-galitskiy-slezhka-smorodskoy-sud-za-6-mln-otkrovennoye-intervyu-byvshego-futbolista-lokomotiva-i-krasnodara-manuela-fernandesha",
+            "uriFormatVersion": 1,
+            "type": "ARTICLE",
+            "title": "«Россия присоединила Крым, и я отказался подписывать контракт в рублях». Горячее интервью звезды «Локомотива»",
+            "image": "099c/5689/cfa1/4375/bab6/b516/d39a/855a/1600_900.jpeg",
+            "rubricId": 48
+          }
+        ]
+      }
+    ]
+  ],
+  "rubrics": [
+    48
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

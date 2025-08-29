@@ -1,0 +1,100 @@
+{
+  "id": 779709,
+  "editDate": 1756474006924,
+  "title": "Усик зажигательно станцевал на сцене на фоне слухов о травме",
+  "type": "NEWS",
+  "publishDate": 1756473614586,
+  "urn": "779709-usik-zazhigatelno-stantseval-na-stsene-na-fone-slukhov-o-travme",
+  "uriFormatVersion": 1,
+  "tags": [
+    26635,
+    14207,
+    9906
+  ],
+  "rubricId": 233,
+  "previewImage": {
+    "copyright": "Getty Images",
+    "image": "761d/85eb/def6/4347/87b8/2a6a/0012/ee88/1600_900.jpeg",
+    "tags": [
+      9906
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "80f6/951e/fbb7/48c8/aaae/1c0d/af19/cfcb/537_240.png",
+    "image": "9fd8/fb50/6ea9/482c/9d9b/2273/08c3/ff64/1200_630.png"
+  },
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Дэвид Хиггинс, промоутер боксера Джозефа Паркера, осудил абсолютного чемпиона мира Александра Усика."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Ранее в соцсетях появилось видео с танцами Усика. При этом Усик запросил отсрочку переговоров по защите пояса WBO из-за травмы."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "«Я не видел медицинских документов Усика. Но если бы у него была серьезное повреждение, то он не занимался бы чем-то подобным. Хотя в боксе меня уже ничто не удивляет."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Так или иначе, Джозеф ждет своего шанса. Он собран и готов драться», — цитирует Хиггинса Independent."
+        ]
+      ],
+      {}
+    ],
+    [
+      "telegram",
+      [],
+      {
+        "url": "https://t.me/arsenversen/17520",
+        "postId": "arsenversen/17520"
+      }
+    ],
+    [
+      "news",
+      [],
+      {
+        "newsList": [
+          {
+            "urn": "779676-britanskiy-eks-chempion-predupredil-itaumu-naschet-boya-s-usikom-davayte-budem-chestny",
+            "uriFormatVersion": 1,
+            "type": "NEWS",
+            "title": "Британский экс-чемпион предупредил Итауму насчет боя с Усиком: «Давайте будем честны»",
+            "image": "819f/0079/a0f5/8b88/d1cf/26c7/9938/f535/1100_684.jpeg",
+            "rubricId": 233
+          }
+        ]
+      }
+    ]
+  ],
+  "rubrics": [
+    233,
+    58
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

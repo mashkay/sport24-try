@@ -1,0 +1,114 @@
+{
+  "id": 778481,
+  "editDate": 1756409333298,
+  "title": "Тест: играл ли в этом фильме Анатолий Папанов? Вспомните роли легендарного актера СССР",
+  "type": "ARTICLE",
+  "publishDate": 1756409100000,
+  "urn": "test-igralli-v-etom-filme-anatoliy-papanov-vspomnite-roli-legendarnogo-aktera-sssr",
+  "uriFormatVersion": 1,
+  "leadAnnouncement": "Давайте вспоминать.",
+  "tags": [
+    25589,
+    14241,
+    27069
+  ],
+  "rubricId": 153,
+  "previewImage": {
+    "copyright": "Виталий Арутюнов, РИА Новости",
+    "image": "c5d6/65e2/2688/4482/a1e1/fa2d/1637/e99e/1600_900.jpeg",
+    "tags": []
+  },
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "socialNetworkImages": {
+    "vkImage": "9848/0c97/cf77/433b/ab0c/4739/f7bf/753a/537_302.jpeg",
+    "image": "41f2/177a/e151/42f7/889e/7f29/5b82/328e/1200_675.jpeg"
+  },
+  "seoTitle": "Тест: играл ли в этом фильме Анатолий Папанов; вспомните роли легендарного актера СССР",
+  "authors": [
+    {
+      "name": "Николай",
+      "surname": "Соников",
+      "image": "9d38/c1a6/56d5/4741/9549/5668/9c72/c14b/1024_1024.jpeg",
+      "urn": "nikolay-sonikov",
+      "id": 608
+    }
+  ],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Анатолий Папанов — актёр, который мог голосом и взглядом рассказать целую историю. Начав с театральной сцены, он пришёл в кино уже зрелым мастером. Его герои всегда несли в себе глубинную правду жизни."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Давайте проверим, насколько хорошо вы помните его роли. В нашем тесте десять фильмов. И ваша задача — точно определить, играл ли в той или иной картине Анатолий Папанов или нет. Но будьте внимательны: на прохождение теста вам дается всего 150 секунд."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Удачи!"
+        ]
+      ],
+      {}
+    ],
+    [
+      "iframe",
+      [],
+      {
+        "url": "https://www.riddle.com/view/6iniaEzp",
+        "transparent": false
+      }
+    ],
+    [
+      "news",
+      [],
+      {
+        "header": "Больше кинотестов на Sport24",
+        "newsList": [
+          {
+            "urn": "test-prodolzhite-tsitatu-iz-neulovimykh-mstiteley",
+            "uriFormatVersion": 1,
+            "type": "ARTICLE",
+            "title": "Тест: продолжите цитату из «Неуловимых мстителей». Помните культовый фильм про красных дьяволят? ",
+            "image": "a065/15a8/b70d/431a/9020/f656/ae85/40bf/1600_900.jpeg",
+            "rubricId": 153
+          },
+          {
+            "urn": "test-prodolzhite-tsitatu-iz-operatsii-y-pomnite-kultovyy-film-sssr-naizust",
+            "uriFormatVersion": 1,
+            "type": "ARTICLE",
+            "title": "Тест: продолжите цитату из «Операции Ы и других приключений Шурика» — помните культовый фильм СССР наизусть?",
+            "image": "8a0e/a301/5948/4495/8bb3/264d/f633/52db/1600_900.jpeg",
+            "rubricId": 154
+          },
+          {
+            "urn": "test-prodolzhite-tsitatu-iz-brilliantovoy-ruki-pomnite-legendarnyy-film-sssr-naizust",
+            "uriFormatVersion": 1,
+            "type": "ARTICLE",
+            "title": "Тест: продолжите цитату из «Бриллиантовой руки»: помните легендарный фильм СССР наизусть?",
+            "image": "3697/ea83/bfdb/4917/b3f4/c620/125e/3261/1600_900.jpeg",
+            "rubricId": 154
+          }
+        ]
+      }
+    ]
+  ],
+  "rubrics": [
+    153,
+    154
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

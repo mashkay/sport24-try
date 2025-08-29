@@ -1,0 +1,91 @@
+{
+  "id": 779648,
+  "editDate": 1756456666422,
+  "title": "Чемпион UFC не согласился с Хабибом: «Обычно он знает, что говорит»",
+  "type": "NEWS",
+  "publishDate": 1756456666422,
+  "urn": "779648-chempion-ufc-ne-soglasilsya-s-khabibom-obychno-on-znayet-chto-govorit",
+  "uriFormatVersion": 1,
+  "tags": [
+    8931,
+    13746,
+    14292,
+    8672,
+    9053
+  ],
+  "rubricId": 58,
+  "previewImage": {
+    "copyright": "instagram.com/khabib_nurmagomedov",
+    "image": "417c/3ee4/088b/4ee0/bc2c/4073/9579/f0ae/1600_1000.jpeg",
+    "imageForMobile": "9de8/a2fb/13e1/421a/9696/e100/f63d/9103/555_1000.jpeg",
+    "tags": [
+      10199
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "8ce4/3538/ed93/411a/acc4/a915/863f/f606/537_240.png",
+    "image": "08ec/88fe/1832/4eb0/8d46/ba1c/097e/f8db/1200_630.png"
+  },
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Чемпион UFC Мераб Двалишвили прокомментировал мнение Хабиба Нурмагомедова насчет потенциального поедика между Арманом Царукяном и Илией Топурией."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "strong",
+          [
+            [
+              "— Хабиб недавно сказал, что Арман легко побьет Топурию."
+            ]
+          ],
+          {}
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "— Хабиб обычно знает, что говорит — этот парень разбирается в ММА. Но в этот раз я не согласен с ним, поскольку Топурия отлично умеет защищаться от переводов в партер. Я тренировался с Илией, он хороший борец. У меня не получилось повалить его. А в стойке он только и делает, что преследует тебя, постоянно создавая давление, — сказал Двалишвили в подкасте Full Send."
+        ]
+      ],
+      {}
+    ],
+    [
+      "news",
+      [],
+      {
+        "newsList": [
+          {
+            "urn": "779635-menedzher-topurii-oproverg-slukh-o-poyedinke-s-geydzhi-u-nas-poka-net-predlozheniy",
+            "uriFormatVersion": 1,
+            "type": "NEWS",
+            "title": "Менеджер Топурии опроверг слух о поединке с Гейджи: «У нас пока нет предложений»",
+            "image": "9ca5/da92/2bbc/4243/8062/1556/9e0a/ab53/1600_900.jpeg",
+            "rubricId": 58
+          }
+        ]
+      }
+    ]
+  ],
+  "rubrics": [
+    58
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

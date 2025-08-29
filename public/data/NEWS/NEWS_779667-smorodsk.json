@@ -1,0 +1,101 @@
+{
+  "id": 779667,
+  "editDate": 1756461774568,
+  "title": "Смородская отреагировала на обвинения Фернандеша: «Я его не уважаю»",
+  "type": "NEWS",
+  "publishDate": 1756461774568,
+  "urn": "779667-smorodskaya-otreagirovala-na-obvineniya-fernandesha-ya-yego-ne-uvazhayu",
+  "uriFormatVersion": 1,
+  "tags": [
+    10870,
+    14955,
+    15095,
+    13853
+  ],
+  "rubricId": 48,
+  "previewImage": {
+    "copyright": "РИА Новости",
+    "image": "9f9e/f207/52f4/4cd6/25d5/4572/e7bc/1364/1600_900.jpeg",
+    "imageForMobile": "d4c8/7dd6/2dc2/40ea/a473/c273/832e/27e5/500_900.jpeg",
+    "tags": [
+      14955
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "4398/a29d/31d8/4553/9ee7/a1cd/c44c/8ed6/537_240.png",
+    "image": "c6f2/2a30/d6c8/498d/825d/2946/70cc/e027/1200_630.png"
+  },
+  "authors": [
+    {
+      "name": "Андрей",
+      "surname": "Бабич",
+      "image": "263e/7b4c/fb63/4f6f/8807/4948/52c9/19ae/189_189.jpeg",
+      "urn": "andrey-babich",
+      "id": 445
+    }
+  ],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Бывший президент «Локомотива» Ольга Смородская отреагировала на резкие высказывания экс-игрока московской команды Мануэла Фернандеша."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Ранее в интервью Sport24 Фернандеш заявил, что не уважает Смородскую. Он также обвинил ее в организации слежки за ним и несправедливой выплате премиальных."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "«Мне нечего сказать про интервью Фернандеша. Я его не уважаю и не собираюсь отвечать на его заявления."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Я следила за Фернандешом? Это он придумал», — сказала Смородская в беседе с корреспондентом Sport24 Андреем Бабичем."
+        ]
+      ],
+      {}
+    ],
+    [
+      "news",
+      [],
+      {
+        "newsList": [
+          {
+            "urn": "779516-yesliby-ne-dengi-ne-yekhalby-v-rossiyu-galitskiy-slezhka-smorodskoy-sud-za-6-mln-otkrovennoye-intervyu-byvshego-futbolista-lokomotiva-i-krasnodara-manuela-fernandesha",
+            "uriFormatVersion": 1,
+            "type": "ARTICLE",
+            "title": "«Россия присоединила Крым, и я отказался подписывать контракт в рублях». Горячее интервью звезды «Локомотива»",
+            "image": "099c/5689/cfa1/4375/bab6/b516/d39a/855a/1600_900.jpeg",
+            "rubricId": 48
+          }
+        ]
+      }
+    ]
+  ],
+  "rubrics": [
+    48
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

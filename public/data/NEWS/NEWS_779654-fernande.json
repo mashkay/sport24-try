@@ -1,0 +1,91 @@
+{
+  "id": 779654,
+  "editDate": 1756457863458,
+  "title": "Фернандеш: «Галицкий — архитектор всего, что есть у «Краснодара. Надеюсь, им удастся чаще выигрывать трофеи»",
+  "type": "NEWS",
+  "publishDate": 1756457863458,
+  "urn": "779654-fernandesh-galitskiy-arkhitektor-vsego-chto-yest-u-krasnodara-nadeyus-im-udastsya-chashche-vyigryvat-trofei",
+  "uriFormatVersion": 1,
+  "tags": [
+    10870,
+    14973,
+    13890
+  ],
+  "rubricId": 48,
+  "previewImage": {
+    "copyright": "РИА Новости",
+    "image": "04e1/5b6e/07f5/f5a3/68fb/9f23/ef0a/52ec/1600_900.jpeg",
+    "imageForMobile": "7f7f/376a/12c6/40fc/a45a/459b/0bae/b49a/900_900.jpeg",
+    "tags": [
+      10870
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "12c7/a636/99a0/405d/ad7a/3f8f/5871/3d77/537_240.png",
+    "image": "dcf2/e20a/c92e/4fe0/8705/31fc/dc3b/b554/1200_630.png"
+  },
+  "authors": [
+    {
+      "name": "Андрей",
+      "surname": "Бабич",
+      "image": "263e/7b4c/fb63/4f6f/8807/4948/52c9/19ae/189_189.jpeg",
+      "urn": "andrey-babich",
+      "id": 445
+    }
+  ],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Бывший футболист «Локомотива» Мануэл Фернандеш, который после ухода из московского клуба перешел в «Краснодар», в интервью корреспонденту Sport24 Андрею Бабичу высказался о владельце краснодарской команды Сергее Галицком."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "«Очень приятный и уважаемый человек. Надеюсь, «Краснодару» удастся как можно чаще выигрывать трофеи — Галицкий это заслужил. Сергей Николаевич — архитектор всего, что есть у «Краснодара». Сколько денег он вложил в клуб! Тут и новый тренировочный центр, и новый стадион — очень круто», — рассказал Фернандеш."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "В минувшем сезоне «Краснодар» впервые в своей истории выиграл золотые медали чемпионата России. Мануэл Фернандеш играл за «горожан» с 2019 по 2020 год."
+        ]
+      ],
+      {}
+    ],
+    [
+      "news",
+      [],
+      {
+        "newsList": [
+          {
+            "urn": "779516-yesliby-ne-dengi-ne-yekhalby-v-rossiyu-galitskiy-slezhka-smorodskoy-sud-za-6-mln-otkrovennoye-intervyu-byvshego-futbolista-lokomotiva-i-krasnodara-manuela-fernandesha",
+            "uriFormatVersion": 1,
+            "type": "ARTICLE",
+            "title": "«Россия присоединила Крым, и я отказался подписывать контракт в рублях». Горячее интервью звезды «Локомотива»",
+            "image": "099c/5689/cfa1/4375/bab6/b516/d39a/855a/1600_900.jpeg",
+            "rubricId": 48
+          }
+        ]
+      }
+    ]
+  ],
+  "rubrics": [
+    48
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

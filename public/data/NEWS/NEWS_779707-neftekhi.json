@@ -1,0 +1,66 @@
+{
+  "id": 779707,
+  "editDate": 1756472100462,
+  "title": "«Нефтехимик» объявил об уходе Бобкова",
+  "type": "NEWS",
+  "publishDate": 1756472099456,
+  "urn": "779707-neftekhimik-obyavil-ob-ukhode-bobkova",
+  "uriFormatVersion": 1,
+  "tags": [
+    9426,
+    15263,
+    14374
+  ],
+  "rubricId": 73,
+  "previewImage": {
+    "copyright": "Владимир Беззубов, photo.khl.ru",
+    "image": "74af/10da/b8dc/2192/de59/89b6/9db1/1ec3/1600_900.jpeg",
+    "tags": [
+      9426
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "8f91/ab7f/a3b5/40dc/b5d7/f932/7f54/4d76/537_240.png",
+    "image": "941f/57e3/039b/4cee/8431/d94f/27b3/0108/1200_630.png"
+  },
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "«Нефтехимик» по соглашению сторон расторг контракт с вратарем Игорем Бобковым, сообщает пресс-служба клуба."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "В прошлом сезоне 34-летний голкипер выступал в «Амуре», но по ходу чемпионата перешел в нижнекамский клуб. Всего Бобков провел 23 матча, где процент отраженный бросков составил 87,9, а коэффициент надежности — 3,87."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Бобков является обладателем Кубка Гагарина 2021 года в составе «Авангарда». В КХЛ он провел 392 матча."
+        ]
+      ],
+      {}
+    ]
+  ],
+  "rubrics": [
+    73
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

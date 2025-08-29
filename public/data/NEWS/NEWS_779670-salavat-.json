@@ -1,0 +1,67 @@
+{
+  "id": 779670,
+  "editDate": 1756462491141,
+  "title": "«Салават Юлаев» проиграл клубу ВХЛ, пропустив дважды на последней минуте",
+  "type": "NEWS",
+  "publishDate": 1756462491141,
+  "urn": "779670-salavat-yulayev-proigral-klubu-vkhl-propustiv-dvazhdy-na-posledney-minute",
+  "uriFormatVersion": 1,
+  "tags": [
+    15151,
+    14374,
+    13908
+  ],
+  "rubricId": 73,
+  "previewImage": {
+    "copyright": "Светлана Садыкова, photo.khl.ru",
+    "image": "eab0/a659/af6e/4f3e/a982/bc7f/a923/8377/1600_900.jpeg",
+    "imageForMobile": "ec7e/5312/444d/4769/9dd4/e9a6/79cc/04dd/500_900.jpeg",
+    "tags": [
+      15151
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "acbc/c598/7106/4111/b232/58c4/37bf/5e9d/537_240.png",
+    "image": "8e37/6f7f/23d1/4dfb/adff/8593/dacb/b2da/1200_630.png"
+  },
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "«Магнитка» выиграла у «Салават Юлаева» (2:1) в матче Мемориала Ромазана."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Уфимский клуб вел со счетом 1:0 до концовки третьего периода, но магнитогорская команда сравняла счет благодаря голу Матвея Галенюка на 20-й минуте третьего периода. Тот же самый Галенюк спустя 20 секунд забил «Салавату» в пустые ворота после снятия вратаря."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "«Салават Юлаев» ранее в августе провел четыре контрольных встречи, выиграв у «Металлурга» (5:2), а также уступив «Автомобилисту» (дважды) и «Барысу» (3:4 ОТ)."
+        ]
+      ],
+      {}
+    ]
+  ],
+  "rubrics": [
+    73
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

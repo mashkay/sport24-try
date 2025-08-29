@@ -1,0 +1,69 @@
+{
+  "id": 779652,
+  "editDate": 1756457113458,
+  "title": "Даку из «Рубина» вызвали в сборную Албании",
+  "type": "NEWS",
+  "publishDate": 1756457113458,
+  "urn": "779652-daku-iz-rubina-vyzvali-v-sbornuyu-albanii",
+  "uriFormatVersion": 1,
+  "tags": [
+    25964,
+    14972,
+    13853,
+    14698,
+    15534
+  ],
+  "rubricId": 48,
+  "previewImage": {
+    "copyright": "Getty Images",
+    "image": "d129/a891/e57b/4693/8ca8/923c/e08f/35f1/1600_1000.jpeg",
+    "imageForMobile": "1103/e3c5/df1a/4609/ba05/6477/7e10/63ce/1000_1000.jpeg",
+    "tags": [
+      25964
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "a12d/fe43/71c8/4d14/8112/43d9/1735/95a7/537_240.png",
+    "image": "3530/d777/e975/4ff2/921d/0385/0378/0f25/1200_630.png"
+  },
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Нападающий «Рубина» Мирлинд Даку вызван в сборную Албании на ближайшие матчи."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Форвард может принять участие в товарищеской игре Гибралтаром (4 сентября) и матчем квалификации ЧМ с Латвией (9 сентября)."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "На групповом этапе отбора на мировое первенство Албания занимает 2-е место в группе К, уступая лишь Англии."
+        ]
+      ],
+      {}
+    ]
+  ],
+  "rubrics": [
+    48
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

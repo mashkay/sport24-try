@@ -1,0 +1,75 @@
+{
+  "id": 779703,
+  "editDate": 1756470966108,
+  "title": "«Лада» обыграла «Сочи» и заняла 3-е место на Кубке губернатора Челябинской области",
+  "type": "NEWS",
+  "publishDate": 1756470966108,
+  "urn": "779703-lada-obygrala-sochi-i-zanyala-3-ye-mesto-na-kubke-gubernatora-chelyabinskoy-oblasti",
+  "uriFormatVersion": 1,
+  "tags": [
+    15313,
+    15257,
+    14374
+  ],
+  "rubricId": 73,
+  "previewImage": {
+    "copyright": "Андрей Холмов, photo.khl.ru",
+    "image": "693a/7585/a6ca/411d/b226/47bf/f616/2102/1600_900.jpeg",
+    "imageForMobile": "f9e0/09fa/a2fb/419b/aa41/38cd/f7c1/02bd/900_900.jpeg",
+    "tags": [
+      15313
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "ba2d/4b6d/d47f/464d/8517/ad51/b795/1b3d/537_240.png",
+    "image": "6c88/1835/3500/43dc/b946/83d3/e026/51bb/1200_630.png"
+  },
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Хоккеисты «Лады» стали бронзовыми призерами Кубка губернатора Челябинской области-2025. В заключительном матче турнира в пятницу команда Бориса Миронова нанесла поражение «Сочи». Игра завершилась в овертайме со счетом 3:2."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "В составе тольяттинцев шайбы забросили Даниил Сероух и Рафаэль Бикмуллин. У победителей голы забили Джош Лоуренс, Данила Дяденькин и Андрей Чивилев, ставший автором победного броска на 64-й минуте."
+        ]
+      ],
+      {}
+    ],
+    [
+      "telegram",
+      [],
+      {
+        "url": "https://t.me/hc_lada/12198",
+        "postId": "hc_lada/12198"
+      }
+    ],
+    [
+      "p",
+      [
+        [
+          "В финальном матче позднее сыграют «Трактор» и «Амур»."
+        ]
+      ],
+      {}
+    ]
+  ],
+  "rubrics": [
+    73
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

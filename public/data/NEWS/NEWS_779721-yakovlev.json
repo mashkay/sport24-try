@@ -1,0 +1,70 @@
+{
+  "id": 779721,
+  "editDate": 1756475549433,
+  "title": "Яковлев перешел из ЦСКА в ульяновскую «Волгу»",
+  "type": "NEWS",
+  "publishDate": 1756475549433,
+  "urn": "779721-yakovlev-pereshel-iz-tsska-v-ulyanovskuyu-volgu",
+  "uriFormatVersion": 1,
+  "tags": [
+    24640,
+    15265,
+    15539,
+    13715,
+    13853,
+    14698
+  ],
+  "rubricId": 48,
+  "previewImage": {
+    "copyright": "@vladukha_yak",
+    "image": "9d8c/34d8/ca04/40d4/bc83/d099/11e2/a493/1600_1000.jpeg",
+    "imageForMobile": "8045/4221/e063/44c8/b2cd/b79a/85e5/91f7/555_1000.jpeg",
+    "tags": [
+      24640
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "e6d8/309b/7e5e/48bf/a48a/35f9/6eef/6adb/537_240.png",
+    "image": "13c0/369a/ccca/4fcc/a13d/6cde/7915/5e07/1200_630.png"
+  },
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Нападающий Владислав Яковлев покинул ЦСКА и пополнил состав ульяновской «Волги», сообщает пресс-служба армейского клуба."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "23-летний футболист является воспитанником ЦСКА. Последние полгода он провел в аренде в армянском «Урарту», где в 9 матчах забил 2 гола."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Яковлев также поиграл на правах аренды за «Пари НН» и «Химки». За основной состав ЦСКА форвард провел 36 матчей, в которых забил 1 гол и отдал 3 голевые передачи."
+        ]
+      ],
+      {}
+    ]
+  ],
+  "rubrics": [
+    48
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

@@ -1,11 +1,1889 @@
 {
   "items": [
     {
+      "id": 779727,
+      "title": "Русский бразилец подерется с братом легенды UFC. Уокер выходит на бои под трек «Матушка земля» и скручивает пятки",
+      "type": "ARTICLE",
+      "publishDate": 1756477040048,
+      "urn": "ARTICLE_779727-valter-u.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Вальтеру будет противостоять Усман!",
+      "tags": [
+        13746,
+        27758,
+        8313,
+        14292
+      ],
+      "rubricId": 58,
+      "previewImage": {
+        "copyright": "Zuma/TASS",
+        "image": "9f4e/6280/966a/42a4/86db/b80e/3635/7c94/1600_900.jpeg",
+        "imageForMobile": "b5d1/c0f1/de23/44db/b3d6/fdcb/6d5b/8b5b/670_670.jpeg",
+        "tags": [
+          27758
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        58
+      ]
+    },
+    {
+      "id": 779669,
+      "title": "Глейхенгауз честно о подготовке к Олимпиаде — программы Петросян, форма Гуменника, ожидания от оценок судей",
+      "type": "ARTICLE",
+      "publishDate": 1756474500000,
+      "urn": "ARTICLE_779669-daniil-g.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Новый сезон шоу «Каток».",
+      "tags": [
+        14044,
+        9734,
+        8402,
+        11013,
+        14027,
+        14800,
+        24881,
+        13688,
+        26692
+      ],
+      "rubricId": 44,
+      "previewImage": {
+        "copyright": "youtube.com",
+        "image": "7a5f/679b/d374/4a39/81fc/50ed/4b24/b19a/1600_900.jpeg",
+        "imageForMobile": "067b/3788/d28d/46c6/b33d/9fa3/1f12/2254/900_900.png",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        44,
+        86
+      ]
+    },
+    {
+      "id": 779636,
+      "title": "На этом вопросе экзамена в ГАИ ошибаются даже опытные водители: по какой траектории нужно повернуть?",
+      "type": "ARTICLE",
+      "publishDate": 1756474232000,
+      "urn": "ARTICLE_na-etom-voprose.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Сможете ответить правильно?",
+      "tags": [
+        28059
+      ],
+      "rubricId": 74,
+      "previewImage": {
+        "copyright": "Sport24",
+        "image": "62dd/f0db/eb67/4d61/ab53/19ba/d571/4cf9/1600_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        74,
+        73
+      ]
+    },
+    {
+      "id": 779706,
+      "title": "«Барселону» ждут проблемы в Мадриде, а «Реал» разберется с островитянами. Экспресс на Ла Лигу",
+      "type": "ARTICLE",
+      "publishDate": 1756472400414,
+      "urn": "ARTICLE_779706-barselon.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Ставим на 3 матча тура с коэффициентом 4.64.",
+      "tags": [
+        26693,
+        15195,
+        15100,
+        15018,
+        15626,
+        15877,
+        15023,
+        13827,
+        13831
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "EPA / TASS",
+        "image": "ff0c/7ea6/9214/4a72/ac43/62c6/025c/1824/1600_900.jpeg",
+        "imageForMobile": "40fe/657f/d0ca/47e3/8bee/20eb/074f/83a7/900_900.png",
+        "tags": [
+          15100
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48,
+        53
+      ]
+    },
+    {
+      "id": 779479,
+      "title": "Экранизация этой игры сорвала овации в Каннах: что за Exit 8 и почему его не стоит пропускать",
+      "type": "ARTICLE",
+      "publishDate": 1756472400000,
+      "urn": "ARTICLE_ekranizatsiya-e.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Маленькая игра ставшая большим фильмом.",
+      "tags": [
+        26723
+      ],
+      "rubricId": 64,
+      "previewImage": {
+        "copyright": "kotakecreate.com",
+        "image": "d944/09bf/253b/4ee1/9b1c/3483/3295/45a1/1600_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        64
+      ]
+    },
+    {
+      "id": 778271,
+      "title": "Иностранцы украли у СССР идею легендарной игры и наварились на ней: но справедливость с «Тетрисом» восторжествовала",
+      "type": "ARTICLE",
+      "publishDate": 1756471143000,
+      "urn": "ARTICLE_inostrantsy-ukr.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Настоящий шпионский триллер.",
+      "tags": [
+        26723
+      ],
+      "rubricId": 153,
+      "previewImage": {
+        "copyright": "shutterstock.com",
+        "image": "387d/6a5e/4e99/4257/a9b9/8a89/a6bd/193d/1600_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        153,
+        154
+      ]
+    },
+    {
+      "id": 779682,
+      "title": "Русский гений взорвет рынок в Америке? Капризов готов стать самым дорогим крайним форвардом во всей НХЛ!",
+      "type": "ARTICLE",
+      "publishDate": 1756468800000,
+      "urn": "ARTICLE_779682-russkiy-.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "А «Миннесота» к этому готова?",
+      "tags": [
+        13739,
+        15178,
+        11861
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "nhl.com",
+        "image": "ab14/5670/ae76/4b2c/ad60/4ee6/4a89/08bd/1600_900.jpeg",
+        "imageForMobile": "f4ab/e6f1/2a81/4eee/9ac7/1008/3fc1/f136/900_900.jpeg",
+        "tags": [
+          11861
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779556,
+      "title": "Честная таблица РПЛ: «Краснодар» Галицкого снова тянут судьи в борьбе за титул?",
+      "type": "ARTICLE",
+      "publishDate": 1756468800000,
+      "urn": "ARTICLE_779556-spravedl.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Если бы судьи не ошибались…",
+      "tags": [
+        27552,
+        15265,
+        15576,
+        15341,
+        15095,
+        14972,
+        14973,
+        15463,
+        15772,
+        15034,
+        15582,
+        15128,
+        15372,
+        15037,
+        25472,
+        15770,
+        15273
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "fckrasnodar.ru",
+        "image": "bf8d/287e/ef0c/4be7/8d80/3d23/7f57/ad9e/1600_900.jpeg",
+        "imageForMobile": "e616/63c7/b072/45b1/bfe7/99b9/e840/9e76/900_900.jpeg",
+        "tags": [
+          13020,
+          13890
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 778888,
+      "title": "Руководство «Зенита» подставило Семака: эта ошибка может снова лишить его чемпионства",
+      "type": "ARTICLE",
+      "publishDate": 1756461600000,
+      "urn": "ARTICLE_778888-rukovods.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Системный кризис.",
+      "tags": [
+        10988,
+        28419,
+        15341,
+        13853
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "fc-zenit.ru / РИА Новости",
+        "image": "6858/b571/3bb7/449f/93d0/a2b2/cd8c/500e/1600_900.jpeg",
+        "imageForMobile": "5bc7/1728/9b2b/4deb/9c95/c1e4/cc62/5a8f/900_900.jpeg",
+        "tags": [
+          15341
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779261,
+      "title": "Посмотрела мультсериал «Короче говоря» от авторов «Коня БоДжека»: фанатам лошади точно понравится",
+      "type": "ARTICLE",
+      "publishDate": 1756461044795,
+      "urn": "ARTICLE_multserial-koro.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Полная история одной семьи.",
+      "tags": [
+        14241
+      ],
+      "rubricId": 154,
+      "previewImage": {
+        "copyright": "youtube.com",
+        "image": "2a68/2424/2e5b/4796/a97f/890d/7b8d/7192/1600_900.jpeg",
+        "imageForMobile": "fc64/bcee/9ddc/4692/a60a/d3f7/b77c/97ce/900_900.png",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        154,
+        64
+      ]
+    },
+    {
+      "id": 779644,
+      "title": "Его с нетерпением ждут в России, а он выберет Америку? Переживший грязный скандал Маклауд вряд ли доедет до Омска",
+      "type": "ARTICLE",
+      "publishDate": 1756459800000,
+      "urn": "ARTICLE_779644-yego-s-n.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Заявление НХЛ ожидается через несколько недель. ",
+      "tags": [
+        13739,
+        14374,
+        11591,
+        28334
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "nhl.com",
+        "image": "f4fa/5974/a62c/4b47/a82f/b7ce/423e/abd4/1600_900.jpeg",
+        "imageForMobile": "ab58/c95a/5453/4d2e/8af2/1696/3787/2e0c/900_900.png",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779516,
+      "title": "«Россия присоединила Крым, и я отказался подписывать контракт в рублях». Горячее интервью звезды «Локомотива»",
+      "type": "ARTICLE",
+      "publishDate": 1756458600000,
+      "urn": "ARTICLE_779516-yesliby-.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Мануэл Фернандеш — о Смородской, алкоголе и деньгах.",
+      "tags": [
+        10870,
+        13853,
+        15095,
+        14973,
+        14955,
+        13890,
+        11479
+      ],
+      "rubricId": 48,
+      "badge": "EXCLUSIVE",
+      "previewImage": {
+        "copyright": "РИА Новости",
+        "image": "099c/5689/cfa1/4375/bab6/b516/d39a/855a/1600_900.jpeg",
+        "imageForMobile": "17a6/cdaa/4aba/467e/8ed7/7b2e/a8a0/6197/900_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779441,
+      "title": "Звезды нашей фигурки выступят в Италии вопреки олимпийским запретам. Рассказываем про Bol on ice",
+      "type": "ARTICLE",
+      "publishDate": 1756454700000,
+      "urn": "ARTICLE_779441-rossiysk.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Степанова и Букин неожиданно получили приглашение.",
+      "tags": [
+        14044,
+        14885,
+        10872,
+        10792,
+        24768,
+        25607,
+        25054,
+        26333,
+        14027
+      ],
+      "rubricId": 44,
+      "previewImage": {
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "80f3/1169/922d/4af4/946b/d403/bce2/1353/1600_900.jpeg",
+        "imageForMobile": "b880/afe6/9361/448c/9fb5/684f/3bb6/3021/900_900.jpeg",
+        "tags": [
+          14885
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        44,
+        86
+      ]
+    },
+    {
+      "id": 779592,
+      "title": "Посмотрела комедию «Семейный призрак»: на гениальность не претендует, но Кологривый и Лагашкин развеселят",
+      "type": "ARTICLE",
+      "publishDate": 1756452273374,
+      "urn": "ARTICLE_film-semeynyy-p.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Провожаем летние комедии",
+      "tags": [
+        14241,
+        26831
+      ],
+      "rubricId": 154,
+      "previewImage": {
+        "copyright": "youtube.com",
+        "image": "e6ab/5eda/9e2d/40b1/ad01/c1b2/5722/5176/1600_900.jpeg",
+        "imageForMobile": "2a85/642a/6314/4613/9dae/c363/03be/7220/900_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        154,
+        153
+      ]
+    },
+    {
+      "id": 779602,
+      "title": "Мечтает о возвращении в Америку, но уже приехал в Магнитогорск! Кузнецову лучше в «Металлурге», чем в НХЛ ",
+      "type": "ARTICLE",
+      "publishDate": 1756450800074,
+      "urn": "ARTICLE_779602-mechtaye.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Подарок и испытание для Разина.",
+      "tags": [
+        14374,
+        13739,
+        12834,
+        14685,
+        11430
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "Социальные сети Шуми Бабаева",
+        "image": "de5e/2ffc/9798/43a2/9fe6/28f9/ab2f/fb67/1600_900.jpeg",
+        "imageForMobile": "f4b3/01fc/520b/4ad0/acf8/6e19/770f/d9e2/900_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779475,
+      "title": "Дочь фигуристки Слуцкой снова удивляет, пермяки вышли в косоворотках. Постановки в русских танцах начали радовать",
+      "type": "ARTICLE",
+      "publishDate": 1756449600000,
+      "urn": "ARTICLE_779475-kontroln.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Итоги произвольных программ юниоров. ",
+      "tags": [
+        14044,
+        29445,
+        28163,
+        29441
+      ],
+      "rubricId": 44,
+      "previewImage": {
+        "copyright": "Юлия Комарова, ФФКР",
+        "image": "e536/52eb/644f/470c/b157/82c5/0e83/f39d/1600_900.jpeg",
+        "imageForMobile": "a989/300e/d66e/448a/bc7a/e5cc/1a9d/e11a/900_900.png",
+        "tags": [
+          28163
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        44,
+        52
+      ]
+    },
+    {
+      "id": 779569,
+      "title": "Юная американская фигуристка поразила сложностью на Гран-при. Как выступили русские девушки?",
+      "type": "ARTICLE",
+      "publishDate": 1756446360000,
+      "urn": "ARTICLE_779569-figurnoy.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Короткие программы на ЮГП в Анкаре. ",
+      "tags": [
+        14044,
+        14802,
+        24768
+      ],
+      "rubricId": 44,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "f63d/8b79/6390/4f8a/9a77/de96/9661/eecb/1600_900.jpeg",
+        "imageForMobile": "24cf/7db4/c85a/4994/98b3/9cb8/aaf4/dc3d/900_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        44,
+        52
+      ]
+    },
+    {
+      "id": 779545,
+      "title": "«Спартак» отдал футболиста конкуренту, в Европе отказали клубу РПЛ по политическим причинам. Трансферы и слухи дня",
+      "type": "ARTICLE",
+      "publishDate": 1756440000000,
+      "urn": "ARTICLE_779545-transfer.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Утренний дайджест. ",
+      "tags": [
+        14698,
+        15576,
+        15095,
+        24507,
+        15341,
+        25849,
+        25904,
+        15415,
+        15582,
+        16082,
+        13853,
+        12720,
+        15265,
+        15273,
+        12899,
+        15118,
+        15185,
+        12169,
+        15289,
+        15296,
+        13338,
+        15458,
+        14969,
+        15358,
+        15800,
+        25312,
+        15135,
+        15421,
+        10423
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Александр Мысякин, Sport24 / vk.com/fclokomotiv",
+        "image": "3e6e/93a1/0a34/4afb/a7c7/d8a9/494f/ad83/1600_900.jpeg",
+        "imageForMobile": "e076/4cde/1d4c/4d5d/a074/85d1/02e3/5fd9/900_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779330,
+      "title": "Уехал из СССР на Запад, пристрастился к новому хобби, а оно его чуть не погубило! История о великом Майорове",
+      "type": "ARTICLE",
+      "publishDate": 1756436400000,
+      "urn": "ARTICLE_uyekhal-iz-sssr.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Страшно. ",
+      "tags": [
+        16246,
+        15665,
+        25907
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "Науменков Николай, Фотохроника ТАСС",
+        "image": "07c1/d24c/4ac6/47b4/a0d8/1a65/400d/2399/1600_900.jpeg",
+        "imageForMobile": "d55d/b326/517a/4e8e/9105/4cf2/3299/e98f/900_900.png",
+        "tags": [
+          25907
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779207,
+      "title": "Тест для знатоков географии: знаете, где находятся эти страны?",
+      "type": "ARTICLE",
+      "publishDate": 1756436400000,
+      "urn": "ARTICLE_test-dlya-znato.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Это любопытно. ",
+      "tags": [
+        25589
+      ],
+      "rubricId": 154,
+      "badge": "TEST",
+      "previewImage": {
+        "copyright": "shutterstock.com",
+        "image": "37df/5272/8837/44b5/8174/d6e1/5cc0/9d88/1600_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        154,
+        153
+      ]
+    },
+    {
+      "id": 778923,
+      "title": "«Спартак» и «Зенит» легко разнесут аутсайдеров, а лидеры устроят настоящую зарубу в Москве. Экспресс на РПЛ",
+      "type": "ARTICLE",
+      "publishDate": 1756425600000,
+      "urn": "ARTICLE_778923-spartak-.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Собрали для вас коэффициент 4.97!",
+      "tags": [
+        26695,
+        13831,
+        13853,
+        15341,
+        15576,
+        15265,
+        14973,
+        15582,
+        15372
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Александр Вильф, РИА Новости",
+        "image": "1202/5c3d/34e7/4a17/9dfd/5c47/d5cc/4b8b/1600_900.jpeg",
+        "imageForMobile": "63c4/3ac5/a341/4712/9d88/a537/82a1/b033/900_900.png",
+        "tags": [
+          11689,
+          28472,
+          15576
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48,
+        53
+      ]
+    },
+    {
+      "id": 779560,
+      "title": "Позор лучшего российского теннисиста, который запомнят все. И это в матче с польским допингистом…",
+      "type": "ARTICLE",
+      "publishDate": 1756417260000,
+      "urn": "ARTICLE_779560-rossiysk.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Мрак.",
+      "tags": [
+        14731,
+        8574,
+        9062
+      ],
+      "rubricId": 50,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "0b80/e414/8d26/4d33/bea6/df00/4e4f/ceb1/1600_900.jpeg",
+        "imageForMobile": "3c74/8859/e54a/4924/b0d6/e76a/5177/b665/900_900.png",
+        "tags": [
+          9062
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        50,
+        52
+      ]
+    },
+    {
+      "id": 779546,
+      "title": "Мирра завязнет в непростом матче с американской левшой. Прогноз на Андреева — Таунсенд",
+      "type": "ARTICLE",
+      "publishDate": 1756413000571,
+      "urn": "ARTICLE_779546-mirra-za.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Но добьется победы в двух сетах.",
+      "tags": [
+        26693,
+        25661,
+        25818,
+        14731,
+        14137,
+        13733
+      ],
+      "rubricId": 50,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "77ab/e7f7/f7cc/4572/b515/3ffa/e1da/f161/1600_900.jpeg",
+        "imageForMobile": "ee97/d61a/d8cd/4970/a64d/cbf2/103d/1258/900_900.png",
+        "tags": [
+          25661
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        50,
+        52
+      ]
+    },
+    {
+      "id": 779100,
+      "title": "Лучший планшет для учебы за 16000 — это Honor Pad 9: у него четкий экран 12 дюймов, 8 динамиков и поддержка стилуса",
+      "type": "ARTICLE",
+      "publishDate": 1756409400000,
+      "urn": "ARTICLE_779100-honor-pa.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Заменит школьнику ноутбук.",
+      "tags": [
+        13895,
+        27350
+      ],
+      "rubricId": 64,
+      "previewImage": {
+        "copyright": "honor.com",
+        "image": "65f5/0f97/f9c2/4955/9e3b/1947/982b/e2db/1600_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        64,
+        154
+      ]
+    },
+    {
+      "id": 779378,
+      "title": "Оказывается, в контракте Неймара был безумный бонус. Правда вскрылась спустя годы",
+      "type": "ARTICLE",
+      "publishDate": 1756409100000,
+      "urn": "ARTICLE_779378-okazyvay.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Сотни миллионов за пару секунд.",
+      "tags": [
+        10636,
+        15202,
+        15347,
+        15618
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "8a3b/fcc8/ad07/446e/a203/10d1/3806/bc4f/1600_900.jpeg",
+        "imageForMobile": "9abd/08b2/d3f4/4cb2/ab04/0f13/0aa3/a1b9/900_900.png",
+        "tags": [
+          10636
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 778481,
+      "title": "Тест: играл ли в этом фильме Анатолий Папанов? Вспомните роли легендарного актера СССР",
+      "type": "ARTICLE",
+      "publishDate": 1756409100000,
+      "urn": "ARTICLE_test-igralli-v-.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Давайте вспоминать.",
+      "tags": [
+        25589,
+        14241,
+        27069
+      ],
+      "rubricId": 153,
+      "badge": "TEST",
+      "previewImage": {
+        "copyright": "Виталий Арутюнов, РИА Новости",
+        "image": "c5d6/65e2/2688/4482/a1e1/fa2d/1637/e99e/1600_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        153,
+        154
+      ]
+    },
+    {
+      "id": 779472,
+      "title": "Русофобы заставили Америку не пустить Россию на главный турнир года! Правда вскрылась спустя несколько месяцев",
+      "type": "ARTICLE",
+      "publishDate": 1756404000000,
+      "urn": "ARTICLE_779472-rusofoby.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Запретить, а то обидимся.",
+      "tags": [
+        13739,
+        14709,
+        15340
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "819b/f3c5/b32d/4362/b058/0965/a432/0d15/1600_900.jpeg",
+        "imageForMobile": "562a/ba82/0656/41d4/99f6/9ca8/9c35/fb61/900_900.jpeg",
+        "tags": [
+          15340
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779470,
+      "title": "Русская красотка снесла променявшую Россию на Казахастан теннисистку. Дальше — жестокое испытание",
+      "type": "ARTICLE",
+      "publishDate": 1756403400000,
+      "urn": "ARTICLE_779470-tennis-r.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Но это пока не точно.",
+      "tags": [
+        14731,
+        8980,
+        8227
+      ],
+      "rubricId": 50,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "2b95/cd9f/3bfd/4b48/b9fc/7f7a/cc2b/402c/1600_900.jpeg",
+        "imageForMobile": "e1df/153d/2c52/4ffc/807e/13d1/bb00/4ec4/900_900.jpeg",
+        "tags": [
+          8980
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        50,
+        154
+      ]
+    },
+    {
+      "id": 778615,
+      "title": "Русский гений обладает редким качеством: вот что делает Батракова уникальным футболистом",
+      "type": "ARTICLE",
+      "publishDate": 1756403100000,
+      "urn": "ARTICLE_778615-russkiy-.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Неочевидное умение.",
+      "tags": [
+        27283,
+        15095,
+        13853,
+        13240
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Алексей Филиппов, РИА Новости",
+        "image": "4238/13e3/635c/43d7/82a0/bfdc/aadf/c853/1600_900.jpeg",
+        "imageForMobile": "ae2b/fb52/66f0/4eae/8163/80f0/9809/3c21/900_900.jpeg",
+        "tags": [
+          27283
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 776712,
+      "title": "Он ковал славу СССР, а пришлось работать грузчиком и приемщиком посуды. История легендарного Полупанова",
+      "type": "ARTICLE",
+      "publishDate": 1756393200000,
+      "urn": "ARTICLE_on-koval-slavu-.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "В его трудовой книжке было 44 записи. ",
+      "tags": [
+        16246
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "Екатерина Чеснокова, РИА Новости",
+        "image": "f85f/6e17/670e/4cad/a4ce/6372/6f65/f238/1600_900.jpeg",
+        "imageForMobile": "30ce/27e8/4c4c/4bb2/ada5/6943/2225/ac45/900_900.png",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779381,
+      "title": "Русских биатлонистов не ждут на Олимпиаде-2026 в Италии. Изменить ситуацию может только президент",
+      "type": "ARTICLE",
+      "publishDate": 1756386780000,
+      "urn": "ARTICLE_779381-mezhduna.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Пока же ситуация очень печальная. ",
+      "tags": [
+        14695,
+        14027,
+        24865
+      ],
+      "rubricId": 86,
+      "previewImage": {
+        "copyright": "Алексей Филиппов, РИА Новости",
+        "image": "ad81/4552/ab83/4130/8359/7a16/9966/9f33/1600_900.jpeg",
+        "imageForMobile": "ef9e/2cfb/8971/451d/be4d/137d/61e7/5a9e/900_900.png",
+        "tags": [
+          8996
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        86,
+        52
+      ]
+    },
+    {
+      "id": 779406,
+      "title": "Овечкин урвал еще один титул в Америке! Исторический гол русской суперзвезды признали лучшим в сезоне НХЛ",
+      "type": "ARTICLE",
+      "publishDate": 1756382400000,
+      "urn": "ARTICLE_779406-ovechkin.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Когда значение шайбы важнее ее красоты.",
+      "tags": [
+        13739,
+        15854,
+        13371,
+        15801,
+        11860
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "02a5/9c5e/5a1b/4a82/be1c/5bb2/4162/cbc9/1600_900.jpeg",
+        "imageForMobile": "7f41/1799/fc87/43cd/b3a8/9315/2469/7b10/900_900.jpeg",
+        "tags": [
+          13371
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 778915,
+      "title": "Лидеры РПЛ в очной битве продемонстрируют мощь своей атаки. Прогноз на ЦСКА — «Краснодар»",
+      "type": "ARTICLE",
+      "publishDate": 1756382400000,
+      "urn": "ARTICLE_778915-lidery-r.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "В Москве скучать не придется.",
+      "tags": [
+        26692,
+        13831,
+        15265,
+        14973,
+        13853
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "vk.com/pfc_cska",
+        "image": "c861/430e/2715/4c03/ae5f/b3c9/ea4f/1d42/1600_900.jpeg",
+        "imageForMobile": "b6ee/8d5d/510d/4aba/a021/2c0c/53c9/7480/900_900.jpeg",
+        "tags": [
+          15265
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48,
+        53
+      ]
+    },
+    {
+      "id": 779274,
+      "title": "Этой игре удалось обойти легендарный Genshin Impact: что за Love and Deepspace",
+      "type": "ARTICLE",
+      "publishDate": 1756378800000,
+      "urn": "ARTICLE_etoy-igre-udalo.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Новое китайское чудо.",
+      "tags": [
+        26829
+      ],
+      "rubricId": 64,
+      "previewImage": {
+        "copyright": "YouTube.com",
+        "image": "1fc2/eec6/efff/4f4f/bac6/2b6e/e037/19c8/1600_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        64
+      ]
+    },
+    {
+      "id": 779143,
+      "title": "Выбрали актеров на роль Петрова и Васечкина для ремейка советского фильма: кто заменит Баркова и Дружинина",
+      "type": "ARTICLE",
+      "publishDate": 1756378595583,
+      "urn": "ARTICLE_779143-vybrali-.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Обсуждаем выбор актеров",
+      "tags": [
+        14241,
+        27069
+      ],
+      "rubricId": 154,
+      "previewImage": {
+        "copyright": "youtube.com",
+        "image": "0c33/06f2/59e3/4849/87db/8511/7ff8/c3fb/1600_900.jpeg",
+        "imageForMobile": "359f/d39c/80c0/41a7/9aac/810e/94d3/2241/900_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        154,
+        153
+      ]
+    },
+    {
+      "id": 779249,
+      "title": "«В плей-офф созванивался с психологом. Не общался с ней уже лет восемь». Интервью вратаря «Динамо» Подъяпольского",
+      "type": "ARTICLE",
+      "publishDate": 1756373400000,
+      "urn": "ARTICLE_779249-v-pley-o.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "О Новокузнецке, «Ладе» и сюрпризах межсезонья. ",
+      "tags": [
+        14374,
+        15464,
+        15893,
+        14017,
+        14071,
+        11860
+      ],
+      "rubricId": 73,
+      "badge": "EXCLUSIVE",
+      "previewImage": {
+        "copyright": "Ильнар Тухбатов, photo.khl.ru",
+        "image": "995b/37d2/cf2d/4250/b1bc/e549/fded/5494/1600_900.jpeg",
+        "imageForMobile": "cdca/6476/16f7/483b/b250/37de/1900/9ad6/900_900.jpeg",
+        "tags": [
+          14017
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779346,
+      "title": "Русского парня в США оштрафовали на десятки тысяч долларов. Медведев снова позволил себе гадкие выходки",
+      "type": "ARTICLE",
+      "publishDate": 1756372200000,
+      "urn": "ARTICLE_779346-rossiysk.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Даниил гневается из-за бессилия в теннисе.",
+      "tags": [
+        14731,
+        10206,
+        14830
+      ],
+      "rubricId": 50,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "f884/c277/cba4/4cb3/98fb/34d8/5dc1/ed48/1600_900.jpeg",
+        "imageForMobile": "6a76/ab12/22f3/4054/83c8/e1f7/d5e7/8f22/900_900.jpeg",
+        "tags": [
+          10206
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        50,
+        52
+      ]
+    },
+    {
+      "id": 778841,
+      "title": "Тест для настоящих эрудитов: проверьте свою грамотность — с прописной или строчной буквы пишутся эти слова?",
+      "type": "ARTICLE",
+      "publishDate": 1756371600000,
+      "urn": "ARTICLE_test-dlya-nasto.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Уверены в своих силах?",
+      "tags": [
+        25589,
+        25845
+      ],
+      "rubricId": 154,
+      "badge": "TEST",
+      "previewImage": {
+        "copyright": "shutterstock.com",
+        "image": "4d9f/91da/4946/405f/bc93/71bd/74e8/26ef/1600_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        154,
+        153
+      ]
+    },
+    {
+      "id": 779121,
+      "title": "«Самолет взлетел со мной в туалете». Русский призер ЧЕ — о ЧМ-2025, фигурке, работе турагентом и курсах по ТВП",
+      "type": "ARTICLE",
+      "publishDate": 1756365300000,
+      "urn": "ARTICLE_pryzhki-v-vodu-.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Интервью с прыгуном в воду Ильей Молчановым.",
+      "tags": [
+        14259,
+        14307,
+        29444
+      ],
+      "rubricId": 52,
+      "badge": "EXCLUSIVE",
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "766f/e826/07eb/4fc4/bfc8/3d29/06b8/97e6/1600_900.jpeg",
+        "imageForMobile": "35a0/4f21/2b89/46c5/aa90/e9ba/23cc/9f65/900_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        52
+      ]
+    },
+    {
+      "id": 779338,
+      "title": "В России жестко издеваются над канадцами и американцами! В КХЛ гремят трансферы, которые невозможно объяснить",
+      "type": "ARTICLE",
+      "publishDate": 1756364400002,
+      "urn": "ARTICLE_779338-v-rossii.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Кто следующий? ",
+      "tags": [
+        14374,
+        15354,
+        15414,
+        10165
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "hcbarys.kz / Ярослав Неелов, photo.khl.ru / Максим Шмаков, photo.khl.ru",
+        "image": "fdf0/23f7/f105/4f43/ab73/e806/e498/572c/1600_900.jpeg",
+        "imageForMobile": "0c52/4a38/d01b/4464/b9c0/6e2d/160f/618f/900_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779292,
+      "title": "«Спартак» везет защитника из Европы, а «Зенит» нацелен на футболиста топ-клуба? Трансферные слухи дня",
+      "type": "ARTICLE",
+      "publishDate": 1756364400000,
+      "urn": "ARTICLE_779292-spartak-.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Свежее к утру.",
+      "tags": [
+        15341,
+        15576,
+        15131,
+        15582,
+        15265,
+        15037,
+        26761,
+        12488,
+        11444
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "c383/954b/4573/457f/9af6/2a89/b053/cafa/1600_900.jpeg",
+        "imageForMobile": "d364/4c3a/a191/4543/b2ad/ff02/10d4/144e/900_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779296,
+      "title": "18-летняя звезда русского спорта разблокировала важное достижение! Мирре удалось снять американское проклятье",
+      "type": "ARTICLE",
+      "publishDate": 1756356300000,
+      "urn": "ARTICLE_779296-mirra-an.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Андреева в третьем круге US Open. ",
+      "tags": [
+        14731,
+        25661,
+        14786
+      ],
+      "rubricId": 50,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "c3e9/87f4/9fcc/4ad9/afdd/45b4/9a5b/3b90/1600_900.jpeg",
+        "imageForMobile": "35a5/b6a2/a3d2/48d1/803f/96e3/1e8f/55e3/900_900.png",
+        "tags": [
+          25661
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        50,
+        52
+      ]
+    },
+    {
+      "id": 779251,
+      "title": "«Мне говорили: ты не футболист». Уехал от кошмара в России и сделал сенсацию с казахами в Европе: интервью Сорокина",
+      "type": "ARTICLE",
+      "publishDate": 1756353600000,
+      "urn": "ARTICLE_779251-mne-govo.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Хочет сыграть с «Кайратом» против «Интера».",
+      "tags": [
+        12248,
+        15507,
+        11943,
+        14949,
+        15274,
+        12100,
+        14972
+      ],
+      "rubricId": 48,
+      "badge": "EXCLUSIVE",
+      "previewImage": {
+        "copyright": "Евгений Семенов, Sport24 / vk.com/fckairat / Getty Images",
+        "image": "5f1c/bd79/24ca/4e93/9752/3d6a/aea1/1c45/1600_900.jpeg",
+        "imageForMobile": "6076/e743/29c8/4066/a4a6/8000/aab3/8136/900_900.jpeg",
+        "tags": [
+          12248
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 772274,
+      "title": "Его с позором выгнали из школы, а он прогремел сенсацией на СССР, прославил страну на весь мир! Истории о Паладьеве",
+      "type": "ARTICLE",
+      "publishDate": 1756350000000,
+      "urn": "ARTICLE_yego-s-pozorom-.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "«По большому счету, должен был стать футболистом». ",
+      "tags": [
+        15665
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "spartak.ru",
+        "image": "8b7b/e842/31b5/4df8/b8db/17c7/e6f0/3991/1600_900.jpeg",
+        "imageForMobile": "1479/4a85/0243/4ac4/8ef8/3bcd/dc71/81d7/900_900.png",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779299,
+      "title": "«Ливерпуль» и «Арсенал» зажгут в главном матче тура, а «Сити» ждет неласковый прием. Экспресс на АПЛ",
+      "type": "ARTICLE",
+      "publishDate": 1756341000278,
+      "urn": "ARTICLE_779299-liverpul.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Ставим на 3 матча тура с коэффициентом 5.80.",
+      "tags": [
+        26693,
+        15014,
+        15215,
+        15191,
+        15458,
+        15045,
+        15330,
+        13838,
+        13831
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "e098/d770/b48f/4ed7/9f86/c538/1218/326d/1600_900.jpeg",
+        "imageForMobile": "823c/f0df/e138/490a/93e6/d70b/6e1d/a784/900_900.png",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48,
+        53
+      ]
+    },
+    {
+      "id": 774903,
+      "title": "Великий Ларионов объяснил свою ненависть к СССР и Сталину. Согласны с мнением легендарного Профессора?",
+      "type": "ARTICLE",
+      "publishDate": 1756339200000,
+      "urn": "ARTICLE_velikiy-lariono.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "«Надеюсь, советского режима больше никогда не будет». ",
+      "tags": [
+        16246,
+        10376
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "nhl.com / Getty Images",
+        "image": "8c4a/40ec/efb3/4855/a549/d07d/0f84/f5a8/1600_900.jpeg",
+        "imageForMobile": "46ed/a312/5e42/46cc/9c24/c867/67bd/20a1/808_808.png",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 774607,
+      "title": "Этот легендарный торт СССР наши бабушки готовили на сковороде: как испечь ту самую «Светлану»",
+      "type": "ARTICLE",
+      "publishDate": 1756335600000,
+      "urn": "ARTICLE_etot-legendarny.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Советская классика!",
+      "tags": [
+        14182,
+        24645
+      ],
+      "rubricId": 154,
+      "previewImage": {
+        "copyright": "shutterstock.com",
+        "image": "387d/55e7/dd7d/412f/9d02/2b7c/d0af/c542/1600_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        154,
+        153
+      ]
+    },
+    {
+      "id": 779154,
+      "title": "Лучший боец России — 2024 возвращается в дело. Самый страшный нокаутер Дагестана подерется с опасным земляком",
+      "type": "ARTICLE",
+      "publishDate": 1756329000000,
+      "urn": "ARTICLE_779154-luchshiy.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Похоже, Мусаеву предстоит побиться с последним чемпионом Bellator.",
+      "tags": [
+        13746,
+        27592,
+        25805
+      ],
+      "rubricId": 58,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "3e0a/dc66/1770/4197/824e/e339/6357/1afb/1600_900.jpeg",
+        "imageForMobile": "c0ec/437e/b68a/4a1e/8af0/993f/fb1f/b580/900_900.png",
+        "tags": [
+          27592
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        58,
+        233
+      ]
+    },
+    {
+      "id": 778060,
+      "title": "Как добавить плащ в Minecraft: инструкция по установке",
+      "type": "ARTICLE",
+      "publishDate": 1756322400000,
+      "urn": "ARTICLE_kak-dobavit-pla.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Обновляем внешний вид персонажа.",
+      "tags": [
+        26830,
+        26723,
+        26828,
+        26829,
+        26827,
+        27024
+      ],
+      "rubricId": 64,
+      "previewImage": {
+        "copyright": "youtube.com",
+        "image": "0c44/d23a/6ed9/42d6/9699/a3b0/3b9b/f8a8/1600_900.jpeg",
+        "imageForMobile": "8ca5/27bf/c8d7/4698/89f7/5ac7/9486/8481/900_900.png",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        64
+      ]
+    },
+    {
+      "id": 778811,
+      "title": "«Зениту» срочно нужен этот футболист: без него Семака ждет провал",
+      "type": "ARTICLE",
+      "publishDate": 1756317600000,
+      "urn": "ARTICLE_778811-zenitu-s.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Головная боль тренера.",
+      "tags": [
+        13853,
+        15341,
+        25197
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "3f3f/2ff1/8d75/4db0/a5e5/4e5b/ba6e/be27/1600_900.jpeg",
+        "imageForMobile": "21b8/823b/128c/4c58/b8e4/d8db/54f3/92e9/900_900.jpeg",
+        "tags": [
+          25948
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779187,
+      "title": "Дочь Слуцкой в роли возлюбленной бандита, песни «Руки вверх!» и культовые фильмы. Сезон в русских танцах открыт",
+      "type": "ARTICLE",
+      "publishDate": 1756314900000,
+      "urn": "ARTICLE_779187-kontroln.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Оцениваем новые ритм-танцы.",
+      "tags": [
+        14044,
+        28163,
+        29441,
+        29442,
+        29445
+      ],
+      "rubricId": 44,
+      "previewImage": {
+        "copyright": "1tv.ru",
+        "image": "0416/6388/b80a/4e75/849d/828b/0c10/a1f4/1600_900.jpeg",
+        "imageForMobile": "354e/4355/5e8a/4a7b/9347/e956/7156/673a/900_900.png",
+        "tags": [
+          28163
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        44,
+        52
+      ]
+    },
+    {
+      "id": 776281,
+      "title": "Оказывается, в СССР изобрели свою посудомойку, но обычным людям она не доставалась: вот почему",
+      "type": "ARTICLE",
+      "publishDate": 1756311593000,
+      "urn": "ARTICLE_okazyvayetsya-v.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Они существовали!",
+      "tags": [
+        25128
+      ],
+      "rubricId": 153,
+      "previewImage": {
+        "copyright": "РИА Новости",
+        "image": "e354/49f7/ae3c/48af/b8c7/0655/b6cd/cd9d/1600_900.jpeg",
+        "imageForMobile": "c29f/3417/f1b1/41d6/bed1/d7d2/f5ed/befe/900_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        153,
+        154
+      ]
+    },
+    {
+      "id": 779171,
+      "title": "Как иностранцы отнеслись к возвращению русских звезд: «Петросян — феномен, она на голову выше»",
+      "type": "ARTICLE",
+      "publishDate": 1756307820000,
+      "urn": "ARTICLE_779171-rossiysk.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Считают их фаворитами отборочного турнира.",
+      "tags": [
+        14044,
+        8402,
+        11013,
+        24678
+      ],
+      "rubricId": 44,
+      "previewImage": {
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "4f88/d36b/9bd2/4ccf/a086/2709/9fca/6eb6/1600_900.jpeg",
+        "imageForMobile": "9f12/5aa3/373d/4d1c/ae22/80e2/d6bc/41db/900_900.png",
+        "tags": [
+          8402
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        44,
+        52
+      ]
+    },
+    {
+      "id": 779136,
+      "title": "Наследника Овечкина обозвали неудачником и списали со счетов! Мэттьюс больше никогда не забьет 50 голов за сезон?",
+      "type": "ARTICLE",
+      "publishDate": 1756306800000,
+      "urn": "ARTICLE_779136-nasledni.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Марнер значил для Остона слишком много?",
+      "tags": [
+        13739,
+        9754,
+        13371
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "74c1/b07e/9f3c/4440/98ae/6735/6bec/6990/1600_900.jpeg",
+        "imageForMobile": "b3de/be44/eece/4b73/8d9b/ee34/92bf/f98e/900_900.jpeg",
+        "tags": [
+          9754
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 778806,
+      "title": "Легендарный футболист сборной России признался в договорняках. Тренер зарабатывал на таких играх ",
+      "type": "ARTICLE",
+      "publishDate": 1756306800000,
+      "urn": "ARTICLE_legendarnyy-fut.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Откровения Панова. ",
+      "tags": [
+        13905,
+        15341,
+        15716,
+        15556,
+        15773
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "ИТАР-ТАСС",
+        "image": "cc20/959f/006f/4ada/9dce/87ca/bbec/a69e/1600_900.jpeg",
+        "imageForMobile": "9499/2837/86c9/43e0/a700/391a/1871/3838/900_900.png",
+        "tags": [
+          13905
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 778652,
+      "title": "Не выкидывайте засохший хлеб: эти простые способы помогут сделать его свежим и мягким за несколько минут",
+      "type": "ARTICLE",
+      "publishDate": 1756304400000,
+      "urn": "ARTICLE_ne-vykidyvayte-.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Советуют профессиональные повара!",
+      "tags": [
+        26591
+      ],
+      "rubricId": 154,
+      "previewImage": {
+        "copyright": "shutterstock.com",
+        "image": "609d/f98a/017c/4fc6/b315/d4c5/dbca/7bf5/1600_900.jpeg",
+        "imageForMobile": "dae5/b01e/77f8/487f/8123/7ea6/099f/0e1f/900_900.png",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        154
+      ]
+    },
+    {
+      "id": 778152,
+      "title": "Все коды и пароли от сейфов в Mafia: The Old Country",
+      "type": "ARTICLE",
+      "publishDate": 1756297200000,
+      "urn": "ARTICLE_vse-kody-i-paro.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Быстрый взлом всех замков.",
+      "tags": [
+        26723,
+        26828,
+        26827
+      ],
+      "rubricId": 64,
+      "previewImage": {
+        "copyright": "youtube.com",
+        "image": "5d62/7602/3a92/49bc/a5fb/d762/81c7/5544/1600_900.jpeg",
+        "imageForMobile": "9ec2/33d4/32b4/46f6/a5d2/8256/1318/cbc1/900_900.png",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        64
+      ]
+    },
+    {
+      "id": 778708,
+      "title": "Красно-белые вновь сомнут аутсайдера и продлят победную поступь. Прогноз на «Спартак» — «Сочи»",
+      "type": "ARTICLE",
+      "publishDate": 1756296000000,
+      "urn": "ARTICLE_778708-krasno-b.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Команда Станковича выздоравливает?",
+      "tags": [
+        26693,
+        13831,
+        15576,
+        15372,
+        13853
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "spartak.com",
+        "image": "8207/e34e/9232/4beb/9837/4e97/85a1/2977/1620_912.jpeg",
+        "imageForMobile": "2f40/cf88/b437/482e/bf13/8d10/fae6/1d88/912_912.jpeg",
+        "tags": [
+          15576
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48,
+        53
+      ]
+    },
+    {
+      "id": 775996,
+      "title": "Великий Чехов называл жену странным прозвищем: сейчас любая женщина обиделась бы",
+      "type": "ARTICLE",
+      "publishDate": 1756292809569,
+      "urn": "ARTICLE_velikiy-chekhov.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Очень необычно!",
+      "tags": [
+        27247,
+        25874
+      ],
+      "rubricId": 153,
+      "previewImage": {
+        "copyright": "РИА Новости",
+        "image": "095c/001f/18b4/44f3/a203/4012/9cc1/bc81/1600_900.jpeg",
+        "imageForMobile": "9c1a/781f/c1dc/4c69/98a3/6538/bab7/113c/900_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        153
+      ]
+    },
+    {
+      "id": 779128,
+      "title": "Лайвы L’ONE и LeTai, BMX-состязания, вечер тенниса — с 25 по 31 августа на FONBASE",
+      "type": "ARTICLE",
+      "publishDate": 1756292400000,
+      "urn": "ARTICLE_779128-layvy-lo.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Заканчивается второй сезон базы в «Лужниках». ",
+      "tags": [
+        26692,
+        28482
+      ],
+      "rubricId": 52,
+      "previewImage": {
+        "copyright": "РИА Новости",
+        "image": "56a9/efa5/f3db/46d5/95d1/c54f/309b/cb07/1600_900.jpeg",
+        "imageForMobile": "41ae/9a8d/a579/4744/b55d/ee4d/49ad/6768/900_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": 779080,
+      "title": "Овечкин оконфузился в тот момент, когда на него смотрел весь мир! Партнер Ови раскрыл правду об историческом голе",
+      "type": "ARTICLE",
+      "publishDate": 1756292400000,
+      "urn": "ARTICLE_779080-ovechkin.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Оказывается, все получилось случайно.",
+      "tags": [
+        13739,
+        13371,
+        15854,
+        10755
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "70d3/8c45/8d96/460e/947b/14de/4ef8/d2bd/1600_900.jpeg",
+        "imageForMobile": "ae42/8f1f/8a0a/4110/bba1/ceb4/8821/4a49/900_900.jpeg",
+        "tags": [
+          13371
+        ]
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 778439,
+      "title": "Какой смартфон TECNO купить за 15000: лучшие бюджетные модели из линеек SPARK, POVA, Camon и их особенности",
+      "type": "ARTICLE",
+      "publishDate": 1756289996310,
+      "urn": "ARTICLE_778439-kakoy-sm.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Все представлены в 2025 году.",
+      "tags": [
+        13895,
+        24647
+      ],
+      "rubricId": 64,
+      "previewImage": {
+        "copyright": "@Яндекс",
+        "image": "7d41/4bad/b817/4d0c/acc0/de44/690a/d0d6/1600_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        64,
+        154
+      ]
+    },
+    {
+      "id": 731149,
+      "title": "Медведева с Милохиным опозорились на шоу. Оказалось, не знают даже школьную программу",
+      "type": "ARTICLE",
+      "publishDate": 1756288860000,
+      "urn": "ARTICLE_figurnoye-katan.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "Оба не читали «Войну и мир».",
+      "tags": [
+        14044,
+        24634,
+        10878
+      ],
+      "rubricId": 44,
+      "previewImage": {
+        "copyright": "Евгений Семенов, Sport24",
+        "image": "7dc5/ccae/4b42/4912/b6fd/0605/6498/a2a7/1600_900.jpeg",
+        "imageForMobile": "20d1/5970/c86a/406b/8f7b/ec42/bec2/e4a5/900_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        44,
+        52
+      ]
+    },
+    {
       "id": 779003,
       "title": "Новый Галицкий ворвался в ЛЧ: что надо знать о русском миллиардере Ломакине",
       "type": "ARTICLE",
-      "publishDate": 1756281600000,
-      "urn": "779003-novyy-galitskiy-vorvalsya-v-lch-chto-nado-znat-o-russkom-milliardere-lomakine",
+      "publishDate": 1756288800000,
+      "urn": "ARTICLE_779003-novyy-ga.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Играл в футбол и стал крутым бизнесменом.",
       "tags": [
@@ -31,11 +1909,43 @@
       ]
     },
     {
+      "id": 778983,
+      "title": "Казахи сотворили историю: легендарный клуб из СССР будет играть в Лиге чемпионов — помогли футболисты из России",
+      "type": "ARTICLE",
+      "publishDate": 1756281600000,
+      "urn": "ARTICLE_778983-uyekhali.json",
+      "uriFormatVersion": 1,
+      "leadAnnouncement": "История!",
+      "tags": [
+        14949,
+        15507,
+        15274,
+        15630,
+        15881,
+        15248,
+        11943,
+        12248
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "AP/TASS",
+        "image": "f426/732a/58c3/4d3b/893c/83c0/9f49/8ebd/1600_900.jpeg",
+        "imageForMobile": "9860/b51d/6bec/4e2d/9f8a/d984/db71/227f/900_900.jpeg",
+        "tags": []
+      },
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
       "id": 775511,
       "title": "Он за один день прославился на всю Россию и наплевал на друзей детства! История о звездной болезни Панарина",
       "type": "ARTICLE",
       "publishDate": 1756278000000,
-      "urn": "on-za-odin-den-proslavilsya-na-vsyu-rossiyu-i-napleval-na-druzey-detstva-istoriya-o-zvezdnoy-bolezni-panarina",
+      "urn": "ARTICLE_on-za-odin-den-.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Излечился Артемий очень быстро. ",
       "tags": [
@@ -62,7 +1972,7 @@
       "title": "Миллиардер из России пробился в ЛЧ, казахи вошли в историю, русский вратарь наслаждается триумфом. Итоги отбора",
       "type": "ARTICLE",
       "publishDate": 1756276800000,
-      "urn": "778994-klub-russkogo-biznesmena-vyshel-v-lch-srazu-dve-komandy-ustanovili-unikalnoye-dostizheniye-samoye-glavnoye-v-yevrokubkakh-na-27avgusta-2025",
+      "urn": "ARTICLE_778994-klub-rus.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "В Европе творится история.",
       "tags": [
@@ -95,7 +2005,7 @@
       "title": "Тест: на какого правителя России вы похожи? Узнайте, чей характер ближе именно вам",
       "type": "ARTICLE",
       "publishDate": 1756275600000,
-      "urn": "test-na-kakogo-pravitelya-rossi-vy-pokhozhi-uznayte-chey-kharakter-blizhe-imenno-vam",
+      "urn": "ARTICLE_test-na-kakogo-.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Это любопытно. ",
       "tags": [
@@ -121,7 +2031,7 @@
       "title": "Как в наши дни живет наследница Сулеймана и Хюррем из «Великолепного века»: ее назвали в честь наложницы",
       "type": "ARTICLE",
       "publishDate": 1756275300000,
-      "urn": "kak-v-nashi-dni-zhivet-naslednitsa-suleymana-i-khyurrem-iz-velikolepnogo-veka-yeye-nazvali-v-chest-nalozhnitsy",
+      "urn": "ARTICLE_kak-v-nashi-dni.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Унаследовала глаза Хюррем.",
       "tags": [
@@ -140,8 +2050,7 @@
       "advertisingPartnerMaterial": false,
       "top": false,
       "rubrics": [
-        153,
-        44
+        153
       ]
     },
     {
@@ -149,7 +2058,7 @@
       "title": "Ляйсан Утяшева в начале своей карьеры влюбилась в футболиста «Динамо». Он был иностранцем",
       "type": "ARTICLE",
       "publishDate": 1756274820000,
-      "urn": "khudozhestvennaya-gimnastika-lyaysan-utyasheva-vlyubilas-v-futbolista-dinamo-zhidrunasa-karchemarskasa-podrobnosti",
+      "urn": "ARTICLE_khudozhestvenna.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "До этого она долго разговаривала о любви с мамой. ",
       "tags": [
@@ -172,7 +2081,7 @@
       "top": false,
       "rubrics": [
         155,
-        44
+        52
       ]
     },
     {
@@ -180,7 +2089,7 @@
       "title": "Глушенков в огне, а волжане разбиты после «Спартака» — пахнет разгромом. Прогноз на «Зенит» — «Нижний Новгород»",
       "type": "ARTICLE",
       "publishDate": 1756270800000,
-      "urn": "778624-glushenkov-v-ogne-a-volzhane-razbity-posle-spartaka-pakhnet-razgromom-prognoz-na-zenit-nizhniy-novgorod",
+      "urn": "ARTICLE_778624-glushenk.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Слишком сложный график.",
       "tags": [
@@ -212,7 +2121,7 @@
       "title": "«Мне не очень понравилась моя свадьба». Великая фигуристка Гордеева честно о главном дне с Гриньковым",
       "type": "ARTICLE",
       "publishDate": 1756267500000,
-      "urn": "figurnoye-kataniye-istorii-kak-prokhodila-svadba-gordeyevoy-i-grinkova-vospominaniya-yekateriny-gordeyevoy-biografiya",
+      "urn": "ARTICLE_noye-kataniye-i.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Женились на фоне проблем и суеверий.",
       "tags": [
@@ -234,7 +2143,7 @@
       "top": false,
       "rubrics": [
         44,
-        155
+        52
       ]
     },
     {
@@ -242,7 +2151,7 @@
       "title": "«Спартак» бесплатно отдаст игрока конкуренту, «Зенит» потеряет лидера. Трансферы и слухи дня",
       "type": "ARTICLE",
       "publishDate": 1756263600000,
-      "urn": "779044-spartaku-ugrozhayut-sudom-iz-za-transfera-v-rpl-vozvrashchayetsya-skandalnyy-forvard-transfery-i-slukhi-dnya",
+      "urn": "ARTICLE_779044-spartaku.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Утренний дайджест.",
       "tags": [
@@ -269,7 +2178,7 @@
       "title": "Заставил разрыдаться родную дочь, устроив побоище: история про хоккеиста, который забил больше самого Мозякина",
       "type": "ARTICLE",
       "publishDate": 1756263600000,
-      "urn": "zastavil-razrydatsya-rodnuyu-doch-ustroiv-poboishche-istoriya-pro-khokkeista-kotoryy-zabil-bolshe-samogo-mozyakina",
+      "urn": "ARTICLE_zastavil-razryd.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "«А где твой папа?»",
       "tags": [
@@ -295,7 +2204,7 @@
       "title": "Ставки на травмированных бойцов ММА: медицинские отчеты в UFC, фактор инсайдов и выгодные стратегии",
       "type": "ARTICLE",
       "publishDate": 1756260000000,
-      "urn": "stavki-na-travmirovannykh-boytsov-mma-meditsinskiye-otchety-v-ufc-faktor-insaydov-i-vygodnyye-strategii",
+      "urn": "ARTICLE_stavki-na-travm.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Рассказываем, как находить информацию о травмах и повысить свои шансы в игре против БК. ",
       "tags": [
@@ -324,7 +2233,7 @@
       "title": "Тест: кто больше заработал в спорте: Шарапова или Кафельников? Сравниваем гонорары крупнейших звезд тенниса",
       "type": "ARTICLE",
       "publishDate": 1756256400000,
-      "urn": "778977-test-kto-bolshe-zarabotal-v-sporte-sharapova-ili-kafelnikov-sravnivayem-gonorary-krupneyshikh-zvezd-tennisa",
+      "urn": "ARTICLE_778977-test-kto.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Кто же заработал больше всех? ",
       "tags": [
@@ -365,43 +2274,11 @@
       ]
     },
     {
-      "id": 778983,
-      "title": "Казахи сотворили историю: легендарный клуб из СССР будет играть в Лиге чемпионов — помогли футболисты из России",
-      "type": "ARTICLE",
-      "publishDate": 1756245600000,
-      "urn": "778983-uyekhali-iz-krasnodara-galitskogo-i-sotvorili-chudo-v-yevrope-kayrat-sygrayet-v-lch-blagodarya-byvshim-futbolistam-rpl",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "История!",
-      "tags": [
-        14949,
-        15507,
-        15274,
-        15630,
-        15881,
-        15248,
-        11943,
-        12248
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "AP/TASS",
-        "image": "f426/732a/58c3/4d3b/893c/83c0/9f49/8ebd/1600_900.jpeg",
-        "imageForMobile": "9860/b51d/6bec/4e2d/9f8a/d984/db71/227f/900_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
       "id": 778998,
       "title": "Стратегия на поле — стратегия в жизни: чему учит гольф",
       "type": "ARTICLE",
       "publishDate": 1756244726103,
-      "urn": "778998-upravleniye-riskami-psikhologiya-i-kontsentratsiya-chto-nuzhno-dlya-uspekha-v-golfe",
+      "urn": "ARTICLE_778998-upravlen.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Профессиональные гольф-тренеры — о секретах успеха.",
       "tags": [
@@ -427,7 +2304,7 @@
       "title": "Готовлю конфеты «Чебурашка» из кислых яблок: лакомство, которое придется по вкусу в любом возрасте",
       "type": "ARTICLE",
       "publishDate": 1756241100000,
-      "urn": "gotovlyu-konfety-cheburashka-iz-kislykh-yablok-lakomstvo-kotoroye-pridetsya-po-vkusu-v-lyubom-vozraste",
+      "urn": "ARTICLE_gotovlyu-konfet.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Лучший выбор для семейного чаепития.",
       "tags": [
@@ -453,7 +2330,7 @@
       "title": "Украинцы носили на руках этого футболиста из СССР: он поиздевался над великим Дасаевым",
       "type": "ARTICLE",
       "publishDate": 1756239000000,
-      "urn": "ukraintsy-nosili-na-rukakh-etogo-futbolista-iz-sssr-on-poizdevalsya-nad-velikim-dasayevym",
+      "urn": "ARTICLE_ukraintsy-nosil.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Нелепый пенальти принес славу и почет.",
       "tags": [
@@ -483,7 +2360,7 @@
       "title": "В одной игре объединили ужастик и симулятор уборки: а еще проект раздают бесплатно в Steam — что за Silent Cleaning",
       "type": "ARTICLE",
       "publishDate": 1756234800000,
-      "urn": "v-odnoy-igre-obyedinili-uzhastik-i-simulyator-uborki-a-yeshche-proyekt-razdayut-besplatno-v-steam-chto-za-silent-cleaning",
+      "urn": "ARTICLE_v-odnoy-igre-ob.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Реклама, которая не похожа на рекламу.",
       "tags": [
@@ -507,7 +2384,7 @@
       "title": "Водительские права хотят выдавать с 16 лет: кому и зачем",
       "type": "ARTICLE",
       "publishDate": 1756232078901,
-      "urn": "775695-voditelskiye-prava-khotyat-vydavat-s-16-let-komu-i-zachem",
+      "urn": "ARTICLE_775695-voditels.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Активным подросткам предложили садиться за руль с 16 лет.",
       "tags": [
@@ -531,7 +2408,7 @@
       "title": "Тест по персонажам Евгения Леонова. Вспомните, говорил ли великий актер СССР эти реплики",
       "type": "ARTICLE",
       "publishDate": 1756231800000,
-      "urn": "test-po-personazham-yevgeniya-leonova-vspomnite-govorilli-velikiy-akter-sssr-eti-repliki",
+      "urn": "ARTICLE_test-po-persona.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Сможете не ошибиться ни разу? ",
       "tags": [
@@ -558,7 +2435,7 @@
       "title": "Америка сходит с ума по русскому вундеркинду! Демидова возносят до небес и изучают под микроскопом",
       "type": "ARTICLE",
       "publishDate": 1756231200000,
-      "urn": "778884-amerika-skhodit-s-uma-po-russkomu-vunderkindu-demidova-voznosyat-do-nebes-i-izuchayut-pod-mikroskopom",
+      "urn": "ARTICLE_778884-amerika-.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Неожиданно случился конфуз. ",
       "tags": [
@@ -570,7 +2447,7 @@
       "previewImage": {
         "copyright": "Getty Images",
         "image": "0a49/245d/b1ab/4feb/99cf/f5d0/92b2/0d08/1600_900.jpeg",
-        "imageForMobile": "c08e/a3ac/ebc3/4889/ae27/ef11/f076/5b6e/900_900.png",
+        "imageForMobile": "f7cd/b062/e0f8/4cb3/b54f/f18f/9171/60e2/900_900.jpeg",
         "tags": [
           26793
         ]
@@ -587,7 +2464,7 @@
       "title": "У этого популярного выражения в русском языке тысячелетняя история: откуда пошло «докажи, что ты не верблюд»",
       "type": "ARTICLE",
       "publishDate": 1756230779643,
-      "urn": "u-etogo-populyarnogo-vyrazheniya-v-russkom-yazyke-tysyacheletnyaya-istoriya-otkuda-poshlo-dokazhi-chto-ty-ne-verblyud",
+      "urn": "ARTICLE_u-etogo-populya.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Запутанная история.",
       "tags": [
@@ -613,7 +2490,7 @@
       "title": "Посмотрела анимационный сериал «Курьер» от отечественных энтузиастов: жуткая сказка, погружающая в безысходность",
       "type": "ARTICLE",
       "publishDate": 1756230483202,
-      "urn": "animatsionnyy-serial-kuryer-2025-otzyv",
+      "urn": "ARTICLE_animatsionnyy-s.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Долгострой, который стоит ожидания.",
       "tags": [
@@ -638,7 +2515,7 @@
       "title": "Рос под крылом у Абрамовича, а теперь в 16 лет восхищает всех: необычная история гения Нгумоа из «Ливерпуля»",
       "type": "ARTICLE",
       "publishDate": 1756224000000,
-      "urn": "rio-ngumoa-chto-nuzhno-znat-o-novoy-zvezde-liverpulya-i-apl",
+      "urn": "ARTICLE_rio-ngumoa-chto.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Рио хочет себе «Золотой мяч».",
       "tags": [
@@ -678,7 +2555,7 @@
       "title": "Кого муж беременной Косторной выбрал вместо нее: в чем причина? Сама Алена их жестко хейтит",
       "type": "ARTICLE",
       "publishDate": 1756223100000,
-      "urn": "778864-figurist-georgiy-kunitsa-muzh-aleny-kostornoy-budet-vystupat-s-anastasiyey-korobeynikovoy-prichiny-reaktsiya-aleny-kostornoy",
+      "urn": "ARTICLE_778864-figurist.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Рассказываем про Анастасию Коробейникову.",
       "tags": [
@@ -699,7 +2576,7 @@
       "top": false,
       "rubrics": [
         44,
-        155
+        52
       ]
     },
     {
@@ -707,7 +2584,7 @@
       "title": "Этот легендарный сюжет «Фитиля» знают наизусть те, кто жил в СССР: бесподобный монолог Леонова «Трезвый подход»",
       "type": "ARTICLE",
       "publishDate": 1756221000000,
-      "urn": "legendarnyy-syuzhet-fitilya-kotoryy-znayut-naizust-te-kto-zhil-v-sssr-smotret-onlayn-trezvyy-podkhod-leonova-1974",
+      "urn": "ARTICLE_legendarnyy-syu.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "А вы помните? ",
       "tags": [
@@ -732,7 +2609,7 @@
       "title": "Посмотрела криминальную комедию «Геля»: как мент и дальнобойщик «гелик» угоняли",
       "type": "ARTICLE",
       "publishDate": 1756220460000,
-      "urn": "film-gelya-2025-otzyv",
+      "urn": "ARTICLE_film-gelya-2025.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Обсуждаем в комментариях!",
       "tags": [
@@ -758,7 +2635,7 @@
       "title": "10 жертв великого Ларионова. Репрессии Профессора в СКА беспрецедентны",
       "type": "ARTICLE",
       "publishDate": 1756220400981,
-      "urn": "778746-10-zhertv-velikogo-larionova-repressii-professora-v-ska-bespretsedentny",
+      "urn": "ARTICLE_778746-10-zhert.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "На очереди Карпухин и Алистров. ",
       "tags": [
@@ -789,7 +2666,7 @@
       "title": "Страшные нокаутеры из Дагестана и Америки зарубятся в UFC. Магомедов и Пайфер умеют выносить с одного удара",
       "type": "ARTICLE",
       "publishDate": 1756218600000,
-      "urn": "778838-abusupyan-magomedov-dzho-payfer-kogda-boy-data-gde-smotret-pryamaya-translyatsiya-turnira-ufc-320",
+      "urn": "ARTICLE_778838-abusupya.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Этот бой вряд ли дойдет до решения.",
       "tags": [
@@ -820,7 +2697,7 @@
       "title": "Легендарный русский хоккеист ни за что нокаутировал студента на футболе: интервью пострадавшего",
       "type": "ARTICLE",
       "publishDate": 1756213200000,
-      "urn": "778829-legendarnyy-russkiy-khokkeist-ilya-kovalchuk-ni-za-chto-nokautiroval-studenta-na-futbole-intervyu-postradavshego",
+      "urn": "ARTICLE_778829-legendar.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Ковальчук прописал в челюсть.",
       "tags": [
@@ -857,7 +2734,7 @@
       "title": "Русские гимнастки провалились бы на ЧМ-2025 в случае допуска. За время отстранения мы все потеряли",
       "type": "ARTICLE",
       "publishDate": 1756212600000,
-      "urn": "778813-chempionat-mira-po-khudozhestvennoy-gimnastike-2025-kakby-vystupili-rossiyanki-mariya-borisova-smogliby-oni-poluchit-medali-analitiki",
+      "urn": "ARTICLE_778813-chempion.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Нужно трезво смотреть на наш сегодняшний уровень.",
       "tags": [
@@ -890,7 +2767,7 @@
       "title": "«Мы хоронили мужиков. Мне просто повезло». Жуткая история из жизни отца русского гения Бобровского",
       "type": "ARTICLE",
       "publishDate": 1756209600000,
-      "urn": "my-khoronili-muzhikov-mne-prosto-povezlo-zhutkaya-istoriya-iz-zhizni-ottsa-russkogo-geniya-bobrovskogo",
+      "urn": "ARTICLE_my-khoronili-mu.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Ужас!",
       "tags": [
@@ -917,7 +2794,7 @@
       "title": "Российская гимнастка-чемпионка впервые за 4 года выступит на зарубежном турнире. Куда едет Мельникова?",
       "type": "ARTICLE",
       "publishDate": 1756208100000,
-      "urn": "778725-rossiyskaya-gimnastka-angelina-melnikova-vystupit-na-etape-kubka-mirovogo-vyzova-v-parizhe-chto-za-turnir-kto-sopernitsy-analitika",
+      "urn": "ARTICLE_778725-rossiysk.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Есть очень мощные конкурентки.",
       "tags": [
@@ -946,7 +2823,7 @@
       "title": "Футболисты из Украины плакали после этого матча: их засудили в пользу белорусов",
       "type": "ARTICLE",
       "publishDate": 1756203300000,
-      "urn": "futbolisty-iz-ukrainy-plakali-posle-etogo-matcha-ikh-zasudili-v-polzu-belorusov-dinamo-minsk-i-karpaty",
+      "urn": "ARTICLE_futbolisty-iz-u.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Все было решено еще до игры.",
       "tags": [
@@ -973,7 +2850,7 @@
       "title": "Поиграла в Sword of the Sea: потрясающее приключение, которого оказалось слишком мало",
       "type": "ARTICLE",
       "publishDate": 1756200900000,
-      "urn": "poigrala-v-sword-of-the-sea-potryasayushcheye-priklyucheniye-kotorogo-okazalos-slishkom-malo-otzyv-retsenziya-obzor",
+      "urn": "ARTICLE_poigrala-v-swor.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Я хочу быть как все эти дельфины.",
       "tags": [
@@ -999,7 +2876,7 @@
       "title": "Пена больше не вытекает из кастрюли: простой лайфхак изменит вашу жизнь, больше не нужно стоять у плиты",
       "type": "ARTICLE",
       "publishDate": 1756200650000,
-      "urn": "chto-delat-yesli-pena-postoyanno-vytekayet-iz-kastryuli-kak-izbavitsya-ot-peny-pri-varke-sovety",
+      "urn": "ARTICLE_chto-delat-yesl.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Элементарный способ.",
       "tags": [
@@ -1026,7 +2903,7 @@
       "title": "«Дружить с агентами — стрем, когда тренер просит везти знакомых игроков — стрем». Интервью генменеджера «Авангарда»",
       "type": "ARTICLE",
       "publishDate": 1756198800443,
-      "urn": "778744-druzhit-s-agentami-strem-kogda-trener-prosit-vezti-znakomykh-igrokov-strem-intervyu-genmenedzhera-avangarda",
+      "urn": "ARTICLE_778744-druzhit-.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Большое интервью Алексея Сопина. ",
       "tags": [
@@ -1054,7 +2931,7 @@
       "title": "Что нужно сделать, чтобы отпугнуть автомобильного вора: совет криминалиста",
       "type": "ARTICLE",
       "publishDate": 1756197300000,
-      "urn": "chto-nuzhno-sdelat-chtoby-otpugnut-avtomobilnogo-vora-sovet-kriminalista",
+      "urn": "ARTICLE_chto-nuzhno-sde.json",
       "uriFormatVersion": 1,
       "leadAnnouncement": "Как защитить содержимое авто и запчасти от воровства?",
       "tags": [
@@ -1071,1837 +2948,6 @@
       "top": false,
       "rubrics": [
         74
-      ]
-    },
-    {
-      "id": 778451,
-      "title": "Питерцам не стоит ждать легкой прогулки — хозяева вновь дадут им бой. Прогноз на «Оренбург» — «Зенит»",
-      "type": "ARTICLE",
-      "publishDate": 1756191600000,
-      "urn": "778451-pitertsam-ne-stoit-zhdat-legkoy-progulki-khozyayeva-vnov-dadut-im-boy-prognoz-na-orenburg-zenit",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Хотя в эти выходные команда Семака зажгла.",
-      "tags": [
-        26693,
-        15341,
-        15770,
-        14631,
-        13831
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "fc-zenit.ru",
-        "image": "4179/e182/035e/429c/afa8/c916/6a0f/36b6/1600_900.jpeg",
-        "imageForMobile": "f37a/7a6b/3052/4768/9e1b/e7c8/7e33/f28b/900_900.png",
-        "tags": [
-          15341
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48,
-        53
-      ]
-    },
-    {
-      "id": 777962,
-      "title": "Этот вопрос экзамена в ГАИ заставляет спотыкаться даже опытных водителей: что значит разметка на ограждении?",
-      "type": "ARTICLE",
-      "publishDate": 1756191268059,
-      "urn": "etot-vopros-ekzamena-v-gai-zastavlyayet-spotykatsya-dazhe-opytnykh-voditeley-chto-znachit-razmetka-na-ograzhdenii",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Сможете ответить правильно?",
-      "tags": [
-        28059
-      ],
-      "rubricId": 74,
-      "previewImage": {
-        "copyright": "Sport24",
-        "image": "2dfc/d43a/f542/4d0e/828f/5262/e078/55d0/1600_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        74
-      ]
-    },
-    {
-      "id": 752770,
-      "title": "Шокирующее выступление Родниной: такого с ней не было ни до, ни после. Великий тренер Жук ее фактически бросил",
-      "type": "ARTICLE",
-      "publishDate": 1756189500000,
-      "urn": "figuristy-irina-rodnina-aleksey-ulanov-yedinstvennyy-raz-v-karyere-zanyali-vtoroye-mesto-istorii-iriny-rodninoy-vospominaniya-rodninoy",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Случилось в Челябинске.",
-      "tags": [
-        14044,
-        9215,
-        28882,
-        25128
-      ],
-      "rubricId": 44,
-      "previewImage": {
-        "copyright": "РИА Новости",
-        "image": "47dd/d7b0/5075/4e23/9900/f9b4/1570/e95d/1600_900.jpeg",
-        "imageForMobile": "dc23/4781/864d/46be/9981/a212/4562/586b/900_900.jpeg",
-        "tags": [
-          9215
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        44,
-        155
-      ]
-    },
-    {
-      "id": 778735,
-      "title": "18-летняя россиянка жестко покарала американку на глазах у изумленного Нью-Йорка. Невероятный разгром! ",
-      "type": "ARTICLE",
-      "publishDate": 1756188900000,
-      "urn": "778735-mirra-andreyeva-obygrala-alisiyu-parks-i-vyshla-vo-vtoroy-krug-us-open-podrobnosti",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Мирра Андреева мощно стартовала на US Open! ",
-      "tags": [
-        25661,
-        14731
-      ],
-      "rubricId": 50,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "a01d/ef13/4e5e/4ea4/b11f/45dc/b5f0/9914/1600_900.jpeg",
-        "imageForMobile": "2a98/b250/8d8d/4651/bf14/56b9/4b2e/6baa/900_900.png",
-        "tags": [
-          25661
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        50,
-        52
-      ]
-    },
-    {
-      "id": 772959,
-      "title": "Он пахал на заводе днями и ночами, но смог стать непревзойденной легендой! История о Сухове из «Металлурга»",
-      "type": "ARTICLE",
-      "publishDate": 1756188000000,
-      "urn": "on-pakhal-na-zavode-dnyami-i-nochami-no-smog-stat-neprevzoydennoy-legendoy-istoriya-o-sukhove-iz-metallurga",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "«Работа на комбинате тяжелая».",
-      "tags": [
-        15011,
-        12406
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Юрий Кузьмин, photo.khl.ru",
-        "image": "a3ee/f69c/8ee0/46d8/9117/9e51/4007/42ff/1600_900.jpeg",
-        "imageForMobile": "3ee4/126c/fdf3/4a9b/8264/2a82/306d/aff5/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 778717,
-      "title": "«Спартак» нашел новую звезду, ЦСКА не пустил лидера в Европу. Трансферы и слухи дня",
-      "type": "ARTICLE",
-      "publishDate": 1756180800000,
-      "urn": "778717-spartak-nashel-novuyu-zvezdu-tsska-ne-otpustil-lidera-v-yevropu-transfery-i-slukhi-dnya",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Утренний дайджест.",
-      "tags": [
-        13853,
-        15576,
-        24507,
-        15273,
-        15265,
-        25987,
-        12635,
-        25287,
-        15191,
-        11235,
-        26330,
-        13403,
-        15195
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "7002/70f2/d3de/45eb/b0b2/2359/6a3a/d4ce/1600_900.jpeg",
-        "imageForMobile": "c510/24b2/39c7/41b9/9be8/62ef/370f/ebbe/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 777710,
-      "title": "Тест на эрудицию: угадайте произведение русской литературы по первому предложению",
-      "type": "ARTICLE",
-      "publishDate": 1756180800000,
-      "urn": "test-na-eruditsiyu-ugadayte-proizvedeniye-russkoy-literatury-po-pervomu-predlozheniyu",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "А вы уверены, что справитесь?",
-      "tags": [
-        25589,
-        27247
-      ],
-      "rubricId": 154,
-      "badge": "TEST",
-      "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "de27/8d08/46ca/4683/9158/7834/21c9/84ff/1600_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        154,
-        153
-      ]
-    },
-    {
-      "id": 773208,
-      "title": "Поверить в такое сейчас почти невозможно! Легендарный тренер СССР и России бил хоккеистов: история о Николаеве",
-      "type": "ARTICLE",
-      "publishDate": 1756177200000,
-      "urn": "poverit-v-takoye-seychas-pochti-nevozmozhno-legendarnyy-trener-sssr-i-rossii-bil-khokkeistov-istoriya-o-nikolayeve",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "«Я отбил Зиновьеву все коленки».",
-      "tags": [
-        15944
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "photo.khl.ru",
-        "image": "4ada/3c8e/4580/4b85/91ca/ccd7/1b98/553f/1600_900.jpeg",
-        "imageForMobile": "74ed/cbcd/373c/4964/8131/b400/923d/d0cb/900_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 778423,
-      "title": "Мирре придется непросто после травмы — местная теннисистка навяжет ей борьбу. Прогноз на Андреева — Паркс",
-      "type": "ARTICLE",
-      "publishDate": 1756166400000,
-      "urn": "778423-mirre-pridetsya-neprosto-posle-travmy-mestnaya-tennisistka-navyazhet-yey-borbu-prognoz-na-andreyeva-parks",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Россиянке нужно время, чтобы поймать игровой ритм.",
-      "tags": [
-        25661,
-        26695,
-        14731,
-        14137,
-        13733
-      ],
-      "rubricId": 50,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "bcfa/df35/af29/4459/897f/fa99/2d9d/6b23/1600_900.jpeg",
-        "imageForMobile": "cf29/f1bf/81bf/475c/a568/b404/b8da/3ff0/500_900.png",
-        "tags": [
-          25661
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        50,
-        53
-      ]
-    },
-    {
-      "id": 773697,
-      "title": "Этот легендарный торт СССР считали «братом» «Киевского»: как приготовить тот самый «Грильяж»",
-      "type": "ARTICLE",
-      "publishDate": 1756157456000,
-      "urn": "etot-legendarnyy-tort-sssr-schitali-bratom-kiyevskogo-kak-prigotovit-tot-samyy-grilyazh",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Его даже называли «Киевский грильяж».",
-      "tags": [
-        14182,
-        24645
-      ],
-      "rubricId": 154,
-      "previewImage": {
-        "copyright": "youtube.com/@Горячийшоколад-о1ф",
-        "image": "40d3/be5a/dba4/4cdd/b253/3936/dcd0/310d/1600_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        154,
-        153
-      ]
-    },
-    {
-      "id": 776010,
-      "title": "Эта загадка для детей поставила знатоков «Что? Где? Когда?» в тупик: а вы смогли бы ответить верно?",
-      "type": "ARTICLE",
-      "publishDate": 1756156500000,
-      "urn": "eta-zagadka-dlya-detey-postavila-znatokov-chto-gde-kogda-v-tupik-a-vy-smogliby-otvetit-verno",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "А вы ответите верно?",
-      "tags": [
-        27053
-      ],
-      "rubricId": 153,
-      "previewImage": {
-        "copyright": "youtube.com",
-        "image": "2e3d/71b9/c2b5/4426/8eac/5fd9/8deb/3060/1600_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        153
-      ]
-    },
-    {
-      "id": 778566,
-      "title": "Легендарная игровая серия возвращается: что ждать от Ninja Gaiden 4 и чем она удивит фанатов",
-      "type": "ARTICLE",
-      "publishDate": 1756149300000,
-      "urn": "legendarnaya-igrovaya-seriya-vozvrashchayetsya-chto-zhdat-ot-ninja-gaiden-4-i-chem-ona-udivit-fanatov-syuzhet-geympley-data-vykhoda",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Стильно, хардкорно, кроваво.",
-      "tags": [
-        26723,
-        26827,
-        13744
-      ],
-      "rubricId": 64,
-      "previewImage": {
-        "copyright": "steampowered.com",
-        "image": "6f8e/025c/169b/468f/97f1/b674/b6b3/7f3b/1600_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        64
-      ]
-    },
-    {
-      "id": 778671,
-      "title": "Указала скандальной украинке на дверь. Ветеран русского тенниса сенсационно стартовала на US Open",
-      "type": "ARTICLE",
-      "publishDate": 1756147200000,
-      "urn": "778671-tennis-rezultaty-segodnya-25avgusta-us-open-rossiyskaya-tennisistka-anastasiya-pavlyuchenkova-pobedila-ukrainku-dayanu-yastremskuyu-v-trekh-setakh-6-7-5-7-7-6-7-5-6-4-obzor",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Павлюченкова прошла Ястремскую.",
-      "tags": [
-        14731,
-        9805,
-        9790
-      ],
-      "rubricId": 50,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "eb29/98f1/0268/4346/a42b/50dc/ca05/86b0/1600_900.jpeg",
-        "imageForMobile": "d55e/ca39/9b71/4b9e/a289/ef51/bcc5/70a4/900_900.jpeg",
-        "tags": [
-          9790
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        50,
-        44
-      ]
-    },
-    {
-      "id": 777890,
-      "title": "Мерсисайдцы и «сороки» устроят яркую перестрелку на фоне трансферной саги Исака. Прогноз на «Ньюкасл» — «Ливерпуль»",
-      "type": "ARTICLE",
-      "publishDate": 1756144800000,
-      "urn": "777890-mersisaydtsy-i-soroki-ustroyat-yarkuyu-perestrelku-na-fone-transfernoy-sagi-isaka-prognoz-na-nyukasl-liverpul",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "У гостей отличные шансы победить.",
-      "tags": [
-        26693,
-        15145,
-        15014,
-        13838,
-        13831
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "7d20/4833/e2cd/4c55/a97a/2e9b/6322/0c69/1600_900.jpeg",
-        "imageForMobile": "7ccb/2971/7c06/4b09/80f0/5591/39bc/0841/900_900.png",
-        "tags": [
-          15014
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48,
-        53
-      ]
-    },
-    {
-      "id": 773213,
-      "title": "Им доверили жизнь молодого парня, а они допустили роковые ошибки! Как российские врачи погубили хоккеиста Симонова",
-      "type": "ARTICLE",
-      "publishDate": 1756144800000,
-      "urn": "im-doverili-zhizn-molodogo-parnya-a-oni-dopustili-rokovyye-oshibki-kak-rossiyskiye-vrachi-pogubili-khokkeista-simonova",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "«Сергей в тяжелом состоянии направлен на повторную операцию, в ходе которой он скончался от геморрагического шока».",
-      "tags": [
-        25128
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Юрий Кузьмин, photo.khl.ru",
-        "image": "38d8/ef41/923a/40e0/9694/ba62/1c4a/c2f4/1600_900.jpeg",
-        "imageForMobile": "dede/f8a6/df7a/4ccd/a43e/5123/56da/2ef9/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 778623,
-      "title": "«Спартак» может потерять большого русского таланта: он уже лучший в РПЛ",
-      "type": "ARTICLE",
-      "publishDate": 1756138200000,
-      "urn": "778623-spartak-mozhet-poteryat-bolshogo-russkogo-talanta-ruslan-litvinov-uzhe-luchshiy-v-rpl",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Системная ошибка.",
-      "tags": [
-        15576,
-        24669,
-        13853
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Александр Мысякин, Sport24",
-        "image": "8abb/2ab9/b58d/4413/8b13/bfb0/14f8/ec71/1600_900.jpeg",
-        "imageForMobile": "7e1a/aaff/8aa5/4172/8198/ab7c/3f5b/c633/900_900.png",
-        "tags": [
-          27310
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 777816,
-      "title": "Такую овсянку вы точно не ели: готовлю на завтрак с томатами и сыром всего за 15 минут",
-      "type": "ARTICLE",
-      "publishDate": 1756136031920,
-      "urn": "takuyu-ovsyanku-vy-tochno-ne-yeli-gotovlyu-na-zavtrak-s-tomatami-i-syrom-vsego-za-15-minut",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Вкусно, как в ресторане!",
-      "tags": [
-        14182
-      ],
-      "rubricId": 154,
-      "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "27f4/bb38/93c2/4da4/900c/96b7/8246/5b4a/1600_900.jpeg",
-        "imageForMobile": "cd69/acf6/c818/445d/9821/648d/8161/f6a1/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        154
-      ]
-    },
-    {
-      "id": 778540,
-      "title": "Гордость России довела мир до слез. Шарапова не забыла о русском языке, попав в ранг величайших",
-      "type": "ARTICLE",
-      "publishDate": 1756134060000,
-      "urn": "778540-rossiyskuyu-tennisistku-mariyu-sharapovu-vveli-v-mezhdunarodnyy-zal-slavy-podrobnosti-sharapova-serena-uilyams-sharapova-stony-sharapova-reaktsiya",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Трогательная церемония.",
-      "tags": [
-        9430,
-        9860
-      ],
-      "rubricId": 50,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "0577/9801/eb17/4528/a9e3/c160/ed67/5bd9/1600_900.jpeg",
-        "imageForMobile": "3854/530d/49b1/4590/91fd/6509/6672/9fab/900_900.png",
-        "tags": [
-          9430
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        50,
-        44
-      ]
-    },
-    {
-      "id": 778611,
-      "title": "Россия вернется, но уже без Овечкина и Малкина. На Кубке мира лидером сборной будет не Панарин, а Демидов",
-      "type": "ARTICLE",
-      "publishDate": 1756134000462,
-      "urn": "778611-rossiya-vernetsya-no-uzhe-bez-ovechkina-i-malkina-na-kubke-mira-liderom-sbornoy-budet-ne-panarin-a-demidov",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Легенды уже уйдут из хоккея. ",
-      "tags": [
-        13739,
-        14709,
-        15340,
-        13371,
-        12730,
-        26793,
-        9431
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Владимир Беззубов, photo.khl.ru / Александр Мысякин, Sport24",
-        "image": "8424/d191/63f2/4f10/af2a/70c0/261a/1da0/1600_900.jpeg",
-        "imageForMobile": "1aa0/4ebd/10c6/4865/92d2/8d1f/957f/deff/796_796.jpeg",
-        "tags": [
-          15340
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 777730,
-      "title": "Популярные резинки для волос могут быть вредны и опасны: от них секутся кончики и ломаются волосы",
-      "type": "ARTICLE",
-      "publishDate": 1756125908839,
-      "urn": "777730-populyarnyye-rezinki-dlya-volos-mogut-byt-vredny-i-opasny-ot-nikh-sekutsya-konchiki-i-lomayutsya-volosy",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Какие аксессуары использовать, чтобы не вредить волосам.",
-      "tags": [
-        14529
-      ],
-      "rubricId": 154,
-      "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "4142/360c/0d68/437c/9f1e/0133/cb2a/5d80/1600_900.jpeg",
-        "imageForMobile": "a3ce/6c02/44af/43dc/88a9/207d/f427/64bd/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        154
-      ]
-    },
-    {
-      "id": 778067,
-      "title": "«Спартак» снова порадует своих, «Локо» отыграется за РПЛ, «Зенит» в этот раз без разгрома. Экспресс на Кубок России",
-      "type": "ARTICLE",
-      "publishDate": 1756123200000,
-      "urn": "778067-spartak-snova-poraduyet-svoikh-loko-otygrayetsya-za-rpl-zenit-v-etot-raz-bez-razgroma-ekspress-na-kubok-rossii",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Ставим с коэффициентом 5.43.",
-      "tags": [
-        26695,
-        14631,
-        13831,
-        15576,
-        15341,
-        15770,
-        15582,
-        15095,
-        15772
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Александр Мысякин, Sport24",
-        "image": "0f4d/b078/144b/492f/96e9/380b/740d/7190/1600_900.jpeg",
-        "imageForMobile": "5bf8/8e8d/6702/448b/8176/0d5c/e6cf/ccf4/900_900.png",
-        "tags": [
-          15576
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48,
-        53
-      ]
-    },
-    {
-      "id": 775326,
-      "title": "Бензин продолжает дорожать: как снизить расход своего авто",
-      "type": "ARTICLE",
-      "publishDate": 1756122120000,
-      "urn": "775326-benzin-prodolzhayet-dorozhat-kak-snizit-raskhod-svoyego-avto",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Несколько действенных способов снизить аппетит автомобиля.",
-      "tags": [
-        25122
-      ],
-      "rubricId": 74,
-      "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "e179/ee8c/8cba/47dd/adce/ce58/3a2f/5119/1600_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        74
-      ]
-    },
-    {
-      "id": 778507,
-      "title": "Ротенберга уволили из СКА, но он остался тренером «России 25». Кто к нему приедет и кто с ним будет играть?",
-      "type": "ARTICLE",
-      "publishDate": 1756119600116,
-      "urn": "778507-rotenberga-uvolili-iz-ska-no-on-ostalsya-trenerom-rossii-25-kto-k-nemu-priyedet-i-kto-s-nim-budet-igrat",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "«Динамо» — новый базовый клуб сборной России? ",
-      "tags": [
-        14374,
-        15340,
-        14083,
-        15134,
-        15464,
-        14897
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Павел Табарчук, photo.khl.ru",
-        "image": "a806/3d42/811e/47dc/b810/6986/6c80/e877/1600_900.jpeg",
-        "imageForMobile": "e4c8/292f/1019/4b75/b8f5/846f/9cec/4916/900_900.jpeg",
-        "tags": [
-          14083,
-          15340
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 775680,
-      "title": "Этому легендарному велосипеду в СССР народ дал забавное прозвище: что еще за «Дутик»",
-      "type": "ARTICLE",
-      "publishDate": 1756118400000,
-      "urn": "etomu-legendarnomu-velosipedu-v-sssr-narod-dal-zabavnoye-prozvishche-chto-yeshche-za-dutik",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Почти каждый на нем катался.",
-      "tags": [
-        25128
-      ],
-      "rubricId": 74,
-      "previewImage": {
-        "copyright": "РИА Новости",
-        "image": "daeb/cca5/20bd/4f46/ae01/806a/f51c/b536/1600_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        74
-      ]
-    },
-    {
-      "id": 772944,
-      "title": "Оказывается, попкорн стал главной едой в кинотеатрах неслучайно: все из-за Великой депрессии в США",
-      "type": "ARTICLE",
-      "publishDate": 1756118100000,
-      "urn": "okazyvayetsya-popkorn-stal-glavnoy-yedoy-v-kinoteatrakh-ne-sluchayno-vse-iz-za-velikoy-depressii-v-ssha",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Рассказываем, как жареная кукуруза завоевала кинотеатры.",
-      "tags": [
-        14241,
-        24645
-      ],
-      "rubricId": 153,
-      "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "d8c4/45c9/be22/4aba/959a/03aa/c759/8e4a/1600_900.jpeg",
-        "imageForMobile": "9b2e/6bda/d7a6/4dbc/b7cd/bbc5/7c78/cde8/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        153,
-        154
-      ]
-    },
-    {
-      "id": 778510,
-      "title": "«Ужасы по полной». Через что прошли русские спортсмены ради победы на ЧМ-2025 в Милане",
-      "type": "ARTICLE",
-      "publishDate": 1756117800000,
-      "urn": "778510-chempionat-mira-2025-po-greble-na-baydarkakh-i-kanoe-rezultaty-pobeda-zakhara-petrova-ivana-shtylya-yekaterina-shlyapnikova-sergey-svinarev-podrobnosti",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "С медалями не только Захар Петров.",
-      "tags": [
-        14762,
-        27707,
-        27826
-      ],
-      "rubricId": 52,
-      "previewImage": {
-        "copyright": "РИА Новости",
-        "image": "08fe/8ed6/68d8/4932/b186/c1e6/b7a6/3015/1600_900.jpeg",
-        "imageForMobile": "5bb7/281d/72bb/4757/a00d/5c53/7d0c/ec02/900_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        52,
-        155
-      ]
-    },
-    {
-      "id": 778406,
-      "title": "Эти игры можно запустить прямо в браузере Google Chrome: легкий способ развлечься",
-      "type": "ARTICLE",
-      "publishDate": 1756114800000,
-      "urn": "eti-igry-mozhno-zapustit-pryamo-v-brauzere-google-chrome-vstroyennyye-igry-v-gugl-khrom",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Не только Dinosaur Game.",
-      "tags": [
-        26830,
-        26723,
-        26829
-      ],
-      "rubricId": 64,
-      "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "4903/c531/d0df/4675/9915/4c0b/a133/48a5/1600_900.jpeg",
-        "imageForMobile": "d8a5/7f00/6118/4a58/81bd/e94e/23a6/2895/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        64
-      ]
-    },
-    {
-      "id": 778420,
-      "title": "3 золота русской гимнастки, крах украинки и неожиданная медаль экс-россиянки. Финал чемпионата мира — 2025",
-      "type": "ARTICLE",
-      "publishDate": 1756113660000,
-      "urn": "778420-khudozhestvennaya-gimnastika-rezultaty-chempionat-mira-otdelnyye-vidy-mnogoborya-darya-varfolomeyev-zavoyevala-zoloto",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Наши девушки продолжают тащить Германию.",
-      "tags": [
-        13927,
-        29355,
-        26071,
-        29016,
-        27712,
-        28733
-      ],
-      "rubricId": 155,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "efba/3920/e923/4a39/958a/508d/6fa3/18fb/1600_900.jpeg",
-        "imageForMobile": "001b/51c1/cde0/46a5/9d17/b322/c41e/2c3b/900_900.png",
-        "tags": [
-          29016
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        155,
-        44
-      ]
-    },
-    {
-      "id": 769434,
-      "title": "Второй сезон сериала «Лихие» выйдет осенью: что еще известно о продолжении криминальной саги Юрия Быкова",
-      "type": "ARTICLE",
-      "publishDate": 1756111347875,
-      "urn": "vtoroy-sezon-seriala-likhiye-kogda-vyydet",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Ждем премьеру осенью!",
-      "tags": [
-        14241,
-        26832
-      ],
-      "rubricId": 154,
-      "previewImage": {
-        "copyright": "youtube.com",
-        "image": "43db/55dd/f686/4e8c/be98/d3bd/0921/6042/1600_900.jpeg",
-        "imageForMobile": "ba23/418c/4368/4796/b8eb/e958/1f3f/3a54/900_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        154
-      ]
-    },
-    {
-      "id": 778417,
-      "title": "В «Спартаке» растет молодой талант: его сломали в академии Галицкого, но в парня поверил Станкович",
-      "type": "ARTICLE",
-      "publishDate": 1756105200000,
-      "urn": "778417-v-spartake-rastet-molodoy-talant-yego-slomali-v-akademii-galitskogo-no-v-parnya-poveril-stankovich",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Поможет выбраться из кризиса?",
-      "tags": [
-        15576,
-        14973,
-        28776,
-        27310,
-        15241
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Александр Мысякин, Sport24 / vk.com/fcsm_youth",
-        "image": "535c/d78d/e908/45ff/954c/f562/ce53/3710/1600_900.jpeg",
-        "imageForMobile": "eee3/2721/e4ae/48f8/b61e/3e7f/2db1/7ca0/900_900.jpeg",
-        "tags": [
-          15576,
-          27310
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 773589,
-      "title": "Пьяные хулиганы с топором напали на легенду Челябинска! Ради денег на алкоголь они лишили Аровина жизни",
-      "type": "ARTICLE",
-      "publishDate": 1756105200000,
-      "urn": "pyanyye-khuligany-s-toporom-napali-na-legendu-chelyabinska-radi-deneg-na-alkogol-oni-lishili-arovina-zhizni",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Большое горе. ",
-      "tags": [
-        15414
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "hctraktor.org / shutterstock.com",
-        "image": "efbe/5f65/e0b0/418c/b3b0/6d6a/5fda/ab2a/1600_900.jpeg",
-        "imageForMobile": "40cc/f5a4/01ac/49f9/b212/344e/d514/8ead/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 777291,
-      "title": "Новый OPPO Reno14 F на чипе Qualcomm уже дешевле 21000: у него камера Sony с оптостабом, батарея 6 Ач и защита IP69",
-      "type": "ARTICLE",
-      "publishDate": 1756104667064,
-      "urn": "777291-smartfon-oppo-reno14-obzor",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Зайдет ценителям бренда.",
-      "tags": [
-        13895,
-        24647
-      ],
-      "rubricId": 64,
-      "previewImage": {
-        "copyright": "oppo.com",
-        "image": "a94c/9e5a/6f5b/43c3/8c81/cedb/f59a/0026/1600_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        64,
-        154
-      ]
-    },
-    {
-      "id": 778438,
-      "title": "Галицкий не отпустил своего любимчика в Европу, звездный украинец сменит клуб. Трансферы и слухи дня",
-      "type": "ARTICLE",
-      "publishDate": 1756094400000,
-      "urn": "778438-transfery-i-slukhi-dnya-v-futbole-25avgusta-donnarumma-v-manchester-siti-spertsyan-ostayetsya-v-krasnodare",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Самое интересное.",
-      "tags": [
-        14698,
-        24648,
-        14973,
-        13890,
-        10272,
-        15576,
-        15341,
-        15037,
-        15220,
-        27716,
-        25472,
-        16256,
-        25045,
-        24937,
-        26499,
-        15100,
-        15072,
-        11235,
-        15191,
-        15458,
-        28343,
-        26596,
-        15187,
-        15043,
-        12992,
-        11019,
-        15529,
-        25963,
-        15582
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Александр Мысякин, Sport24",
-        "image": "db90/2b44/5003/4acf/8243/ed85/d779/1f0b/1600_900.jpeg",
-        "imageForMobile": "8e66/7147/d3bf/4ab3/8a29/0c56/6855/f413/900_900.jpeg",
-        "tags": [
-          13890,
-          24648
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 777711,
-      "title": "Тест для знатоков географии: угадайте страну по ее национальной валюте",
-      "type": "ARTICLE",
-      "publishDate": 1756090800000,
-      "urn": "test-dlya-znatokov-geografii-ugadayte-stranu-po-yeye-natsionalnoy-valyute",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Будет нелегко. ",
-      "tags": [
-        25589
-      ],
-      "rubricId": 154,
-      "badge": "TEST",
-      "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "fd49/3b8d/5eb8/4a23/9a52/b384/eb9d/5028/1600_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        154,
-        153
-      ]
-    },
-    {
-      "id": 773778,
-      "title": "Страдал от боли, сходил с ума от любимого дела, пахал как проклятый. Истории из детства русского гиганта Ничушкина",
-      "type": "ARTICLE",
-      "publishDate": 1756090800000,
-      "urn": "stradal-ot-boli-skhodil-s-uma-ot-lyubimogo-dela-pakhal-kak-proklyatyy-istorii-iz-detstva-russkogo-giganta-nichushkina",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Было очень непросто. ",
-      "tags": [
-        13739,
-        15167,
-        9474
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Юрий Кузьмин, photo.khl.ru",
-        "image": "01e3/5cbb/2787/487d/b7c1/9f3e/c78d/8663/1600_900.jpeg",
-        "imageForMobile": "fbd2/6a72/12e0/4f40/98ae/d4da/5c52/8214/900_900.png",
-        "tags": [
-          9474
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 776694,
-      "title": "За этим легендарным тортом в СССР выстраивались очереди, а сегодня его не найти: как приготовить «Аннику»",
-      "type": "ARTICLE",
-      "publishDate": 1756068998466,
-      "urn": "za-etim-legendarnym-tortom-v-sssr-vystraivalis-ocheredi-a-segodnya-yego-ne-nayti-kak-prigotovit-anniku",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Один из вкуснейших тортов Эстонской ССР.",
-      "tags": [
-        24645,
-        14182
-      ],
-      "rubricId": 154,
-      "previewImage": {
-        "copyright": "Изображение сгенерировано нейросетью",
-        "image": "7e34/0208/6b64/41d6/8ce6/290b/e602/66bf/1600_900.jpeg",
-        "imageForMobile": "0345/9eae/5f90/4327/83eb/6743/e5cc/79c4/900_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        154,
-        153
-      ]
-    },
-    {
-      "id": 776818,
-      "title": "Новая Яндекс ТВ Станция Про — теперь у нее 144-герцевый MiniLED экран, акустика 50 Вт и поддержка Zigbee-устройств",
-      "type": "ARTICLE",
-      "publishDate": 1756065777710,
-      "urn": "776818-novaya-yandeks-tv-stantsiya-pro-obzor",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "А еще улучшенный софт с AI-функциями.",
-      "tags": [
-        13895,
-        27070
-      ],
-      "rubricId": 64,
-      "previewImage": {
-        "copyright": "Sport24",
-        "image": "583d/27b3/386b/40ad/9c35/0c30/6f8b/dfe0/1600_900.jpeg",
-        "imageForMobile": "2dbf/c913/6b04/494f/ad20/36da/5011/2679/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        64,
-        154
-      ]
-    },
-    {
-      "id": 776967,
-      "title": "Выходит фильм про легенду советского спорта Юрия Тюкалова: что известно о спортивной драме «Первый на Олимпе»",
-      "type": "ARTICLE",
-      "publishDate": 1756061269141,
-      "urn": "film-pervyy-na-olimpe-data-vyhoda",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Скоро в кино",
-      "tags": [
-        14241,
-        26831,
-        13924
-      ],
-      "rubricId": 154,
-      "previewImage": {
-        "copyright": "rutube.ru",
-        "image": "5d2b/4d59/5e9c/44a5/b697/1b0c/8223/b1d0/1600_900.jpeg",
-        "imageForMobile": "ea49/9754/56ca/44c5/a69a/ee98/0c4f/1801/900_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        154,
-        52
-      ]
-    },
-    {
-      "id": 776914,
-      "title": "Где найти все талисманы в Mafia: The Old Country — подробный гайд с иллюстрациями",
-      "type": "ARTICLE",
-      "publishDate": 1756058445659,
-      "urn": "gde-nayti-vse-talismany-v-mafia-the-old-country-vse-statuetki-v-mafii-old-kauntri",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Ищем все медальоны и бусины для улучшения.",
-      "tags": [
-        26723,
-        26828,
-        26827
-      ],
-      "rubricId": 64,
-      "previewImage": {
-        "copyright": "youtube.com",
-        "image": "4111/b6d8/ca0a/40f7/be07/4353/d4d5/cc0f/1600_900.jpeg",
-        "imageForMobile": "99bb/e55a/8786/403d/86a0/7b1b/774a/c74c/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        64
-      ]
-    },
-    {
-      "id": 778263,
-      "title": "Овечкин подарил драгоценный раритет ноунейму из Швеции! Как Ови решился расстаться с уникальной клюшкой?",
-      "type": "ARTICLE",
-      "publishDate": 1756058400393,
-      "urn": "778263-ovechkin-chut-ne-podaril-shvedskomu-nouneymu-klyushku-kotoroy-pobil-rekord-tak-dlya-muzeya-nichego-ne-ostanetsya",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Так для музея ничего не останется.",
-      "tags": [
-        13739,
-        15854,
-        13371
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Юрий Кузьмин, photo.khl.ru",
-        "image": "0408/2da8/b531/4752/b3e1/97db/f02a/9fd1/1600_900.jpeg",
-        "imageForMobile": "d236/cf9a/283d/4f80/8846/d6ec/2b33/9888/900_900.jpeg",
-        "tags": [
-          13371
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 776843,
-      "title": "Что известно про фильм «Тренировка гнева», где снимется фигуристка Евгения Медведева",
-      "type": "ARTICLE",
-      "publishDate": 1756057465266,
-      "urn": "film-trenirovka-gneva-2025-otzyv",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Дебютирует в роли футболистки «Динамо»",
-      "tags": [
-        14241,
-        10878,
-        26831
-      ],
-      "rubricId": 154,
-      "previewImage": {
-        "copyright": "shutterstock.com / Евгений Семенов, Sport24",
-        "image": "7d61/de40/ca8b/4411/a0a9/2bd7/7d2b/1385/1600_900.jpeg",
-        "imageForMobile": "ca05/acfa/7de9/449e/9321/3083/d194/211d/900_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        154,
-        44
-      ]
-    },
-    {
-      "id": 777787,
-      "title": "Куда пропал звездный футболист «Реала» Бэйл — он рано завершил карьеру из-за травм. Чем же занимается сейчас?",
-      "type": "ARTICLE",
-      "publishDate": 1756054800000,
-      "urn": "777787-kuda-propal-zvezdnyy-futbolist-reala-garet-beyl-on-rano-zavershil-karyeru-iz-za-travm-chemzhe-zanimayetsya-seychas",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Нашел новую работу.",
-      "tags": [
-        11758,
-        15195,
-        15704,
-        15458,
-        15021,
-        14220
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "5556/4f51/76f4/48b8/ae3e/bf5c/f6a3/ed6b/1600_900.jpeg",
-        "imageForMobile": "1346/2890/456d/4eae/b4bb/ed63/1e1d/3c04/900_900.png",
-        "tags": [
-          11758
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 761366,
-      "title": "Легендарную актрису СССР тошнило от этой сцены, но ее заставляли играть дальше: момент из «Женитьбы Бальзаминова»",
-      "type": "ARTICLE",
-      "publishDate": 1756051502476,
-      "urn": "legendarnuyu-aktrisu-sssr-toshnilo-ot-etoy-stseny-no-yeye-zastavlyali-igrat-dalshe-moment-iz-zhenitby-balzaminova",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Кошмар на съемках «Женитьбы Бальзаминова».",
-      "tags": [
-        27069
-      ],
-      "rubricId": 153,
-      "previewImage": {
-        "copyright": "youtube.com",
-        "image": "59cf/34e4/e4e1/45e1/a6a1/74e5/ccfa/7c15/1600_900.jpeg",
-        "imageForMobile": "8021/a654/e129/4b4b/a9c2/ea1e/c95e/4772/900_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        153
-      ]
-    },
-    {
-      "id": 778293,
-      "title": "Взял со сборной СССР золото Олимпиады, восхитил великого Лобановского, остался без денег в Европе. Истории о Фокине",
-      "type": "ARTICLE",
-      "publishDate": 1756051200000,
-      "urn": "istorii-o-legendarnom-futboliste-sergeye-fokine-vzyal-so-sbornoy-sssr-zoloto-olimpiady-vpechatlil-velikogo-lobanovskogo-ostalsya-bez-deneg-v-yevrope",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Возвращаться на родину не видит смысла. ",
-      "tags": [
-        14139,
-        15265,
-        8622,
-        15238,
-        14027
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Игорь Уткин/ТАСС",
-        "image": "adad/79eb/089d/47ba/8353/e3d1/58f1/c937/1600_900.jpeg",
-        "imageForMobile": "993f/184d/c9b9/4c88/b8c3/d2d0/a783/7a58/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778280,
-      "title": "Великий Ларионов забрал суперзвезду из «Спартака». Голдобин ушел в СКА на меньшие деньги — он точно альтруист?",
-      "type": "ARTICLE",
-      "publishDate": 1756047600428,
-      "urn": "778280-byl-superzvezdoy-v-spartake-no-ushel-v-ska-na-menshiye-dengi-goldobin-tochno-altruist",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Изучаем контракт питерского новичка.",
-      "tags": [
-        14374,
-        15665,
-        15134,
-        11172
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Владимир Беззубов, photo.khl.ru",
-        "image": "971b/2a57/53d9/4c1f/8515/4d84/d25c/089e/1600_900.jpeg",
-        "imageForMobile": "788b/6ee0/5aa5/46e9/a343/ecbe/b5c2/75d8/900_900.png",
-        "tags": [
-          11172
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 729515,
-      "title": "Звезды русской гимнастики опозорились на этом детском вопросе. Могли заработать 400 тысяч рублей ",
-      "type": "ARTICLE",
-      "publishDate": 1756044660000,
-      "urn": "729515-gimnastki-margarita-mamun-i-darya-shkurikhina-na-peredache-kto-khochet-stat-millionerom-skolko-vyigrali-deneg-rusalochka",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Дарья Шкурихина, Маргарита Мамун и Русалочка. ",
-      "tags": [
-        13927,
-        9108,
-        25128
-      ],
-      "rubricId": 155,
-      "previewImage": {
-        "copyright": "youtube.com",
-        "image": "5159/c060/a22a/491a/aa52/e904/8a87/8a0d/1600_900.jpeg",
-        "imageForMobile": "c9df/948d/64d3/4a2e/9702/2be5/d72f/d427/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        155,
-        52
-      ]
-    },
-    {
-      "id": 772875,
-      "title": "Готовлю вкуснейшее варенье из черемухи с ароматом миндаля: мало, кто знает такой рецепт, вам точно понравится",
-      "type": "ARTICLE",
-      "publishDate": 1756043591224,
-      "urn": "kak-prigotovit-varenye-iz-cheremukhi-samoye-vkusnoye-i-poleznoye-varenye-prostyye-retsepty",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Вкус детства.",
-      "tags": [
-        14182,
-        24645
-      ],
-      "rubricId": 154,
-      "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "2c3c/f15a/1532/4b28/8968/beff/0c9f/73d9/1600_900.jpeg",
-        "tags": [
-          14182
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        154,
-        153
-      ]
-    },
-    {
-      "id": 776988,
-      "title": "Школьные рюкзаки отдают с хорошими скидками: подобрали лучшие варианты до 3000 рублей",
-      "type": "ARTICLE",
-      "publishDate": 1756038215529,
-      "urn": "shkolnyye-ryukzaki-otdayut-s-khoroshimi-skidkami-podobrali-luchshiye-varianty-do-3000-rubley",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Для мальчиков и девочек.",
-      "tags": [
-        26422
-      ],
-      "rubricId": 154,
-      "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "b121/2535/4b86/4712/a287/ad1e/769e/2f40/1600_900.jpeg",
-        "imageForMobile": "4635/e5cc/68f9/485c/b130/17f5/854e/d8ac/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        154
-      ]
-    },
-    {
-      "id": 778245,
-      "title": "Овечкина озолотили в России, его преемник парится в бане, русский чемпион закатил праздник в США. Лето игроков НХЛ ",
-      "type": "ARTICLE",
-      "publishDate": 1756036800119,
-      "urn": "778245-dinamo-podnyalo-styag-ovechkina-yego-naslednik-po-vashingtonu-v-bane-ulov-grebenkina-kak-zhivut-nashi-zvezdy-nkhl",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Смотрим соцсети. ",
-      "tags": [
-        13739,
-        13371,
-        9385,
-        11861,
-        12133,
-        9322,
-        9296,
-        11858,
-        13621,
-        10139,
-        25744,
-        8260
-      ],
-      "rubricId": 73,
-      "badge": "GALLERY",
-      "previewImage": {
-        "copyright": "Юрий Кузьмин, photo.khl.ru",
-        "image": "920c/5f36/14b2/4916/a4f8/3499/6f8e/bcc3/1600_900.jpeg",
-        "imageForMobile": "54ff/f794/8a24/4796/b3b0/3001/7cc2/40ed/900_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 762925,
-      "title": "Этим странным продуктом легендарная Ахматова спасалась от голода: ей хватало пару ложек, чтобы насытиться",
-      "type": "ARTICLE",
-      "publishDate": 1756033869736,
-      "urn": "etim-strannym-produktom-legendarnaya-akhmatova-spasalas-ot-goloda-yey-khvatalo-paru-lozhek-chtoby-nasytitsya",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Удивительная мука!",
-      "tags": [
-        24645,
-        27247
-      ],
-      "rubricId": 153,
-      "previewImage": {
-        "copyright": "РИА Новости",
-        "image": "7657/1fc1/dc10/44ba/9543/90fc/42e9/a0ef/1600_900.jpeg",
-        "imageForMobile": "deaf/3440/6d34/4828/b066/f573/6472/612c/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        153
-      ]
-    },
-    {
-      "id": 778154,
-      "title": "В УЕФА закрывают глаза на несправедливость. Обманули уже несколько клубов",
-      "type": "ARTICLE",
-      "publishDate": 1756032300000,
-      "urn": "778154-v-uyefa-zakryvayut-glaza-na-nespravedlivost-obmanuli-uzhe-neskolko-klubov",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Болельщики в бешенстве.",
-      "tags": [
-        14888,
-        14087,
-        14841,
-        15320,
-        15006,
-        28077
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "b523/561c/322f/4bcd/88b9/39d4/3bf9/06e4/1600_900.jpeg",
-        "imageForMobile": "8a51/ac9b/0563/4a65/83fb/134e/e43c/1f15/900_900.jpeg",
-        "tags": [
-          14841,
-          14087,
-          14888,
-          14844
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 775449,
-      "title": "Не только «Пираты Карибского моря»: 6 лучших ролей Джонни Деппа",
-      "type": "ARTICLE",
-      "publishDate": 1756028956573,
-      "urn": "ne-tolko-piraty-karibskogo-morya-6-luchshikh-roley-dzhonni-deppa",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Вспоминаем, кого еще играл знаменитый актер.",
-      "tags": [
-        14241,
-        26833,
-        24646
-      ],
-      "rubricId": 154,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "5b60/4860/46d7/4385/b8da/16fe/303b/eaff/1600_900.jpeg",
-        "imageForMobile": "8371/5948/3f09/4b6f/9e53/3ab0/8ef9/3fbe/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        154
-      ]
-    },
-    {
-      "id": 778241,
-      "title": "Грандиозная революция или безумие? В Канаде предложили убрать арбитра со льда, чтобы улучшить судейство в НХЛ",
-      "type": "ARTICLE",
-      "publishDate": 1756028700000,
-      "urn": "778241-v-kanade-predlozhili-bezumnyy-sposob-uluchshit-sudeystvo-arbitrov-khotyat-otpravit-na-vyshku-kak-v-tennise",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Кто знает, как изменится хоккей в будущем?",
-      "tags": [
-        13739,
-        14959
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Евгений Семенов, Sport24",
-        "image": "cbbf/5c12/ec9d/4254/8e2c/e911/f336/a4c1/1600_900.jpeg",
-        "imageForMobile": "383b/140a/9c78/4c7d/ae28/f4cb/5a55/55ee/900_900.png",
-        "tags": [
-          14959
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 777782,
-      "title": "Каким будет ремейк Metal Gear Solid 3: собрали первые реакции зарубежных журналистов",
-      "type": "ARTICLE",
-      "publishDate": 1756026600000,
-      "urn": "kakim-budet-remeyk-metal-gear-solid-3-sobrali-pervyye-reaktsii-zarubezhnykh-zhurnalistov-metal-gear-solid-delta-snake-eater-otzyvy-retsenzii-otsenki",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Вот чего стоит ждать от Metal Gear Solid Delta: Snake Eater.",
-      "tags": [
-        26723,
-        26828,
-        26827
-      ],
-      "rubricId": 64,
-      "previewImage": {
-        "copyright": "youtube.com",
-        "image": "7e30/ab9a/6390/4a12/bd55/2720/1a1e/16ae/1600_900.jpeg",
-        "imageForMobile": "7bc8/dc7c/585f/41d4/b12d/bbc4/b3ad/01d4/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        64
-      ]
-    },
-    {
-      "id": 774661,
-      "title": "Оказывается, Виктор Цой впервые появился на телевидении СССР не как музыкант: в необычном качестве",
-      "type": "ARTICLE",
-      "publishDate": 1756023437884,
-      "urn": "okazyvayetsya-viktor-tsoy-vpervyye-poyavilsya-na-televidenii-sssr-ne-kak-muzykant-v-neobychnom-kachestve",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Группу «Кино» тогда знали единицы. ",
-      "tags": [
-        25128,
-        24726
-      ],
-      "rubricId": 153,
-      "previewImage": {
-        "copyright": "Сергей Берменьев/ТАСС",
-        "image": "5281/fd40/d76b/4d80/9cc9/9b1b/d2c9/d478/1600_900.jpeg",
-        "imageForMobile": "283b/ff31/ae7d/4030/8104/e4be/9d28/bba9/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        153
-      ]
-    },
-    {
-      "id": 776405,
-      "title": "Honor X9c Smart стал на 25% дешевле: за 17000 руб — яркий IPS-экран, большую батарею и эффектную внешность",
-      "type": "ARTICLE",
-      "publishDate": 1756023066103,
-      "urn": "776405-honor-x9c-smart-obzor-smartfona-khonor-kh9s-smart-kharakteristiki-tsena",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Для хейтеров AMOLED-дисплеев.",
-      "tags": [
-        13895,
-        24647
-      ],
-      "rubricId": 64,
-      "previewImage": {
-        "copyright": "honor.com",
-        "image": "985f/2c6b/ccd7/457b/afff/b07d/b984/dd72/1600_900.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        64,
-        154
-      ]
-    },
-    {
-      "id": 774734,
-      "title": "«Там было невероятно грязно». Гениальный фигурист Гриньков неожиданно сделал предложение своей партнерше Гордеевой",
-      "type": "ARTICLE",
-      "publishDate": 1756022700000,
-      "urn": "figurnoye-kataniye-kak-grinkov-sdelal-gordeyevoy-predlozheniye-vyyti-za-nego-gordeyeva-i-grinkov-resheniye-uyti-iz-lyubitelskogo-sporta-istorii-iz-zhizni-figuristov",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "И все это на фоне больших изменений в карьере.",
-      "tags": [
-        14044,
-        27616,
-        10039,
-        25128
-      ],
-      "rubricId": 44,
-      "previewImage": {
-        "copyright": "Уткин Игорь, Яковлев Александр/Фотохроника ТАСС",
-        "image": "803b/65e9/dce7/45ec/83ed/902f/5f5f/9aac/1600_900.jpeg",
-        "imageForMobile": "3cda/81fa/1bf4/409c/8759/3575/308e/50d7/900_900.jpeg",
-        "tags": [
-          27616
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        44,
-        52
-      ]
-    },
-    {
-      "id": 778201,
-      "title": "Он бесит лучшего вратаря КХЛ и растет в нового Радулова! Теперь Сурина будет воспитывать легендарный Хартли",
-      "type": "ARTICLE",
-      "publishDate": 1756018800480,
-      "urn": "778201-on-besit-luchshego-vratarya-kkhl-i-rastet-v-novogo-radulova-teper-surina-budet-vospityvat-legendarnyy-khartli",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Жара на турнире в Омске. ",
-      "tags": [
-        14374,
-        15354,
-        15782,
-        13318,
-        27793,
-        13531
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Дмитрий Лошкарев, photo.khl.ru",
-        "image": "4fa3/350a/77dc/47cc/93c5/217f/2198/fc10/1600_900.jpeg",
-        "imageForMobile": "6942/2056/9388/4b01/8119/709c/386f/b68c/900_900.jpeg",
-        "tags": [
-          15782
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 778192,
-      "title": "Судейский скандал в разгар ЧМ по гимнастике. Пострадали и ученицы олимпийской чемпионки из России",
-      "type": "ARTICLE",
-      "publishDate": 1756012980000,
-      "urn": "778192-chempionat-mira-po-khudozhestvennoy-gimnastike-skandal-rezultaty-yaponiya-vyigrala-gruppovyye-uprazhneniya-komanda-kitaya-na-chetvertom-meste",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Вмешался даже президент Международной федерации.",
-      "tags": [
-        13927,
-        29355,
-        26117
-      ],
-      "rubricId": 155,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "0b9d/3035/e0ed/442b/a980/f9c3/4ad0/53b3/1600_900.jpeg",
-        "imageForMobile": "871d/8a48/0224/4826/b9d6/619f/c65c/da79/900_900.png",
-        "tags": [
-          26117
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        155,
-        52
-      ]
-    },
-    {
-      "id": 778108,
-      "title": "Крупнейший бой эпохи! Канело и Кроуфорд войдут в историю бокса как участники великого противостояния",
-      "type": "ARTICLE",
-      "publishDate": 1756011600000,
-      "urn": "778108-saul-kanelo-alvares-terens-krouford-kogda-boy-gde-smotret-data-pryamaya-translyatsiya",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Это будет легендарно!",
-      "tags": [
-        14207,
-        10000,
-        27093,
-        9955,
-        9251
-      ],
-      "rubricId": 233,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "a09f/b801/affd/4f9a/8825/7376/0cab/3373/1600_900.jpeg",
-        "imageForMobile": "0e03/b15e/4c5c/41fa/8c1c/86d7/6175/a5aa/900_900.png",
-        "tags": [
-          10000,
-          27093
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        233,
-        58
-      ]
-    },
-    {
-      "id": 777515,
-      "title": "Тест: сможете ли вы сдать ЕГЭ по русскому? Проверьте свои знания",
-      "type": "ARTICLE",
-      "publishDate": 1756009800000,
-      "urn": "test-smozheteli-vy-sdat-yege-po-russkomu-proverte-svoi-znaniya",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Уверены, что справитесь? ",
-      "tags": [
-        25589,
-        25845
-      ],
-      "rubricId": 154,
-      "badge": "TEST",
-      "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "5529/ea5d/3604/47d6/a722/b043/c174/9e3b/1408_768.jpeg",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        154,
-        153
-      ]
-    },
-    {
-      "id": 778174,
-      "title": "Лидер сборной России переходит в Европу, «Зенит» теряет звезду. Трансферы и слухи дня",
-      "type": "ARTICLE",
-      "publishDate": 1756008000000,
-      "urn": "778174-lider-sbornoy-rossii-perekhodit-v-yevropu-zenit-teryayet-zvezdnogo-braziltsa-transfery-i-slukhi-dnya-barinov-v-ayek-vendel-ukhodit-iz-zenita",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Свежее к утру. ",
-      "tags": [
-        14698,
-        15095,
-        15149,
-        12006,
-        24720,
-        26698,
-        10411,
-        15341,
-        15195,
-        15215
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "РИА Новости",
-        "image": "7578/5c01/3477/4876/9f30/68be/a3a0/fe9c/1600_900.jpeg",
-        "imageForMobile": "f6ce/b7bd/ecdd/46ad/97d6/c41a/fac8/8a65/900_900.jpeg",
-        "tags": [
-          15341,
-          24720
-        ]
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 760213,
-      "title": "Он озолотил СССР и годами прославлял страну на весь мир! Как генсек Брежнев помог великому тренеру ЦСКА Тихонову",
-      "type": "ARTICLE",
-      "publishDate": 1756004400000,
-      "urn": "on-ozolotil-sssr-i-godami-proslavlyal-stranu-na-ves-mir-kak-gensek-brezhnev-pomog-velikomu-treneru-tsska-tikhonovu",
-      "uriFormatVersion": 1,
-      "leadAnnouncement": "Тренер мог оказаться совсем в другой команде. ",
-      "tags": [
-        15077,
-        15464,
-        8649
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Сергей Гунеев, РИА Новости",
-        "image": "662b/0936/3f93/43f2/8803/973c/b362/4754/1600_900.jpeg",
-        "imageForMobile": "5764/281c/a3f2/4c05/be21/42c8/b14c/fab6/900_900.png",
-        "tags": []
-      },
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
       ]
     }
   ]

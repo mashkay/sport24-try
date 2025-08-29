@@ -1,0 +1,100 @@
+{
+  "id": 779699,
+  "editDate": 1756470794763,
+  "title": "СКА выиграл у «Автомобилиста» в предсезонном матче",
+  "type": "NEWS",
+  "publishDate": 1756470794763,
+  "urn": "779699-ska-vyigral-u-avtomobilista-v-predsezonnom-matche",
+  "uriFormatVersion": 1,
+  "tags": [
+    15120,
+    15134
+  ],
+  "rubricId": 73,
+  "previewImage": {
+    "copyright": "Александр Мысякин, Sport24",
+    "image": "11a4/edc0/c304/435f/8935/8583/afaa/9dfe/1600_900.jpeg",
+    "imageForMobile": "b332/77db/7417/4078/ae8f/830b/9bba/2b38/900_900.jpeg",
+    "tags": [
+      15134
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "5e2d/fcd1/cdf2/4a58/9bd5/66fc/a886/264e/537_240.png",
+    "image": "f18c/2d5b/438b/47a9/acb6/80fb/c87d/f261/1200_630.png"
+  },
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "СКА выиграл у «Автомобилиста» в предсезонном матче."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Встреча завершилась со счетом 2:1."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "В составе петербургского клуба по шайбе забросили Матвей Короткий и Валентин Зыков."
+        ]
+      ],
+      {}
+    ],
+    [
+      "telegram",
+      [],
+      {
+        "url": "https://t.me/hcska/27114",
+        "postId": "hcska/27114"
+      }
+    ],
+    [
+      "telegram",
+      [],
+      {
+        "url": "https://t.me/hcska/27122",
+        "postId": "hcska/27122"
+      }
+    ],
+    [
+      "p",
+      [
+        [
+          "Ранее в августе СКА выиграл у петербургского «Динамо» (5:2), а также уступил «Ак Барсу» (2:3 ОТ) и «Автомобилисту» (0:1)."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "«Автомобилист» до сегодняшнего поражения от СКА шел на серии из четыре побед в предсезонке."
+        ]
+      ],
+      {}
+    ]
+  ],
+  "rubrics": [
+    73
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}
