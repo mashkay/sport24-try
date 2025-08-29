@@ -2,7 +2,7 @@ import { createEffect, Suspense, createResource, For } from 'solid-js';
 import { fetchArticles, ArticleInterface } from './articles.data';
 import { A } from '@solidjs/router';
 
-const ArticleCard = (articleData: ArticleInterface) => {
+export const ArticleCard = (articleData: ArticleInterface) => {
     return (
         <A href={'/article/' + articleData.urn}>
             <div class='grid h-full grid-cols-2 border p-2 shadow-md hover:shadow-lg hover:scale-105 hover:ease-in-out hover:transition-all duration-100 cursor-pointer'>
@@ -22,8 +22,8 @@ const ArticleCard = (articleData: ArticleInterface) => {
 };
 
 export default function Articles() {
-    const [arcticles] = createResource(fetchArticles);
-    ``;
+    const [articles] = createResource(fetchArticles);
+
 
     return (
         <section class='bg-gray-100 text-gray-700 p-8 max-w-7xl m-auto'>
@@ -31,7 +31,7 @@ export default function Articles() {
 
             <Suspense fallback={<span>...</span>}>
                 <div class='grid grid-cols-2 gap-10 m-3'>
-                    <For each={arcticles()}>
+                    <For each={articles()}>
                         {(article) => <ArticleCard {...article} />}
                     </For>
                 </div>

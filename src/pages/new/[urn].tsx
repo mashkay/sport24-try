@@ -44,9 +44,9 @@ export default function ArticlePage() {
     return (
         <div class='max-w-7xl m-auto'>
             <Show when={article()} fallback={<p>Loading...</p>}>
-                <Show when={article().material}>
-                    <ArticleCard articleData={article().material} />
-                </Show>
+               
+                    <ArticleCard articleData={article()} />
+                
             </Show>
         </div>
     );

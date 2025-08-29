@@ -8,7 +8,7 @@ export interface ArticleInterface {
     image?: string;
 }
 
-export const fetchArticles = async (): Promise<ArticleInterface[]> => {
+export const fetchNews = async (): Promise<ArticleInterface[]> => {
     const response = await fetch('/data/NEWS.json');
     const data = await response.json();
     return data.items.map((item: any) => ({

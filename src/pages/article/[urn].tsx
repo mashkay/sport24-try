@@ -1,15 +1,19 @@
 import { useParams } from '@solidjs/router';
-import { createResource, Show } from 'solid-js';
+import { createResource, Show, Suspense } from 'solid-js';
 import { Content } from '../../components/Content';
 import { getImageUrl } from '../images';
 
 const fetchArticle = async (urn: string) => {
+    console.log('fetchArticle called with urn:', urn);
     const response = await fetch(`/data/ARTICLE/${urn}.json`);
     return response.json();
 };
 
 const ArticleCard = (props) => {
+
+
     const image = () => getImageUrl(props.articleData);
+    console.log('ArticleCard rendered');
     return (
         <div class='grid pl-5 pr-5 gap-2'>
             <Show
@@ -36,15 +40,19 @@ const ArticleCard = (props) => {
 export default function ArticlePage() {
     console.log('ArticlePage rendered');
     const params = useParams();
+    console.log('params', params);
     const [article] = createResource(() => params.urn, fetchArticle);
+    console.log('article', article());
 
     return (
         <div class='max-w-7xl m-auto'>
-            <Show when={article()} fallback={<p>Loading...</p>}>
-                <Show when={article().material}>
-                    <ArticleCard articleData={article().material} />
+
+                <Show when={article()} fallback={<p>Loading...</p>}>
+                    
+                        <ArticleCard articleData={article()} />
+                    
                 </Show>
-            </Show>
+
         </div>
     );
 }

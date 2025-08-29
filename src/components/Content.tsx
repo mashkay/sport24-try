@@ -3,7 +3,6 @@ import { Dynamic } from 'solid-js/web';
 import { createImageUrl } from '../pages/images';
 
 const Block = (props) => {
-
     return (
         <>
             <Suspense fallback={<p>Loading...</p>}>
