@@ -1,0 +1,109 @@
+{
+  "id": 779708,
+  "editDate": 1756472963796,
+  "title": "Бонгонда: «Это худший старт сезона за то время, что я в «Спартаке»",
+  "type": "NEWS",
+  "publishDate": 1756472909805,
+  "urn": "779708-bongonda-eto-khudshiy-start-sezona-za-to-vremya-chto-ya-v-spartake",
+  "uriFormatVersion": 1,
+  "tags": [
+    25923,
+    15576,
+    13853
+  ],
+  "rubricId": 48,
+  "previewImage": {
+    "copyright": "spartak.com",
+    "image": "81e8/519f/1755/4942/82e7/be7b/1bd4/96bd/1600_900.jpeg",
+    "imageForMobile": "2bb4/b1b7/6f44/449f/a34e/6dde/dd6b/f716/500_900.jpeg",
+    "tags": [
+      25923
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "e5d9/d619/1f48/46f8/8f07/f3a9/9097/7ab9/537_240.png",
+    "image": "f86e/e9e8/1531/4fe3/b335/6bb6/bc40/d174/1200_630.png"
+  },
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Полузащитник «Спартака» Тео Бонгонда высказался о выступлении команды в сезоне-2025/26."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "«Спартак» после шести туров набрал восемь очков и занимает восьмое место в РПЛ."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "«На самом деле это не лучший старт сезона, наверное худший за то время, которое я в команде. Но у нас ещё много времени, чтобы изменить ситуацию», — сказал Бонгонда в шоу «Спартак LIVE»."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "5 июня Бонгонда получил травму в товарищеском матче за сборную ДР Конго против Мали (1:0). У хавбека было выявлено повреждение ахиллова сухожилия."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Сегодня, 29 августа, Бонгонда приступил "
+        ],
+        [
+          "a",
+          [
+            [
+              "к тренировкам по индивидуальной программе"
+            ]
+          ],
+          {
+            "href": "https://sport24.ru/football/news-779689-bongonda-nachal-trenirovatsya-po-individualnoy-programme"
+          }
+        ],
+        [
+          "."
+        ]
+      ],
+      {}
+    ],
+    [
+      "competition-standings",
+      [],
+      {
+        "groupId": 12923,
+        "stageId": 10202,
+        "seasonUrn": "2025-26",
+        "competitionUrn": "rpl"
+      }
+    ]
+  ],
+  "rubrics": [
+    48
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

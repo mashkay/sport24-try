@@ -1,0 +1,84 @@
+{
+  "id": 779671,
+  "editDate": 1756462790953,
+  "title": "Кириленко планирует включить молодежную сборную России в состав участников баскетбольной Суперлиги",
+  "type": "NEWS",
+  "publishDate": 1756462790953,
+  "urn": "779671-kirilenko-planiruyet-vklyuchit-molodezhnuyu-sbornuyu-rossii-v-sostav-uchastnikov-basketbolnoy-superligi",
+  "uriFormatVersion": 1,
+  "tags": [
+    8380,
+    14696,
+    16190,
+    14863,
+    29071
+  ],
+  "rubricId": 59,
+  "previewImage": {
+    "copyright": "РИА Новости",
+    "image": "170e/c61e/0620/4db0/a6ac/36b2/c377/2573/1600_1000.jpeg",
+    "imageForMobile": "e5bc/c044/72ad/421a/ae38/32cc/128c/2be3/1000_1000.jpeg",
+    "tags": [
+      8380
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "6745/5236/b4d6/49b3/b1be/c9c5/60c0/309b/537_240.png",
+    "image": "749c/31e4/93fb/443a/9915/29fd/e737/65ac/1200_630.png"
+  },
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Молодежная сборная России по баскетболу может быть включена в список участников Суперлиги. Об этом сообщил президент Российской федерации баскетбола (РФБ) Андрей Кириленко."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "«Мы бы хотели, чтобы наша молодежная сборная, в которой собраны перспективные игроки 18-23 лет, играла в одном из чемпионатов. Не в Единой лиге ВТБ, видимо, но в Суперлиге, например. Если Минспорт наш проект поддержит, было бы круто», — цитирует Кириленко "
+        ],
+        [
+          "a",
+          [
+            [
+              "ТАСС"
+            ]
+          ],
+          {
+            "href": "https://tass.ru/sport/24902413"
+          }
+        ],
+        [
+          "."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Совет по развитию баскетбола проходит в Перми."
+        ]
+      ],
+      {}
+    ]
+  ],
+  "rubrics": [
+    59,
+    52
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

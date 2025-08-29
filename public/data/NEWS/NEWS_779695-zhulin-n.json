@@ -1,0 +1,92 @@
+{
+  "id": 779695,
+  "editDate": 1756469977328,
+  "title": "Жулин назвал фейком новость об участии Степановой и Букина в итальянском шоу",
+  "type": "NEWS",
+  "publishDate": 1756469977328,
+  "urn": "779695-zhulin-nazval-feykom-novost-ob-uchastii-stepanovoy-i-bukina-v-italyanskom-shou",
+  "uriFormatVersion": 1,
+  "tags": [
+    14885,
+    8145,
+    14044
+  ],
+  "rubricId": 44,
+  "previewImage": {
+    "copyright": "Александр Мысякин, Sport24",
+    "image": "1029/5af9/06e1/46f0/b927/1359/dbb3/fc1b/1600_900.jpeg",
+    "imageForMobile": "c9d3/fbbf/2d23/4b86/adcb/a7b8/60ce/93ca/400_720.jpeg",
+    "tags": [
+      14885
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "9817/4ee2/6407/4b7b/a853/a422/b064/e719/537_240.png",
+    "image": "0478/2468/2449/4a1f/bdc0/34d0/2a6a/8617/1200_630.png"
+  },
+  "authors": [
+    {
+      "name": "Петр",
+      "surname": "Шатров",
+      "image": "1c4b/1184/1790/4ba0/9b1b/475d/074c/a542/56_56.jpeg",
+      "urn": "petr-shatrov",
+      "id": 804
+    }
+  ],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Российский тренер Александр Жулин прокомментировал новость о приглашении отечественных фигуристов на шоу в Италию."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Ранее появилась информация, что Александра Степанова и Иван Букин станут участниками шоу Bol on Ice в Болонье."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "«Участие Степановой и Букина в итальянском шоу — фейк. Не знаю, откуда такое появилось, но это полностью ложная информация. Никто не связывался ни с федерацией, ни с тренером, ни со спортсменами. Просто появилась такая афиша с именами Александры и Ивана. Возможно, сделали так, чтобы билеты лучше продавались», — сказал Жулин в беседе с корреспондентом Sport24 Петром Шатровым."
+        ]
+      ],
+      {}
+    ],
+    [
+      "news",
+      [],
+      {
+        "newsList": [
+          {
+            "urn": "779441-rossiyskiye-figuristy-stepanova-bukin-vystupyat-v-shou-bol-on-ice-v-yanvare-2026-uchastniki-predystoriya-nedopusk-na-olimpiadu-analitika",
+            "uriFormatVersion": 1,
+            "type": "ARTICLE",
+            "title": "Звезды нашей фигурки выступят в Италии вопреки олимпийским запретам. Рассказываем про Bol on ice",
+            "image": "80f3/1169/922d/4af4/946b/d403/bce2/1353/1600_900.jpeg",
+            "rubricId": 44
+          }
+        ]
+      }
+    ]
+  ],
+  "rubrics": [
+    44,
+    52
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

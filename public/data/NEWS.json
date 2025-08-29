@@ -1,313 +1,27 @@
 {
   "items": [
     {
-      "id": 779105,
-      "title": "Туктамышева пожелала Петросян и Гуменнику стальных нервов в преддверии отбора на Олимпиаду",
+      "id": 779736,
+      "title": "Божович: «Я не считаю «Зенит» позором российского футбола. Они выигрывали Кубок и Суперкубок УЕФА»",
       "type": "NEWS",
-      "publishDate": 1756287900000,
-      "urn": "779105-tuktamysheva-pozhelala-petrosyan-i-gumenniku-stalnykh-nervov-v-preddverii-otbora-na-olimpiadu",
+      "publishDate": 1756478539096,
+      "urn": "NEWS_779736-bozhovic.json",
       "uriFormatVersion": 1,
       "tags": [
-        8249,
-        14044,
-        11013,
-        8402,
-        14027
-      ],
-      "rubricId": 44,
-      "previewImage": {
-        "copyright": "РИА Новости",
-        "image": "3e79/f3d4/275c/452d/87bc/d16c/8df7/cd4f/1600_900.jpeg",
-        "imageForMobile": "1c53/5af9/397f/4369/86cd/a8c9/82c6/91d6/500_900.jpeg",
-        "tags": [
-          8249
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        44,
-        52
-      ]
-    },
-    {
-      "id": 779106,
-      "title": "В Буркина-Фасо высказались об открытии в стране академии «Динамо»: «Это большой клуб»",
-      "type": "NEWS",
-      "publishDate": 1756287868052,
-      "urn": "779106-v-burkina-faso-vyskazalis-ob-otkrytii-v-strane-akademii-dinamo-eto-bolshoy-klub",
-      "uriFormatVersion": 1,
-      "tags": [
-        15037,
-        13853
-      ],
-      "rubricId": 48,
-      "badge": "EXCLUSIVE",
-      "previewImage": {
-        "copyright": "Екатерина Данилова, Sport24",
-        "image": "1fb9/30b5/56bb/47f8/99bc/f36a/be91/3d7a/1600_900.jpeg",
-        "imageForMobile": "504c/e5ba/441b/4d47/868a/0df8/a72e/78ee/900_900.jpeg",
-        "tags": [
-          15037
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779104,
-      "title": "Чемпион Европы покинул «Милан» и завершил игровую карьеру",
-      "type": "NEWS",
-      "publishDate": 1756287289631,
-      "urn": "779104-chempion-yevropy-pokinul-milan-i-zavershil-igrovuyu-karyeru",
-      "uriFormatVersion": 1,
-      "tags": [
-        11970,
-        14921,
-        14989
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "cce8/8f9b/6881/471c/a5de/7bd2/df3a/6943/1600_900.jpeg",
-        "tags": [
-          11970
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779103,
-      "title": "«Победный бросок»: акция от OLIMPBET к чемпионату Европы по баскетболу",
-      "type": "NEWS",
-      "publishDate": 1756287042872,
-      "urn": "779103-pobednyy-brosok-aktsiya-ot-olimpbet-k-chempionatu-yevropy-po-basketbolu",
-      "uriFormatVersion": 1,
-      "tags": [
-        26695,
-        14806,
-        14211
-      ],
-      "rubricId": 53,
-      "previewImage": {
-        "copyright": "OLIMPBET",
-        "image": "2e22/3137/15ed/4674/b4f4/e6d4/a6fb/c4ba/1703_993.jpeg",
-        "tags": []
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        53,
-        59
-      ]
-    },
-    {
-      "id": 779102,
-      "title": "Быстров о работе Морено в «Сочи»: «Человек уже утонул на Черном море, а его все реанимируют»",
-      "type": "NEWS",
-      "publishDate": 1756286867661,
-      "urn": "779102-bystrov-o-rabote-moreno-v-sochi-chelovek-uzhe-utonul-na-chernom-more-a-yego-vse-reanimiruyut",
-      "uriFormatVersion": 1,
-      "tags": [
-        13433,
-        13339,
-        15372,
-        13853
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "59a1/0ae3/fcbe/4966/82b0/a41b/5b53/5641/1600_1000.jpeg",
-        "imageForMobile": "d35d/c136/834c/4524/bb8f/8d3f/23fb/7ab3/555_1000.jpeg",
-        "tags": [
-          13339
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 777511,
-      "title": "WINLINE открыл футбольную площадку WIN COURT в Камызяке совместно с Азаматом Мусагалиевым и ФК10",
-      "type": "NEWS",
-      "publishDate": 1756286801840,
-      "urn": "777511-winline-otkryl-futbolnuyu-ploshchadku-win-court-v-kamyzyake-sovmestno-s-azamatom-musagaliyevym-i-fk10",
-      "uriFormatVersion": 1,
-      "tags": [
-        26693,
-        28482
-      ],
-      "rubricId": 48,
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48,
-        53
-      ]
-    },
-    {
-      "id": 779099,
-      "title": "В IIHF сообщили, что в допинг-пробе экс-игрока сборной России Григоренко было найдено шесть запрещенных веществ",
-      "type": "NEWS",
-      "publishDate": 1756286426800,
-      "urn": "779099-v-iihf-soobshchili-chto-v-doping-probe-grigorenko-bylo-naydeno-shest-zapreshchennykh-veshchestv",
-      "uriFormatVersion": 1,
-      "tags": [
-        9671,
-        13698,
-        13700,
-        14374,
-        15257
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Светлана Садыкова, photo.khl.ru",
-        "image": "2bd5/eee2/bba9/41cb/8446/f7ad/9f55/7589/1600_900.jpeg",
-        "imageForMobile": "e811/5259/0527/419e/82a3/0488/39db/6157/900_900.jpeg",
-        "tags": [
-          9671
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 779098,
-      "title": "Карпин: «Период Миранчука в Швейцарии трудно назвать удачным»",
-      "type": "NEWS",
-      "publishDate": 1756286155511,
-      "urn": "779098-karpin-period-miranchuka-v-shveytsarii-trudno-nazvat-udachnym",
-      "uriFormatVersion": 1,
-      "tags": [
-        12982,
-        12007,
-        15812,
-        15037,
-        13853
-      ],
-      "rubricId": 48,
-      "badge": "EXCLUSIVE",
-      "previewImage": {
-        "copyright": "fcsion.ch",
-        "image": "cacf/38d8/2fd1/4bb0/b28b/1e7c/47a8/b470/1600_900.jpeg",
-        "imageForMobile": "c373/b578/d2d6/4494/83a6/5d6a/3645/6ed4/900_900.jpeg",
-        "tags": [
-          12007
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779093,
-      "title": "Джокович заявил о желании выучить русский язык",
-      "type": "NEWS",
-      "publishDate": 1756286100000,
-      "urn": "779093-dzhokovich-zayavil-o-zhelanii-vyuchit-russkiy-yazyk",
-      "uriFormatVersion": 1,
-      "tags": [
-        9846
-      ],
-      "rubricId": 50,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "56d0/14b7/c0e0/4c23/9524/c644/bc29/72b4/1600_900.jpeg",
-        "imageForMobile": "b294/f70f/77ed/4526/8afa/7f8c/eacf/ae12/900_900.jpeg",
-        "tags": [
-          9846
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        50,
-        52
-      ]
-    },
-    {
-      "id": 779097,
-      "title": "«Питтсбург» обновит клубный Зал славы впервые за 12 лет. Ягр станет одним из 10 новых членов",
-      "type": "NEWS",
-      "publishDate": 1756285689786,
-      "urn": "779097-pittsburg-obnovit-klubnyy-zal-slavy-vpervyye-za-12-let-yagr-stanet-odnim-iz-10-novykh-chlenov",
-      "uriFormatVersion": 1,
-      "tags": [
-        15182,
-        13739,
-        10817
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "nhl.com",
-        "image": "c679/881f/fbe3/4a02/beb2/0d11/dc07/bf10/1600_900.jpeg",
-        "imageForMobile": "85b0/4657/dd94/49f3/86d7/5029/4784/6a8d/500_900.jpeg",
-        "tags": [
-          10817
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 779095,
-      "title": "Батчи: «Сперцян мог бы заиграть в любой команде из топ-5 лиг Европы»",
-      "type": "NEWS",
-      "publishDate": 1756285244965,
-      "urn": "779095-batchi-spertsyan-mogby-zaigrat-v-lyuboy-komande-iz-top-5-lig-yevropy",
-      "uriFormatVersion": 1,
-      "tags": [
+        13336,
+        15341,
         13853,
-        24648,
-        25105,
-        14973
+        14114
       ],
       "rubricId": 48,
       "badge": "EXCLUSIVE",
       "previewImage": {
-        "copyright": "fckrasnodar.ru",
-        "image": "685a/fade/3b0f/4224/a186/5ab2/4063/06f3/1600_900.jpeg",
-        "imageForMobile": "d5a5/81bb/a853/49c9/a0a4/b76e/bf23/b866/900_900.jpeg",
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "796a/27f1/0d37/c703/bc2e/9c8f/3586/edc2/1600_900.jpeg",
+        "imageForMobile": "75ef/37f9/5705/441d/8e6a/6851/8b1a/14b4/900_900.jpeg",
         "tags": [
-          24648
+          13336,
+          15273
         ]
       },
       "hidePreviewImage": true,
@@ -319,50 +33,107 @@
       ]
     },
     {
-      "id": 779076,
-      "title": "Баскетбол. Чемпионат Европы. Мужчины. Чехия — Португалия. Прямая трансляция: смотреть онлайн",
+      "id": 779735,
+      "title": "Футзал. КПРФ — «Норильский никель». 1-й матч. Прямая трансляция: смотреть онлайн",
       "type": "NEWS",
-      "publishDate": 1756285200000,
-      "urn": "779076-basketbol-chempionat-yevropy-muzhchiny-chekhiya-portugaliya-pryamaya-translyatsiya-smotret-onlayn",
+      "publishDate": 1756478494100,
+      "urn": "NEWS_779735-futzal-k.json",
       "uriFormatVersion": 1,
       "tags": [
-        14863,
-        27775,
-        29007
+        14175
       ],
-      "rubricId": 59,
+      "rubricId": 52,
       "badge": "VIDEO",
       "hidePreviewImage": true,
       "hideComments": false,
       "advertisingPartnerMaterial": false,
       "top": false,
       "rubrics": [
-        59,
         52
       ]
     },
     {
-      "id": 779094,
-      "title": "Тренер «Авангарда» оценил сравнения Гуляева с Макаром: «Зачем давить на парня?»",
+      "id": 779734,
+      "title": "«Провинились в чем-то разве? Я не понимаю». Тарасова — о критериях допуска россиян на Олимпийские игры 2026",
       "type": "NEWS",
-      "publishDate": 1756285042747,
-      "urn": "779094-trener-avangarda-otsenil-sravneniya-gulyayeva-s-makarom-zachem-davit-na-parnya",
+      "publishDate": 1756478145692,
+      "urn": "NEWS_779734-provinil.json",
       "uriFormatVersion": 1,
       "tags": [
-        26003,
-        13739,
+        13894,
+        24865,
+        14044,
+        10039,
+        14027
+      ],
+      "rubricId": 44,
+      "previewImage": {
+        "copyright": "Евгений Семенов, Sport24",
+        "image": "5288/8b92/ab7c/4bc0/a6d3/a0d9/dfb3/7986/1600_1000.jpeg",
+        "imageForMobile": "0862/d162/1a90/4cc7/93a7/7d63/63d6/a116/1000_1000.jpeg",
+        "tags": [
+          10039
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": true,
+      "rubrics": [
+        44,
+        52
+      ]
+    },
+    {
+      "id": 779733,
+      "title": "Друг Макгрегора: «Возможно, приду на бой Махачева и запрыгну в клетку, чтобы отомстить»",
+      "type": "NEWS",
+      "publishDate": 1756478031843,
+      "urn": "NEWS_779733-drug-mak.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        9959,
+        13072,
+        13746,
+        14292
+      ],
+      "rubricId": 58,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "694d/1550/2304/4c10/a51e/5a75/8ea9/ed37/1600_900.jpeg",
+        "imageForMobile": "d91b/45fa/c82f/42a1/a27b/5484/4c90/8838/900_900.jpeg",
+        "tags": [
+          9959
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": true,
+      "rubrics": [
+        58
+      ]
+    },
+    {
+      "id": 779732,
+      "title": "Соколов — о новом тренере «Торпедо»: «Нет ничего нестандартного в его системе»",
+      "type": "NEWS",
+      "publishDate": 1756477873475,
+      "urn": "NEWS_779732-sokolov-.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        11342,
         14374,
-        15782,
-        28175,
-        26177,
-        15167
+        15013,
+        28986
       ],
       "rubricId": 73,
       "previewImage": {
-        "copyright": "Getty Images",
-        "image": "ef7a/0c49/6af1/426a/a368/e391/dab5/43c1/1600_900.jpeg",
+        "copyright": "hczaural.ru",
+        "image": "188d/9020/b677/42b0/9184/d301/963f/53c0/1600_900.jpeg",
+        "imageForMobile": "2e82/4e1a/4c89/429a/80be/b422/7d02/5cc5/900_900.jpeg",
         "tags": [
-          26177
+          28986
         ]
       },
       "hidePreviewImage": true,
@@ -374,55 +145,24 @@
       ]
     },
     {
-      "id": 779084,
-      "title": "Смолов рассказал о разговоре со Сперцяном: «Чемпионшип — не тот чемпионат, где Эдик может проявить лучшие качества»",
+      "id": 779731,
+      "title": "«Зенит» продал капитана второй команды в «Рубин»",
       "type": "NEWS",
-      "publishDate": 1756285020000,
-      "urn": "779084-smolov-rasskazal-o-razgovore-so-spertsyanom-chempionship-ne-tot-chempionat-gde-edik-mozhet-proyavit-luchshiye-kachestva",
+      "publishDate": 1756477505189,
+      "urn": "NEWS_779731-zenit-pr.json",
       "uriFormatVersion": 1,
       "tags": [
-        10348,
-        24648,
-        14973,
+        15450,
+        15341,
         13853,
-        13847
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Александр Мысякин, Sport24",
-        "image": "7bfa/3c6b/0b35/494f/baae/f205/c230/35f8/1600_900.jpeg",
-        "imageForMobile": "cbad/cac7/73b5/4fd8/9ab4/2322/c9ae/8866/900_900.jpeg",
-        "tags": [
-          24648
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779091,
-      "title": "Дортмундская «Боруссия» арендовала центрального защитника «Челси»",
-      "type": "NEWS",
-      "publishDate": 1756284054722,
-      "urn": "779091-dortmundskaya-borussiya-arendovala-tsentralnogo-zashchitnika-chelsi",
-      "uriFormatVersion": 1,
-      "tags": [
-        15690,
-        14269,
-        14969,
-        13838,
+        14972,
         14698
       ],
       "rubricId": 48,
       "previewImage": {
-        "copyright": "bvb.de",
-        "image": "5671/c501/107f/4efd/bf9b/a57e/54dd/a698/1600_900.jpeg",
-        "imageForMobile": "3142/8aed/6316/4757/8d19/9ee3/f4d3/e137/900_900.jpeg",
+        "copyright": "fc-zenit.ru",
+        "image": "41dc/5d32/3817/4738/9cdd/f217/8bba/cd36/1600_900.jpeg",
+        "imageForMobile": "3afc/1368/11af/44cd/844d/f1ab/961a/e348/900_900.jpeg",
         "tags": []
       },
       "hidePreviewImage": true,
@@ -434,24 +174,24 @@
       ]
     },
     {
-      "id": 779088,
-      "title": "Швентек — о примирении Шараповой и Серены Уильямс: «Я в шоке от того, что им удалось это уладить»",
+      "id": 779729,
+      "title": "Истомин — о допуске биатлонистов: «Зависит только от политики, все решается на этом уровне. До января время есть»",
       "type": "NEWS",
-      "publishDate": 1756283876672,
-      "urn": "779088-shventek-o-primirenii-sharapovoy-i-sereny-uilyams-ya-v-shoke-ot-togo-chto-im-udalos-eto-uladit",
+      "publishDate": 1756477189890,
+      "urn": "NEWS_779729-istomin-.json",
       "uriFormatVersion": 1,
       "tags": [
-        8949,
-        9860,
-        9430
+        25196,
+        14695,
+        14027
       ],
-      "rubricId": 50,
+      "rubricId": 86,
       "previewImage": {
-        "copyright": "Getty Images",
-        "image": "6710/b730/e06d/49db/ed20/c533/1bec/0d25/1600_900.jpeg",
+        "copyright": "РИА Новости",
+        "image": "3550/9d65/e4c2/4f96/99d0/7dc0/1ff4/ccbd/1600_900.jpeg",
+        "imageForMobile": "299b/3d59/523b/4942/867c/e0c0/ca94/15a2/900_900.jpeg",
         "tags": [
-          9430,
-          9860
+          25196
         ]
       },
       "hidePreviewImage": true,
@@ -459,28 +199,293 @@
       "advertisingPartnerMaterial": false,
       "top": false,
       "rubrics": [
-        50,
+        86,
         52
       ]
     },
     {
-      "id": 779090,
-      "title": "Россиянин Дауев попал в ONE благодаря Малыхину: «Заряжаешься чувством, что можешь стать чемпионом»",
+      "id": 779728,
+      "title": "Футзал. ЛКС — «Тюмень». 1-й матч. Прямая трансляция: смотреть онлайн",
       "type": "NEWS",
-      "publishDate": 1756283814117,
-      "urn": "779090-rossiyanin-dauyev-popal-v-one-blagodarya-malykhinu-zaryazhayeshsya-chuvstvom-chto-mozhesh-stat-chempionom",
+      "publishDate": 1756477133310,
+      "urn": "NEWS_779728-futzal-l.json",
       "uriFormatVersion": 1,
       "tags": [
-        25072,
+        14175
+      ],
+      "rubricId": 52,
+      "badge": "VIDEO",
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        52
+      ]
+    },
+    {
+      "id": 779730,
+      "title": "CAS отклонил апелляцию на отстранение украинской чемпионки Европы",
+      "type": "NEWS",
+      "publishDate": 1756477124182,
+      "urn": "NEWS_779730-cas-otkl.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        13698,
+        14300
+      ],
+      "rubricId": 52,
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        52
+      ]
+    },
+    {
+      "id": 779726,
+      "title": "«Царукян находится в чистилище ММА» — член Зала славы UFC",
+      "type": "NEWS",
+      "publishDate": 1756476712754,
+      "urn": "NEWS_779726-tsarukya.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        10015,
+        9053,
         13746,
-        25100
+        14292
       ],
       "rubricId": 58,
       "previewImage": {
-        "copyright": "@anmalykhin",
-        "image": "8e7b/0d07/546b/4189/9293/bd48/8c93/2a67/1600_1081.jpeg",
+        "copyright": "Getty Images",
+        "image": "61c6/32ce/0b2f/4d0a/bc4a/d2b3/2f65/5ca3/1600_900.jpeg",
+        "imageForMobile": "6cee/711f/471b/4f3b/9a4c/65a1/2f0a/b848/900_900.jpeg",
         "tags": [
-          25072
+          9053
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": true,
+      "rubrics": [
+        58
+      ]
+    },
+    {
+      "id": 779725,
+      "title": "Артета заявил, что Мартинелли не покинет «Арсенал»",
+      "type": "NEWS",
+      "publishDate": 1756476483951,
+      "urn": "NEWS_779725-arteta-z.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        8197,
+        13838,
+        15215,
+        12354
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "87f2/9629/24ee/42d4/a17e/cc57/3292/0bf7/1600_900.jpeg",
+        "imageForMobile": "201b/7e56/1338/4b96/85f2/a0e7/f5cf/2b31/900_900.jpeg",
+        "tags": [
+          12354
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779724,
+      "title": "Волейбол. Мужчины. Россия — Белоруссия. Прямая трансляция: смотреть онлайн",
+      "type": "NEWS",
+      "publishDate": 1756476233835,
+      "urn": "NEWS_779724-voleybol.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        14198,
+        27850
+      ],
+      "rubricId": 46,
+      "badge": "VIDEO",
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        46,
+        52
+      ]
+    },
+    {
+      "id": 779722,
+      "title": "Кубок мэра Москвы. «Спартак» — «Шанхай Дрэгонс». Трансляция",
+      "type": "NEWS",
+      "publishDate": 1756476028396,
+      "urn": "NEWS_779722-kubok-me.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        15293,
+        15665,
+        14374
+      ],
+      "rubricId": 73,
+      "badge": "VIDEO",
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779713,
+      "title": "«Родина» — «Торпедо». Видеотрансляция: смотреть онлайн",
+      "type": "NEWS",
+      "publishDate": 1756476000000,
+      "urn": "NEWS_779713-rodina-t.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        15483,
+        15716,
+        29002,
+        14883,
+        26693
+      ],
+      "rubricId": 48,
+      "badge": "VIDEO",
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779723,
+      "title": "Кирилл Глебов: «Хочется закрепиться в сборной России на долгое время»",
+      "type": "NEWS",
+      "publishDate": 1756475798323,
+      "urn": "NEWS_779723-kirill-g.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        25688,
+        15265,
+        15556
+      ],
+      "rubricId": 48,
+      "badge": "EXCLUSIVE",
+      "previewImage": {
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "fe04/8416/e982/4ca0/8da3/d921/13b0/0938/1600_900.jpeg",
+        "imageForMobile": "90db/4229/b0bb/4756/9a84/a8c3/964c/aac3/900_900.jpeg",
+        "tags": [
+          25688
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": true,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779720,
+      "title": "Глава СБР Майгуров рассказал о «главной фишке» предстоящего биатлонного сезона",
+      "type": "NEWS",
+      "publishDate": 1756475792618,
+      "urn": "NEWS_779720-glava-sb.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        14710,
+        14695,
+        13900
+      ],
+      "rubricId": 86,
+      "previewImage": {
+        "copyright": "РИА Новости",
+        "image": "736b/863a/d906/4a3a/a0b6/cb3d/da92/8918/1600_900.jpeg",
+        "imageForMobile": "1b62/917b/aaaa/46e8/a44f/f04f/c416/41af/500_900.jpeg",
+        "tags": [
+          13900,
+          14710
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        86,
+        52
+      ]
+    },
+    {
+      "id": 779721,
+      "title": "Яковлев перешел из ЦСКА в ульяновскую «Волгу»",
+      "type": "NEWS",
+      "publishDate": 1756475549433,
+      "urn": "NEWS_779721-yakovlev.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        24640,
+        15265,
+        15539,
+        13715,
+        13853,
+        14698
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "@vladukha_yak",
+        "image": "9d8c/34d8/ca04/40d4/bc83/d099/11e2/a493/1600_1000.jpeg",
+        "imageForMobile": "8045/4221/e063/44c8/b2cd/b79a/85e5/91f7/555_1000.jpeg",
+        "tags": [
+          24640
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": true,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779717,
+      "title": "Чемпион UFC сделал смелый прогноз на бой Топурия — Махачев: «Может победить досрочно»",
+      "type": "NEWS",
+      "publishDate": 1756475292609,
+      "urn": "NEWS_779717-chempion.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        9959,
+        13746,
+        14292,
+        8672,
+        8931
+      ],
+      "rubricId": 58,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "4e8d/6b3f/a7c5/401f/ad8c/0e77/f7e2/9d9f/1600_900.jpeg",
+        "imageForMobile": "8411/022b/8b51/485a/9f96/f55f/9905/175c/900_900.png",
+        "tags": [
+          9959,
+          8672
         ]
       },
       "hidePreviewImage": true,
@@ -492,23 +497,23 @@
       ]
     },
     {
-      "id": 779087,
-      "title": "«Ак Барс» продлил контракт с форвардом Жулиным",
+      "id": 779718,
+      "title": "Пловец Колесников: «На чемпионате мира иностранцы поздравляли с победами. Все настроены дружелюбно»",
       "type": "NEWS",
-      "publishDate": 1756283160000,
-      "urn": "779087-ak-bars-prodlil-kontrakt-s-forvardom-zhulinym",
+      "publishDate": 1756475221037,
+      "urn": "NEWS_779718-plovets-.json",
       "uriFormatVersion": 1,
       "tags": [
-        15005,
-        14374
+        13992,
+        14427
       ],
-      "rubricId": 73,
+      "rubricId": 52,
       "previewImage": {
-        "copyright": "ak-bars.ru",
-        "image": "764a/5744/c2e0/42c8/93c3/1357/d572/3b05/960_640.jpeg",
-        "imageForMobile": "82df/c340/57c9/456e/b8ac/5b87/3571/977a/640_640.jpeg",
+        "copyright": "Getty Images",
+        "image": "622c/15b6/ae87/4390/8dbc/6049/9db4/97dd/1600_900.jpeg",
+        "imageForMobile": "2613/21ca/9b4b/44eb/935c/f989/5634/f253/900_900.jpeg",
         "tags": [
-          15005
+          13992
         ]
       },
       "hidePreviewImage": true,
@@ -516,30 +521,153 @@
       "advertisingPartnerMaterial": false,
       "top": false,
       "rubrics": [
-        73
+        52
       ]
     },
     {
-      "id": 779085,
-      "title": "Жоаозиньо осудил высказывания Клаудиньо: «Неправильно говорить так о стране, которая многое тебе дала»",
+      "id": 779715,
+      "title": "Тренер Делла Маддалены: «Соглашаться на бой с Чимаевым опасно, он может провалить взвешивание»",
       "type": "NEWS",
-      "publishDate": 1756282800000,
-      "urn": "779085-zhoaozino-osudil-vyskazyvaniya-klaudino-nepravilno-govorit-tak-o-strane-kotoraya-mnogoye-tebe-dala",
+      "publishDate": 1756474466709,
+      "urn": "NEWS_779715-trener-d.json",
       "uriFormatVersion": 1,
       "tags": [
-        11537,
-        24551,
-        15341,
-        13853
+        8459,
+        24783,
+        13746,
+        14292
+      ],
+      "rubricId": 58,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "a45c/2a03/3c4d/42e9/901c/468a/cbf3/3ff6/1600_900.jpeg",
+        "imageForMobile": "c921/691f/aefe/410c/837b/6fb1/30e3/3887/500_900.jpeg",
+        "tags": [
+          8459
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        58
+      ]
+    },
+    {
+      "id": 779712,
+      "title": "TOP DOG PROSPECT 28: идеальное завершение лета с OLIMPBET",
+      "type": "NEWS",
+      "publishDate": 1756474396662,
+      "urn": "NEWS_779712-top-dog-.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        26695,
+        14408,
+        14806
+      ],
+      "rubricId": 53,
+      "previewImage": {
+        "copyright": "OLIMPBET",
+        "image": "3bde/fff0/47f0/43d2/a5c3/a766/e2da/112e/1200_800.jpeg",
+        "imageForMobile": "7ec8/590e/1ec4/4641/b874/58a8/f033/a5ff/800_800.png",
+        "tags": []
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        53,
+        58
+      ]
+    },
+    {
+      "id": 779716,
+      "title": "Лукин: «Попасть в сборную России — честь и гордость. Я всю жизнь к этому стремился»",
+      "type": "NEWS",
+      "publishDate": 1756474373070,
+      "urn": "NEWS_779716-lukin-po.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        25299,
+        15265,
+        13853,
+        15556
       ],
       "rubricId": 48,
       "badge": "EXCLUSIVE",
       "previewImage": {
-        "copyright": "Александр Мысякин, Sport24",
-        "image": "bf24/0472/c86a/4e0d/8b84/f3af/2ca5/c95c/1600_900.jpeg",
-        "imageForMobile": "f006/2d2a/496d/4636/af85/0db7/ea19/122f/900_900.jpeg",
+        "copyright": "pfc-cska.com",
+        "image": "3d30/37ad/214b/4246/a717/3515/5b94/fe02/1600_900.jpeg",
+        "imageForMobile": "1e62/4b31/4fda/4cdf/8927/5e36/88ea/61c7/500_900.jpeg",
         "tags": [
-          24551
+          25299
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779711,
+      "title": "Защитник «Спартака» Денисов провел тренировку в стиле UFC под руководством Павловича",
+      "type": "NEWS",
+      "publishDate": 1756473820771,
+      "urn": "NEWS_779711-zashchit.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        25028,
+        15576,
+        10005,
+        13746,
+        14292,
+        13853
+      ],
+      "rubricId": 48,
+      "badge": "VIDEO",
+      "previewImage": {
+        "copyright": "@fcsmtg",
+        "image": "abef/d827/85f6/468f/83b8/15f3/cbae/5704/1600_900.jpeg",
+        "imageForMobile": "3ac6/ad84/5a8c/445c/8d67/91d6/08fc/2307/900_900.jpeg",
+        "tags": [
+          10005,
+          25028
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48,
+        58
+      ]
+    },
+    {
+      "id": 779710,
+      "title": "Альба покинет пост главного тренера «Ростова» после матча с «Ахматом» — источник",
+      "type": "NEWS",
+      "publishDate": 1756473728995,
+      "urn": "NEWS_779710-alba-pok.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        28551,
+        15034,
+        15128,
+        13853
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "dfef/25bf/b474/4ad6/8f1e/a4fc/d40b/c5a5/1600_900.jpeg",
+        "imageForMobile": "a91e/92d1/41e8/4975/a9e1/574f/7fe2/9976/900_900.jpeg",
+        "tags": [
+          28551
         ]
       },
       "hidePreviewImage": true,
@@ -551,83 +679,84 @@
       ]
     },
     {
-      "id": 779086,
-      "title": "«Тех, кто остался на базе, чуть-чуть потрясло». В «Динамо» Мх прокомментировали землетрясение в Дагестане",
+      "id": 779709,
+      "title": "Усик зажигательно станцевал на сцене на фоне слухов о травме",
       "type": "NEWS",
-      "publishDate": 1756282412336,
-      "urn": "779086-tekh-kto-ostalsya-na-baze-chut-chut-potryaslo-v-dinamo-mkh-prokommentirovali-zemletryaseniye-v-dagestane",
+      "publishDate": 1756473614586,
+      "urn": "NEWS_779709-usik-zaz.json",
       "uriFormatVersion": 1,
       "tags": [
-        10120,
-        25472,
-        14631
+        26635,
+        14207,
+        9906
       ],
-      "rubricId": 48,
-      "badge": "EXCLUSIVE",
-      "previewImage": {
-        "copyright": "twitter.com/UfaFc",
-        "image": "804a/09b3/6499/4e13/93ce/35c4/bd82/ba71/1600_1000.jpeg",
-        "imageForMobile": "064d/2b7b/8cf8/4301/b6d6/7bc5/b510/0d9c/1000_1000.jpeg",
-        "tags": [
-          10120
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779083,
-      "title": "«Аль-Наср» Роналду представил гостевую форму на новый сезон",
-      "type": "NEWS",
-      "publishDate": 1756282200000,
-      "urn": "779083-al-nasr-ronaldu-predstavil-gostevuyu-formu-na-novyy-sezon",
-      "uriFormatVersion": 1,
-      "tags": [
-        15998,
-        14278,
-        26034
-      ],
-      "rubricId": 48,
-      "badge": "GALLERY",
-      "previewImage": {
-        "copyright": "AlNassrFcStore",
-        "image": "7e4c/6e4e/f9ce/4b1a/aec4/026b/3e8c/4a39/1600_900.jpeg",
-        "imageForMobile": "9bba/90dd/915f/4e77/9d47/8b91/e4b1/4e8e/900_900.jpeg",
-        "tags": []
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779081,
-      "title": "В Медиалиге не исключают в будущем приглашения Месси и Роналду в качестве гостей турнира",
-      "type": "NEWS",
-      "publishDate": 1756281806927,
-      "urn": "779081-v-medialige-ne-isklyuchayut-v-budushchem-priglasheniya-messi-i-ronaldu-v-kachestve-gostey-turnira",
-      "uriFormatVersion": 1,
-      "tags": [
-        10908,
-        10705,
-        24937
-      ],
-      "rubricId": 48,
+      "rubricId": 233,
+      "badge": "VIDEO",
       "previewImage": {
         "copyright": "Getty Images",
-        "image": "d48f/c397/c55d/4dfa/863f/95df/ba79/e54c/1600_900.jpeg",
-        "imageForMobile": "82d4/8a74/b9c8/41ec/a0cd/2541/f8e3/2a17/900_900.jpeg",
+        "image": "761d/85eb/def6/4347/87b8/2a6a/0012/ee88/1600_900.jpeg",
         "tags": [
-          10705,
-          10908
+          9906
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        233,
+        58
+      ]
+    },
+    {
+      "id": 779705,
+      "title": "Грузинский чемпион UFC хочет потренироваться с Макгрегором: «Он очень мотивирован»",
+      "type": "NEWS",
+      "publishDate": 1756472911168,
+      "urn": "NEWS_779705-gruzinsk.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        13072,
+        13746,
+        14292,
+        8931
+      ],
+      "rubricId": 58,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "74b2/f66b/b218/4a27/9ab7/ae62/95ca/4876/1600_900.jpeg",
+        "imageForMobile": "160c/adc1/4a30/47c6/bcf6/4258/edd8/6ff8/500_900.jpeg",
+        "tags": [
+          13072
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        58
+      ]
+    },
+    {
+      "id": 779708,
+      "title": "Бонгонда: «Это худший старт сезона за то время, что я в «Спартаке»",
+      "type": "NEWS",
+      "publishDate": 1756472909805,
+      "urn": "NEWS_779708-bongonda.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        25923,
+        15576,
+        13853
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "spartak.com",
+        "image": "81e8/519f/1755/4942/82e7/be7b/1bd4/96bd/1600_900.jpeg",
+        "imageForMobile": "2bb4/b1b7/6f44/449f/a34e/6dde/dd6b/f716/500_900.jpeg",
+        "tags": [
+          25923
         ]
       },
       "hidePreviewImage": true,
@@ -639,11 +768,11 @@
       ]
     },
     {
-      "id": 779068,
-      "title": "Баскетбол. Чемпионат Европы. Мужчины. Великобритания — Литва. Прямая трансляция: смотреть онлайн",
+      "id": 779696,
+      "title": "Евробаскет-2025. Эстония — Латвия. Прямая трансляция: смотреть онлайн",
       "type": "NEWS",
-      "publishDate": 1756281600000,
-      "urn": "779068-basketbol-chempionat-yevropy-muzhchiny-velikobritaniya-litva-gruppovoy-etap-pryamaya-translyatsiya-smotret-onlayn",
+      "publishDate": 1756472400000,
+      "urn": "NEWS_779696-yevrobas.json",
       "uriFormatVersion": 1,
       "tags": [
         14863,
@@ -657,19 +786,339 @@
       "advertisingPartnerMaterial": false,
       "top": false,
       "rubrics": [
-        59,
+        59
+      ]
+    },
+    {
+      "id": 779707,
+      "title": "«Нефтехимик» объявил об уходе Бобкова",
+      "type": "NEWS",
+      "publishDate": 1756472099456,
+      "urn": "NEWS_779707-neftekhi.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        9426,
+        15263,
+        14374
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "Владимир Беззубов, photo.khl.ru",
+        "image": "74af/10da/b8dc/2192/de59/89b6/9db1/1ec3/1600_900.jpeg",
+        "tags": [
+          9426
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779701,
+      "title": "Результаты жеребьевки общего раунда Лиги конференций",
+      "type": "NEWS",
+      "publishDate": 1756471664886,
+      "urn": "NEWS_779701-rezultat.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        14960,
+        27795,
+        24466,
+        16047,
+        15913,
+        15176,
+        15883,
+        15768,
+        14967
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "ef1a/e9cb/d722/41ab/a979/50cf/8c1c/520e/1600_900.jpeg",
+        "imageForMobile": "ec6b/335a/54d9/41af/acd5/ed47/ea10/ced9/400_720.png",
+        "tags": [
+          14960
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779704,
+      "title": "«Спартак» привел статистику Умярова после непопадания в сборную: «Счастливы иметь такого игрока в команде \"",
+      "type": "NEWS",
+      "publishDate": 1756471567327,
+      "urn": "NEWS_779704-spartak-.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        10451,
+        15576,
+        13853,
+        15556
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "7816/1fd9/0486/4bbf/a3a9/65d4/01b6/b1d7/1600_1000.jpeg",
+        "imageForMobile": "c87c/67e8/4bf1/4375/ab6d/ac25/227a/28b9/555_1000.png",
+        "tags": [
+          10451
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779700,
+      "title": "Кубок губернатора Челябинской области. Финал. «Трактор» — «Амур». Трансляция",
+      "type": "NEWS",
+      "publishDate": 1756471523060,
+      "urn": "NEWS_779700-kubok-gu.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        15414,
+        15068,
+        14374
+      ],
+      "rubricId": 73,
+      "badge": "VIDEO",
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779703,
+      "title": "«Лада» обыграла «Сочи» и заняла 3-е место на Кубке губернатора Челябинской области",
+      "type": "NEWS",
+      "publishDate": 1756470966108,
+      "urn": "NEWS_779703-lada-oby.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        15313,
+        15257,
+        14374
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "Андрей Холмов, photo.khl.ru",
+        "image": "693a/7585/a6ca/411d/b226/47bf/f616/2102/1600_900.jpeg",
+        "imageForMobile": "f9e0/09fa/a2fb/419b/aa41/38cd/f7c1/02bd/900_900.jpeg",
+        "tags": [
+          15313
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779699,
+      "title": "СКА выиграл у «Автомобилиста» в предсезонном матче",
+      "type": "NEWS",
+      "publishDate": 1756470794763,
+      "urn": "NEWS_779699-ska-vyig.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        15120,
+        15134
+      ],
+      "rubricId": 73,
+      "badge": "VIDEO",
+      "previewImage": {
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "11a4/edc0/c304/435f/8935/8583/afaa/9dfe/1600_900.jpeg",
+        "imageForMobile": "b332/77db/7417/4078/ae8f/830b/9bba/2b38/900_900.jpeg",
+        "tags": [
+          15134
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779658,
+      "title": "«Родина» — «Торпедо». Прямая трансляция: смотреть онлайн",
+      "type": "NEWS",
+      "publishDate": 1756470600000,
+      "urn": "NEWS_779658-rodina-t.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        15483,
+        15716,
+        14883,
+        29002,
+        26693
+      ],
+      "rubricId": 48,
+      "badge": "VIDEO",
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779698,
+      "title": "Тренер Делла Маддалены: «Махачева слишком рано вознесли на пьедестал»",
+      "type": "NEWS",
+      "publishDate": 1756470401702,
+      "urn": "NEWS_779698-trener-d.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        24783,
+        9959,
+        13746,
+        14292
+      ],
+      "rubricId": 58,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "a5cb/4776/c46b/4553/95d4/c2f1/e18b/d313/1600_900.jpeg",
+        "imageForMobile": "0822/9836/13e3/4d6c/a9d8/72e9/6353/9afc/900_900.jpeg",
+        "tags": [
+          24783,
+          9959
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": true,
+      "rubrics": [
+        58
+      ]
+    },
+    {
+      "id": 779697,
+      "title": "Дзюба оценил формат фиджитал-футбола",
+      "type": "NEWS",
+      "publishDate": 1756470265455,
+      "urn": "NEWS_779697-dzyuba-o.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        10595,
+        15772,
+        13853
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "fcakron.ru",
+        "image": "7153/1f81/e6a9/4ba1/ab41/17a2/4a11/a0cc/1600_900.jpeg",
+        "imageForMobile": "48cd/ea71/8dba/4484/b4b2/2376/e987/6cec/500_900.jpeg",
+        "tags": [
+          10595
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779695,
+      "title": "Жулин назвал фейком новость об участии Степановой и Букина в итальянском шоу",
+      "type": "NEWS",
+      "publishDate": 1756469977328,
+      "urn": "NEWS_779695-zhulin-n.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        14885,
+        8145,
+        14044
+      ],
+      "rubricId": 44,
+      "badge": "EXCLUSIVE",
+      "previewImage": {
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "1029/5af9/06e1/46f0/b927/1359/dbb3/fc1b/1600_900.jpeg",
+        "imageForMobile": "c9d3/fbbf/2d23/4b86/adcb/a7b8/60ce/93ca/400_720.jpeg",
+        "tags": [
+          14885
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": true,
+      "rubrics": [
+        44,
         52
       ]
     },
     {
-      "id": 779066,
-      "title": "Мемориал Ромазан. «Барыс» — «Салават Юлаев». Прямая трансляция",
+      "id": 779694,
+      "title": "Кафанов рассказал о форме Сафонова, Максименко и Агкацева перед матчами с Иорданией и Катаром",
       "type": "NEWS",
-      "publishDate": 1756281600000,
-      "urn": "779066-memorial-romazan-barys-salavat-yulayev-pryamaya-translyatsiya",
+      "publishDate": 1756469213321,
+      "urn": "NEWS_779694-kafanov-.json",
       "uriFormatVersion": 1,
       "tags": [
-        15151,
+        25654,
+        12173,
+        10279,
+        15556,
+        13720,
+        16026,
+        15103
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "РФС",
+        "image": "9f59/032c/929f/45f8/afcb/9c2a/81a4/1326/1600_900.jpeg",
+        "imageForMobile": "eb69/1e43/22a2/4510/ac75/507d/0504/2d93/900_900.jpeg",
+        "tags": [
+          25654
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779687,
+      "title": "«Металлург» Мг — «Барыс». Мемориал Ромазана. Прямая трансляция: смотреть онлайн",
+      "type": "NEWS",
+      "publishDate": 1756468800000,
+      "urn": "NEWS_779687-metallur.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        15011,
         15060,
         14374,
         26702
@@ -685,26 +1134,32 @@
       ]
     },
     {
-      "id": 779082,
-      "title": "Тренер чемпиона WBC: «Мы дали согласие на бой с Бетербиевым»",
+      "id": 779693,
+      "title": "Итоги жеребьевки общего раунда Лиги Европы: ПАОК Чалова и Оздоева сыграет с «Бетисом», «Лиллем» и «Лионом»",
       "type": "NEWS",
-      "publishDate": 1756281566324,
-      "urn": "779082-trener-chempiona-wbc-my-dali-soglasiye-na-boy-s-beterbiyevym",
+      "publishDate": 1756468761457,
+      "urn": "NEWS_779693-liga-yev.json",
       "uriFormatVersion": 1,
       "tags": [
-        9916,
-        28538,
-        14207,
-        14697
+        14866,
+        15384,
+        15051,
+        15364,
+        15886,
+        15147,
+        15006,
+        15443,
+        15879,
+        14970
       ],
-      "rubricId": 233,
+      "rubricId": 48,
       "previewImage": {
         "copyright": "Getty Images",
-        "image": "f08d/b699/8d9b/4dca/9b37/4e28/10f4/141e/1600_900.jpeg",
-        "imageForMobile": "f85f/7c6d/e566/4cc9/9045/3ccf/50e8/3efd/900_900.jpeg",
+        "image": "406e/a563/922d/4e8e/82f9/915a/8d09/8189/1600_900.jpeg",
+        "imageForMobile": "64bc/a8e3/30d8/4cfa/878e/ddaa/f871/2df0/400_720.jpeg",
         "tags": [
-          9949,
-          9916
+          14866,
+          13988
         ]
       },
       "hidePreviewImage": true,
@@ -712,32 +1167,54 @@
       "advertisingPartnerMaterial": false,
       "top": true,
       "rubrics": [
-        233,
-        58
+        48
       ]
     },
     {
-      "id": 779079,
-      "title": "Павлович перенес операцию после победы на турнире UFC в Шанхае",
+      "id": 779692,
+      "title": "«Он провел один из самых ярких матчей на старте нового сезона». Кафанов — о вызове Адамова в сборную России",
       "type": "NEWS",
-      "publishDate": 1756281015874,
-      "urn": "779079-pavlovich-perenes-operatsiyu-posle-pobedy-na-turnire-ufc-v-shankhaye",
+      "publishDate": 1756468475864,
+      "urn": "NEWS_779692-on-prove.json",
       "uriFormatVersion": 1,
       "tags": [
-        10005,
-        13746,
-        14292
+        13720,
+        15556,
+        10356,
+        28143,
+        12613,
+        15341,
+        13853
       ],
-      "rubricId": 58,
-      "badge": "GALLERY",
+      "rubricId": 48,
       "previewImage": {
-        "copyright": "Getty Images",
-        "image": "2530/3b37/589c/4509/a5bf/056b/73b4/86b7/1600_900.jpeg",
-        "imageForMobile": "89c6/0678/81d6/4f47/bb75/5787/ec3c/24b0/900_900.jpeg",
+        "copyright": "РИА Новости",
+        "image": "54e1/7ce8/c8ea/4a43/a049/ea84/0263/c6a2/1600_900.jpeg",
+        "imageForMobile": "2ac7/f520/cb7b/475c/b9a2/d41a/15b3/50b6/500_900.jpeg",
         "tags": [
-          10005
+          10356
         ]
       },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779690,
+      "title": "ONE Friday Fights 122. Трансляция",
+      "type": "NEWS",
+      "publishDate": 1756467885485,
+      "urn": "NEWS_779690-one-frid.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        25100,
+        13746
+      ],
+      "rubricId": 58,
       "hidePreviewImage": true,
       "hideComments": false,
       "advertisingPartnerMaterial": false,
@@ -747,56 +1224,79 @@
       ]
     },
     {
-      "id": 778960,
-      "title": "Эдуард Мор сделал прогноз на игру «Сочи» — «Краснодар»: «Чтобы остаться у руля команды, Морено нужно рисковать»",
+      "id": 779688,
+      "title": "Карпин: «Иордания и Катар — все же сильнее, чем многие из сборных, с которыми мы играли ранее»",
       "type": "NEWS",
-      "publishDate": 1756280894000,
-      "urn": "778960-eduard-mor-sdelal-prognoz-na-igru-sochi-krasnodar-chtoby-ostatsya-u-rulya-komandy-moreno-nuzhno-riskovat",
+      "publishDate": 1756467836885,
+      "urn": "NEWS_779688-karpin-i.json",
       "uriFormatVersion": 1,
       "tags": [
-        26693,
-        15372,
-        14973,
-        25199,
-        14631,
-        13831
+        12982,
+        15556,
+        15103,
+        16026,
+        14814
       ],
       "rubricId": 48,
       "previewImage": {
-        "copyright": "Андрей Шрамко, РИА Новости",
-        "image": "4e52/f98a/0034/4a6a/ab67/7082/dfd2/62d3/1600_900.jpeg",
-        "imageForMobile": "f002/abbc/066e/42e9/9ca2/1de3/c746/510f/900_900.jpeg",
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "5b86/327a/e9ce/4779/81cf/800b/470a/2886/1600_1132.jpeg",
+        "imageForMobile": "494e/77d6/838e/4c00/98ea/cf83/f8f1/31d7/1132_1132.jpeg",
         "tags": [
-          14973
+          12982
         ]
       },
       "hidePreviewImage": true,
       "hideComments": false,
       "advertisingPartnerMaterial": false,
-      "top": true,
+      "top": false,
       "rubrics": [
-        48,
-        53
+        48
       ]
     },
     {
-      "id": 779078,
-      "title": "«Автодор» объявил о переходе 23-летнего американца",
+      "id": 779689,
+      "title": "Бонгонда начал тренироваться по индивидуальной программе",
       "type": "NEWS",
-      "publishDate": 1756280737282,
-      "urn": "779078-avtodor-obyavil-o-perekhode-23-letnego-amerikantsa",
+      "publishDate": 1756467369972,
+      "urn": "NEWS_779689-bongonda.json",
       "uriFormatVersion": 1,
       "tags": [
-        13856,
-        14696,
-        14863
+        25923,
+        15576,
+        13853
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "41fb/5bd0/cfd7/4ab4/976f/d87e/a61a/2dc6/1600_993.jpeg",
+        "imageForMobile": "a5db/529f/23bf/4a66/a82b/e83e/b044/52a1/551_993.jpeg",
+        "tags": [
+          25923
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779685,
+      "title": "Евробаскет-2025. Литва — Черногория. Трансляция",
+      "type": "NEWS",
+      "publishDate": 1756467000000,
+      "urn": "NEWS_779685-yevrobas.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        14863,
+        27775,
+        14211
       ],
       "rubricId": 59,
-      "previewImage": {
-        "copyright": "avtodor.ru",
-        "image": "8f95/c846/7125/4fe3/b7ca/4f42/0372/36d4/1600_900.jpeg",
-        "tags": []
-      },
+      "badge": "VIDEO",
       "hidePreviewImage": true,
       "hideComments": false,
       "advertisingPartnerMaterial": false,
@@ -807,174 +1307,57 @@
       ]
     },
     {
-      "id": 779077,
-      "title": "Защитника «Авангарда» Гуляева поставили в атаку в предсезонке — он оформил дубль: «Мне все равно, где играть»",
+      "id": 779686,
+      "title": "Алексей Миранчук может не сыграть против Иордании",
       "type": "NEWS",
-      "publishDate": 1756280386602,
-      "urn": "779077-zashchitnika-avangarda-gulyayeva-postavili-v-ataku-v-predsezonke-on-oformil-dubl-mne-vse-ravno-gde-igrat",
+      "publishDate": 1756466915746,
+      "urn": "NEWS_779686-aleksey-.json",
       "uriFormatVersion": 1,
       "tags": [
-        26003,
-        15782,
-        14374
-      ],
-      "rubricId": 73,
-      "badge": "VIDEO",
-      "previewImage": {
-        "copyright": "Дмитрий Лошкарев, photo.khl.ru",
-        "image": "36be/c4c0/1eb8/41d3/b280/2fb6/6c11/0e01/1600_900.jpeg",
-        "imageForMobile": "83f1/9234/3dbb/4edc/99ef/d6a5/06d6/08fc/500_900.jpeg",
-        "tags": [
-          26003
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 779071,
-      "title": "Капризов и Кучеров возглавили рейтинги крайних нападающих в NHL 26",
-      "type": "NEWS",
-      "publishDate": 1756279980000,
-      "urn": "779071-kaprizov-i-kucherov-vozglavili-reytingi-kraynikh-napadayushchikh-v-nhl-26",
-      "uriFormatVersion": 1,
-      "tags": [
-        13739,
-        11861,
-        12941,
-        13914,
-        9431,
-        13371,
-        9296
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "4a13/b40a/a0ac/42b1/8cf9/cded/3270/5216/1600_900.jpeg",
-        "imageForMobile": "4198/7a75/cd48/4950/9fc9/dd45/642f/1357/900_900.jpeg",
-        "tags": [
-          12941
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73,
-        64
-      ]
-    },
-    {
-      "id": 779075,
-      "title": "«Столото» поздравил россиян с Международным днем лотереи",
-      "type": "NEWS",
-      "publishDate": 1756279302140,
-      "urn": "779075-stoloto-pozdravil-rossiyan-s-mezhdunarodnym-dnem-loterei",
-      "uriFormatVersion": 1,
-      "tags": [
-        14360
-      ],
-      "rubricId": 52,
-      "previewImage": {
-        "copyright": "Столото",
-        "image": "4c27/f14d/3ff2/49c6/b621/342a/a32b/05dd/1280_853.jpeg",
-        "tags": [
-          14360
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        52
-      ]
-    },
-    {
-      "id": 779073,
-      "title": "Тренер «Зенита» был удивлен вызову Сантоса в сборную Бразилии: «Дуглас хотел его получить»",
-      "type": "NEWS",
-      "publishDate": 1756279275023,
-      "urn": "779073-trener-zenita-byl-udivlen-vyzovu-santosa-v-sbornuyu-brazilii-duglas-khotel-yego-poluchit",
-      "uriFormatVersion": 1,
-      "tags": [
-        13133,
-        13853,
-        15341,
-        11670,
-        28419,
-        15288
+        15556,
+        11479,
+        14208,
+        15757,
+        16026,
+        15103,
+        12982
       ],
       "rubricId": 48,
       "previewImage": {
-        "copyright": "@douglassantos06",
-        "image": "df36/3cac/7f1b/a1fa/ea4a/18a5/8d4c/0928/1100_738.jpeg",
-        "imageForMobile": "986c/2880/e95d/43f7/8fac/18c2/1968/716c/410_738.jpeg",
+        "copyright": "atlutd.com",
+        "image": "31be/cda5/59de/4daf/ad00/7208/4768/6382/1600_900.jpeg",
+        "imageForMobile": "05bd/9247/c44b/4091/b737/ef5c/18e5/6d66/600_900.jpeg",
         "tags": [
-          11670
+          11479
         ]
       },
       "hidePreviewImage": true,
       "hideComments": false,
       "advertisingPartnerMaterial": false,
-      "top": false,
+      "top": true,
       "rubrics": [
         48
       ]
     },
     {
-      "id": 779074,
-      "title": "«Сан-Хосе» обновит домашнюю арену и продолжит играть в НХЛ до 2051 года",
+      "id": 779683,
+      "title": "Чемпион UFC заявил о желании продолжать карьеру до 50-летнего возраста",
       "type": "NEWS",
-      "publishDate": 1756279135751,
-      "urn": "779074-san-khose-obnovit-domashnyuyu-arenu-i-prodolzhit-igrat-v-nkhl-do-2051-goda",
+      "publishDate": 1756466752165,
+      "urn": "NEWS_779683-chempion.json",
       "uriFormatVersion": 1,
       "tags": [
-        15316,
-        13739
+        8931,
+        13746,
+        14292
       ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "nhl.com",
-        "image": "d2ec/3c52/4d67/4d4d/b289/4113/66e9/087f/1600_900.jpeg",
-        "imageForMobile": "a341/deb3/09e5/4e1d/b031/a41f/1cbd/0a0c/500_900.png",
-        "tags": [
-          15316
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 779070,
-      "title": "Джокович: «Я достиг в теннисе всего, к чему стремился, но все равно чувствую, что недостаточно преуспел»",
-      "type": "NEWS",
-      "publishDate": 1756278532745,
-      "urn": "779070-dzhokovich-ya-dostig-v-tennise-vsego-k-chemu-stremilsya-no-vse-ravno-chuvstvuyu-chto-nedostatochno-preuspel",
-      "uriFormatVersion": 1,
-      "tags": [
-        9846,
-        14914,
-        14731
-      ],
-      "rubricId": 50,
+      "rubricId": 58,
       "previewImage": {
         "copyright": "Getty Images",
-        "image": "c312/bddd/0d9d/4cc5/8c31/e9cf/b6be/714b/1600_900.jpeg",
-        "imageForMobile": "cd72/9f62/786f/4312/b4bb/027d/064f/4147/500_900.png",
+        "image": "979b/fd61/1a9c/4db4/aa1d/cff9/a362/acb8/1600_900.jpeg",
+        "imageForMobile": "e618/24cd/7a09/4b92/8653/4440/5eaa/4aac/900_900.jpeg",
         "tags": [
-          9846
+          8931
         ]
       },
       "hidePreviewImage": true,
@@ -982,90 +1365,34 @@
       "advertisingPartnerMaterial": false,
       "top": false,
       "rubrics": [
-        50,
-        52
+        58
       ]
     },
     {
-      "id": 779072,
-      "title": "СКА объявил об уходе из клуба Карпухина",
+      "id": 779684,
+      "title": "Карпин объяснил приглашение Самошникова и невызов Умярова в сборную России",
       "type": "NEWS",
-      "publishDate": 1756278291660,
-      "urn": "779072-ska-obyavil-ob-ukhode-iz-kluba-karpukhina",
+      "publishDate": 1756466364014,
+      "urn": "NEWS_779684-karpin-o.json",
       "uriFormatVersion": 1,
       "tags": [
-        28451,
-        15134,
-        14374
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Илья Смрнов, photo.khl.ru",
-        "image": "35db/3dd6/b6f2/4bd8/9d7e/6541/9f87/3505/1600_900.jpeg",
-        "imageForMobile": "a5dd/ac78/e50d/48eb/8f75/ccae/e357/5913/900_900.png",
-        "tags": [
-          28451
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 778770,
-      "title": "Американка завела OnlyFans ради продолжения теннисной карьеры",
-      "type": "NEWS",
-      "publishDate": 1756278042336,
-      "urn": "778770-amerikanka-zavela-onlyfans-radi-prodolzheniya-tennisnoy-karyery",
-      "uriFormatVersion": 1,
-      "tags": [
-        14137
-      ],
-      "rubricId": 50,
-      "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "cead/658f/40ec/46d9/8d46/755b/bad0/dea7/1600_900.jpeg",
-        "imageForMobile": "20fe/0f74/3ba4/4b08/a3c4/d526/9526/d445/500_900.jpeg",
-        "tags": [
-          14573,
-          14137,
-          14914
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        50,
-        52
-      ]
-    },
-    {
-      "id": 779069,
-      "title": "Смолов считает, что Дзюба был бы игроком ротации в «Спартаке»: «Артем, сидя на замене, достаточно токсичный парень»",
-      "type": "NEWS",
-      "publishDate": 1756276920000,
-      "urn": "779069-smolov-schitayet-chto-dzyuba-bylby-igrokom-rotatsii-v-spartake-artem-sidya-na-zamene-dostatochno-toksichnyy-paren",
-      "uriFormatVersion": 1,
-      "tags": [
-        10348,
-        10595,
+        12982,
+        15556,
+        13346,
+        10451,
         15576,
         13853,
-        12306
+        16026,
+        15103
       ],
       "rubricId": 48,
       "previewImage": {
-        "copyright": "fcakron.ru",
-        "image": "ff26/3b1b/6c54/49c2/b931/40fe/5a4f/3d32/1600_900.jpeg",
-        "imageForMobile": "b50d/fbd3/1e79/4888/93f2/08db/a9cf/762a/900_900.jpeg",
+        "copyright": "rfs.ru",
+        "image": "c02a/17bc/ad57/4a7b/b2da/a5d3/24c5/45e1/1600_1000.jpeg",
+        "imageForMobile": "dea1/e556/8f7c/47d5/a46a/da14/08ba/b8c8/1000_1000.jpeg",
         "tags": [
-          10595
+          10451,
+          15776
         ]
       },
       "hidePreviewImage": true,
@@ -1077,674 +1404,26 @@
       ]
     },
     {
-      "id": 779067,
-      "title": "Алиев не выступит в шоу Авербуха из-за проблем со здоровьем",
+      "id": 779681,
+      "title": "В «Зените» объяснили причину расставания со Зделаром",
       "type": "NEWS",
-      "publishDate": 1756276084299,
-      "urn": "779067-aliyev-ne-vystupit-v-shou-averbukha-iz-za-problem-so-zdorovyem",
+      "publishDate": 1756465979416,
+      "urn": "NEWS_779681-v-zenite.json",
       "uriFormatVersion": 1,
       "tags": [
-        14800,
-        14044,
-        10638
-      ],
-      "rubricId": 44,
-      "previewImage": {
-        "copyright": "instagram.com/dmitry_aliev",
-        "image": "7c21/3cfc/a0af/472d/bb0a/304a/c99b/a823/1600_1000.jpeg",
-        "imageForMobile": "58d5/cda6/d960/4bc2/93bd/970e/a200/46a5/555_1000.png",
-        "tags": [
-          10638
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        44,
-        52
-      ]
-    },
-    {
-      "id": 779065,
-      "title": "Капитан «Зенита» Дуглас Сантос отреагировал на вызов в сборную Бразилии",
-      "type": "NEWS",
-      "publishDate": 1756276080000,
-      "urn": "779065-kapitan-zenita-duglas-santos-otreagiroval-na-vyzov-v-sbornuyu-brazilii",
-      "uriFormatVersion": 1,
-      "tags": [
-        11670,
+        24963,
+        14796,
         15341,
-        15288,
-        13853,
-        14010
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Евгений Семенов, Sport24",
-        "image": "bea6/0364/5b7d/454b/acbb/14c0/5f6e/4321/1600_900.jpeg",
-        "imageForMobile": "e2bb/6cff/af4c/4a7e/8ca1/2549/475b/a93f/900_900.jpeg",
-        "tags": [
-          11670
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779064,
-      "title": "Тренер «Кайрата»: «Почему мы играем на таких безобразных полях? Не знаю, куда смотрят наши руководители»",
-      "type": "NEWS",
-      "publishDate": 1756275576803,
-      "urn": "779064-trener-kayrata-pochemu-my-igrayem-na-takikh-bezobraznykh-polyakh-ne-znayu-kuda-smotryat-nashi-rukovoditeli",
-      "uriFormatVersion": 1,
-      "tags": [
-        14949,
-        15507
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "2561/b087/3f5d/498c/93ff/ff9b/369b/df2d/1600_900.jpeg",
-        "tags": [
-          15507
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779062,
-      "title": "Чемпионат мира по волейболу среди женщин 2025. 27 августа. Трансляция: смотреть онлайн",
-      "type": "NEWS",
-      "publishDate": 1756275300000,
-      "urn": "779062-chempionat-mira-po-voleybolu-sredi-zhenshchin-2025-27avgusta-translyatsiya-smotret-onlayn",
-      "uriFormatVersion": 1,
-      "tags": [
-        13948,
-        29007,
-        27850
-      ],
-      "rubricId": 46,
-      "badge": "VIDEO",
-      "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "a3db/fc09/f0da/4901/a3b6/794e/b86d/3890/1600_900.jpeg",
-        "imageForMobile": "7cc2/c30f/4b11/4f85/968c/9ba4/108b/621b/900_900.jpeg",
-        "tags": [
-          13948
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        46,
-        52
-      ]
-    },
-    {
-      "id": 779063,
-      "title": "Фернандеш может покинуть «Манчестер Юнайтед» следующим летом",
-      "type": "NEWS",
-      "publishDate": 1756273860000,
-      "urn": "779063-fernandesh-mozhet-pokinut-manchester-yunayted-sleduyushchim-letom",
-      "uriFormatVersion": 1,
-      "tags": [
-        11788,
-        15800,
-        13838
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "bbc0/ee59/f12e/4918/a093/30a0/c287/5d12/1600_900.jpeg",
-        "imageForMobile": "72bd/445a/6dd7/4290/89d1/9637/05b8/48f9/900_900.jpeg",
-        "tags": [
-          11788
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779061,
-      "title": "«Извините, эксперты, что в слабых чемпионатах работал». Шпилевский ответил критикам после выхода «Кайрата» в ЛЧ",
-      "type": "NEWS",
-      "publishDate": 1756273020000,
-      "urn": "779061-izvinite-eksperty-chto-v-slabykh-chempionatakh-rabotal-shpilevskiy-otvetil-kritikam-posle-vykhoda-kayrata-v-lch",
-      "uriFormatVersion": 1,
-      "tags": [
-        25791,
-        15507,
-        15582,
-        14949
-      ],
-      "rubricId": 48,
-      "badge": "GALLERY",
-      "previewImage": {
-        "copyright": "fcnn.ru",
-        "image": "ed41/25b5/9768/4410/982c/41fe/13e2/0e5e/1600_900.jpeg",
-        "imageForMobile": "af91/dd1c/ce17/46eb/a075/3399/7020/dfe8/900_900.jpeg",
-        "tags": [
-          25791
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779060,
-      "title": "«Медведев — лучший». Скандальный теннисист Кирьос восхитился россиянином после его поступка на US Open",
-      "type": "NEWS",
-      "publishDate": 1756271979898,
-      "urn": "779060-medvedev-luchshiy-skandalnyy-tennisist-kiros-voskhitilsya-rossiyaninom-posle-yego-postupka-na-us-open",
-      "uriFormatVersion": 1,
-      "tags": [
-        10206,
-        9844,
-        14731
-      ],
-      "rubricId": 50,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "602c/6b56/1631/4d86/bb47/0d6e/aa56/2528/1600_900.jpeg",
-        "imageForMobile": "3fb8/a12e/fe83/4667/b5f4/54dc/f11a/7649/900_900.jpeg",
-        "tags": [
-          10206
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        50,
-        52
-      ]
-    },
-    {
-      "id": 779059,
-      "title": "Зверев стартовал с победы на Открытом чемпионате США",
-      "type": "NEWS",
-      "publishDate": 1756270380000,
-      "urn": "779059-zverev-startoval-s-pobedy-na-otkrytom-chempionate-ssha",
-      "uriFormatVersion": 1,
-      "tags": [
-        10183,
-        27314,
-        14731
-      ],
-      "rubricId": 50,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "0abc/3f1d/726c/4133/84a6/0cfd/fcc6/1b01/1600_900.jpeg",
-        "imageForMobile": "c1d2/68f4/1b46/44be/ba85/8449/36c9/2b96/900_900.jpeg",
-        "tags": [
-          10183
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        50,
-        52
-      ]
-    },
-    {
-      "id": 779058,
-      "title": "Моуринью хочет подписать в «Фенербахче» игрока сборной Украины",
-      "type": "NEWS",
-      "publishDate": 1756269550604,
-      "urn": "779058-mourinyu-khochet-podpisat-v-fenerbakhche-igroka-sbornoy-ukrainy",
-      "uriFormatVersion": 1,
-      "tags": [
-        11444,
-        15195,
-        15775,
-        13827,
-        15736,
-        12992,
-        14782,
-        14698
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "9967/5306/eb86/4c88/ab13/0e5d/88a6/e46d/1600_900.jpeg",
-        "imageForMobile": "ec82/7bd5/d270/44e7/9d98/aa0d/b761/ad28/900_900.jpeg",
-        "tags": [
-          11444
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779057,
-      "title": "Трахтенберг назвал лучших легионеров в истории «Спартака»",
-      "type": "NEWS",
-      "publishDate": 1756268166845,
-      "urn": "779057-trakhtenberg-nazval-luchshikh-legionerov-v-istorii-spartaka",
-      "uriFormatVersion": 1,
-      "tags": [
-        15576,
         13853
       ],
       "rubricId": 48,
+      "badge": "EXCLUSIVE",
       "previewImage": {
-        "copyright": "Александр Мысякин, Sport24",
-        "image": "aa9b/5969/6032/4e66/aaf2/57c3/4864/5302/1600_900.jpeg",
-        "imageForMobile": "6ca6/cbbb/f73a/48cf/840e/8868/daa3/7b5a/900_900.jpeg",
+        "copyright": "t.me/fczenit",
+        "image": "a768/789a/6311/42c7/b842/42f0/02ef/8263/1600_900.jpeg",
+        "imageForMobile": "2999/fac4/46d2/4f49/bc35/d17e/f4f4/aaa6/900_900.png",
         "tags": [
-          10465
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779056,
-      "title": "Рублев поддержал Медведева после скандального выступления на US Open: «Ему нужно отдохнуть»",
-      "type": "NEWS",
-      "publishDate": 1756267020000,
-      "urn": "779056-rublev-podderzhal-medvedeva-posle-skandalnogo-vystupleniya-na-us-open-yemu-nuzhno-otdokhnut",
-      "uriFormatVersion": 1,
-      "tags": [
-        10206,
-        8574,
-        14731
-      ],
-      "rubricId": 50,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "3f12/5f4a/58f5/4713/b0c2/aa8e/edda/a703/1600_900.jpeg",
-        "imageForMobile": "43c3/6985/8941/496a/a511/3708/bd17/ed89/900_900.png",
-        "tags": [
-          8574
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        50,
-        52
-      ]
-    },
-    {
-      "id": 779055,
-      "title": "Анчелотти объяснил, почему не вызвал Родриго: «Он прекрасно знает, что такое сборная Бразилии»",
-      "type": "NEWS",
-      "publishDate": 1756265880000,
-      "urn": "779055-anchelotti-obyasnil-pochemu-ne-vyzval-rodrigo-on-prekrasno-znayet-chto-takoye-sbornaya-brazilii",
-      "uriFormatVersion": 1,
-      "tags": [
-        13403,
-        10954,
-        15288
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "ff15/0c7f/0d3d/445f/9048/e1b3/5536/b656/1600_900.jpeg",
-        "imageForMobile": "4417/e8ee/4c9a/4227/a872/ddd7/8add/9986/500_900.jpeg",
-        "tags": [
-          13403
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779054,
-      "title": "Игрок «Селтика» Макгрегор — о поражении «Кайрату»: «Это разочарование нужно пережить как можно скорее»",
-      "type": "NEWS",
-      "publishDate": 1756264620000,
-      "urn": "779054-igrok-seltika-makgregor-o-porazhenii-kayratu-eto-razocharovaniye-nuzhno-perezhit-kak-mozhno-skoreye",
-      "uriFormatVersion": 1,
-      "tags": [
-        15507,
-        14949,
-        15274
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "fckairat.com",
-        "image": "8981/60d2/8584/4b75/808e/2181/a2d6/df28/1600_900.jpeg",
-        "imageForMobile": "0b58/58d2/e9fd/4b76/bc19/a038/914d/30d1/900_900.png",
-        "tags": [
-          15507
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779053,
-      "title": "«Реал» и «Атлетико» интересуются полузащитником «МЮ»",
-      "type": "NEWS",
-      "publishDate": 1756263300000,
-      "urn": "779053-real-i-atletiko-interesuyutsya-poluzashchitnikom-myu",
-      "uriFormatVersion": 1,
-      "tags": [
-        27031,
-        15800,
-        15018,
-        15195,
-        13827,
-        13838
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "56fc/417b/ae5e/4272/9baa/ad34/b98e/17b2/1600_900.jpeg",
-        "tags": [
-          27031
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779052,
-      "title": "«Кайрат» — «Селтик». Видеообзор исторического матча казахстанского клуба в ЛЧ",
-      "type": "NEWS",
-      "publishDate": 1756262738543,
-      "urn": "779052-kayrat-seltik-videoobzor-istoricheskogo-matcha-kazakhstanskogo-kluba-v-lch",
-      "uriFormatVersion": 1,
-      "tags": [
-        15507,
-        15274,
-        14949
-      ],
-      "rubricId": 48,
-      "badge": "VIDEO",
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779051,
-      "title": "Третья ракетка мира Гауфф начала выступление на US Open с тяжелой победы ",
-      "type": "NEWS",
-      "publishDate": 1756261259647,
-      "urn": "779051-tretya-raketka-mira-gauff-nachala-vystupleniye-na-us-open-s-tyazheloy-pobedy",
-      "uriFormatVersion": 1,
-      "tags": [
-        9027,
-        14731
-      ],
-      "rubricId": 50,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "9dca/675d/99bc/4da3/b3f7/2f3a/566d/e0f0/1600_900.jpeg",
-        "imageForMobile": "e633/fb02/787d/4798/b567/e9e9/a347/7c32/900_900.jpeg",
-        "tags": [
-          9027
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        50,
-        52
-      ]
-    },
-    {
-      "id": 779050,
-      "title": "Чеченец Яхьяев получил контракт UFC после яркого нокаута в первом раунде",
-      "type": "NEWS",
-      "publishDate": 1756260600000,
-      "urn": "779050-chechenets-yakhyayev-poluchil-kontrakt-ufc-posle-yarkogo-nokauta-v-pervom-raunde",
-      "uriFormatVersion": 1,
-      "tags": [
-        14292,
-        9955
-      ],
-      "rubricId": 58,
-      "badge": "VIDEO",
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "152d/fb42/b8a3/49e3/bbc6/07d2/c7ca/9a74/1600_900.jpeg",
-        "imageForMobile": "bfe3/711d/68c6/42b8/a60c/eac0/dcbf/6755/900_900.jpeg",
-        "tags": [
-          14292
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        58
-      ]
-    },
-    {
-      "id": 779049,
-      "title": "Компани произнес воодушевляющую речь перед игроками «Баварии: «Каждая игра для нас — финал Лиги чемпионов»",
-      "type": "NEWS",
-      "publishDate": 1756259640000,
-      "urn": "779049-kompani-proiznes-voodushevlyayushchuyu-rech-pered-igrokami-bavarii-kazhdaya-igra-dlya-nas-final-ligi-chempionov",
-      "uriFormatVersion": 1,
-      "tags": [
-        15038,
-        12259,
-        14854
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "96d5/d146/e493/41b7/8426/12c6/d52a/272d/1600_900.jpeg",
-        "imageForMobile": "9459/fb5b/8512/442b/897f/7d4f/4ffd/f553/900_900.jpeg",
-        "tags": [
-          12259
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779047,
-      "title": "Сафиуллин за 3 часа справился с Монфисом и вышел во второй раунд US Open",
-      "type": "NEWS",
-      "publishDate": 1756258088888,
-      "urn": "779047-safiullin-za-3-chasa-spravilsya-s-monfisom-i-vyshel-vo-vtoroy-raund-us-open",
-      "uriFormatVersion": 1,
-      "tags": [
-        24769,
-        9806,
-        14731
-      ],
-      "rubricId": 50,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "991c/288f/eb81/4184/a8f9/8b17/0c89/0e17/1600_1000.jpeg",
-        "imageForMobile": "07c1/4ca9/18a3/4f35/9b7c/98e0/73be/60b4/1000_1000.jpeg",
-        "tags": [
-          24769
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        50,
-        52
-      ]
-    },
-    {
-      "id": 779046,
-      "title": "Чеченский боец шокировал главу UFC, уничтожив американца за 30 секунд на Претендентском турнире",
-      "type": "NEWS",
-      "publishDate": 1756257676374,
-      "urn": "779046-chechenskiy-boyets-shokiroval-glavu-ufc-unichtozhiv-amerikantsa-za-30-sekund-na-pretendentskom-turnire",
-      "uriFormatVersion": 1,
-      "tags": [
-        14292,
-        9955
-      ],
-      "rubricId": 58,
-      "badge": "VIDEO",
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "1d0c/bad2/9970/45b5/a9c5/4f12/9fe1/960e/1600_1000.jpeg",
-        "imageForMobile": "320a/4c26/24e2/4781/ba03/8a2c/d892/b696/1000_1000.jpeg",
-        "tags": [
-          9955
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        58
-      ]
-    },
-    {
-      "id": 779045,
-      "title": "Захарова выбила из US Open бывшую россиянку Аванесян",
-      "type": "NEWS",
-      "publishDate": 1756256191279,
-      "urn": "779045-zakharova-vybila-iz-us-open-byvshuyu-rossiyanku-avanesyan",
-      "uriFormatVersion": 1,
-      "tags": [
-        26740,
-        25650,
-        14731
-      ],
-      "rubricId": 50,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "fdb8/cf6c/f9de/4e98/8294/3c3b/55bf/0a0c/1600_900.jpeg",
-        "imageForMobile": "e4ad/87c4/1c50/4563/9263/8d32/1556/755a/900_900.jpeg",
-        "tags": [
-          26740
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        50,
-        52
-      ]
-    },
-    {
-      "id": 779043,
-      "title": "Хайкин показал видео из раздевалки «Буде-Глимта» после исторического выхода в основной раунд ЛЧ",
-      "type": "NEWS",
-      "publishDate": 1756255241713,
-      "urn": "779043-khaykin-pokazal-video-iz-razdevalki-bude-glimta-posle-istoricheskogo-vykhoda-v-osnovnoy-raund-lch",
-      "uriFormatVersion": 1,
-      "tags": [
-        13555,
-        16054,
-        14949
-      ],
-      "rubricId": 48,
-      "badge": "VIDEO",
-      "previewImage": {
-        "copyright": "Zuma/TASS",
-        "image": "e917/8181/dbdb/4954/bfa5/d6d8/a92f/12fc/1600_900.jpeg",
-        "imageForMobile": "aa33/aea2/c415/462b/b044/c855/7cfc/f966/900_900.jpeg",
-        "tags": [
-          13555
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779042,
-      "title": "Тикнизян расплакался после вылета «Црвены Звезды» из Лиги чемпионов",
-      "type": "NEWS",
-      "publishDate": 1756253898882,
-      "urn": "779042-tiknizyan-rasplakalsya-posle-vyleta-tsrveny-zvezdy-iz-ligi-chempionov",
-      "uriFormatVersion": 1,
-      "tags": [
-        10416,
-        15904,
-        16064,
-        14949
-      ],
-      "rubricId": 48,
-      "badge": "GALLERY",
-      "previewImage": {
-        "copyright": "x.com/crvenazvezdafk",
-        "image": "4797/98bc/85b1/4641/8db8/d74b/df6b/ea08/1600_900.jpeg",
-        "imageForMobile": "0337/9bdf/fed0/4fc5/964e/4f6c/ec83/8ec2/900_900.jpeg",
-        "tags": [
-          10416
+          24963
         ]
       },
       "hidePreviewImage": true,
@@ -1756,81 +1435,22 @@
       ]
     },
     {
-      "id": 779009,
-      "title": "«Вулверхэмптон» отклонил второе предложение «Ньюкасла» по Ларсену на 55 млн фунтов",
+      "id": 779680,
+      "title": "Назван итоговый состав сборной России на матчи с Иорданией и Катаром в сентябре",
       "type": "NEWS",
-      "publishDate": 1756252140000,
-      "urn": "779009-vulverkhempton-otklonil-vtoroye-predlozheniye-nyukasla-po-larsenu-na-55mln-funtov",
+      "publishDate": 1756465797111,
+      "urn": "NEWS_779680-nazvan-i.json",
       "uriFormatVersion": 1,
       "tags": [
-        15036,
-        13838,
-        14698,
-        15145
+        15556
       ],
       "rubricId": 48,
       "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "2b34/c4c1/ba7b/4352/be6d/f5be/6033/8222/1600_900.jpeg",
-        "imageForMobile": "35e3/bdab/6047/44f1/8e2e/f90f/9f55/246b/900_900.jpeg",
+        "copyright": "rfs.ru",
+        "image": "eae1/10d5/2fe8/4f67/b9df/51d0/523f/335a/965_605.jpeg",
         "tags": [
-          13838
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 779008,
-      "title": "Циципас вышел во второй раунд US Open",
-      "type": "NEWS",
-      "publishDate": 1756251241807,
-      "urn": "779008-tsitsipas-vyshel-vo-vtoroy-raund-us-open",
-      "uriFormatVersion": 1,
-      "tags": [
-        9863,
-        14731
-      ],
-      "rubricId": 50,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "8a22/5c37/3daf/4761/9aff/c780/c964/911c/1600_900.jpeg",
-        "imageForMobile": "756b/7205/49dc/4449/9f8f/4c06/9816/4ee4/500_900.jpeg",
-        "tags": [
-          9863
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        50,
-        52
-      ]
-    },
-    {
-      "id": 779007,
-      "title": "Определились 32 из 36 участников основного раунда Лиги чемпионов",
-      "type": "NEWS",
-      "publishDate": 1756250309969,
-      "urn": "779007-opredelilis-32-iz-36-uchastnikov-osnovnogo-raunda-ligi-chempionov",
-      "uriFormatVersion": 1,
-      "tags": [
-        14949
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "cb8f/564d/3602/4608/870c/0a57/dea3/db9c/1600_900.jpeg",
-        "imageForMobile": "d3c5/81eb/3bbd/48b3/a03e/ee08/b677/8585/900_900.jpeg",
-        "tags": [
-          14949
+          14868,
+          15556
         ]
       },
       "hidePreviewImage": true,
@@ -1842,22 +1462,26 @@
       ]
     },
     {
-      "id": 779006,
-      "title": "Моуринью раскритиковал руководство «Фенербахче» за отсутствие трансферов",
+      "id": 779679,
+      "title": "Моуринью заработал больше 100 млн евро за счет неустоек после увольнений",
       "type": "NEWS",
-      "publishDate": 1756249020000,
-      "urn": "779006-mourinyu-raskritikoval-rukovodstvo-fenerbakhche-za-otsutstviye-transferov",
+      "publishDate": 1756465542743,
+      "urn": "NEWS_779679-mourinyu.json",
       "uriFormatVersion": 1,
       "tags": [
         12992,
         15736,
-        14949
+        14969,
+        15195,
+        15800,
+        15458,
+        15512
       ],
       "rubricId": 48,
       "previewImage": {
         "copyright": "Getty Images",
-        "image": "0e41/bd02/21ce/4d28/ae80/9b43/d794/cbf0/1600_900.jpeg",
-        "imageForMobile": "de59/ebb7/9f3c/4502/ba8e/45ec/4831/33ea/900_900.jpeg",
+        "image": "11a7/f481/845a/493d/a912/439e/8799/93ae/1600_900.jpeg",
+        "imageForMobile": "bd0b/7b04/cb0a/4838/99b4/8e0e/f15b/af03/494_890.png",
         "tags": [
           12992
         ]
@@ -1871,25 +1495,29 @@
       ]
     },
     {
-      "id": 779005,
-      "title": "«Нам не место в Лиге чемпионов». Тренер «Селтика» прокомментировал поражение от казахстанского клуба",
+      "id": 779677,
+      "title": "Звездный легионер «Локо» думал, что Миранчуки — один человек: «Не понимал, почему он каждые 5 секунд меняет бутсы»",
       "type": "NEWS",
-      "publishDate": 1756248431144,
-      "urn": "779005-nam-ne-mesto-v-lige-chempionov-trener-seltika-prokommentiroval-porazheniye-ot-kazakhstanskogo-kluba",
+      "publishDate": 1756465517555,
+      "urn": "NEWS_779677-zvezdnyy.json",
       "uriFormatVersion": 1,
       "tags": [
-        13710,
-        15274,
-        15507,
-        14949
+        12007,
+        11479,
+        10870,
+        15095,
+        13853
       ],
       "rubricId": 48,
+      "badge": "EXCLUSIVE",
       "previewImage": {
-        "copyright": "GettyImages",
-        "image": "a58d/ef49/0d00/4b50/b83d/8b13/cd8f/615b/1600_900.jpeg",
-        "imageForMobile": "b1a3/dbbc/1e85/454c/a842/007f/bcef/4cc8/500_900.jpeg",
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "c518/2a56/2358/2d7f/372d/9e62/e38e/041e/1600_900.jpeg",
+        "imageForMobile": "69b9/26d4/0f1a/484b/80fe/5bb1/3b32/3c59/900_900.jpeg",
         "tags": [
-          13710
+          11479,
+          12007,
+          15095
         ]
       },
       "hidePreviewImage": true,
@@ -1901,24 +1529,27 @@
       ]
     },
     {
-      "id": 779004,
-      "title": "Российская теннисистка Шнайдер вылетела из US Open в первом круге",
+      "id": 779477,
+      "title": "Букмекеры оценили шансы Мирры Андреевой победить американку Тейлор Таунсенд в 3-м раунде US Open",
       "type": "NEWS",
-      "publishDate": 1756247397414,
-      "urn": "779004-rossiyskaya-tennisistka-shnayder-vyletela-iz-us-open-v-pervom-kruge",
+      "publishDate": 1756465325000,
+      "urn": "NEWS_779477-bukmeker.json",
       "uriFormatVersion": 1,
       "tags": [
-        25262,
-        25709,
-        14731
+        26693,
+        25661,
+        25818,
+        14731,
+        14137,
+        14143
       ],
       "rubricId": 50,
       "previewImage": {
         "copyright": "Getty Images",
-        "image": "bf09/bf4b/57b0/4235/92c2/a674/ef16/f3ff/1600_900.jpeg",
-        "imageForMobile": "5490/7a3e/7d0e/48a9/8e39/f52e/98a8/d8a5/900_900.jpeg",
+        "image": "c3e9/87f4/9fcc/4ad9/afdd/45b4/9a5b/3b90/1600_900.jpeg",
+        "imageForMobile": "35a5/b6a2/a3d2/48d1/803f/96e3/1e8f/55e3/900_900.png",
         "tags": [
-          25262
+          25661
         ]
       },
       "hidePreviewImage": true,
@@ -1931,27 +1562,431 @@
       ]
     },
     {
-      "id": 779002,
-      "title": "Три клуба АПЛ вылетели из Кубка английской лиги во 2-м раунде",
+      "id": 779678,
+      "title": "«Бенфика» согласилась продать Актюркоглу в «Фенербахче» за 22,5 млн евро",
       "type": "NEWS",
-      "publishDate": 1756246672332,
-      "urn": "779002-tri-kluba-apl-vyleteli-iz-kubka-angliyskoy-ligi-v-pervom-raunde",
+      "publishDate": 1756465148678,
+      "urn": "NEWS_779678-benfika-.json",
       "uriFormatVersion": 1,
       "tags": [
-        13882,
-        13838,
-        15332,
-        15476,
-        15036,
-        15199,
-        15330,
-        15170
+        27748,
+        15043,
+        15736,
+        13833,
+        14782,
+        14698
       ],
       "rubricId": 48,
       "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "7ecb/bcb9/82e8/4b4c/92b9/9b5d/db99/30e7/1600_900.jpeg",
-        "imageForMobile": "e9ac/1759/5edf/4bcc/bf37/58a1/0898/00f0/500_900.jpeg",
+        "copyright": "Getty Images",
+        "image": "2185/fae5/9f2e/4b59/a3e2/226c/833a/9798/1600_900.jpeg",
+        "imageForMobile": "48d6/cc42/b858/425d/9d6b/d953/54f2/0b70/500_900.jpeg",
+        "tags": [
+          27748
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779676,
+      "title": "Британский экс-чемпион предупредил Итауму насчет боя с Усиком: «Давайте будем честны»",
+      "type": "NEWS",
+      "publishDate": 1756464922163,
+      "urn": "NEWS_779676-britansk.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        29215,
+        9906,
+        14207
+      ],
+      "rubricId": 233,
+      "previewImage": {
+        "copyright": "РИА Новости",
+        "image": "819f/0079/a0f5/8b88/d1cf/26c7/9938/f535/1100_684.jpeg",
+        "tags": [
+          9906,
+          13871
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        233,
+        58
+      ]
+    },
+    {
+      "id": 779675,
+      "title": "Дегтярев рассказал, как лимит на легионеров в РПЛ повлиял на игровое время россиян",
+      "type": "NEWS",
+      "publishDate": 1756464786489,
+      "urn": "NEWS_779675-degtyare.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        13853,
+        27281,
+        24617
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "РИА Новости",
+        "image": "fb61/28df/881a/4a52/923a/1463/8e4b/2e47/1600_900.jpeg",
+        "imageForMobile": "4914/829a/b31a/4fa7/a928/f538/fbc9/097f/900_900.jpeg",
+        "tags": [
+          27281
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779629,
+      "title": "Чемпион UFC: «В следующий раз я уничтожу Умара Нурмагомедова»",
+      "type": "NEWS",
+      "publishDate": 1756464240000,
+      "urn": "NEWS_779629-chempion.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        9059,
+        13746,
+        14292,
+        8931
+      ],
+      "rubricId": 58,
+      "previewImage": {
+        "copyright": "@ufceurasia",
+        "image": "32bb/f77c/9b1b/4970/9441/02eb/6642/3e03/1600_900.jpeg",
+        "imageForMobile": "cc3e/cd29/ead6/4935/92a8/aeca/6188/e827/500_900.jpeg",
+        "tags": [
+          8931,
+          9059
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": true,
+      "rubrics": [
+        58,
+        233
+      ]
+    },
+    {
+      "id": 779673,
+      "title": "«Утрехт» отказался продавать Эль-Каруани в «Спартак» из-за политики",
+      "type": "NEWS",
+      "publishDate": 1756463983981,
+      "urn": "NEWS_779673-utrekht-.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        15576,
+        13853,
+        14698,
+        14850
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "d3aa/632f/ac06/c1ad/8677/55bb/2b81/9fbd/1100_684.jpeg",
+        "tags": [
+          14868,
+          15576
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": true,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779674,
+      "title": "Магомед Магомедов и Артем Рофаль проведут бой на RCC 23",
+      "type": "NEWS",
+      "publishDate": 1756463939502,
+      "urn": "NEWS_779674-magomed-.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        26508,
+        13746,
+        14292,
+        8538,
+        26511
+      ],
+      "rubricId": 58,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "c178/5982/6cc4/428c/93e2/4d77/9d47/59b1/1600_900.jpeg",
+        "imageForMobile": "f46e/2454/51ae/4ccf/8203/fa83/a4f5/ff24/900_900.jpeg",
+        "tags": [
+          8538
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        58
+      ]
+    },
+    {
+      "id": 779672,
+      "title": "Кубок мэра Москвы. «Торпедо» — «Динамо» Минск. Трансляция",
+      "type": "NEWS",
+      "publishDate": 1756463400000,
+      "urn": "NEWS_779672-kubok-me.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        15184,
+        15013,
+        14374
+      ],
+      "rubricId": 73,
+      "badge": "VIDEO",
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779671,
+      "title": "Кириленко планирует включить молодежную сборную России в состав участников баскетбольной Суперлиги",
+      "type": "NEWS",
+      "publishDate": 1756462790953,
+      "urn": "NEWS_779671-kirilenk.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        8380,
+        14696,
+        16190,
+        14863,
+        29071
+      ],
+      "rubricId": 59,
+      "previewImage": {
+        "copyright": "РИА Новости",
+        "image": "170e/c61e/0620/4db0/a6ac/36b2/c377/2573/1600_1000.jpeg",
+        "imageForMobile": "e5bc/c044/72ad/421a/ae38/32cc/128c/2be3/1000_1000.jpeg",
+        "tags": [
+          8380
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        59,
+        52
+      ]
+    },
+    {
+      "id": 779670,
+      "title": "«Салават Юлаев» проиграл клубу ВХЛ, пропустив дважды на последней минуте",
+      "type": "NEWS",
+      "publishDate": 1756462491141,
+      "urn": "NEWS_779670-salavat-.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        15151,
+        14374,
+        13908
+      ],
+      "rubricId": 73,
+      "previewImage": {
+        "copyright": "Светлана Садыкова, photo.khl.ru",
+        "image": "eab0/a659/af6e/4f3e/a982/bc7f/a923/8377/1600_900.jpeg",
+        "imageForMobile": "ec7e/5312/444d/4769/9dd4/e9a6/79cc/04dd/500_900.jpeg",
+        "tags": [
+          15151
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779668,
+      "title": "Шафеев будет судить матч 7-го тура РПЛ ЦСКА — «Краснодар»",
+      "type": "NEWS",
+      "publishDate": 1756461857116,
+      "urn": "NEWS_779668-shafeyev.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        26969,
+        26297,
+        9892,
+        25628,
+        27711,
+        10115,
+        26968,
+        15770,
+        14972,
+        15341,
+        15582,
+        15576,
+        15372,
+        15034,
+        15128,
+        15772,
+        15463,
+        15095,
+        15273,
+        15265,
+        14973,
+        25472,
+        15037,
+        13853
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "РИА Новости",
+        "image": "b76b/7570/e068/405a/ba8b/0b33/ec20/6f8a/1600_900.jpeg",
+        "imageForMobile": "f039/f557/23d8/4e6e/acce/3ba0/1821/4f8c/500_900.jpeg",
+        "tags": [
+          26969
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": true,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779667,
+      "title": "Смородская отреагировала на обвинения Фернандеша: «Я его не уважаю»",
+      "type": "NEWS",
+      "publishDate": 1756461774568,
+      "urn": "NEWS_779667-smorodsk.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        10870,
+        14955,
+        15095,
+        13853
+      ],
+      "rubricId": 48,
+      "badge": "EXCLUSIVE",
+      "previewImage": {
+        "copyright": "РИА Новости",
+        "image": "9f9e/f207/52f4/4cd6/25d5/4572/e7bc/1364/1600_900.jpeg",
+        "imageForMobile": "d4c8/7dd6/2dc2/40ea/a473/c273/832e/27e5/500_900.jpeg",
+        "tags": [
+          14955
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": true,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779664,
+      "title": "«Тренер был жертвой». Фернандеш прокомментировал слова о том, что у Черевченко не было своего мнения в «Локомотиве»",
+      "type": "NEWS",
+      "publishDate": 1756461561267,
+      "urn": "NEWS_779664-trener-b.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        10870,
+        15095,
+        13853,
+        14955,
+        13112
+      ],
+      "rubricId": 48,
+      "badge": "EXCLUSIVE",
+      "previewImage": {
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "d530/caf8/0537/47fe/b1e7/3d63/cb7b/38ea/1600_1000.jpeg",
+        "imageForMobile": "e888/5eae/1b8a/4dee/8f16/d585/6c60/2bab/555_1000.jpeg",
+        "tags": [
+          13112
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779666,
+      "title": "17-летний российский баскетболист перешел в мадридский «Реал»",
+      "type": "NEWS",
+      "publishDate": 1756461515241,
+      "urn": "NEWS_779666-17-letni.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        15699,
+        25305,
+        14696
+      ],
+      "rubricId": 59,
+      "previewImage": {
+        "copyright": "vk.com/bksamara",
+        "image": "cd92/310f/2182/442d/b906/bd42/2581/5706/1600_900.jpeg",
+        "tags": []
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        59,
+        52
+      ]
+    },
+    {
+      "id": 779663,
+      "title": "«Будет много забитых мячей». Прогноз Пименова на матч «Ливерпуль» — «Арсенал»",
+      "type": "NEWS",
+      "publishDate": 1756461147851,
+      "urn": "NEWS_779663-budet-mn.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        13838,
+        15014,
+        15215,
+        24957,
+        13831
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "0ac5/9363/61ce/4d19/a315/a12c/015b/64a6/1600_900.jpeg",
+        "imageForMobile": "bf04/a150/4579/4c55/bc4d/fcdc/789a/80b5/500_900.jpeg",
         "tags": [
           13838
         ]
@@ -1959,30 +1994,321 @@
       "hidePreviewImage": true,
       "hideComments": false,
       "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48,
+        53
+      ]
+    },
+    {
+      "id": 779661,
+      "title": "Жеребьевка Лиги Европы и Лиги конференций: трансляция",
+      "type": "NEWS",
+      "publishDate": 1756460728288,
+      "urn": "NEWS_779661-zherebye.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        14960,
+        14866,
+        14883
+      ],
+      "rubricId": 48,
+      "badge": "VIDEO",
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779662,
+      "title": "Евробаскет-2025. Турция — Чехия. Прямая трансляция: смотреть онлайн",
+      "type": "NEWS",
+      "publishDate": 1756460704643,
+      "urn": "NEWS_779662-yevrobas.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        14863,
+        27775,
+        29007
+      ],
+      "rubricId": 59,
+      "badge": "VIDEO",
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        59,
+        52
+      ]
+    },
+    {
+      "id": 779660,
+      "title": "Президент СБР высказался о бюджете на новый сезон",
+      "type": "NEWS",
+      "publishDate": 1756460464216,
+      "urn": "NEWS_779660-preziden.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        14710,
+        14695,
+        13900
+      ],
+      "rubricId": 86,
+      "previewImage": {
+        "copyright": "РИА Новости",
+        "image": "828a/fc34/9838/4697/bca5/9bd3/ce10/906e/1600_900.jpeg",
+        "imageForMobile": "16c9/0b1d/5b64/424f/840b/e50d/b8a1/5db6/500_900.jpeg",
+        "tags": [
+          13900
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        86
+      ]
+    },
+    {
+      "id": 779659,
+      "title": "Зделар покинул «Зенит»",
+      "type": "NEWS",
+      "publishDate": 1756460125141,
+      "urn": "NEWS_779659-zdelar-p.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        24963,
+        15341,
+        13853
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "e0bd/d36f/478a/41d5/a8b9/088c/bcfb/aee8/1600_900.jpeg",
+        "imageForMobile": "7036/0ec4/136f/45a3/9a54/f0d4/007e/fd6e/900_900.jpeg",
+        "tags": [
+          24963
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
       "top": true,
       "rubrics": [
         48
       ]
     },
     {
-      "id": 779001,
-      "title": "«Штутгарт» в серии пенальти обыграл «Айнтрахт» Б в 1-м раунде Кубка Германии",
+      "id": 779656,
+      "title": "Грузинский чемпион UFC: «Я уверен, что Хабиб скучает по боям»",
       "type": "NEWS",
-      "publishDate": 1756245486116,
-      "urn": "779001-shtutgart-v-serii-penalti-obygral-ayntrakht-b-v-1-m-raunde-kubka-germanii",
+      "publishDate": 1756459684223,
+      "urn": "NEWS_779656-gruzinsk.json",
       "uriFormatVersion": 1,
       "tags": [
-        14854,
-        15075,
-        15238
+        10199,
+        9943,
+        13746,
+        14292,
+        8931
+      ],
+      "rubricId": 58,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "44ed/d6e1/ab33/4386/8095/ba48/aa68/dbf0/1600_900.jpeg",
+        "tags": [
+          10199,
+          10304
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        58
+      ]
+    },
+    {
+      "id": 779657,
+      "title": "«Быть алкоголиком и играть до 37 лет? Серьезно?» Фернандеш — об обвинениях Смородской",
+      "type": "NEWS",
+      "publishDate": 1756459260000,
+      "urn": "NEWS_779657-byt-alko.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        10870,
+        15095,
+        14955,
+        13853
+      ],
+      "rubricId": 48,
+      "badge": "EXCLUSIVE",
+      "previewImage": {
+        "copyright": "РИА Новости",
+        "image": "9c28/8828/b801/58cd/047e/7874/fa64/4987/1100_684.jpeg",
+        "imageForMobile": "967a/992a/e724/45de/bc2a/e98a/901d/51e6/684_684.jpeg",
+        "tags": [
+          15095,
+          10870
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779655,
+      "title": "В команде Оливейры оценили Физиева: «Хороший боец с нокаутирующей мощью»",
+      "type": "NEWS",
+      "publishDate": 1756458592990,
+      "urn": "NEWS_779655-v-komand.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        9293,
+        13746,
+        14292,
+        9167
+      ],
+      "rubricId": 58,
+      "previewImage": {
+        "copyright": "Getty Images",
+        "image": "d0d9/94db/bb16/4eee/9ac3/a1c5/18f0/6ab6/1600_1067.jpeg",
+        "imageForMobile": "d866/218f/907d/4573/900a/d443/2d26/7c1e/1067_1067.jpeg",
+        "tags": [
+          9167
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        58
+      ]
+    },
+    {
+      "id": 779654,
+      "title": "Фернандеш: «Галицкий — архитектор всего, что есть у «Краснодара. Надеюсь, им удастся чаще выигрывать трофеи»",
+      "type": "NEWS",
+      "publishDate": 1756457863458,
+      "urn": "NEWS_779654-fernande.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        10870,
+        14973,
+        13890
+      ],
+      "rubricId": 48,
+      "badge": "EXCLUSIVE",
+      "previewImage": {
+        "copyright": "РИА Новости",
+        "image": "04e1/5b6e/07f5/f5a3/68fb/9f23/ef0a/52ec/1600_900.jpeg",
+        "imageForMobile": "7f7f/376a/12c6/40fc/a45a/459b/0bae/b49a/900_900.jpeg",
+        "tags": [
+          10870
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779653,
+      "title": "«Тоттенхэм» договорился о приобретении Симонса",
+      "type": "NEWS",
+      "publishDate": 1756457817630,
+      "urn": "NEWS_779653-tottenkh.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        14579,
+        15458,
+        15358,
+        14269,
+        13838,
+        14698
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "@xavisimons",
+        "image": "3ced/62e2/ec14/48bc/909d/3b32/debc/286e/800_450.webp",
+        "tags": [
+          14579
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779651,
+      "title": "Фернандеш: «Смородская не заслуживает уважения. Если встречу Ольгу, сделаю вид, что не знаю ее»",
+      "type": "NEWS",
+      "publishDate": 1756457284424,
+      "urn": "NEWS_779651-fernande.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        10870,
+        15095,
+        14955,
+        13853
+      ],
+      "rubricId": 48,
+      "badge": "EXCLUSIVE",
+      "previewImage": {
+        "copyright": "РИА Новости",
+        "image": "e775/49ac/2889/d5a6/36cc/4169/6808/abfe/1100_684.jpeg",
+        "imageForMobile": "7555/b224/b4e0/41dc/949f/ee09/f3eb/e435/380_684.jpeg",
+        "tags": [
+          14955
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": true,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779652,
+      "title": "Даку из «Рубина» вызвали в сборную Албании",
+      "type": "NEWS",
+      "publishDate": 1756457113458,
+      "urn": "NEWS_779652-daku-iz-.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        25964,
+        14972,
+        13853,
+        14698,
+        15534
       ],
       "rubricId": 48,
       "previewImage": {
         "copyright": "Getty Images",
-        "image": "8b7c/dca7/1fb5/4ff3/9f74/0388/edcc/08ef/1600_900.jpeg",
-        "imageForMobile": "abfc/876f/41f0/4bfb/ad54/64e2/d51f/7447/900_900.jpeg",
+        "image": "d129/a891/e57b/4693/8ca8/923c/e08f/35f1/1600_1000.jpeg",
+        "imageForMobile": "1103/e3c5/df1a/4609/ba05/6477/7e10/63ce/1000_1000.jpeg",
         "tags": [
-          15075
+          25964
         ]
       },
       "hidePreviewImage": true,
@@ -1994,51 +2320,49 @@
       ]
     },
     {
-      "id": 779000,
-      "title": "Матч футбольных команд в Дагестане продолжился, несмотря на начавшееся землетрясение: видео",
+      "id": 779650,
+      "title": "«Лада» — «Сочи». Кубок губернатора Челябинской области. Прямая трансляция: смотреть онлайн",
       "type": "NEWS",
-      "publishDate": 1756245407325,
-      "urn": "779000-match-futbolnykh-komand-v-dagestane-prodolzhilsya-nesmotrya-na-nachavsheyesya-zemletryaseniye-video",
+      "publishDate": 1756456771555,
+      "urn": "NEWS_779650-lada-soc.json",
       "uriFormatVersion": 1,
       "tags": [
-        14175,
-        14308
+        15313,
+        15257,
+        26702,
+        14374
       ],
-      "rubricId": 48,
+      "rubricId": 73,
       "badge": "VIDEO",
-      "previewImage": {
-        "copyright": " ",
-        "image": "2d83/e960/fdc1/4314/a5dc/5a7d/36b6/2ced/1600_900.jpeg",
-        "tags": []
-      },
       "hidePreviewImage": true,
       "hideComments": false,
       "advertisingPartnerMaterial": false,
       "top": false,
       "rubrics": [
-        48
+        73
       ]
     },
     {
-      "id": 778999,
-      "title": "Дмитриев — о разгромной победе «Спартака»: «Легких матчей вообще не бывает»",
+      "id": 779648,
+      "title": "Чемпион UFC не согласился с Хабибом: «Обычно он знает, что говорит»",
       "type": "NEWS",
-      "publishDate": 1756245375893,
-      "urn": "778999-dmitriyev-o-razgromnoy-pobede-spartaka-legkikh-matchey-voobshche-ne-byvayet",
+      "publishDate": 1756456666422,
+      "urn": "NEWS_779648-chempion.json",
       "uriFormatVersion": 1,
       "tags": [
-        25890,
-        15576,
-        15582,
-        14631
+        8931,
+        13746,
+        14292,
+        8672,
+        9053
       ],
-      "rubricId": 48,
+      "rubricId": 58,
       "previewImage": {
-        "copyright": "Александр Мысякин, Sport24",
-        "image": "90cb/ce14/4f13/43e3/9342/2cb5/8869/8c91/1600_900.jpeg",
-        "imageForMobile": "dd92/1537/e736/4405/affb/77f4/4093/494e/900_900.jpeg",
+        "copyright": "instagram.com/khabib_nurmagomedov",
+        "image": "417c/3ee4/088b/4ee0/bc2c/4073/9579/f0ae/1600_1000.jpeg",
+        "imageForMobile": "9de8/a2fb/13e1/421a/9696/e100/f63d/9103/555_1000.jpeg",
         "tags": [
-          25890
+          10199
         ]
       },
       "hidePreviewImage": true,
@@ -2046,32 +2370,28 @@
       "advertisingPartnerMaterial": false,
       "top": false,
       "rubrics": [
-        48
+        58
       ]
     },
     {
-      "id": 778997,
-      "title": "Рахимов: «У «Рубина» всего два нападающих. Такого не должно быть в команде РПЛ, которая ставит задачи»",
+      "id": 779649,
+      "title": "«Я собирался убить этого парня». Шакил О’Нил вспомнил, как «Лейкерс» решил его обменять",
       "type": "NEWS",
-      "publishDate": 1756245000000,
-      "urn": "778997-rakhimov-u-rubina-vsego-dva-napadayushchikh-takogo-ne-dolzhno-byt-v-komande-rpl-kotoraya-stavit-zadachi",
+      "publishDate": 1756456617060,
+      "urn": "NEWS_779649-ya-sobir.json",
       "uriFormatVersion": 1,
       "tags": [
-        13335,
-        14972,
-        14631,
-        12167,
-        11011,
-        15128,
-        25964
+        8225,
+        14274,
+        14950
       ],
-      "rubricId": 48,
+      "rubricId": 59,
       "previewImage": {
-        "copyright": "Александр Мысякин, Sport24",
-        "image": "9d4f/9559/5d17/5a8f/76f6/4ab3/9361/3c7f/1600_900.jpeg",
-        "imageForMobile": "a114/f1dd/32de/40fe/a0e8/e9e7/343a/7dd9/500_900.jpeg",
+        "copyright": "instagram.com/shaq",
+        "image": "43d1/25c1/7db0/47b8/8e5f/2ddd/744b/8e1c/1600_1000.jpeg",
+        "imageForMobile": "da03/5c54/14bd/4bf6/8c1f/e621/364f/c832/555_1000.jpeg",
         "tags": [
-          13335
+          8225
         ]
       },
       "hidePreviewImage": true,
@@ -2079,125 +2399,82 @@
       "advertisingPartnerMaterial": false,
       "top": false,
       "rubrics": [
-        48
+        59,
+        52
       ]
     },
     {
-      "id": 778995,
-      "title": "Зобнин — о Самошникове: «Теперь у «Спартака» есть секретное оружие»",
+      "id": 779647,
+      "title": "Евробаскет-2025. Германия — Швеция. Прямая трансляция: смотреть онлайн",
       "type": "NEWS",
-      "publishDate": 1756244640777,
-      "urn": "778995-zobnin-o-samoshnikove-teper-u-spartaka-yest-sekretnoye-oruzhiye",
+      "publishDate": 1756456132900,
+      "urn": "NEWS_779647-yevrobas.json",
       "uriFormatVersion": 1,
       "tags": [
-        15576,
-        15582,
-        14631,
-        11689,
-        13346
+        14863,
+        29007,
+        27775
       ],
-      "rubricId": 48,
+      "rubricId": 59,
       "badge": "VIDEO",
-      "previewImage": {
-        "copyright": "Александр Мысякин, Sport24",
-        "image": "94cc/fb87/c7f3/4b90/84cb/770d/73ba/3e65/1600_900.jpeg",
-        "imageForMobile": "eb1a/b2ed/eb54/44aa/8d32/11cd/e9bb/6253/500_900.jpeg",
-        "tags": [
-          11689
-        ]
-      },
       "hidePreviewImage": true,
       "hideComments": false,
       "advertisingPartnerMaterial": false,
       "top": false,
       "rubrics": [
-        48
+        59,
+        52
       ]
     },
     {
-      "id": 778996,
-      "title": "«Ахмату» нужно было остаться в гонке за Кубок России». Черчесов — о победе над «Рубином»",
+      "id": 779645,
+      "title": "Мирра Андреева призналась, что ее восхищает Энди Маррей: «Стареет как хорошее вино»",
       "type": "NEWS",
-      "publishDate": 1756244437769,
-      "urn": "778996-akhmatu-nuzhno-bylo-ostatsya-v-gonke-za-kubok-rossii-cherchesov-o-pobede-nad-rubinom",
+      "publishDate": 1756455585429,
+      "urn": "NEWS_779645-mirra-an.json",
       "uriFormatVersion": 1,
       "tags": [
-        14631,
-        11011,
-        14972,
-        15128
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "fc-akhmat.ru",
-        "image": "9a08/285b/25ab/4c11/bf3d/a73c/201f/1dcb/1600_900.jpeg",
-        "imageForMobile": "e162/b81a/4f97/42d6/a49a/17be/0935/36da/900_900.png",
-        "tags": [
-          11011
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778993,
-      "title": "Александрова обыграла Севастову и вышла во 2-й круг US Open",
-      "type": "NEWS",
-      "publishDate": 1756243860191,
-      "urn": "778993-aleksandrova-obygrala-sevastovu-i-vyshla-vo-2-y-krug-us-open",
-      "uriFormatVersion": 1,
-      "tags": [
-        14731,
-        8250,
-        9788,
-        14137
+        25661,
+        9853
       ],
       "rubricId": 50,
       "previewImage": {
         "copyright": "Getty Images",
-        "image": "22b7/2a2f/6cb2/4cd0/a3a6/d4e2/c88b/dfbe/1600_900.jpeg",
-        "imageForMobile": "96fb/3fe9/ba66/43cc/afe0/37ff/15f5/28ec/900_900.jpeg",
+        "image": "ff1b/7b87/1e23/4b1d/b44e/cf04/7d73/f20e/1600_900.jpeg",
+        "imageForMobile": "6e52/9442/5591/40f5/84d9/f213/1945/be13/900_900.png",
         "tags": [
-          8250
+          25661
         ]
       },
       "hidePreviewImage": true,
       "hideComments": false,
       "advertisingPartnerMaterial": false,
-      "top": true,
+      "top": false,
       "rubrics": [
         50,
         52
       ]
     },
     {
-      "id": 778992,
-      "title": "ЦСКА может приобрести Гуарирапу из «Сочи» или Воробьева из «Локомотива»",
+      "id": 779646,
+      "title": "В IBU заявили, что россияне не получат wild card на Олимпиаду",
       "type": "NEWS",
-      "publishDate": 1756243758414,
-      "urn": "778992-tsska-mozhet-priobresti-guarirapu-iz-sochi-ili-vorobyeva-iz-lokomotiva",
+      "publishDate": 1756455578632,
+      "urn": "NEWS_779646-v-ibu-za.json",
       "uriFormatVersion": 1,
       "tags": [
-        26761,
-        12341,
-        15265,
-        15372,
-        15095,
-        13853,
-        14698
+        14695,
+        14027,
+        24865
       ],
-      "rubricId": 48,
+      "rubricId": 86,
       "previewImage": {
-        "copyright": "РИА Новости",
-        "image": "4988/9076/0fb3/4cb5/b9a5/2f02/f147/4a67/1600_900.jpeg",
-        "imageForMobile": "d180/abb9/a206/4d5b/a815/d465/0862/173a/900_900.jpeg",
+        "copyright": "shutterstock.com",
+        "image": "53eb/2e6f/4e7f/4998/9f81/71cf/1c89/1316/1600_900.jpeg",
+        "imageForMobile": "cfe3/b4f9/94f8/4e16/ba37/b4d1/350f/b283/900_900.jpeg",
         "tags": [
-          26761
+          14027,
+          14874
         ]
       },
       "hidePreviewImage": true,
@@ -2205,166 +2482,35 @@
       "advertisingPartnerMaterial": false,
       "top": true,
       "rubrics": [
-        48
+        86
       ]
     },
     {
-      "id": 778991,
-      "title": "«Динамо» с Карпиным и этими игроками никогда не станет чемпионом». Бело-голубым предложили пари на 3 миллиона",
+      "id": 779373,
+      "title": "Кто станет лучшим бомбардиром РПЛ-25/26: Батраков, Даку, Кордоба или Дзюба?",
       "type": "NEWS",
-      "publishDate": 1756243376174,
-      "urn": "778991-dinamo-s-karpinym-i-etimi-igrokami-nikogda-ne-stanet-chempionom-belo-golubym-predlozhili-pari-na-3-milliona",
+      "publishDate": 1756454700000,
+      "urn": "NEWS_779373-kto-stan.json",
       "uriFormatVersion": 1,
       "tags": [
-        13650,
-        15037,
-        12982
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Александр Мысякин, Sport24",
-        "image": "fbd3/42fa/00b8/4adc/9bd8/1ef8/6efd/33b5/1600_900.jpeg",
-        "imageForMobile": "3068/cf49/0121/4a6a/9716/eee5/7b64/6405/900_900.jpeg",
-        "tags": [
-          12982,
-          15037
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778988,
-      "title": "Тренер «Кайрата» после выхода в ЛЧ рассказал, как мотивировал игроков: «Распечатали и в раздевалку повесили»",
-      "type": "NEWS",
-      "publishDate": 1756243175358,
-      "urn": "778988-trener-kayrata-rasskazal-kak-motiviroval-igrokov-grandami-ligi-chempionov-raspechatali-i-v-razdevalku-povesili",
-      "uriFormatVersion": 1,
-      "tags": [
-        15507,
-        14949
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Zuma\\TASS",
-        "image": "3bfd/c015/b18b/48b8/895b/dfe9/ce4f/49cc/1600_1067.jpeg",
-        "tags": []
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778990,
-      "title": "Помазун оценил дебют Самошникова за «Спартак»: «Для первой игры просто супер»",
-      "type": "NEWS",
-      "publishDate": 1756243086900,
-      "urn": "778990-pomazun-otsenil-debyut-samoshnikova-za-spartak-dlya-pervoy-igry-prosto-super",
-      "uriFormatVersion": 1,
-      "tags": [
-        12150,
-        13346,
+        26692,
+        14143,
+        13853,
         15576,
-        15582,
-        13853
-      ],
-      "rubricId": 48,
-      "badge": "VIDEO",
-      "previewImage": {
-        "copyright": "РИА Новости",
-        "image": "bffd/0651/944e/4b44/85ac/0dab/2464/05b1/1600_900.jpeg",
-        "imageForMobile": "07cc/abac/664f/43d3/9437/86f2/cdf6/de16/900_900.jpeg",
-        "tags": [
-          12150
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778989,
-      "title": "Шпилевский рассказал, в чем «Пари НН» был лучше «Спартака»",
-      "type": "NEWS",
-      "publishDate": 1756242602971,
-      "urn": "778989-shpilevskiy-rasskazal-v-chem-pari-nn-byl-luchshe-spartaka",
-      "uriFormatVersion": 1,
-      "tags": [
-        14631,
-        25791,
-        15582,
-        15576
+        15095,
+        27283,
+        10595,
+        24588,
+        24648,
+        14973
       ],
       "rubricId": 48,
       "previewImage": {
-        "copyright": "vk.com/fcparinn",
-        "image": "b7b5/2764/c315/4a7e/83bf/d408/7456/7ace/1600_963.jpeg",
-        "imageForMobile": "dbcc/3aac/b1df/443d/be81/e0a9/39f5/54d6/963_963.jpeg",
+        "copyright": "Дмитрий Бурдонов, fcakron.ru",
+        "image": "a1a6/1fd7/ef96/4938/84dd/9e2c/47f9/98a9/1600_900.jpeg",
+        "imageForMobile": "de7d/0caa/597c/4dc0/8bfc/cc81/a43c/7e24/900_900.png",
         "tags": [
-          25791
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778987,
-      "title": "«Ахмат» — «Рубин» — 2:0. Видеообзор матча Кубка России",
-      "type": "NEWS",
-      "publishDate": 1756242543294,
-      "urn": "778987-akhmat-rubin-20-videoobzor-matcha-kubka-rossii",
-      "uriFormatVersion": 1,
-      "tags": [
-        15128,
-        14972,
-        14631
-      ],
-      "rubricId": 48,
-      "badge": "VIDEO",
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778907,
-      "title": "Трусова похудела на 12 кг после рождения сына: «Но грудь пятого размера — это хорошо»",
-      "type": "NEWS",
-      "publishDate": 1756241940000,
-      "urn": "778907-trusova-pokhudela-na-12-kg-posle-rozhdeniya-syna-no-grud-pyatogo-razmera-eto-khorosho",
-      "uriFormatVersion": 1,
-      "tags": [
-        9034,
-        14044
-      ],
-      "rubricId": 44,
-      "previewImage": {
-        "copyright": "@avtrusova",
-        "image": "a48a/ee85/1e7a/4fe0/89f6/d26f/4163/7362/1600_1018.jpeg",
-        "imageForMobile": "29d6/3ad8/9196/44c2/9fac/affe/18ae/21bc/1018_1018.png",
-        "tags": [
-          9034
+          10595
         ]
       },
       "hidePreviewImage": true,
@@ -2372,61 +2518,30 @@
       "advertisingPartnerMaterial": false,
       "top": true,
       "rubrics": [
-        44,
-        52
+        48,
+        53
       ]
     },
     {
-      "id": 778986,
-      "title": "Леонид Трахтенберг озвучил причину ухода Романцева из «Спартака»: «Для него это было нереально»",
+      "id": 779643,
+      "title": "Тимощук: «Старт сезона не может радовать, «Зенит» растерял много очков»",
       "type": "NEWS",
-      "publishDate": 1756241930929,
-      "urn": "778986-leonid-trakhtenberg-ozvuchil-prichinu-ukhoda-romantseva-iz-spartaka-dlya-nego-eto-bylo-nerealno",
+      "publishDate": 1756454380051,
+      "urn": "NEWS_779643-timoshch.json",
       "uriFormatVersion": 1,
       "tags": [
-        8692,
         13853,
-        15576
+        13133,
+        15341,
+        14631
       ],
       "rubricId": 48,
       "previewImage": {
         "copyright": "Евгений Семенов, Sport24",
-        "image": "0296/ed2d/7e6d/482d/878c/99c0/8e6a/e56d/1600_1000.jpeg",
-        "imageForMobile": "a2e1/cb47/4bd8/4bcd/88c0/12f1/3de9/7386/555_1000.png",
+        "image": "d6f0/2a86/336d/4516/a95c/7f1a/11fb/7caf/1600_900.jpeg",
+        "imageForMobile": "c66b/ba97/90bf/44c8/8df8/5054/a6dd/b135/400_720.jpeg",
         "tags": [
-          8692
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778985,
-      "title": "Главный тренер «Пари НН» Шпилевский заявил, что чувствует свою причастность к выходу «Кайрата» в Лигу чемпионов",
-      "type": "NEWS",
-      "publishDate": 1756241913843,
-      "urn": "778985-glavnyy-trener-pari-nn-shpilevskiy-zayavil-chto-chuvstvuyet-svoyu-prichastnost-k-vykhodu-kayrata-v-ligu-chempionov",
-      "uriFormatVersion": 1,
-      "tags": [
-        25791,
-        15582,
-        15507,
-        14949,
-        13853
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "fcnn.ru",
-        "image": "4eac/2ab6/e02c/46fc/931c/4127/71c1/c25c/1600_900.jpeg",
-        "imageForMobile": "6087/3577/32b1/4eb9/bf9a/7b73/0ac7/6e73/900_900.jpeg",
-        "tags": [
-          25791,
-          15582
+          13133
         ]
       },
       "hidePreviewImage": true,
@@ -2438,81 +2553,88 @@
       ]
     },
     {
-      "id": 778984,
-      "title": "«Црвена Звезда» Тикнизяна упустила победу над «Пафосом» и не попала в общий этап Лиги чемпионов",
+      "id": 779639,
+      "title": "Легионер ЦСКА восхитился Никитиным: «Очень сильный тренер, всегда придерживается системы»",
       "type": "NEWS",
-      "publishDate": 1756241899361,
-      "urn": "778984-tsrvena-zvezda-tiknizyana-upustila-pobedu-nad-pafosom-i-ne-popala-v-obshchiy-raund-ligi-chempionov",
+      "publishDate": 1756454354121,
+      "urn": "NEWS_779639-legioner.json",
       "uriFormatVersion": 1,
       "tags": [
-        15904,
-        10416,
-        16064,
-        14949
+        14924,
+        15077,
+        14374
       ],
-      "rubricId": 48,
+      "rubricId": 73,
       "previewImage": {
-        "copyright": "crvenazvezdafk.com",
-        "image": "896d/04df/e87d/4192/a66c/0f86/3bbd/ed85/1600_900.jpeg",
-        "imageForMobile": "0113/5ae5/7b08/4c04/91cb/e270/e890/5467/900_900.jpeg",
-        "tags": []
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778979,
-      "title": "«Буде-Глимт» с российским вратарем Хайкиным впервые вышел в общий этап Лиги чемпионов",
-      "type": "NEWS",
-      "publishDate": 1756241497690,
-      "urn": "778979-bude-glimt-s-rossiyskim-vratarem-khaykinym-vpervyye-vyshel-v-obshchiy-etap-ligi-chempionov",
-      "uriFormatVersion": 1,
-      "tags": [
-        16054,
-        15563,
-        14949,
-        13555
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Zuma/TASS",
-        "image": "e917/8181/dbdb/4954/bfa5/d6d8/a92f/12fc/1600_900.jpeg",
-        "imageForMobile": "aa33/aea2/c415/462b/b044/c855/7cfc/f966/900_900.jpeg",
+        "copyright": "Ярослав Неелов, photo.khl.ru",
+        "image": "9551/fa00/5a29/46b6/9dde/4a40/068d/509e/1600_900.jpeg",
+        "imageForMobile": "6a85/d68e/3cdb/45b0/90a0/e1c7/fc39/b5f9/900_900.jpeg",
         "tags": [
-          13555
+          14924
         ]
       },
       "hidePreviewImage": true,
       "hideComments": false,
       "advertisingPartnerMaterial": false,
-      "top": true,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779642,
+      "title": "Стоцкий покинул «Черноморец» после 5 матчей за команду",
+      "type": "NEWS",
+      "publishDate": 1756454141790,
+      "urn": "NEWS_779642-stotskiy.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        10358,
+        15454,
+        13715
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "Александр Чурбанов, fcnn.ru",
+        "image": "7caf/dedb/d80c/459d/866f/fdd7/3970/9433/1600_900.jpeg",
+        "imageForMobile": "12f8/b67c/c594/4eeb/abd1/72a0/d00a/0962/500_900.jpeg",
+        "tags": [
+          15582,
+          10358
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
       "rubrics": [
         48
       ]
     },
     {
-      "id": 778982,
-      "title": "«Спартак» — «Пари НН»: видеообзор матча Кубка России с дебютным голом Самошникова",
+      "id": 779641,
+      "title": "Тедеев — о неучастии Дзюбы в матчах Кубка России: «Я просто боюсь за него»",
       "type": "NEWS",
-      "publishDate": 1756241435688,
-      "urn": "778982-spartak-pari-nn-videoobzor-matcha-kubka-rossii-s-debyutnym-golom-samoshnikova",
+      "publishDate": 1756453899794,
+      "urn": "NEWS_779641-tedeyev-.json",
       "uriFormatVersion": 1,
       "tags": [
-        15576,
-        15582,
-        13346,
-        29364,
-        11689,
-        25350,
+        10595,
+        26553,
+        15772,
+        13853,
         14631
       ],
       "rubricId": 48,
-      "badge": "VIDEO",
+      "previewImage": {
+        "copyright": "fcakron.ru",
+        "image": "e96b/1ead/acf8/4320/9570/03b0/b82e/bbf1/1600_900.jpeg",
+        "imageForMobile": "07f9/b4ab/ba63/48ff/ba68/8c93/b465/b01a/900_900.jpeg",
+        "tags": [
+          10595,
+          15772
+        ]
+      },
       "hidePreviewImage": true,
       "hideComments": false,
       "advertisingPartnerMaterial": false,
@@ -2522,415 +2644,277 @@
       ]
     },
     {
-      "id": 778880,
-      "title": "Россиянин из UFC — о титульной победе Чимаева: «Позор для чемпиона»",
+      "id": 779638,
+      "title": "«Фенербахче» объявил об увольнении Моуринью ",
       "type": "NEWS",
-      "publishDate": 1756241400000,
-      "urn": "778880-rossiyanin-iz-ufc-o-titulnoy-pobede-chimayeva-pozor-dlya-chempiona",
+      "publishDate": 1756453689374,
+      "urn": "NEWS_779638-fenerbak.json",
       "uriFormatVersion": 1,
       "tags": [
-        8361,
-        8459,
-        25746,
+        12992,
+        15736,
+        14782
+      ],
+      "rubricId": 48,
+      "previewImage": {
+        "copyright": "GettyImages",
+        "image": "3427/437a/b145/48eb/9c99/7c7d/bdfb/a99c/1600_900.jpeg",
+        "imageForMobile": "744d/62fd/a65c/479f/acb2/a84c/d6da/0195/500_900.jpeg",
+        "tags": [
+          12992
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": true,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779637,
+      "title": "«Если бы хлестал водку стопками — точно лежал бы на полу». Фернандеш — о том, как отдыхал в России",
+      "type": "NEWS",
+      "publishDate": 1756453587109,
+      "urn": "NEWS_779637-yesliby-.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        10870,
+        15095,
+        13853
+      ],
+      "rubricId": 48,
+      "badge": "EXCLUSIVE",
+      "previewImage": {
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "3e94/6efd/da5d/25bb/03a3/b95f/54ae/0dae/1100_684.jpeg",
+        "imageForMobile": "979d/378b/8012/4e6c/aea4/f434/cf01/a9f6/684_684.jpeg",
+        "tags": [
+          15095,
+          10870
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779635,
+      "title": "Менеджер Топурии опроверг слух о поединке с Гейджи: «У нас пока нет предложений»",
+      "type": "NEWS",
+      "publishDate": 1756453533440,
+      "urn": "NEWS_779635-menedzhe.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        8672,
+        10341,
         13746,
         14292
       ],
       "rubricId": 58,
       "previewImage": {
         "copyright": "Getty Images",
-        "image": "7452/7b58/0971/4832/ba3a/68ee/1175/f437/612_408.jpeg",
-        "imageForMobile": "79e2/21df/d14b/446f/b484/d0fc/c723/ee24/408_408.jpeg",
+        "image": "9ca5/da92/2bbc/4243/8062/1556/9e0a/ab53/1600_900.jpeg",
+        "imageForMobile": "a3dc/c1f3/d922/409a/9191/2be7/e82c/d19c/900_900.jpeg",
         "tags": [
-          8459
+          8672
         ]
       },
       "hidePreviewImage": true,
       "hideComments": false,
       "advertisingPartnerMaterial": false,
-      "top": true,
+      "top": false,
       "rubrics": [
         58
       ]
     },
     {
-      "id": 778980,
-      "title": "Солдата ВСУ с украинским флагом выгнали со стадиона «ПСЖ» во время матча",
+      "id": 779634,
+      "title": "Чемпионат мира по волейболу среди женщин 2025. 29 августа. Трансляция: смотреть онлайн",
       "type": "NEWS",
-      "publishDate": 1756240928347,
-      "urn": "778980-soldata-vsu-s-ukrainskim-flagom-vygnali-so-stadiona-pszh-vo-vremya-matcha",
+      "publishDate": 1756452813789,
+      "urn": "NEWS_779634-chempion.json",
       "uriFormatVersion": 1,
       "tags": [
-        15202,
-        15019,
-        13910
+        13948,
+        27850,
+        29007
       ],
-      "rubricId": 48,
-      "badge": "GALLERY",
+      "rubricId": 46,
+      "badge": "VIDEO",
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        46,
+        52
+      ]
+    },
+    {
+      "id": 779633,
+      "title": "Морозов ответил на вопрос о возможном возвращении Овечкина и Малкина в КХЛ",
+      "type": "NEWS",
+      "publishDate": 1756452488865,
+      "urn": "NEWS_779633-morozov-.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        13901,
+        14374,
+        12730,
+        13371,
+        13739
+      ],
+      "rubricId": 73,
       "previewImage": {
-        "copyright": "shutterstock.com",
-        "image": "be24/6f81/bf15/42cc/b0f4/e0b5/32b0/774d/1600_900.jpeg",
-        "imageForMobile": "b6b4/0561/0493/469c/a60c/041d/40e2/b655/900_900.png",
+        "copyright": "nhl.com",
+        "image": "48a2/8b16/6fb9/42e6/ba81/b118/2f3c/9326/1600_900.jpeg",
+        "imageForMobile": "c782/e25d/2c0d/442d/a428/ccac/0866/f959/900_900.jpeg",
+        "tags": [
+          12730,
+          13371
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779630,
+      "title": "Рекордные для российских моментальных лотерей 120 миллионов рублей выиграла жительница Орловской области",
+      "type": "NEWS",
+      "publishDate": 1756451857296,
+      "urn": "NEWS_779630-rekordny.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        13843,
+        14360,
+        24444
+      ],
+      "rubricId": 154,
+      "previewImage": {
+        "copyright": " ",
+        "image": "a7d8/2932/5fba/4928/96f7/e035/36de/ecf8/1600_900.jpeg",
+        "imageForMobile": "fae4/d0a2/fbe8/4b75/9a85/f205/5d3c/4137/900_900.jpeg",
         "tags": []
       },
       "hidePreviewImage": true,
       "hideComments": false,
       "advertisingPartnerMaterial": false,
-      "top": true,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778975,
-      "title": "Заболотный признался, что на него не давит отсутствие голов за «Спартак»: «Вообще нет»",
-      "type": "NEWS",
-      "publishDate": 1756240693278,
-      "urn": "778975-zabolotnyy-priznalsya-chto-na-nego-ne-davit-otsutstviye-golov-za-spartak",
-      "uriFormatVersion": 1,
-      "tags": [
-        15576,
-        15582,
-        14631,
-        12306
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Александр Мысякин, Sport24",
-        "image": "e3ba/ef88/b66d/4a05/b38f/8fd7/92d3/a59c/1600_900.jpeg",
-        "imageForMobile": "859e/a3f6/1e1f/404d/a3a1/3f6d/d3aa/92f6/900_900.jpeg",
-        "tags": [
-          12306
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
       "top": false,
       "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778978,
-      "title": "Самошников оценил дебютный матч за «Спартак»: «Я сделал свою работу»",
-      "type": "NEWS",
-      "publishDate": 1756240597194,
-      "urn": "778978-samoshnikov-otsenil-debyutnyy-match-za-spartak-ya-sdelal-svoyu-rabotu",
-      "uriFormatVersion": 1,
-      "tags": [
-        13346,
-        15576,
-        15582,
-        14631
-      ],
-      "rubricId": 48,
-      "badge": "VIDEO",
-      "previewImage": {
-        "copyright": "spartak.com",
-        "image": "3eaf/4c61/0045/4df0/a012/2100/3315/0bb8/1600_1000.jpeg",
-        "imageForMobile": "8065/ea42/655b/4d9b/937f/44f2/895c/5aac/1000_1000.jpeg",
-        "tags": [
-          13346
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778976,
-      "title": "Определилась шестерка участников Кубка Райдера от сборной Европы",
-      "type": "NEWS",
-      "publishDate": 1756240369502,
-      "urn": "778976-opredelilas-shesterka-uchastnikov-kubka-raydera-ot-sbornoy-yevropy",
-      "uriFormatVersion": 1,
-      "tags": [
-        14842,
-        8729
-      ],
-      "rubricId": 49,
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        49
-      ]
-    },
-    {
-      "id": 778974,
-      "title": "Менелл: «Ларионов отличается от всех тренеров, с которыми я когда-либо работал»",
-      "type": "NEWS",
-      "publishDate": 1756240247586,
-      "urn": "menell-larionov-otlichayetsya-ot-vsekh-trenerov-s-kotorymi-ya-kogda-libo-rabotal",
-      "uriFormatVersion": 1,
-      "tags": [
-        25686,
-        15134,
-        10376,
-        14374
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Илья Смирнов, photo.khl.ru",
-        "image": "bf8e/cb1a/8baf/401d/b263/e385/8230/0f49/1600_900.jpeg",
-        "imageForMobile": "f230/882c/76fc/41fc/8cbe/b296/55c9/4442/900_900.jpeg",
-        "tags": [
-          10376
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 778973,
-      "title": "Тренер «Спартака» оценил дебют Самошникова: «Еще вольется, но мы им довольны»",
-      "type": "NEWS",
-      "publishDate": 1756240062415,
-      "urn": "778973-trener-spartaka-otsenil-debyut-samoshnikova-yeshche-volyetsya-no-my-im-dovolny",
-      "uriFormatVersion": 1,
-      "tags": [
-        29392,
-        13346,
-        15576,
-        15582,
-        14631
-      ],
-      "rubricId": 48,
-      "badge": "VIDEO",
-      "previewImage": {
-        "copyright": "spartak.com",
-        "image": "95c8/1647/7a37/4762/9506/ba66/a2e0/21d9/1600_1013.jpeg",
-        "imageForMobile": "6468/3153/7a00/4134/9877/cc77/4ff1/0d03/1013_1013.jpeg",
-        "tags": [
-          13346
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778972,
-      "title": "Зобнин обратился к болельщикам «Спартака» после разгромной победы над «Пари НН»",
-      "type": "NEWS",
-      "publishDate": 1756239680449,
-      "urn": "778972-zobnin-obratilsya-k-bolelshchikam-spartaka-posle-razgromnoy-pobedy-nad-pari-nn",
-      "uriFormatVersion": 1,
-      "tags": [
-        11689,
-        15576,
-        15582,
-        14631
-      ],
-      "rubricId": 48,
-      "badge": "VIDEO",
-      "previewImage": {
-        "copyright": "Александр Мысякин, Sport24",
-        "image": "25a5/1baf/756b/4bef/8bba/22fe/0f90/b743/1600_1031.jpeg",
-        "imageForMobile": "613b/817d/7029/4db0/97bb/fae9/075e/0b9c/572_1031.jpeg",
-        "tags": [
-          11689
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778971,
-      "title": "Новичок СКА Мерфи: «Философия Ларионова хорошо подходит нашим игрокам»",
-      "type": "NEWS",
-      "publishDate": 1756239034750,
-      "urn": "778971-novichok-ska-merfi-filosofiya-larionova-khorosho-podkhodit-nashim-igrokam",
-      "uriFormatVersion": 1,
-      "tags": [
-        27976,
-        10376,
-        15134,
-        14374
-      ],
-      "rubricId": 73,
-      "previewImage": {
-        "copyright": "Владимир Беззубов, photo.khl.ru",
-        "image": "59e7/5079/41f7/461f/8a7f/9ac9/6889/6e6e/1600_900.jpeg",
-        "imageForMobile": "e062/8a75/c29c/41c5/8dd6/fc3a/a482/6161/500_900.png",
-        "tags": [
-          10376
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        73
-      ]
-    },
-    {
-      "id": 778970,
-      "title": "Самошников поделился эмоциями после дебютного гола за «Спартак»",
-      "type": "NEWS",
-      "publishDate": 1756238919489,
-      "urn": "778970-samoshnikov-podelilsya-emotsiyami-posle-debyutnogo-gola-za-spartak",
-      "uriFormatVersion": 1,
-      "tags": [
-        15576,
-        15582,
-        13346,
-        14631
-      ],
-      "rubricId": 48,
-      "badge": "VIDEO",
-      "previewImage": {
-        "copyright": "spartak.com",
-        "image": "3eaf/4c61/0045/4df0/a012/2100/3315/0bb8/1600_1000.jpeg",
-        "imageForMobile": "8065/ea42/655b/4d9b/937f/44f2/895c/5aac/1000_1000.jpeg",
-        "tags": [
-          13346
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778969,
-      "title": "Рахимов после поражения от «Ахмата»: «Рубин» пропустил очень легкие мячи после своих ошибок»",
-      "type": "NEWS",
-      "publishDate": 1756238657040,
-      "urn": "778969-rakhimov-posle-porazheniya-ot-akhmata-rubin-propustil-ochen-legkiye-myachi-posle-svoikh-oshibok",
-      "uriFormatVersion": 1,
-      "tags": [
-        13335,
-        14972,
-        15128,
-        14631
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "Евгений Семенов, Sport24",
-        "image": "1aee/a378/c91a/43db/a62e/04f8/d44f/ad19/1600_1000.jpeg",
-        "imageForMobile": "bd3d/46f8/035f/4898/addc/c732/d94c/e6ac/1000_1000.jpeg",
-        "tags": [
-          13335
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778966,
-      "title": "Форвард «Балтики» Хиль объяснил свои бомбардирские подвиги в РПЛ",
-      "type": "NEWS",
-      "publishDate": 1756238416541,
-      "urn": "778966-forvard-baltiki-khil-obyasnil-svoi-bombardirskiye-podvigi-v-rpl",
-      "uriFormatVersion": 1,
-      "tags": [
-        29210,
-        15463,
-        13853
-      ],
-      "rubricId": 48,
-      "previewImage": {
-        "copyright": "ФК«Балтика»",
-        "image": "e87f/a91c/56c7/4a62/8885/11ca/4776/f917/1600_900.jpeg",
-        "imageForMobile": "9be5/219f/c741/46d8/9a79/3689/302b/a44a/900_900.jpeg",
-        "tags": [
-          29210
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        48
-      ]
-    },
-    {
-      "id": 778968,
-      "title": "Попырин стал соперником Синнера во 2-м круге US Open: Алексей выиграл у Янника единственный очный матч в карьере",
-      "type": "NEWS",
-      "publishDate": 1756238365269,
-      "urn": "778968-popyrin-stal-sopernikom-sinnera-vo-2-m-kruge-us-open-aleksey-vyigral-u-yannika-yedinstvennyy-ochnyy-match-v-karyere",
-      "uriFormatVersion": 1,
-      "tags": [
-        25766,
-        25773,
-        14731,
-        24979
-      ],
-      "rubricId": 50,
-      "previewImage": {
-        "copyright": "Getty Images",
-        "image": "af29/aa06/39f5/477a/80ba/4577/ac9f/566e/1600_900.jpeg",
-        "imageForMobile": "21af/d243/efbf/4026/98e7/ea68/19d5/e019/900_900.png",
-        "tags": [
-          25766
-        ]
-      },
-      "hidePreviewImage": true,
-      "hideComments": false,
-      "advertisingPartnerMaterial": false,
-      "top": false,
-      "rubrics": [
-        50,
+        154,
         52
       ]
     },
     {
-      "id": 778965,
-      "title": "Защитник ЦСКА Лукин: «Кисляк — это мозг нашей команды»",
+      "id": 779625,
+      "title": "Мемориал Ромазана. «Салават Юлаев» — «Магнитка». Трансляция",
       "type": "NEWS",
-      "publishDate": 1756237847229,
-      "urn": "778965-zashchitnik-tsska-lukin-kislyak-eto-mozg-nashey-komandy",
+      "publishDate": 1756450800000,
+      "urn": "NEWS_779625-memorial.json",
       "uriFormatVersion": 1,
       "tags": [
-        25299,
-        25987,
-        15265,
+        15151,
+        14374,
+        26702
+      ],
+      "rubricId": 73,
+      "badge": "VIDEO",
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        73
+      ]
+    },
+    {
+      "id": 779428,
+      "title": "«Выживалити. Наследники»: 3-я серия смотреть",
+      "type": "NEWS",
+      "publishDate": 1756450800000,
+      "urn": "NEWS_779428-vyzhival.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        27010
+      ],
+      "rubricId": 153,
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": false,
+      "rubrics": [
+        153
+      ]
+    },
+    {
+      "id": 779626,
+      "title": "Экс-футболист назвал зарплату в «Локомотиве» самой большой в карьере",
+      "type": "NEWS",
+      "publishDate": 1756450795091,
+      "urn": "NEWS_779626-eks-futb.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        15095,
+        10870,
         13853
       ],
       "rubricId": 48,
+      "badge": "EXCLUSIVE",
       "previewImage": {
-        "copyright": "Александр Мысякин, Sport24",
-        "image": "e7a6/fa9e/4948/4a72/af00/95fd/b3ad/6ca0/1600_1124.jpeg",
-        "imageForMobile": "b2c4/90e5/d6ad/463f/9166/8374/518e/a2ee/1124_1124.jpeg",
+        "copyright": "Евгений Семенов, Sport24",
+        "image": "4b99/23d9/d40b/9045/34c4/3a8a/b274/ca94/1600_900.jpeg",
+        "imageForMobile": "8477/03b9/d187/4e49/9721/e336/d4d5/6eb1/500_900.jpeg",
         "tags": [
-          25987
+          10870
         ]
       },
       "hidePreviewImage": true,
       "hideComments": false,
       "advertisingPartnerMaterial": false,
       "top": false,
+      "rubrics": [
+        48
+      ]
+    },
+    {
+      "id": 779623,
+      "title": "«Россия присоединила Крым, и я не захотел переподписывать контракт в рублях». Фернандеш о конфликте в «Локомотиве»",
+      "type": "NEWS",
+      "publishDate": 1756450579608,
+      "urn": "NEWS_779623-fernande.json",
+      "uriFormatVersion": 1,
+      "tags": [
+        13853,
+        15095,
+        10870,
+        14955
+      ],
+      "rubricId": 48,
+      "badge": "EXCLUSIVE",
+      "previewImage": {
+        "copyright": "Александр Мысякин, Sport24",
+        "image": "26f1/b0e8/b896/452d/133c/3559/0b2d/32cc/1600_900.jpeg",
+        "imageForMobile": "215f/5b9d/f383/46e1/add6/5192/da56/2ef2/900_900.jpeg",
+        "tags": [
+          10870,
+          15095
+        ]
+      },
+      "hidePreviewImage": true,
+      "hideComments": false,
+      "advertisingPartnerMaterial": false,
+      "top": true,
       "rubrics": [
         48
       ]

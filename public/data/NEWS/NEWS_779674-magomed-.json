@@ -1,0 +1,77 @@
+{
+  "id": 779674,
+  "editDate": 1756463939502,
+  "title": "Магомед Магомедов и Артем Рофаль проведут бой на RCC 23",
+  "type": "NEWS",
+  "publishDate": 1756463939502,
+  "urn": "779674-magomed-magomedov-i-artem-rofal-provedut-boy-na-rcc-23",
+  "uriFormatVersion": 1,
+  "tags": [
+    26508,
+    13746,
+    14292,
+    8538,
+    26511
+  ],
+  "rubricId": 58,
+  "previewImage": {
+    "copyright": "Getty Images",
+    "image": "c178/5982/6cc4/428c/93e2/4d77/9d47/59b1/1600_900.jpeg",
+    "imageForMobile": "f46e/2454/51ae/4ccf/8203/fa83/a4f5/ff24/900_900.jpeg",
+    "tags": [
+      8538
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "5dd3/a7da/ff34/494a/be76/30b9/3659/8f10/537_240.png",
+    "image": "9552/75c4/4141/4127/ac0e/d105/6c87/80f8/1200_630.png"
+  },
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Магомед Магомедов и Артём Рофаль встретятся в октагоне на турнире RCC 23. Об этом сообщается в телеграм-канале RCC: MMA & Boxing."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Чемпион Top Dog Магомед «Черная Кобра» Магомедов (12-4) возвращается в профессиональный ММА после перерыва и готов к новой битве. 12 сентября в Челябинске его соперником станет один из сильнейших бойцов лиги «Наше Дело» Артем Рофаль (2-0)."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Бой пройдет на ледовой арене «Трактор»."
+        ]
+      ],
+      {}
+    ],
+    [
+      "telegram",
+      [],
+      {
+        "url": "https://t.me/rcc_sport/8946",
+        "postId": "rcc_sport/8946"
+      }
+    ]
+  ],
+  "rubrics": [
+    58
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

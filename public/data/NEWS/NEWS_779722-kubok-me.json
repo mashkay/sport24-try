@@ -1,0 +1,77 @@
+{
+  "id": 779722,
+  "editDate": 1756476651085,
+  "title": "Кубок мэра Москвы. «Спартак» — «Шанхай Дрэгонс». Трансляция",
+  "type": "NEWS",
+  "publishDate": 1756476028396,
+  "urn": "779722-kubok-mera-moskvy-spartak-shankhay-dregons-translyatsiya",
+  "uriFormatVersion": 1,
+  "tags": [
+    15293,
+    15665,
+    14374
+  ],
+  "rubricId": 73,
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "8d99/a146/f243/454e/9015/b186/4ace/e79d/537_240.png",
+    "image": "dec9/b357/3572/47b2/aea6/1574/63a8/0018/1200_630.png"
+  },
+  "seoTitle": "Спартак шанхай: прямая трансляция, смотреть онлайн, прямой эфир, где смотреть, кубок мэра москвы сегодня видео, куньлунь",
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Сегодня, 29 августа, состоится матч Кубка мэра Москвы между «Спартаком» и клубом «Шанхай Дрэгонс»."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Встреча начнется в 19:30 по московскому времени."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Прямая трансляция игры «Спартак» — «Шанхай» будет доступна на этой странице Sport24."
+        ]
+      ],
+      {}
+    ],
+    [
+      "iframe",
+      [],
+      {
+        "url": "https://vkvideo.ru/video_ext.php?oid=-48703984&id=456248543&hash=a2646e9d834f2416",
+        "transparent": false
+      }
+    ],
+    [
+      "p",
+      [
+        [
+          "Ранее в рамках предсезонной подготовки «Спартак» выиграл у «Торпедо» (6:3), а также уступил ЦСКА (0:2) и «Металлургу» из Новокузнецка (2:3)."
+        ]
+      ],
+      {}
+    ]
+  ],
+  "rubrics": [
+    73
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

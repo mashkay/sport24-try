@@ -1,0 +1,86 @@
+{
+  "id": 779717,
+  "editDate": 1756475292609,
+  "title": "Чемпион UFC сделал смелый прогноз на бой Топурия — Махачев: «Может победить досрочно»",
+  "type": "NEWS",
+  "publishDate": 1756475292609,
+  "urn": "779717-chempion-ufc-sdelal-smelyy-prognoz-na-boy-topuriya-makhachev-mozhet-pobedit-dosrochno",
+  "uriFormatVersion": 1,
+  "tags": [
+    9959,
+    13746,
+    14292,
+    8672,
+    8931
+  ],
+  "rubricId": 58,
+  "previewImage": {
+    "copyright": "Getty Images",
+    "image": "4e8d/6b3f/a7c5/401f/ad8c/0e77/f7e2/9d9f/1600_900.jpeg",
+    "imageForMobile": "8411/022b/8b51/485a/9f96/f55f/9905/175c/900_900.png",
+    "tags": [
+      9959,
+      8672
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "6844/d86c/603f/493d/a3ac/1b46/33c7/07f8/537_240.png",
+    "image": "4ff2/441b/0178/46e0/a744/be49/848a/a43e/1200_630.png"
+  },
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Чемпион UFC Мераб Двалишвили поделился ожиданиями от потенциального поединка между Исламом Махачевым и Илией Топурией."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Топурия является чемпионом легкого веса, а Махачев в ноябре проведет бой за пояс в полусреднем весе против Джека Делла Маддалены."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "«Надеюсь, мы увидим этот бой. Илье придется непросто, я согласен. Но у Илии будет отличный шанс на победу. Топурия может спровоцировать Махачева на попытки перевода и отразить их или же заставить Ислама драться с стойке. Мы все знаем, насколько Илия опасен и как мощно он бьет. Думаю, Топурия может победить досрочно», — сказал Двалишвили в подкасте Full Send."
+        ]
+      ],
+      {}
+    ],
+    [
+      "news",
+      [],
+      {
+        "newsList": [
+          {
+            "urn": "779698-trener-della-maddaleny-makhacheva-slishkom-rano-voznesli-na-pyedestal",
+            "uriFormatVersion": 1,
+            "type": "NEWS",
+            "title": "Тренер Делла Маддалены: «Махачева слишком рано вознесли на пьедестал»",
+            "image": "a5cb/4776/c46b/4553/95d4/c2f1/e18b/d313/1600_900.jpeg",
+            "rubricId": 58
+          }
+        ]
+      }
+    ]
+  ],
+  "rubrics": [
+    58
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

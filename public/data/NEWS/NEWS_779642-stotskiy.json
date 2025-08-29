@@ -1,0 +1,68 @@
+{
+  "id": 779642,
+  "editDate": 1756454141790,
+  "title": "Стоцкий покинул «Черноморец» после 5 матчей за команду",
+  "type": "NEWS",
+  "publishDate": 1756454141790,
+  "urn": "779642-stotskiy-pokinul-chernomorets-posle-5-matchey-za-komandu",
+  "uriFormatVersion": 1,
+  "tags": [
+    10358,
+    15454,
+    13715
+  ],
+  "rubricId": 48,
+  "previewImage": {
+    "copyright": "Александр Чурбанов, fcnn.ru",
+    "image": "7caf/dedb/d80c/459d/866f/fdd7/3970/9433/1600_900.jpeg",
+    "imageForMobile": "12f8/b67c/c594/4eeb/abd1/72a0/d00a/0962/500_900.jpeg",
+    "tags": [
+      15582,
+      10358
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "ee9a/04d2/788b/4180/b5cc/6998/66ce/4193/537_240.png",
+    "image": "cd72/e951/4247/4203/a5e9/e1ee/4cbf/77b8/1200_630.png"
+  },
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Защитник Дмитрий Стоцкий и «Черноморец» расторгли контракт по обоюдному согласию, сообщает пресс-служба новороссийского клуба."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "35-летний футболист пополнил состав команды в межсезонье и провел за нее 5 матчей в Лиге PARI."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Стоцкий известен по выступлениям за «Балтику», «Уфу», «Нижний Новгород» и «Краснодар»."
+        ]
+      ],
+      {}
+    ]
+  ],
+  "rubrics": [
+    48
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

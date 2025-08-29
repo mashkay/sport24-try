@@ -3,6 +3,7 @@ import solidPlugin from 'vite-plugin-solid';
 import Pages from 'vite-plugin-pages';
 
 export default defineConfig({
+  // base: '/sport24-try/',
   
   plugins: [
     Pages({

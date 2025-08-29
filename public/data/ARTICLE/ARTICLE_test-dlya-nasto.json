@@ -1,0 +1,113 @@
+{
+  "id": 778841,
+  "editDate": 1756372211123,
+  "title": "Тест для настоящих эрудитов: проверьте свою грамотность — с прописной или строчной буквы пишутся эти слова?",
+  "type": "ARTICLE",
+  "publishDate": 1756371600000,
+  "urn": "test-dlya-nastoyashchikh-eruditov-proverte-svoyu-gramotnost-s-propisnoy-ili-strochnoy-bukvy-pishutsya-eti-slova",
+  "uriFormatVersion": 1,
+  "leadAnnouncement": "Уверены в своих силах?",
+  "tags": [
+    25589,
+    25845
+  ],
+  "rubricId": 154,
+  "previewImage": {
+    "copyright": "shutterstock.com",
+    "image": "4d9f/91da/4946/405f/bc93/71bd/74e8/26ef/1600_900.jpeg",
+    "tags": []
+  },
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "socialNetworkImages": {
+    "vkImage": "7fd6/ce25/b786/4ee6/8894/7cae/c60e/a0aa/537_302.jpeg",
+    "image": "66f0/9988/a571/4bc5/8ba1/fe92/f323/fb52/1200_675.jpeg"
+  },
+  "seoTitle": "Тест для настоящих эрудитов: проверьте свою грамотность — с прописной или строчной буквы пишутся эти слова?",
+  "authors": [
+    {
+      "name": "Анастасия",
+      "surname": "Шабалина",
+      "image": "8e36/7759/e49c/4533/b20d/695a/a3d6/a051/200_200.jpeg",
+      "urn": "anastasia-shabalina",
+      "id": 631
+    }
+  ],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Правописание заглавных и строчных букв — один из тех разделов русского языка, где мелочи играют решающую роль. Одно неверное написание способно изменить восприятие текста, создать ощущение небрежности или даже исказить смысл. Правила кажутся очевидными, но на практике часто возникают трудности: что писать с большой буквы, а где уместна строчная?"
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Затруднения вызывают не только имена собственные, но и производные от них прилагательные, названия праздников, исторических эпох и астрономических объектов. Здесь важно помнить: речь идет не о «механической» привычке, а о системной норме, зафиксированной в орфографических правилах. Именно поэтому так полезно время от времени проверять свои знания и освежать в памяти тонкости."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "Мы подготовили тест, который поможет вам понять, насколько уверенно вы ориентируетесь в правилах написания заглавных и строчных букв. Попробуйте пройти его и убедитесь, как хорошо вы владеете этим разделом орфографии. Удачи!"
+        ]
+      ],
+      {}
+    ],
+    [
+      "iframe",
+      [],
+      {
+        "url": "https://www.riddle.com/view/B0UIVSbz",
+        "transparent": false
+      }
+    ],
+    [
+      "news",
+      [],
+      {
+        "header": "Еще больше интересных тестов:",
+        "newsList": [
+          {
+            "urn": "test-tolko-po-nastoyashchemu-erudirovannyye-chitateli-znayut-znacheniya-etikh-slov",
+            "uriFormatVersion": 1,
+            "type": "ARTICLE",
+            "title": "Тест: только по-настоящему эрудированные читатели знают значения этих слов. Вы из таких?",
+            "image": "0055/4ec0/7055/4dd8/9385/89b3/9cb0/3fb0/1408_768.jpeg",
+            "rubricId": 154
+          },
+          {
+            "urn": "test-smozheteli-vy-sdat-yege-po-russkomu-proverte-svoi-znaniya",
+            "uriFormatVersion": 1,
+            "type": "ARTICLE",
+            "title": "Тест: сможете ли вы сдать ЕГЭ по русскому? Проверьте свои знания",
+            "image": "5529/ea5d/3604/47d6/a722/b043/c174/9e3b/1408_768.jpeg",
+            "rubricId": 154
+          },
+          {
+            "urn": "test-dlya-tekh-kto-uveren-chto-razgovarivayet-gramotno-vyberite-pravilnuyu-formu-etikh-slov",
+            "uriFormatVersion": 1,
+            "type": "ARTICLE",
+            "title": "Тест: уверены, что разговариваете грамотно? Выберите правильную форму этих слов",
+            "image": "815e/7bdb/666b/4787/8203/9499/cf9c/d282/1600_900.jpeg",
+            "rubricId": 154
+          }
+        ]
+      }
+    ]
+  ],
+  "rubrics": [
+    154,
+    153
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}

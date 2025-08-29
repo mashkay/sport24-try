@@ -1,0 +1,98 @@
+{
+  "id": 779646,
+  "editDate": 1756455639249,
+  "title": "В IBU заявили, что россияне не получат wild card на Олимпиаду",
+  "type": "NEWS",
+  "publishDate": 1756455578632,
+  "urn": "779646-v-ibu-zayavili-chto-rossiyane-ne-poluchat-wild-card-na-olimpiadu",
+  "uriFormatVersion": 1,
+  "tags": [
+    14695,
+    14027,
+    24865
+  ],
+  "rubricId": 86,
+  "previewImage": {
+    "copyright": "shutterstock.com",
+    "image": "53eb/2e6f/4e7f/4998/9f81/71cf/1c89/1316/1600_900.jpeg",
+    "imageForMobile": "cfe3/b4f9/94f8/4e16/ba37/b4d1/350f/b283/900_900.jpeg",
+    "tags": [
+      14027,
+      14874
+    ]
+  },
+  "hidePreviewImage": true,
+  "hideInReadBanner": false,
+  "hideComments": false,
+  "advertisingPartnerMaterial": false,
+  "superCache": false,
+  "socialNetworkImages": {
+    "vkImage": "1811/896f/6d06/42f5/beeb/74d6/76d3/27fd/537_240.png",
+    "image": "ab2b/3654/8886/4944/8be1/3d48/6623/1d62/1200_630.png"
+  },
+  "authors": [],
+  "content": [
+    [
+      "p",
+      [
+        [
+          "Пресс-служба Международного союза биатлонистов (IBU) отметила, что нейтральные атлеты не будут иметь возможности получить wild card для участия в Олимпийских играх 2026 года."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "«Wild card» — это квота, которую спортсмены получают индивидуально, набирая квалификационные очки IBU на соревнованиях IBU. Это термин, обозначающий квоту, предоставляемую НОК на основе индивидуальных квалификационных очков спортсмена. Это не подарочная карта, которая позволяет спортсмену стартовать на соревновании. Ее необходимо заработать на соревнованиях IBU, таких как Кубок мира IBU и Кубок IBU. В правилах мероприятий и соревнований IBU нет положения о нейтральных спортсменах, проще говоря: в биатлоне нет нейтральных спортсменов. Таким образом, у вас нет возможности получить олимпийскую квоту, если вы не участвуете в соревнованиях IBU», — приводит слова пресс-службы «"
+        ],
+        [
+          "a",
+          [
+            [
+              "ВсеПроСпорт"
+            ]
+          ],
+          {
+            "href": "https://www.vseprosport.ru/lenta/2025/08/29/v-ibu-zajavili-chto-rossijane-ne-poluchat-podarochnuju-kartu-na-olimpiadu-2026"
+          }
+        ],
+        [
+          "»."
+        ]
+      ],
+      {}
+    ],
+    [
+      "p",
+      [
+        [
+          "В четверг на официальном сайте организации появилось сообщение, что в правилах соревнований IBU не предусмотрено участие нейтральных спортсменов."
+        ]
+      ],
+      {}
+    ],
+    [
+      "news",
+      [],
+      {
+        "newsList": [
+          {
+            "urn": "779385-ibu-ne-dopustil-biatlonistov-v-neytralnom-statuse-k-uchastiyu-v-otbore-na-olimpiyskiye-igry-2026",
+            "uriFormatVersion": 1,
+            "type": "NEWS",
+            "title": "IBU не допустил биатлонистов в нейтральном статусе к участию в отборе на Олимпийские игры — 2026",
+            "image": "a980/40e9/93f3/4de5/92d0/3063/0736/fb0a/1600_900.jpeg",
+            "rubricId": 86
+          }
+        ]
+      }
+    ]
+  ],
+  "rubrics": [
+    86
+  ],
+  "hyperlinkActive": true,
+  "matchbarIncluded": true
+}
