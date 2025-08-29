@@ -6,12 +6,19 @@ import { getImageUrl } from '../images';
 const fetchArticle = async (urn: string) => {
     console.log('fetchArticle called with urn:', urn);
     const response = await fetch(`/data/ARTICLE/${urn}.json`);
-    return response.json();
+    console.log('fetchArticle response:', response);
+
+    try {
+        const data = await response.json();
+        console.log('Valid JSON:', data);
+        return data;
+    } catch (error) {
+        console.error('Invalid JSON:', error);
+        return {error: 404}
+    }
 };
 
 const ArticleCard = (props) => {
-
-
     const image = () => getImageUrl(props.articleData);
     console.log('ArticleCard rendered');
     return (
@@ -46,13 +53,13 @@ export default function ArticlePage() {
 
     return (
         <div class='max-w-7xl m-auto'>
-
-                <Show when={article()} fallback={<p>Loading...</p>}>
-                    
-                        <ArticleCard articleData={article()} />
-                    
+            <Show when={article()} fallback={<p>Loading...</p>}>
+                <Show when={article().error === 404} fallback={
+                    <ArticleCard articleData={article()} />
+                }>
+                    Страница не найдена
                 </Show>
-
+            </Show>
         </div>
     );
 }
