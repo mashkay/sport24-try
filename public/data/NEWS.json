@@ -5,7 +5,7 @@
       "title": "Божович: «Я не считаю «Зенит» позором российского футбола. Они выигрывали Кубок и Суперкубок УЕФА»",
       "type": "NEWS",
       "publishDate": 1756478539096,
-      "urn": "NEWS_779736-bozhovic.json",
+      "urn": "NEWS_779736-bozhovic",
       "uriFormatVersion": 1,
       "tags": [
         13336,
@@ -37,7 +37,7 @@
       "title": "Футзал. КПРФ — «Норильский никель». 1-й матч. Прямая трансляция: смотреть онлайн",
       "type": "NEWS",
       "publishDate": 1756478494100,
-      "urn": "NEWS_779735-futzal-k.json",
+      "urn": "NEWS_779735-futzal-k",
       "uriFormatVersion": 1,
       "tags": [
         14175
@@ -57,7 +57,7 @@
       "title": "«Провинились в чем-то разве? Я не понимаю». Тарасова — о критериях допуска россиян на Олимпийские игры 2026",
       "type": "NEWS",
       "publishDate": 1756478145692,
-      "urn": "NEWS_779734-provinil.json",
+      "urn": "NEWS_779734-provinil",
       "uriFormatVersion": 1,
       "tags": [
         13894,
@@ -89,7 +89,7 @@
       "title": "Друг Макгрегора: «Возможно, приду на бой Махачева и запрыгну в клетку, чтобы отомстить»",
       "type": "NEWS",
       "publishDate": 1756478031843,
-      "urn": "NEWS_779733-drug-mak.json",
+      "urn": "NEWS_779733-drug-mak",
       "uriFormatVersion": 1,
       "tags": [
         9959,
@@ -119,7 +119,7 @@
       "title": "Соколов — о новом тренере «Торпедо»: «Нет ничего нестандартного в его системе»",
       "type": "NEWS",
       "publishDate": 1756477873475,
-      "urn": "NEWS_779732-sokolov-.json",
+      "urn": "NEWS_779732-sokolov-",
       "uriFormatVersion": 1,
       "tags": [
         11342,
@@ -149,7 +149,7 @@
       "title": "«Зенит» продал капитана второй команды в «Рубин»",
       "type": "NEWS",
       "publishDate": 1756477505189,
-      "urn": "NEWS_779731-zenit-pr.json",
+      "urn": "NEWS_779731-zenit-pr",
       "uriFormatVersion": 1,
       "tags": [
         15450,
@@ -178,7 +178,7 @@
       "title": "Истомин — о допуске биатлонистов: «Зависит только от политики, все решается на этом уровне. До января время есть»",
       "type": "NEWS",
       "publishDate": 1756477189890,
-      "urn": "NEWS_779729-istomin-.json",
+      "urn": "NEWS_779729-istomin-",
       "uriFormatVersion": 1,
       "tags": [
         25196,
@@ -208,7 +208,7 @@
       "title": "Футзал. ЛКС — «Тюмень». 1-й матч. Прямая трансляция: смотреть онлайн",
       "type": "NEWS",
       "publishDate": 1756477133310,
-      "urn": "NEWS_779728-futzal-l.json",
+      "urn": "NEWS_779728-futzal-l",
       "uriFormatVersion": 1,
       "tags": [
         14175
@@ -228,7 +228,7 @@
       "title": "CAS отклонил апелляцию на отстранение украинской чемпионки Европы",
       "type": "NEWS",
       "publishDate": 1756477124182,
-      "urn": "NEWS_779730-cas-otkl.json",
+      "urn": "NEWS_779730-cas-otkl",
       "uriFormatVersion": 1,
       "tags": [
         13698,
@@ -248,7 +248,7 @@
       "title": "«Царукян находится в чистилище ММА» — член Зала славы UFC",
       "type": "NEWS",
       "publishDate": 1756476712754,
-      "urn": "NEWS_779726-tsarukya.json",
+      "urn": "NEWS_779726-tsarukya",
       "uriFormatVersion": 1,
       "tags": [
         10015,
@@ -278,7 +278,7 @@
       "title": "Артета заявил, что Мартинелли не покинет «Арсенал»",
       "type": "NEWS",
       "publishDate": 1756476483951,
-      "urn": "NEWS_779725-arteta-z.json",
+      "urn": "NEWS_779725-arteta-z",
       "uriFormatVersion": 1,
       "tags": [
         8197,
@@ -308,7 +308,7 @@
       "title": "Волейбол. Мужчины. Россия — Белоруссия. Прямая трансляция: смотреть онлайн",
       "type": "NEWS",
       "publishDate": 1756476233835,
-      "urn": "NEWS_779724-voleybol.json",
+      "urn": "NEWS_779724-voleybol",
       "uriFormatVersion": 1,
       "tags": [
         14198,
@@ -330,7 +330,7 @@
       "title": "Кубок мэра Москвы. «Спартак» — «Шанхай Дрэгонс». Трансляция",
       "type": "NEWS",
       "publishDate": 1756476028396,
-      "urn": "NEWS_779722-kubok-me.json",
+      "urn": "NEWS_779722-kubok-me",
       "uriFormatVersion": 1,
       "tags": [
         15293,
@@ -352,7 +352,7 @@
       "title": "«Родина» — «Торпедо». Видеотрансляция: смотреть онлайн",
       "type": "NEWS",
       "publishDate": 1756476000000,
-      "urn": "NEWS_779713-rodina-t.json",
+      "urn": "NEWS_779713-rodina-t",
       "uriFormatVersion": 1,
       "tags": [
         15483,
@@ -376,7 +376,7 @@
       "title": "Кирилл Глебов: «Хочется закрепиться в сборной России на долгое время»",
       "type": "NEWS",
       "publishDate": 1756475798323,
-      "urn": "NEWS_779723-kirill-g.json",
+      "urn": "NEWS_779723-kirill-g",
       "uriFormatVersion": 1,
       "tags": [
         25688,
@@ -406,7 +406,7 @@
       "title": "Глава СБР Майгуров рассказал о «главной фишке» предстоящего биатлонного сезона",
       "type": "NEWS",
       "publishDate": 1756475792618,
-      "urn": "NEWS_779720-glava-sb.json",
+      "urn": "NEWS_779720-glava-sb",
       "uriFormatVersion": 1,
       "tags": [
         14710,
@@ -437,7 +437,7 @@
       "title": "Яковлев перешел из ЦСКА в ульяновскую «Волгу»",
       "type": "NEWS",
       "publishDate": 1756475549433,
-      "urn": "NEWS_779721-yakovlev.json",
+      "urn": "NEWS_779721-yakovlev",
       "uriFormatVersion": 1,
       "tags": [
         24640,
@@ -469,7 +469,7 @@
       "title": "Чемпион UFC сделал смелый прогноз на бой Топурия — Махачев: «Может победить досрочно»",
       "type": "NEWS",
       "publishDate": 1756475292609,
-      "urn": "NEWS_779717-chempion.json",
+      "urn": "NEWS_779717-chempion",
       "uriFormatVersion": 1,
       "tags": [
         9959,
@@ -501,7 +501,7 @@
       "title": "Пловец Колесников: «На чемпионате мира иностранцы поздравляли с победами. Все настроены дружелюбно»",
       "type": "NEWS",
       "publishDate": 1756475221037,
-      "urn": "NEWS_779718-plovets-.json",
+      "urn": "NEWS_779718-plovets-",
       "uriFormatVersion": 1,
       "tags": [
         13992,
@@ -529,7 +529,7 @@
       "title": "Тренер Делла Маддалены: «Соглашаться на бой с Чимаевым опасно, он может провалить взвешивание»",
       "type": "NEWS",
       "publishDate": 1756474466709,
-      "urn": "NEWS_779715-trener-d.json",
+      "urn": "NEWS_779715-trener-d",
       "uriFormatVersion": 1,
       "tags": [
         8459,
@@ -559,7 +559,7 @@
       "title": "TOP DOG PROSPECT 28: идеальное завершение лета с OLIMPBET",
       "type": "NEWS",
       "publishDate": 1756474396662,
-      "urn": "NEWS_779712-top-dog-.json",
+      "urn": "NEWS_779712-top-dog-",
       "uriFormatVersion": 1,
       "tags": [
         26695,
@@ -587,7 +587,7 @@
       "title": "Лукин: «Попасть в сборную России — честь и гордость. Я всю жизнь к этому стремился»",
       "type": "NEWS",
       "publishDate": 1756474373070,
-      "urn": "NEWS_779716-lukin-po.json",
+      "urn": "NEWS_779716-lukin-po",
       "uriFormatVersion": 1,
       "tags": [
         25299,
@@ -618,7 +618,7 @@
       "title": "Защитник «Спартака» Денисов провел тренировку в стиле UFC под руководством Павловича",
       "type": "NEWS",
       "publishDate": 1756473820771,
-      "urn": "NEWS_779711-zashchit.json",
+      "urn": "NEWS_779711-zashchit",
       "uriFormatVersion": 1,
       "tags": [
         25028,
@@ -653,7 +653,7 @@
       "title": "Альба покинет пост главного тренера «Ростова» после матча с «Ахматом» — источник",
       "type": "NEWS",
       "publishDate": 1756473728995,
-      "urn": "NEWS_779710-alba-pok.json",
+      "urn": "NEWS_779710-alba-pok",
       "uriFormatVersion": 1,
       "tags": [
         28551,
@@ -683,7 +683,7 @@
       "title": "Усик зажигательно станцевал на сцене на фоне слухов о травме",
       "type": "NEWS",
       "publishDate": 1756473614586,
-      "urn": "NEWS_779709-usik-zaz.json",
+      "urn": "NEWS_779709-usik-zaz",
       "uriFormatVersion": 1,
       "tags": [
         26635,
@@ -713,7 +713,7 @@
       "title": "Грузинский чемпион UFC хочет потренироваться с Макгрегором: «Он очень мотивирован»",
       "type": "NEWS",
       "publishDate": 1756472911168,
-      "urn": "NEWS_779705-gruzinsk.json",
+      "urn": "NEWS_779705-gruzinsk",
       "uriFormatVersion": 1,
       "tags": [
         13072,
@@ -743,7 +743,7 @@
       "title": "Бонгонда: «Это худший старт сезона за то время, что я в «Спартаке»",
       "type": "NEWS",
       "publishDate": 1756472909805,
-      "urn": "NEWS_779708-bongonda.json",
+      "urn": "NEWS_779708-bongonda",
       "uriFormatVersion": 1,
       "tags": [
         25923,
@@ -772,7 +772,7 @@
       "title": "Евробаскет-2025. Эстония — Латвия. Прямая трансляция: смотреть онлайн",
       "type": "NEWS",
       "publishDate": 1756472400000,
-      "urn": "NEWS_779696-yevrobas.json",
+      "urn": "NEWS_779696-yevrobas",
       "uriFormatVersion": 1,
       "tags": [
         14863,
@@ -794,7 +794,7 @@
       "title": "«Нефтехимик» объявил об уходе Бобкова",
       "type": "NEWS",
       "publishDate": 1756472099456,
-      "urn": "NEWS_779707-neftekhi.json",
+      "urn": "NEWS_779707-neftekhi",
       "uriFormatVersion": 1,
       "tags": [
         9426,
@@ -822,7 +822,7 @@
       "title": "Результаты жеребьевки общего раунда Лиги конференций",
       "type": "NEWS",
       "publishDate": 1756471664886,
-      "urn": "NEWS_779701-rezultat.json",
+      "urn": "NEWS_779701-rezultat",
       "uriFormatVersion": 1,
       "tags": [
         14960,
@@ -857,7 +857,7 @@
       "title": "«Спартак» привел статистику Умярова после непопадания в сборную: «Счастливы иметь такого игрока в команде \"",
       "type": "NEWS",
       "publishDate": 1756471567327,
-      "urn": "NEWS_779704-spartak-.json",
+      "urn": "NEWS_779704-spartak-",
       "uriFormatVersion": 1,
       "tags": [
         10451,
@@ -887,7 +887,7 @@
       "title": "Кубок губернатора Челябинской области. Финал. «Трактор» — «Амур». Трансляция",
       "type": "NEWS",
       "publishDate": 1756471523060,
-      "urn": "NEWS_779700-kubok-gu.json",
+      "urn": "NEWS_779700-kubok-gu",
       "uriFormatVersion": 1,
       "tags": [
         15414,
@@ -909,7 +909,7 @@
       "title": "«Лада» обыграла «Сочи» и заняла 3-е место на Кубке губернатора Челябинской области",
       "type": "NEWS",
       "publishDate": 1756470966108,
-      "urn": "NEWS_779703-lada-oby.json",
+      "urn": "NEWS_779703-lada-oby",
       "uriFormatVersion": 1,
       "tags": [
         15313,
@@ -938,7 +938,7 @@
       "title": "СКА выиграл у «Автомобилиста» в предсезонном матче",
       "type": "NEWS",
       "publishDate": 1756470794763,
-      "urn": "NEWS_779699-ska-vyig.json",
+      "urn": "NEWS_779699-ska-vyig",
       "uriFormatVersion": 1,
       "tags": [
         15120,
@@ -967,7 +967,7 @@
       "title": "«Родина» — «Торпедо». Прямая трансляция: смотреть онлайн",
       "type": "NEWS",
       "publishDate": 1756470600000,
-      "urn": "NEWS_779658-rodina-t.json",
+      "urn": "NEWS_779658-rodina-t",
       "uriFormatVersion": 1,
       "tags": [
         15483,
@@ -991,7 +991,7 @@
       "title": "Тренер Делла Маддалены: «Махачева слишком рано вознесли на пьедестал»",
       "type": "NEWS",
       "publishDate": 1756470401702,
-      "urn": "NEWS_779698-trener-d.json",
+      "urn": "NEWS_779698-trener-d",
       "uriFormatVersion": 1,
       "tags": [
         24783,
@@ -1022,7 +1022,7 @@
       "title": "Дзюба оценил формат фиджитал-футбола",
       "type": "NEWS",
       "publishDate": 1756470265455,
-      "urn": "NEWS_779697-dzyuba-o.json",
+      "urn": "NEWS_779697-dzyuba-o",
       "uriFormatVersion": 1,
       "tags": [
         10595,
@@ -1051,7 +1051,7 @@
       "title": "Жулин назвал фейком новость об участии Степановой и Букина в итальянском шоу",
       "type": "NEWS",
       "publishDate": 1756469977328,
-      "urn": "NEWS_779695-zhulin-n.json",
+      "urn": "NEWS_779695-zhulin-n",
       "uriFormatVersion": 1,
       "tags": [
         14885,
@@ -1082,7 +1082,7 @@
       "title": "Кафанов рассказал о форме Сафонова, Максименко и Агкацева перед матчами с Иорданией и Катаром",
       "type": "NEWS",
       "publishDate": 1756469213321,
-      "urn": "NEWS_779694-kafanov-.json",
+      "urn": "NEWS_779694-kafanov-",
       "uriFormatVersion": 1,
       "tags": [
         25654,
@@ -1115,7 +1115,7 @@
       "title": "«Металлург» Мг — «Барыс». Мемориал Ромазана. Прямая трансляция: смотреть онлайн",
       "type": "NEWS",
       "publishDate": 1756468800000,
-      "urn": "NEWS_779687-metallur.json",
+      "urn": "NEWS_779687-metallur",
       "uriFormatVersion": 1,
       "tags": [
         15011,
@@ -1138,7 +1138,7 @@
       "title": "Итоги жеребьевки общего раунда Лиги Европы: ПАОК Чалова и Оздоева сыграет с «Бетисом», «Лиллем» и «Лионом»",
       "type": "NEWS",
       "publishDate": 1756468761457,
-      "urn": "NEWS_779693-liga-yev.json",
+      "urn": "NEWS_779693-liga-yev",
       "uriFormatVersion": 1,
       "tags": [
         14866,
@@ -1175,7 +1175,7 @@
       "title": "«Он провел один из самых ярких матчей на старте нового сезона». Кафанов — о вызове Адамова в сборную России",
       "type": "NEWS",
       "publishDate": 1756468475864,
-      "urn": "NEWS_779692-on-prove.json",
+      "urn": "NEWS_779692-on-prove",
       "uriFormatVersion": 1,
       "tags": [
         13720,
@@ -1208,7 +1208,7 @@
       "title": "ONE Friday Fights 122. Трансляция",
       "type": "NEWS",
       "publishDate": 1756467885485,
-      "urn": "NEWS_779690-one-frid.json",
+      "urn": "NEWS_779690-one-frid",
       "uriFormatVersion": 1,
       "tags": [
         25100,
@@ -1228,7 +1228,7 @@
       "title": "Карпин: «Иордания и Катар — все же сильнее, чем многие из сборных, с которыми мы играли ранее»",
       "type": "NEWS",
       "publishDate": 1756467836885,
-      "urn": "NEWS_779688-karpin-i.json",
+      "urn": "NEWS_779688-karpin-i",
       "uriFormatVersion": 1,
       "tags": [
         12982,
@@ -1259,7 +1259,7 @@
       "title": "Бонгонда начал тренироваться по индивидуальной программе",
       "type": "NEWS",
       "publishDate": 1756467369972,
-      "urn": "NEWS_779689-bongonda.json",
+      "urn": "NEWS_779689-bongonda",
       "uriFormatVersion": 1,
       "tags": [
         25923,
@@ -1288,7 +1288,7 @@
       "title": "Евробаскет-2025. Литва — Черногория. Трансляция",
       "type": "NEWS",
       "publishDate": 1756467000000,
-      "urn": "NEWS_779685-yevrobas.json",
+      "urn": "NEWS_779685-yevrobas",
       "uriFormatVersion": 1,
       "tags": [
         14863,
@@ -1311,7 +1311,7 @@
       "title": "Алексей Миранчук может не сыграть против Иордании",
       "type": "NEWS",
       "publishDate": 1756466915746,
-      "urn": "NEWS_779686-aleksey-.json",
+      "urn": "NEWS_779686-aleksey-",
       "uriFormatVersion": 1,
       "tags": [
         15556,
@@ -1344,7 +1344,7 @@
       "title": "Чемпион UFC заявил о желании продолжать карьеру до 50-летнего возраста",
       "type": "NEWS",
       "publishDate": 1756466752165,
-      "urn": "NEWS_779683-chempion.json",
+      "urn": "NEWS_779683-chempion",
       "uriFormatVersion": 1,
       "tags": [
         8931,
@@ -1373,7 +1373,7 @@
       "title": "Карпин объяснил приглашение Самошникова и невызов Умярова в сборную России",
       "type": "NEWS",
       "publishDate": 1756466364014,
-      "urn": "NEWS_779684-karpin-o.json",
+      "urn": "NEWS_779684-karpin-o",
       "uriFormatVersion": 1,
       "tags": [
         12982,
@@ -1408,7 +1408,7 @@
       "title": "В «Зените» объяснили причину расставания со Зделаром",
       "type": "NEWS",
       "publishDate": 1756465979416,
-      "urn": "NEWS_779681-v-zenite.json",
+      "urn": "NEWS_779681-v-zenite",
       "uriFormatVersion": 1,
       "tags": [
         24963,
@@ -1439,7 +1439,7 @@
       "title": "Назван итоговый состав сборной России на матчи с Иорданией и Катаром в сентябре",
       "type": "NEWS",
       "publishDate": 1756465797111,
-      "urn": "NEWS_779680-nazvan-i.json",
+      "urn": "NEWS_779680-nazvan-i",
       "uriFormatVersion": 1,
       "tags": [
         15556
@@ -1466,7 +1466,7 @@
       "title": "Моуринью заработал больше 100 млн евро за счет неустоек после увольнений",
       "type": "NEWS",
       "publishDate": 1756465542743,
-      "urn": "NEWS_779679-mourinyu.json",
+      "urn": "NEWS_779679-mourinyu",
       "uriFormatVersion": 1,
       "tags": [
         12992,
@@ -1499,7 +1499,7 @@
       "title": "Звездный легионер «Локо» думал, что Миранчуки — один человек: «Не понимал, почему он каждые 5 секунд меняет бутсы»",
       "type": "NEWS",
       "publishDate": 1756465517555,
-      "urn": "NEWS_779677-zvezdnyy.json",
+      "urn": "NEWS_779677-zvezdnyy",
       "uriFormatVersion": 1,
       "tags": [
         12007,
@@ -1533,7 +1533,7 @@
       "title": "Букмекеры оценили шансы Мирры Андреевой победить американку Тейлор Таунсенд в 3-м раунде US Open",
       "type": "NEWS",
       "publishDate": 1756465325000,
-      "urn": "NEWS_779477-bukmeker.json",
+      "urn": "NEWS_779477-bukmeker",
       "uriFormatVersion": 1,
       "tags": [
         26693,
@@ -1566,7 +1566,7 @@
       "title": "«Бенфика» согласилась продать Актюркоглу в «Фенербахче» за 22,5 млн евро",
       "type": "NEWS",
       "publishDate": 1756465148678,
-      "urn": "NEWS_779678-benfika-.json",
+      "urn": "NEWS_779678-benfika-",
       "uriFormatVersion": 1,
       "tags": [
         27748,
@@ -1598,7 +1598,7 @@
       "title": "Британский экс-чемпион предупредил Итауму насчет боя с Усиком: «Давайте будем честны»",
       "type": "NEWS",
       "publishDate": 1756464922163,
-      "urn": "NEWS_779676-britansk.json",
+      "urn": "NEWS_779676-britansk",
       "uriFormatVersion": 1,
       "tags": [
         29215,
@@ -1628,7 +1628,7 @@
       "title": "Дегтярев рассказал, как лимит на легионеров в РПЛ повлиял на игровое время россиян",
       "type": "NEWS",
       "publishDate": 1756464786489,
-      "urn": "NEWS_779675-degtyare.json",
+      "urn": "NEWS_779675-degtyare",
       "uriFormatVersion": 1,
       "tags": [
         13853,
@@ -1657,7 +1657,7 @@
       "title": "Чемпион UFC: «В следующий раз я уничтожу Умара Нурмагомедова»",
       "type": "NEWS",
       "publishDate": 1756464240000,
-      "urn": "NEWS_779629-chempion.json",
+      "urn": "NEWS_779629-chempion",
       "uriFormatVersion": 1,
       "tags": [
         9059,
@@ -1689,7 +1689,7 @@
       "title": "«Утрехт» отказался продавать Эль-Каруани в «Спартак» из-за политики",
       "type": "NEWS",
       "publishDate": 1756463983981,
-      "urn": "NEWS_779673-utrekht-.json",
+      "urn": "NEWS_779673-utrekht-",
       "uriFormatVersion": 1,
       "tags": [
         15576,
@@ -1719,7 +1719,7 @@
       "title": "Магомед Магомедов и Артем Рофаль проведут бой на RCC 23",
       "type": "NEWS",
       "publishDate": 1756463939502,
-      "urn": "NEWS_779674-magomed-.json",
+      "urn": "NEWS_779674-magomed-",
       "uriFormatVersion": 1,
       "tags": [
         26508,
@@ -1750,7 +1750,7 @@
       "title": "Кубок мэра Москвы. «Торпедо» — «Динамо» Минск. Трансляция",
       "type": "NEWS",
       "publishDate": 1756463400000,
-      "urn": "NEWS_779672-kubok-me.json",
+      "urn": "NEWS_779672-kubok-me",
       "uriFormatVersion": 1,
       "tags": [
         15184,
@@ -1772,7 +1772,7 @@
       "title": "Кириленко планирует включить молодежную сборную России в состав участников баскетбольной Суперлиги",
       "type": "NEWS",
       "publishDate": 1756462790953,
-      "urn": "NEWS_779671-kirilenk.json",
+      "urn": "NEWS_779671-kirilenk",
       "uriFormatVersion": 1,
       "tags": [
         8380,
@@ -1804,7 +1804,7 @@
       "title": "«Салават Юлаев» проиграл клубу ВХЛ, пропустив дважды на последней минуте",
       "type": "NEWS",
       "publishDate": 1756462491141,
-      "urn": "NEWS_779670-salavat-.json",
+      "urn": "NEWS_779670-salavat-",
       "uriFormatVersion": 1,
       "tags": [
         15151,
@@ -1833,7 +1833,7 @@
       "title": "Шафеев будет судить матч 7-го тура РПЛ ЦСКА — «Краснодар»",
       "type": "NEWS",
       "publishDate": 1756461857116,
-      "urn": "NEWS_779668-shafeyev.json",
+      "urn": "NEWS_779668-shafeyev",
       "uriFormatVersion": 1,
       "tags": [
         26969,
@@ -1883,7 +1883,7 @@
       "title": "Смородская отреагировала на обвинения Фернандеша: «Я его не уважаю»",
       "type": "NEWS",
       "publishDate": 1756461774568,
-      "urn": "NEWS_779667-smorodsk.json",
+      "urn": "NEWS_779667-smorodsk",
       "uriFormatVersion": 1,
       "tags": [
         10870,
@@ -1914,7 +1914,7 @@
       "title": "«Тренер был жертвой». Фернандеш прокомментировал слова о том, что у Черевченко не было своего мнения в «Локомотиве»",
       "type": "NEWS",
       "publishDate": 1756461561267,
-      "urn": "NEWS_779664-trener-b.json",
+      "urn": "NEWS_779664-trener-b",
       "uriFormatVersion": 1,
       "tags": [
         10870,
@@ -1946,7 +1946,7 @@
       "title": "17-летний российский баскетболист перешел в мадридский «Реал»",
       "type": "NEWS",
       "publishDate": 1756461515241,
-      "urn": "NEWS_779666-17-letni.json",
+      "urn": "NEWS_779666-17-letni",
       "uriFormatVersion": 1,
       "tags": [
         15699,
@@ -1973,7 +1973,7 @@
       "title": "«Будет много забитых мячей». Прогноз Пименова на матч «Ливерпуль» — «Арсенал»",
       "type": "NEWS",
       "publishDate": 1756461147851,
-      "urn": "NEWS_779663-budet-mn.json",
+      "urn": "NEWS_779663-budet-mn",
       "uriFormatVersion": 1,
       "tags": [
         13838,
@@ -2005,7 +2005,7 @@
       "title": "Жеребьевка Лиги Европы и Лиги конференций: трансляция",
       "type": "NEWS",
       "publishDate": 1756460728288,
-      "urn": "NEWS_779661-zherebye.json",
+      "urn": "NEWS_779661-zherebye",
       "uriFormatVersion": 1,
       "tags": [
         14960,
@@ -2027,7 +2027,7 @@
       "title": "Евробаскет-2025. Турция — Чехия. Прямая трансляция: смотреть онлайн",
       "type": "NEWS",
       "publishDate": 1756460704643,
-      "urn": "NEWS_779662-yevrobas.json",
+      "urn": "NEWS_779662-yevrobas",
       "uriFormatVersion": 1,
       "tags": [
         14863,
@@ -2050,7 +2050,7 @@
       "title": "Президент СБР высказался о бюджете на новый сезон",
       "type": "NEWS",
       "publishDate": 1756460464216,
-      "urn": "NEWS_779660-preziden.json",
+      "urn": "NEWS_779660-preziden",
       "uriFormatVersion": 1,
       "tags": [
         14710,
@@ -2079,7 +2079,7 @@
       "title": "Зделар покинул «Зенит»",
       "type": "NEWS",
       "publishDate": 1756460125141,
-      "urn": "NEWS_779659-zdelar-p.json",
+      "urn": "NEWS_779659-zdelar-p",
       "uriFormatVersion": 1,
       "tags": [
         24963,
@@ -2108,7 +2108,7 @@
       "title": "Грузинский чемпион UFC: «Я уверен, что Хабиб скучает по боям»",
       "type": "NEWS",
       "publishDate": 1756459684223,
-      "urn": "NEWS_779656-gruzinsk.json",
+      "urn": "NEWS_779656-gruzinsk",
       "uriFormatVersion": 1,
       "tags": [
         10199,
@@ -2139,7 +2139,7 @@
       "title": "«Быть алкоголиком и играть до 37 лет? Серьезно?» Фернандеш — об обвинениях Смородской",
       "type": "NEWS",
       "publishDate": 1756459260000,
-      "urn": "NEWS_779657-byt-alko.json",
+      "urn": "NEWS_779657-byt-alko",
       "uriFormatVersion": 1,
       "tags": [
         10870,
@@ -2171,7 +2171,7 @@
       "title": "В команде Оливейры оценили Физиева: «Хороший боец с нокаутирующей мощью»",
       "type": "NEWS",
       "publishDate": 1756458592990,
-      "urn": "NEWS_779655-v-komand.json",
+      "urn": "NEWS_779655-v-komand",
       "uriFormatVersion": 1,
       "tags": [
         9293,
@@ -2201,7 +2201,7 @@
       "title": "Фернандеш: «Галицкий — архитектор всего, что есть у «Краснодара. Надеюсь, им удастся чаще выигрывать трофеи»",
       "type": "NEWS",
       "publishDate": 1756457863458,
-      "urn": "NEWS_779654-fernande.json",
+      "urn": "NEWS_779654-fernande",
       "uriFormatVersion": 1,
       "tags": [
         10870,
@@ -2231,7 +2231,7 @@
       "title": "«Тоттенхэм» договорился о приобретении Симонса",
       "type": "NEWS",
       "publishDate": 1756457817630,
-      "urn": "NEWS_779653-tottenkh.json",
+      "urn": "NEWS_779653-tottenkh",
       "uriFormatVersion": 1,
       "tags": [
         14579,
@@ -2262,7 +2262,7 @@
       "title": "Фернандеш: «Смородская не заслуживает уважения. Если встречу Ольгу, сделаю вид, что не знаю ее»",
       "type": "NEWS",
       "publishDate": 1756457284424,
-      "urn": "NEWS_779651-fernande.json",
+      "urn": "NEWS_779651-fernande",
       "uriFormatVersion": 1,
       "tags": [
         10870,
@@ -2293,7 +2293,7 @@
       "title": "Даку из «Рубина» вызвали в сборную Албании",
       "type": "NEWS",
       "publishDate": 1756457113458,
-      "urn": "NEWS_779652-daku-iz-.json",
+      "urn": "NEWS_779652-daku-iz-",
       "uriFormatVersion": 1,
       "tags": [
         25964,
@@ -2324,7 +2324,7 @@
       "title": "«Лада» — «Сочи». Кубок губернатора Челябинской области. Прямая трансляция: смотреть онлайн",
       "type": "NEWS",
       "publishDate": 1756456771555,
-      "urn": "NEWS_779650-lada-soc.json",
+      "urn": "NEWS_779650-lada-soc",
       "uriFormatVersion": 1,
       "tags": [
         15313,
@@ -2347,7 +2347,7 @@
       "title": "Чемпион UFC не согласился с Хабибом: «Обычно он знает, что говорит»",
       "type": "NEWS",
       "publishDate": 1756456666422,
-      "urn": "NEWS_779648-chempion.json",
+      "urn": "NEWS_779648-chempion",
       "uriFormatVersion": 1,
       "tags": [
         8931,
@@ -2378,7 +2378,7 @@
       "title": "«Я собирался убить этого парня». Шакил О’Нил вспомнил, как «Лейкерс» решил его обменять",
       "type": "NEWS",
       "publishDate": 1756456617060,
-      "urn": "NEWS_779649-ya-sobir.json",
+      "urn": "NEWS_779649-ya-sobir",
       "uriFormatVersion": 1,
       "tags": [
         8225,
@@ -2408,7 +2408,7 @@
       "title": "Евробаскет-2025. Германия — Швеция. Прямая трансляция: смотреть онлайн",
       "type": "NEWS",
       "publishDate": 1756456132900,
-      "urn": "NEWS_779647-yevrobas.json",
+      "urn": "NEWS_779647-yevrobas",
       "uriFormatVersion": 1,
       "tags": [
         14863,
@@ -2431,7 +2431,7 @@
       "title": "Мирра Андреева призналась, что ее восхищает Энди Маррей: «Стареет как хорошее вино»",
       "type": "NEWS",
       "publishDate": 1756455585429,
-      "urn": "NEWS_779645-mirra-an.json",
+      "urn": "NEWS_779645-mirra-an",
       "uriFormatVersion": 1,
       "tags": [
         25661,
@@ -2460,7 +2460,7 @@
       "title": "В IBU заявили, что россияне не получат wild card на Олимпиаду",
       "type": "NEWS",
       "publishDate": 1756455578632,
-      "urn": "NEWS_779646-v-ibu-za.json",
+      "urn": "NEWS_779646-v-ibu-za",
       "uriFormatVersion": 1,
       "tags": [
         14695,
@@ -2490,7 +2490,7 @@
       "title": "Кто станет лучшим бомбардиром РПЛ-25/26: Батраков, Даку, Кордоба или Дзюба?",
       "type": "NEWS",
       "publishDate": 1756454700000,
-      "urn": "NEWS_779373-kto-stan.json",
+      "urn": "NEWS_779373-kto-stan",
       "uriFormatVersion": 1,
       "tags": [
         26692,
@@ -2527,7 +2527,7 @@
       "title": "Тимощук: «Старт сезона не может радовать, «Зенит» растерял много очков»",
       "type": "NEWS",
       "publishDate": 1756454380051,
-      "urn": "NEWS_779643-timoshch.json",
+      "urn": "NEWS_779643-timoshch",
       "uriFormatVersion": 1,
       "tags": [
         13853,
@@ -2557,7 +2557,7 @@
       "title": "Легионер ЦСКА восхитился Никитиным: «Очень сильный тренер, всегда придерживается системы»",
       "type": "NEWS",
       "publishDate": 1756454354121,
-      "urn": "NEWS_779639-legioner.json",
+      "urn": "NEWS_779639-legioner",
       "uriFormatVersion": 1,
       "tags": [
         14924,
@@ -2586,7 +2586,7 @@
       "title": "Стоцкий покинул «Черноморец» после 5 матчей за команду",
       "type": "NEWS",
       "publishDate": 1756454141790,
-      "urn": "NEWS_779642-stotskiy.json",
+      "urn": "NEWS_779642-stotskiy",
       "uriFormatVersion": 1,
       "tags": [
         10358,
@@ -2616,7 +2616,7 @@
       "title": "Тедеев — о неучастии Дзюбы в матчах Кубка России: «Я просто боюсь за него»",
       "type": "NEWS",
       "publishDate": 1756453899794,
-      "urn": "NEWS_779641-tedeyev-.json",
+      "urn": "NEWS_779641-tedeyev-",
       "uriFormatVersion": 1,
       "tags": [
         10595,
@@ -2648,7 +2648,7 @@
       "title": "«Фенербахче» объявил об увольнении Моуринью ",
       "type": "NEWS",
       "publishDate": 1756453689374,
-      "urn": "NEWS_779638-fenerbak.json",
+      "urn": "NEWS_779638-fenerbak",
       "uriFormatVersion": 1,
       "tags": [
         12992,
@@ -2677,7 +2677,7 @@
       "title": "«Если бы хлестал водку стопками — точно лежал бы на полу». Фернандеш — о том, как отдыхал в России",
       "type": "NEWS",
       "publishDate": 1756453587109,
-      "urn": "NEWS_779637-yesliby-.json",
+      "urn": "NEWS_779637-yesliby-",
       "uriFormatVersion": 1,
       "tags": [
         10870,
@@ -2708,7 +2708,7 @@
       "title": "Менеджер Топурии опроверг слух о поединке с Гейджи: «У нас пока нет предложений»",
       "type": "NEWS",
       "publishDate": 1756453533440,
-      "urn": "NEWS_779635-menedzhe.json",
+      "urn": "NEWS_779635-menedzhe",
       "uriFormatVersion": 1,
       "tags": [
         8672,
@@ -2738,7 +2738,7 @@
       "title": "Чемпионат мира по волейболу среди женщин 2025. 29 августа. Трансляция: смотреть онлайн",
       "type": "NEWS",
       "publishDate": 1756452813789,
-      "urn": "NEWS_779634-chempion.json",
+      "urn": "NEWS_779634-chempion",
       "uriFormatVersion": 1,
       "tags": [
         13948,
@@ -2761,7 +2761,7 @@
       "title": "Морозов ответил на вопрос о возможном возвращении Овечкина и Малкина в КХЛ",
       "type": "NEWS",
       "publishDate": 1756452488865,
-      "urn": "NEWS_779633-morozov-.json",
+      "urn": "NEWS_779633-morozov-",
       "uriFormatVersion": 1,
       "tags": [
         13901,
@@ -2793,7 +2793,7 @@
       "title": "Рекордные для российских моментальных лотерей 120 миллионов рублей выиграла жительница Орловской области",
       "type": "NEWS",
       "publishDate": 1756451857296,
-      "urn": "NEWS_779630-rekordny.json",
+      "urn": "NEWS_779630-rekordny",
       "uriFormatVersion": 1,
       "tags": [
         13843,
@@ -2821,7 +2821,7 @@
       "title": "Мемориал Ромазана. «Салават Юлаев» — «Магнитка». Трансляция",
       "type": "NEWS",
       "publishDate": 1756450800000,
-      "urn": "NEWS_779625-memorial.json",
+      "urn": "NEWS_779625-memorial",
       "uriFormatVersion": 1,
       "tags": [
         15151,
@@ -2843,7 +2843,7 @@
       "title": "«Выживалити. Наследники»: 3-я серия смотреть",
       "type": "NEWS",
       "publishDate": 1756450800000,
-      "urn": "NEWS_779428-vyzhival.json",
+      "urn": "NEWS_779428-vyzhival",
       "uriFormatVersion": 1,
       "tags": [
         27010
@@ -2862,7 +2862,7 @@
       "title": "Экс-футболист назвал зарплату в «Локомотиве» самой большой в карьере",
       "type": "NEWS",
       "publishDate": 1756450795091,
-      "urn": "NEWS_779626-eks-futb.json",
+      "urn": "NEWS_779626-eks-futb",
       "uriFormatVersion": 1,
       "tags": [
         15095,
@@ -2892,7 +2892,7 @@
       "title": "«Россия присоединила Крым, и я не захотел переподписывать контракт в рублях». Фернандеш о конфликте в «Локомотиве»",
       "type": "NEWS",
       "publishDate": 1756450579608,
-      "urn": "NEWS_779623-fernande.json",
+      "urn": "NEWS_779623-fernande",
       "uriFormatVersion": 1,
       "tags": [
         13853,
