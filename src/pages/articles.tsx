@@ -26,11 +26,11 @@ export default function Articles() {
 
 
     return (
-        <section class='bg-gray-100 text-gray-700 p-8 max-w-7xl m-auto'>
-            <h1 class='text-2xl font-bold'>ARTICLES</h1>
+        <section class='bg-gray-100 text-gray-700 p-4 sm:p-8 max-w-7xl m-auto'>
+            <h1 class='text-xl sm:text-2xl font-bold'>ARTICLES</h1>
 
             <Suspense fallback={<span>...</span>}>
-                <div class='grid grid-cols-2 gap-10 m-3'>
+                <div class='grid grid-cols-1 md:grid-cols-2 gap-6 mt-4'>
                     <For each={articles()}>
                         {(article) => <ArticleCard {...article} />}
                     </For>

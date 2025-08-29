@@ -14,25 +14,25 @@ export default function Home() {
     console.log('Home rendered', articles(), news());
 
     return (
-        <section class='bg-gray-100 text-gray-700 p-8 max-w-7xl m-auto grid grid-cols-2 gap-10'>
-            <div class=''>
-                <A href='/articles'>
-                    <h2 class='text-2xl font-bold'>ARTICLES</h2>
+        <section class="bg-gray-100 text-gray-700 p-4 sm:p-8 max-w-7xl m-auto grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div>
+                <A href="/articles">
+                    <h2 class="text-xl sm:text-2xl font-bold">ARTICLES</h2>
                 </A>
-                <Suspense fallback={<span>...</span>}>
-                    <div class='grid grid-cols-1 gap-10 m-3'>
+                <Suspense fallback={<span>Loading...</span>}>
+                    <div class="grid grid-cols-1 gap-6 mt-4">
                         <For each={articles()}>
                             {(article) => <ArticleCard {...article} />}
                         </For>
                     </div>
                 </Suspense>
             </div>
-            <div class=''>
-                <A href='/news'>
-                    <h2 class='text-2xl font-bold'>NEWS</h2>
+            <div>
+                <A href="/news">
+                    <h2 class="text-xl sm:text-2xl font-bold">NEWS</h2>
                 </A>
-                <Suspense fallback={<span>...</span>}>
-                    <div class='grid grid-cols-1 gap-10 m-3'>
+                <Suspense fallback={<span>Loading...</span>}>
+                    <div class="grid grid-cols-1 gap-6 mt-4">
                         <For each={news()}>
                             {(article) => <NewsCard {...article} />}
                         </For>
